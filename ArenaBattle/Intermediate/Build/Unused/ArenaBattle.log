@@ -1,0 +1,22 @@
+﻿  Using bundled DotNet SDK
+  Log file: C:\Users\Moon\AppData\Local\UnrealBuildTool\Log.txt
+  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Moon\Documents\GitHub\ArenaBattle).
+  Building ArenaBattleEditor...
+  Using Visual Studio 2019 14.29.30151 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  [Adaptive Build] Excluded from ArenaBattle unity file: ArenaBattle.cpp, Fountain.cpp
+  Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+    Executing up to 8 processes, one per physical core
+  Building 9 actions with 8 processes...
+  [1/9] Resource Default.rc2
+  [2/9] Compile SharedPCH.Engine.ShadowErrors.cpp
+  [3/9] Compile ArenaBattle.init.gen.cpp
+  [4/9] Compile ArenaBattle.cpp
+  [5/9] Compile Fountain.gen.cpp
+  [6/9] Compile Fountain.cpp
+  [7/9] Link UnrealEditor-ArenaBattle-0001.lib
+     C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-0001.lib 라이브러리 및 C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-0001.exp 개체를 생성하고 있습니다.
+  [8/9] Link UnrealEditor-ArenaBattle-0001.dll
+     C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-0001.suppressed.lib 라이브러리 및 C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-0001.suppressed.exp 개체를 생성하고 있습니다.
+  [9/9] WriteMetadata ArenaBattleEditor.target
+  Total time in Parallel executor: 87.68 seconds
+  Total execution time: 89.62 seconds
