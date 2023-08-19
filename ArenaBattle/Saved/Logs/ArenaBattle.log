@@ -1117,3 +1117,1336 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.08.19-15.44.33:674][803]LogFileHelpers: 저장할 변경내용이 없습니다!
 [2023.08.19-15.44.33:695][803]AssetCheck: New page: 에셋 저장:  Step1
 [2023.08.19-15.44.33:695][803]LogContentValidation: Display: World /Game/Book/Maps/Step1.Step1 유효성 검사 중
+[2023.08.19-15.46.14:839][745]Cmd: DELETE
+[2023.08.19-15.46.14:840][745]Cmd: ACTOR DELETE
+[2023.08.19-15.46.14:844][745]LogEditorActor: Deleted Actor: Fountain
+[2023.08.19-15.46.14:861][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.08.19-15.46.14:864][745]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2023.08.19-15.46.16:063][811]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Maps/Step1" FILE="../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Maps/Step1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.19-15.46.16:078][811]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.08.19-15.46.16:093][811]LogSavePackage: Moving output files for package: /Game/Book/Maps/Step1
+[2023.08.19-15.46.16:094][811]LogSavePackage: Moving '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Saved/Step1E5A3C4E842FDE637AC0EBD986D0CA568.tmp' to '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Maps/Step1.umap'
+[2023.08.19-15.46.16:114][811]LogFileHelpers: 저장할 변경내용이 없습니다!
+[2023.08.19-15.46.16:132][811]AssetCheck: New page: 에셋 저장:  Step1
+[2023.08.19-15.46.16:132][811]LogContentValidation: Display: World /Game/Book/Maps/Step1.Step1 유효성 검사 중
+[2023.08.19-15.46.30:916][676]LogEditor: Attempting to add actor of class 'Fountain' to level at 10.00,-330.00,0.00
+[2023.08.19-15.46.32:366][757]LogEditor: Attempting to add actor of class 'Fountain' to level at 80.00,-70.00,0.00
+[2023.08.19-15.46.37:746][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Maps/Step1" FILE="../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Maps/Step1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.19-15.46.37:764][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.08.19-15.46.37:782][ 40]LogSavePackage: Moving output files for package: /Game/Book/Maps/Step1
+[2023.08.19-15.46.37:784][ 40]LogSavePackage: Moving '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Saved/Step126205FC84BE544F3254E09A5B8AC2F77.tmp' to '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Maps/Step1.umap'
+[2023.08.19-15.46.37:804][ 40]LogFileHelpers: 저장할 변경내용이 없습니다!
+[2023.08.19-15.46.37:824][ 40]AssetCheck: New page: 에셋 저장:  Step1
+[2023.08.19-15.46.37:824][ 40]LogContentValidation: Display: World /Game/Book/Maps/Step1.Step1 유효성 검사 중
+[2023.08.19-15.46.48:805][328]LogSlate: Window '레벨 다른 이름으로 저장' being destroyed
+[2023.08.19-15.46.48:997][328]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.19-15.46.49:000][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Maps/Step2" FILE="../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Maps/Step2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.19-15.46.49:018][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.08.19-15.46.49:038][328]LogSavePackage: Moving output files for package: /Game/Book/Maps/Step2
+[2023.08.19-15.46.49:039][328]LogSavePackage: Moving '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Saved/Step20ACE43754C45EAA9EC44F3A204677E9D.tmp' to '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Maps/Step2.umap'
+[2023.08.19-15.46.49:071][328]LogFileHelpers: Saving map 'Step2' took 0.252
+[2023.08.19-15.46.49:071][328]Cmd: MAP LOAD FILE="../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Maps/Step2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.08.19-15.46.49:072][328]LightingResults: New page: 라이팅 빌드
+[2023.08.19-15.46.49:072][328]LoadErrors: New page: 맵 로드중: Step2.umap
+[2023.08.19-15.46.49:074][328]LogWorld: UWorld::CleanupWorld for Step1, bSessionEnded=true, bCleanupResources=true
+[2023.08.19-15.46.49:074][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.19-15.46.49:075][328]MapCheck: New page: 맵 체크
+[2023.08.19-15.46.49:075][328]LightingResults: New page: 라이팅 빌드
+[2023.08.19-15.46.49:092][328]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.19-15.46.49:095][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.08.19-15.46.49:098][328]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2023.08.19-15.46.49:098][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.19-15.46.49:116][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.08.19-15.46.49:134][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.08.19-15.46.49:139][328]LogAudio: Display: Audio Device (ID: 1) registered with world 'Step2'.
+[2023.08.19-15.46.49:140][328]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.08.19-15.46.49:140][328]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.19-15.46.49:141][328]LogAIModule: Creating AISystem for world Step2
+[2023.08.19-15.46.49:205][328]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.08.19-15.46.49:227][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.08.19-15.46.49:243][328]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.08.19-15.46.49:243][328]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.307ms.
+[2023.08.19-15.46.49:243][328]LogFileHelpers: Loading map 'Step2' took 0.172
+[2023.08.19-15.46.49:249][328]AssetCheck: New page: 에셋 저장:  Step2
+[2023.08.19-15.46.49:249][328]LogContentValidation: Display: World /Game/Book/Maps/Step2.Step2 유효성 검사 중
+[2023.08.19-15.46.51:954][464]Cmd: DELETE
+[2023.08.19-15.46.51:954][464]Cmd: ACTOR DELETE
+[2023.08.19-15.46.51:956][464]LogEditorActor: Deleted Actor: Fountain
+[2023.08.19-15.46.51:973][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.08.19-15.46.51:976][464]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2023.08.19-15.46.55:712][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Maps/Step2" FILE="../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Maps/Step2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.19-15.46.55:729][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.08.19-15.46.55:744][682]LogSavePackage: Moving output files for package: /Game/Book/Maps/Step2
+[2023.08.19-15.46.55:746][682]LogSavePackage: Moving '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Saved/Step2E9F54A2F43C0C0030F16E1A255433A39.tmp' to '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Maps/Step2.umap'
+[2023.08.19-15.46.55:782][682]AssetCheck: New page: 에셋 저장:  Step2
+[2023.08.19-15.46.55:782][682]LogContentValidation: Display: World /Game/Book/Maps/Step2.Step2 유효성 검사 중
+[2023.08.19-15.47.43:206][492]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.08.19-15.47.43:421][492]LogUObjectGlobals: Warning: 'Class 없음.Physics' 오브젝트를 찾는 데 실패했습니다.
+[2023.08.19-15.47.54:197][957]LogSlate: Window '프로젝트 세팅' being destroyed
+[2023.08.19-15.47.54:223][957]LogSlate: Window '프로젝트 세팅' being destroyed
+[2023.08.19-15.47.59:975][237]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.08.19-15.48.00:054][237]LogSlate: Took 0.000487 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.08.19-15.48.54:831][ 32]Running C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe  -projectfiles -project="C:/Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/ArenaBattle.uproject" -game -rocket -progress
+[2023.08.19-15.48.55:544][ 32]Log file: C:\Users\Moon\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2023.08.19-15.48.55:644][ 32]
+[2023.08.19-15.48.55:644][ 32]Some Platforms were skipped due to invalid SDK setup: IOS, Android, Linux, LinuxArm64.
+[2023.08.19-15.48.55:644][ 32]See the log file for detailed information
+[2023.08.19-15.48.55:644][ 32]
+[2023.08.19-15.48.55:644][ 32]Discovering modules, targets and source code for project...
+[2023.08.19-15.49.01:475][ 32]Binding IntelliSense data...
+[2023.08.19-15.49.06:805][ 32]Binding IntelliSense data... 100%
+[2023.08.19-15.49.06:805][ 32]Writing project files...
+[2023.08.19-15.49.20:476][ 32]Writing project files... 33%
+[2023.08.19-15.49.20:477][ 32]Writing project files... 100%
+[2023.08.19-15.49.20:736][ 32]Candidate modules for hot reload:
+[2023.08.19-15.49.20:736][ 32]  ArenaBattle
+[2023.08.19-15.49.20:751][ 32]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe  -ModuleWithSuffix=ArenaBattle,1618 ArenaBattleEditor Win64 Development -Project="C:/Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/ArenaBattle.uproject" "C:/Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/ArenaBattle.uproject"  -IgnoreJunk]
+[2023.08.19-15.49.35:648][ 32]CompilerResultsLog: New page: 컴파일 - 2023. 8. 20. 오전 9:49:35
+[2023.08.19-15.49.35:648][ 32]CompilerResultsLog: Log file: C:\Users\Moon\AppData\Local\UnrealBuildTool\Log.txt
+[2023.08.19-15.49.35:648][ 32]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Moon\Documents\GitHub\ArenaBattle).
+[2023.08.19-15.49.35:648][ 32]CompilerResultsLog: Creating makefile for ArenaBattleEditor (no existing makefile)
+[2023.08.19-15.49.35:648][ 32]CompilerResultsLog: Parsing headers for ArenaBattleEditor
+[2023.08.19-15.49.35:648][ 32]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\ArenaBattle.uproject" "C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\ArenaBattleEditor\Development\ArenaBattleEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Moon\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2023.08.19-15.49.35:648][ 32]CompilerResultsLog: Reflection code generated for ArenaBattleEditor in 5.5630457 seconds
+[2023.08.19-15.49.35:649][ 32]CompilerResultsLog: Building ArenaBattleEditor...
+[2023.08.19-15.49.35:649][ 32]CompilerResultsLog: Using Visual Studio 2019 14.29.30151 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.08.19-15.49.35:649][ 32]CompilerResultsLog: [Adaptive Build] Excluded from ArenaBattle unity file: ABGameMode.cpp
+[2023.08.19-15.49.35:649][ 32]CompilerResultsLog: Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+[2023.08.19-15.49.35:649][ 32]CompilerResultsLog:   Executing up to 8 processes, one per physical core
+[2023.08.19-15.49.35:649][ 32]CompilerResultsLog: Building 6 actions with 6 processes...
+[2023.08.19-15.49.35:649][ 32]CompilerResultsLog: [1/6] Compile ArenaBattle.init.gen.cpp
+[2023.08.19-15.49.35:649][ 32]CompilerResultsLog: [2/6] Compile ABGameMode.gen.cpp
+[2023.08.19-15.49.35:649][ 32]CompilerResultsLog: [3/6] Compile ABGameMode.cpp
+[2023.08.19-15.49.35:649][ 32]CompilerResultsLog: [4/6] Link UnrealEditor-ArenaBattle-1618.lib
+[2023.08.19-15.49.35:649][ 32]CompilerResultsLog:    C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-1618.lib ???̺귯?? ?? C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-1618.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.08.19-15.49.35:649][ 32]CompilerResultsLog: [5/6] Link UnrealEditor-ArenaBattle-1618.dll
+[2023.08.19-15.49.35:649][ 32]CompilerResultsLog:    C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-1618.suppressed.lib ???̺귯?? ?? C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-1618.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.08.19-15.49.35:649][ 32]CompilerResultsLog: [6/6] WriteMetadata ArenaBattleEditor.target
+[2023.08.19-15.49.35:649][ 32]CompilerResultsLog: Total time in Parallel executor: 4.11 seconds
+[2023.08.19-15.49.35:649][ 32]CompilerResultsLog: Total execution time: 14.67 seconds
+[2023.08.19-15.49.35:649][ 32]LogMainFrame: MainFrame: Module compiling took 14.955 seconds
+[2023.08.19-15.49.35:995][ 32]LogClass: /Script/ArenaBattle Reload.
+[2023.08.19-15.49.35:995][ 32]LogClass: Could not find existing class ABGameMode in package /Script/ArenaBattle for reload, assuming new or modified class
+[2023.08.19-15.49.36:117][ 32]Display: HotReload took 15.4s.
+[2023.08.19-15.49.36:117][ 32]Display: Reload/Re-instancing Complete: 1 package changed, 1 class new, 1 class unchanged
+[2023.08.19-15.49.36:120][ 32]Warning: HotReload operation took 15.4s.
+[2023.08.19-15.49.36:378][ 32]LogSlate: Window 'C++ 클래스 추가' being destroyed
+[2023.08.19-15.49.36:640][ 34]LogHotReload: New module detected: UnrealEditor-ArenaBattle-1618.dll
+[2023.08.19-15.49.36:725][ 35]LogHotReload: Starting Hot-Reload from IDE
+[2023.08.19-15.49.36:940][ 35]Display: HotReload took  0.2s.
+[2023.08.19-15.49.36:940][ 35]Display: Reload/Re-instancing Complete: No object changes detected
+[2023.08.19-15.50.27:516][760]Running C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe  -projectfiles -project="C:/Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/ArenaBattle.uproject" -game -rocket -progress
+[2023.08.19-15.50.28:227][760]Log file: C:\Users\Moon\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2023.08.19-15.50.28:328][760]
+[2023.08.19-15.50.28:328][760]Some Platforms were skipped due to invalid SDK setup: IOS, Android, Linux, LinuxArm64.
+[2023.08.19-15.50.28:328][760]See the log file for detailed information
+[2023.08.19-15.50.28:328][760]
+[2023.08.19-15.50.28:328][760]Discovering modules, targets and source code for project...
+[2023.08.19-15.50.33:857][760]Binding IntelliSense data...
+[2023.08.19-15.50.39:191][760]Binding IntelliSense data... 100%
+[2023.08.19-15.50.39:191][760]Writing project files...
+[2023.08.19-15.50.52:460][760]Writing project files... 33%
+[2023.08.19-15.50.52:461][760]Writing project files... 100%
+[2023.08.19-15.50.52:575][760]LogVSAccessor: Warning: Couldn't save all documents
+[2023.08.19-15.50.52:618][760]Candidate modules for hot reload:
+[2023.08.19-15.50.52:618][760]  ArenaBattle
+[2023.08.19-15.50.52:641][760]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe  -ModuleWithSuffix=ArenaBattle,3030 ArenaBattleEditor Win64 Development -Project="C:/Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/ArenaBattle.uproject" "C:/Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/ArenaBattle.uproject"  -IgnoreJunk]
+[2023.08.19-15.51.08:124][760]CompilerResultsLog: New page: 컴파일 - 2023. 8. 20. 오전 9:51:08
+[2023.08.19-15.51.08:124][760]CompilerResultsLog: Log file: C:\Users\Moon\AppData\Local\UnrealBuildTool\Log.txt
+[2023.08.19-15.51.08:124][760]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Moon\Documents\GitHub\ArenaBattle).
+[2023.08.19-15.51.08:124][760]CompilerResultsLog: Creating makefile for ArenaBattleEditor (no existing makefile)
+[2023.08.19-15.51.08:124][760]CompilerResultsLog: Parsing headers for ArenaBattleEditor
+[2023.08.19-15.51.08:124][760]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\ArenaBattle.uproject" "C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\ArenaBattleEditor\Development\ArenaBattleEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Moon\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2023.08.19-15.51.08:125][760]CompilerResultsLog: Reflection code generated for ArenaBattleEditor in 6.0955559 seconds
+[2023.08.19-15.51.08:125][760]CompilerResultsLog: Building ArenaBattleEditor...
+[2023.08.19-15.51.08:125][760]CompilerResultsLog: Using Visual Studio 2019 14.29.30151 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.08.19-15.51.08:125][760]CompilerResultsLog: [Adaptive Build] Excluded from ArenaBattle unity file: ABGameMode.cpp, ABPawn.cpp
+[2023.08.19-15.51.08:125][760]CompilerResultsLog: Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+[2023.08.19-15.51.08:125][760]CompilerResultsLog:   Executing up to 8 processes, one per physical core
+[2023.08.19-15.51.08:125][760]CompilerResultsLog: Building 6 actions with 6 processes...
+[2023.08.19-15.51.08:125][760]CompilerResultsLog: [1/6] Compile ArenaBattle.init.gen.cpp
+[2023.08.19-15.51.08:125][760]CompilerResultsLog: [2/6] Compile ABPawn.gen.cpp
+[2023.08.19-15.51.08:125][760]CompilerResultsLog: [3/6] Compile ABPawn.cpp
+[2023.08.19-15.51.08:125][760]CompilerResultsLog: [4/6] Link UnrealEditor-ArenaBattle-3030.lib
+[2023.08.19-15.51.08:125][760]CompilerResultsLog:    C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-3030.lib ???̺귯?? ?? C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-3030.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.08.19-15.51.08:125][760]CompilerResultsLog: [5/6] Link UnrealEditor-ArenaBattle-3030.dll
+[2023.08.19-15.51.08:125][760]CompilerResultsLog:    C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-3030.suppressed.lib ???̺귯?? ?? C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-3030.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.08.19-15.51.08:125][760]CompilerResultsLog: [6/6] WriteMetadata ArenaBattleEditor.target
+[2023.08.19-15.51.08:125][760]CompilerResultsLog: Total time in Parallel executor: 4.07 seconds
+[2023.08.19-15.51.08:125][760]CompilerResultsLog: Total execution time: 15.25 seconds
+[2023.08.19-15.51.08:125][760]LogMainFrame: MainFrame: Module compiling took 15.550 seconds
+[2023.08.19-15.51.08:470][760]LogClass: /Script/ArenaBattle Reload.
+[2023.08.19-15.51.08:472][760]LogClass: Could not find existing class ABPawn in package /Script/ArenaBattle for reload, assuming new or modified class
+[2023.08.19-15.51.08:592][760]Display: HotReload took 16.0s.
+[2023.08.19-15.51.08:592][760]Display: Reload/Re-instancing Complete: 1 package changed, 1 class new, 2 classes unchanged
+[2023.08.19-15.51.08:599][760]Warning: HotReload operation took 16.0s.
+[2023.08.19-15.51.09:046][760]LogSlate: Window 'C++ 클래스 추가' being destroyed
+[2023.08.19-15.51.09:118][761]LogHotReload: New module detected: UnrealEditor-ArenaBattle-3030.dll
+[2023.08.19-15.51.09:314][762]LogHotReload: Starting Hot-Reload from IDE
+[2023.08.19-15.51.09:540][762]Display: HotReload took  0.2s.
+[2023.08.19-15.51.09:540][762]Display: Reload/Re-instancing Complete: No object changes detected
+[2023.08.19-15.52.59:392][748]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.08.19-15.53.11:139][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Maps/Step2" FILE="../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Maps/Step2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.19-15.53.11:157][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.08.19-15.53.11:175][422]LogSavePackage: Moving output files for package: /Game/Book/Maps/Step2
+[2023.08.19-15.53.11:177][422]LogSavePackage: Moving '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Saved/Step22F49A9174A42122F24E9D5A69D849915.tmp' to '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Maps/Step2.umap'
+[2023.08.19-15.53.11:220][422]AssetCheck: New page: 에셋 저장:  Step2
+[2023.08.19-15.53.11:220][422]LogContentValidation: Display: World /Game/Book/Maps/Step2.Step2 유효성 검사 중
+[2023.08.19-15.53.25:504][271]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2023.08.19-15.53.25:517][271]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.19-15.53.25:517][271]PIE: New page: PIE 세션: Step2 (2023. 8. 20. 오전 9:53:25)
+[2023.08.19-15.53.25:553][271]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2023.08.19-15.53.25:556][271]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003503s)
+[2023.08.19-15.53.25:556][271]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.003685s)
+[2023.08.19-15.53.25:557][271]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.08.19-15.53.25:557][271]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.19-15.53.25:558][271]LogAIModule: Creating AISystem for world Step2
+[2023.08.19-15.53.25:558][271]LogPlayLevel: PIE: World Init took: (0.001667s)
+[2023.08.19-15.53.25:575][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.08.19-15.53.25:575][271]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.08.19-15.53.25:575][271]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.19-15.53.25:575][271]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.19-15.53.25:575][271]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.19-15.53.25:575][271]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.19-15.53.25:575][271]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.19-15.53.25:575][271]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.19-15.53.25:575][271]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.19-15.53.25:575][271]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.19-15.53.25:576][271]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.19-15.53.25:576][271]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.19-15.53.25:576][271]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.19-15.53.25:582][271]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.19-15.53.25:659][271]LogAudioMixer: Display: Using Audio Hardware Device Audio(THX Spatial Audio)
+[2023.08.19-15.53.25:660][271]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.19-15.53.25:660][271]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.19-15.53.25:660][271]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.19-15.53.25:663][271]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.08.19-15.53.25:663][271]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.08.19-15.53.25:667][271]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.08.19-15.53.25:667][271]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.08.19-15.53.25:667][271]LogInit: FAudioDevice initialized.
+[2023.08.19-15.53.25:667][271]LogAudio: Display: Audio Device (ID: 4) registered with world 'Step2'.
+[2023.08.19-15.53.25:684][271]LogLoad: Game class is 'ABGameMode'
+[2023.08.19-15.53.25:685][271]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 60) at 2023.08.20-00.53.25
+[2023.08.19-15.53.25:685][271]LogWorld: Bringing up level for play took: 0.001227
+[2023.08.19-15.53.25:689][271]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2023.08.19-15.53.25:693][271]PIE: 서버가 로그인했습니다.
+[2023.08.19-15.53.25:694][271]PIE: 에디터에서 플레이 총 시작 시간 0.177초입니다.
+[2023.08.19-15.53.29:483][483]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.19-15.53.29:483][483]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2023.08.19-15.53.29:484][483]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2023.08.19-15.53.29:484][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.19-15.53.29:500][483]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.19-15.53.29:504][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.19-15.53.29:520][483]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.19-15.53.29:521][483]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.08.19-15.53.29:524][483]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.08.19-15.53.29:533][483]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.08.19-15.53.29:563][484]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2023.08.19-15.53.30:638][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Maps/Step2" FILE="../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Maps/Step2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.19-15.53.30:655][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.08.19-15.53.30:670][534]LogSavePackage: Moving output files for package: /Game/Book/Maps/Step2
+[2023.08.19-15.53.30:672][534]LogSavePackage: Moving '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Saved/Step20D2B432C4E6B6F980FC689AAAB245ADB.tmp' to '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Maps/Step2.umap'
+[2023.08.19-15.53.30:709][534]AssetCheck: New page: 에셋 저장:  Step2
+[2023.08.19-15.53.30:710][534]LogContentValidation: Display: World /Game/Book/Maps/Step2.Step2 유효성 검사 중
+[2023.08.19-15.55.04:626][968]LogVSAccessor: Warning: Couldn't save all documents
+[2023.08.19-15.55.04:668][968]Candidate modules for hot reload:
+[2023.08.19-15.55.04:668][968]  ArenaBattle
+[2023.08.19-15.55.04:682][968]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe  -ModuleWithSuffix=ArenaBattle,5578 ArenaBattleEditor Win64 Development -Project="C:/Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/ArenaBattle.uproject" "C:/Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/ArenaBattle.uproject"  -IgnoreJunk]
+[2023.08.19-15.55.04:690][968]Warning: Starting HotReload took  0.1s.
+[2023.08.19-15.55.29:251][129]CompilerResultsLog: New page: 컴파일 - 2023. 8. 20. 오전 9:55:29
+[2023.08.19-15.55.29:252][129]CompilerResultsLog: Log file: C:\Users\Moon\AppData\Local\UnrealBuildTool\Log.txt
+[2023.08.19-15.55.29:252][129]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Moon\Documents\GitHub\ArenaBattle).
+[2023.08.19-15.55.29:252][129]CompilerResultsLog: Invalidating makefile for ArenaBattleEditor (working set of source files changed)
+[2023.08.19-15.55.29:252][129]CompilerResultsLog: Parsing headers for ArenaBattleEditor
+[2023.08.19-15.55.29:252][129]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\ArenaBattle.uproject" "C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\ArenaBattleEditor\Development\ArenaBattleEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Moon\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2023.08.19-15.55.29:252][129]CompilerResultsLog: Reflection code generated for ArenaBattleEditor in 5.7000631 seconds
+[2023.08.19-15.55.29:252][129]CompilerResultsLog: Building ArenaBattleEditor...
+[2023.08.19-15.55.29:252][129]CompilerResultsLog: Using Visual Studio 2019 14.29.30151 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.08.19-15.55.29:252][129]CompilerResultsLog: [Adaptive Build] Excluded from ArenaBattle unity file: ABGameMode.cpp, ABPawn.cpp
+[2023.08.19-15.55.29:252][129]CompilerResultsLog: Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+[2023.08.19-15.55.29:252][129]CompilerResultsLog:   Executing up to 8 processes, one per physical core
+[2023.08.19-15.55.29:252][129]CompilerResultsLog: Building 5 actions with 5 processes...
+[2023.08.19-15.55.29:252][129]CompilerResultsLog: [1/5] Compile ABGameMode.cpp
+[2023.08.19-15.55.29:252][129]CompilerResultsLog: [2/5] Compile ABGameMode.gen.cpp
+[2023.08.19-15.55.29:252][129]CompilerResultsLog: [3/5] Link UnrealEditor-ArenaBattle-5578.lib
+[2023.08.19-15.55.29:252][129]CompilerResultsLog:    C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-5578.lib ???̺귯?? ?? C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-5578.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.08.19-15.55.29:252][129]CompilerResultsLog: [4/5] Link UnrealEditor-ArenaBattle-5578.dll
+[2023.08.19-15.55.29:252][129]CompilerResultsLog:    C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-5578.suppressed.lib ???̺귯?? ?? C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-5578.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.08.19-15.55.29:252][129]CompilerResultsLog: [5/5] WriteMetadata ArenaBattleEditor.target
+[2023.08.19-15.55.29:252][129]CompilerResultsLog: Total time in Parallel executor: 13.41 seconds
+[2023.08.19-15.55.29:252][129]CompilerResultsLog: Total execution time: 24.32 seconds
+[2023.08.19-15.55.29:252][129]LogMainFrame: MainFrame: Module compiling took 24.625 seconds
+[2023.08.19-15.55.29:625][129]Re-instancing ABGameMode after reload.
+[2023.08.19-15.55.29:752][129]Display: HotReload took 25.1s.
+[2023.08.19-15.55.29:752][129]Display: Reload/Re-instancing Complete: 1 package changed, 3 classes unchanged
+[2023.08.19-15.56.14:405][502]Running C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe  -projectfiles -project="C:/Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/ArenaBattle.uproject" -game -rocket -progress
+[2023.08.19-15.56.15:114][502]Log file: C:\Users\Moon\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2023.08.19-15.56.15:114][502]
+[2023.08.19-15.56.15:114][502]Some Platforms were skipped due to invalid SDK setup: IOS, Android, Linux, LinuxArm64.
+[2023.08.19-15.56.15:114][502]See the log file for detailed information
+[2023.08.19-15.56.15:114][502]
+[2023.08.19-15.56.15:215][502]Discovering modules, targets and source code for project...
+[2023.08.19-15.56.20:848][502]Binding IntelliSense data...
+[2023.08.19-15.56.26:281][502]Binding IntelliSense data... 100%
+[2023.08.19-15.56.26:281][502]Writing project files...
+[2023.08.19-15.56.40:154][502]Writing project files... 33%
+[2023.08.19-15.56.40:155][502]Writing project files... 100%
+[2023.08.19-15.56.40:269][502]LogVSAccessor: Warning: Couldn't save all documents
+[2023.08.19-15.56.40:316][502]Candidate modules for hot reload:
+[2023.08.19-15.56.40:316][502]  ArenaBattle
+[2023.08.19-15.56.40:333][502]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe  -ModuleWithSuffix=ArenaBattle,9243 ArenaBattleEditor Win64 Development -Project="C:/Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/ArenaBattle.uproject" "C:/Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/ArenaBattle.uproject"  -IgnoreJunk]
+[2023.08.19-15.56.56:116][502]CompilerResultsLog: New page: 컴파일 - 2023. 8. 20. 오전 9:56:56
+[2023.08.19-15.56.56:116][502]CompilerResultsLog: Log file: C:\Users\Moon\AppData\Local\UnrealBuildTool\Log.txt
+[2023.08.19-15.56.56:116][502]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Moon\Documents\GitHub\ArenaBattle).
+[2023.08.19-15.56.56:116][502]CompilerResultsLog: Creating makefile for ArenaBattleEditor (no existing makefile)
+[2023.08.19-15.56.56:116][502]CompilerResultsLog: Parsing headers for ArenaBattleEditor
+[2023.08.19-15.56.56:117][502]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\ArenaBattle.uproject" "C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\ArenaBattleEditor\Development\ArenaBattleEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Moon\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2023.08.19-15.56.56:117][502]CompilerResultsLog: Reflection code generated for ArenaBattleEditor in 6.2592311 seconds
+[2023.08.19-15.56.56:117][502]CompilerResultsLog: Building ArenaBattleEditor...
+[2023.08.19-15.56.56:117][502]CompilerResultsLog: Using Visual Studio 2019 14.29.30151 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.08.19-15.56.56:117][502]CompilerResultsLog: [Adaptive Build] Excluded from ArenaBattle unity file: ABGameMode.cpp, ABPawn.cpp, ABPlayerController.cpp
+[2023.08.19-15.56.56:117][502]CompilerResultsLog: Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+[2023.08.19-15.56.56:117][502]CompilerResultsLog:   Executing up to 8 processes, one per physical core
+[2023.08.19-15.56.56:117][502]CompilerResultsLog: Building 6 actions with 6 processes...
+[2023.08.19-15.56.56:117][502]CompilerResultsLog: [1/6] Compile ArenaBattle.init.gen.cpp
+[2023.08.19-15.56.56:117][502]CompilerResultsLog: [2/6] Compile ABPlayerController.cpp
+[2023.08.19-15.56.56:117][502]CompilerResultsLog: [3/6] Compile ABPlayerController.gen.cpp
+[2023.08.19-15.56.56:117][502]CompilerResultsLog: [4/6] Link UnrealEditor-ArenaBattle-9243.lib
+[2023.08.19-15.56.56:117][502]CompilerResultsLog:    C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-9243.lib ???̺귯?? ?? C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-9243.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.08.19-15.56.56:117][502]CompilerResultsLog: [5/6] Link UnrealEditor-ArenaBattle-9243.dll
+[2023.08.19-15.56.56:117][502]CompilerResultsLog:    C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-9243.suppressed.lib ???̺귯?? ?? C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-9243.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.08.19-15.56.56:117][502]CompilerResultsLog: [6/6] WriteMetadata ArenaBattleEditor.target
+[2023.08.19-15.56.56:117][502]CompilerResultsLog: Total time in Parallel executor: 4.22 seconds
+[2023.08.19-15.56.56:117][502]CompilerResultsLog: Total execution time: 15.54 seconds
+[2023.08.19-15.56.56:117][502]LogMainFrame: MainFrame: Module compiling took 15.848 seconds
+[2023.08.19-15.56.56:477][502]LogClass: /Script/ArenaBattle Reload.
+[2023.08.19-15.56.56:479][502]LogClass: Could not find existing class ABPlayerController in package /Script/ArenaBattle for reload, assuming new or modified class
+[2023.08.19-15.56.56:595][502]Display: HotReload took 16.3s.
+[2023.08.19-15.56.56:595][502]Display: Reload/Re-instancing Complete: 1 package changed, 1 class new, 3 classes unchanged
+[2023.08.19-15.56.56:602][502]Warning: HotReload operation took 16.3s.
+[2023.08.19-15.56.57:409][502]LogSlate: Window 'C++ 클래스 추가' being destroyed
+[2023.08.19-15.56.57:424][502]LogHotReload: New module detected: UnrealEditor-ArenaBattle-9243.dll
+[2023.08.19-15.56.57:473][503]LogHotReload: Starting Hot-Reload from IDE
+[2023.08.19-15.56.57:812][503]Display: HotReload took  0.3s.
+[2023.08.19-15.56.57:812][503]Display: Reload/Re-instancing Complete: No object changes detected
+[2023.08.19-16.02.56:621][605]LogVSAccessor: Warning: Couldn't save all documents
+[2023.08.19-16.02.56:662][605]Candidate modules for hot reload:
+[2023.08.19-16.02.56:662][605]  ArenaBattle
+[2023.08.19-16.02.56:677][605]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe  -ModuleWithSuffix=ArenaBattle,0305 ArenaBattleEditor Win64 Development -Project="C:/Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/ArenaBattle.uproject" "C:/Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/ArenaBattle.uproject"  -IgnoreJunk]
+[2023.08.19-16.02.56:686][605]Warning: Starting HotReload took  0.1s.
+[2023.08.19-16.03.25:812][876]CompilerResultsLog: New page: 컴파일 - 2023. 8. 20. 오전 10:03:25
+[2023.08.19-16.03.25:812][876]CompilerResultsLog: Log file: C:\Users\Moon\AppData\Local\UnrealBuildTool\Log.txt
+[2023.08.19-16.03.25:812][876]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Moon\Documents\GitHub\ArenaBattle).
+[2023.08.19-16.03.25:812][876]CompilerResultsLog: Invalidating makefile for ArenaBattleEditor (working set of source files changed)
+[2023.08.19-16.03.25:812][876]CompilerResultsLog: Parsing headers for ArenaBattleEditor
+[2023.08.19-16.03.25:812][876]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\ArenaBattle.uproject" "C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\ArenaBattleEditor\Development\ArenaBattleEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Moon\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2023.08.19-16.03.25:812][876]CompilerResultsLog: Reflection code generated for ArenaBattleEditor in 5.7043888 seconds
+[2023.08.19-16.03.25:812][876]CompilerResultsLog: Building ArenaBattleEditor...
+[2023.08.19-16.03.25:812][876]CompilerResultsLog: Using Visual Studio 2019 14.29.30151 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.08.19-16.03.25:812][876]CompilerResultsLog: [Adaptive Build] Excluded from ArenaBattle unity file: ABGameMode.cpp, ABPawn.cpp, ABPlayerController.cpp
+[2023.08.19-16.03.25:812][876]CompilerResultsLog: Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+[2023.08.19-16.03.25:812][876]CompilerResultsLog:   Executing up to 8 processes, one per physical core
+[2023.08.19-16.03.25:812][876]CompilerResultsLog: Building 9 actions with 8 processes...
+[2023.08.19-16.03.25:812][876]CompilerResultsLog: [1/9] Compile ABPawn.gen.cpp
+[2023.08.19-16.03.25:812][876]CompilerResultsLog: [2/9] Compile ABGameMode.gen.cpp
+[2023.08.19-16.03.25:812][876]CompilerResultsLog: [3/9] Compile ABPlayerController.cpp
+[2023.08.19-16.03.25:812][876]CompilerResultsLog: [4/9] Compile ABPawn.cpp
+[2023.08.19-16.03.25:812][876]CompilerResultsLog: [5/9] Compile ABPlayerController.gen.cpp
+[2023.08.19-16.03.25:812][876]CompilerResultsLog: [6/9] Compile ABGameMode.cpp
+[2023.08.19-16.03.25:812][876]CompilerResultsLog: [7/9] Link UnrealEditor-ArenaBattle-0305.lib
+[2023.08.19-16.03.25:812][876]CompilerResultsLog:    C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-0305.lib ???̺귯?? ?? C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-0305.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.08.19-16.03.25:812][876]CompilerResultsLog: [8/9] Link UnrealEditor-ArenaBattle-0305.dll
+[2023.08.19-16.03.25:812][876]CompilerResultsLog:    C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-0305.suppressed.lib ???̺귯?? ?? C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-0305.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.08.19-16.03.25:813][876]CompilerResultsLog: [9/9] WriteMetadata ArenaBattleEditor.target
+[2023.08.19-16.03.25:813][876]CompilerResultsLog: Total time in Parallel executor: 17.97 seconds
+[2023.08.19-16.03.25:813][876]CompilerResultsLog: Total execution time: 28.89 seconds
+[2023.08.19-16.03.25:813][876]LogMainFrame: MainFrame: Module compiling took 29.191 seconds
+[2023.08.19-16.03.26:241][876]Re-instancing ABGameMode after reload.
+[2023.08.19-16.03.26:367][876]Display: HotReload took 29.8s.
+[2023.08.19-16.03.26:367][876]Display: Reload/Re-instancing Complete: 1 package changed, 4 classes unchanged
+[2023.08.19-16.03.49:683][233]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2023.08.19-16.03.49:697][233]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.19-16.03.49:697][233]PIE: New page: PIE 세션: Step2 (2023. 8. 20. 오전 10:03:49)
+[2023.08.19-16.03.49:697][233]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2023.08.19-16.03.49:700][233]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003312s)
+[2023.08.19-16.03.49:700][233]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.003444s)
+[2023.08.19-16.03.49:701][233]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.08.19-16.03.49:701][233]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.19-16.03.49:702][233]LogAIModule: Creating AISystem for world Step2
+[2023.08.19-16.03.49:702][233]LogPlayLevel: PIE: World Init took: (0.001544s)
+[2023.08.19-16.03.49:719][233]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.08.19-16.03.49:723][233]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.08.19-16.03.49:723][233]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.19-16.03.49:723][233]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.19-16.03.49:723][233]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.19-16.03.49:723][233]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.19-16.03.49:723][233]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.19-16.03.49:723][233]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.19-16.03.49:723][233]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.19-16.03.49:723][233]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.19-16.03.49:724][233]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.19-16.03.49:724][233]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.19-16.03.49:724][233]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.19-16.03.49:728][233]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.19-16.03.49:805][233]LogAudioMixer: Display: Using Audio Hardware Device Audio(THX Spatial Audio)
+[2023.08.19-16.03.49:806][233]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.19-16.03.49:806][233]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.19-16.03.49:806][233]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.19-16.03.49:808][233]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.08.19-16.03.49:808][233]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.08.19-16.03.49:811][233]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.08.19-16.03.49:811][233]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.08.19-16.03.49:811][233]LogInit: FAudioDevice initialized.
+[2023.08.19-16.03.49:811][233]LogAudio: Display: Audio Device (ID: 5) registered with world 'Step2'.
+[2023.08.19-16.03.49:834][233]LogLoad: Game class is 'ABGameMode'
+[2023.08.19-16.03.49:835][233]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 60) at 2023.08.20-01.03.49
+[2023.08.19-16.03.49:836][233]LogWorld: Bringing up level for play took: 0.001296
+[2023.08.19-16.03.49:840][233]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2023.08.19-16.03.49:841][233]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(9)
+[2023.08.19-16.03.49:841][233]ArenaBattle: Warning: AABGameMode::PostLogin(19) PostLogin
+[2023.08.19-16.03.49:841][233]ArenaBattle: Warning: AABPawn::PostInitializeComponents(30)
+[2023.08.19-16.03.49:841][233]ArenaBattle: Warning: AABPlayerController::OnPossess(14)
+[2023.08.19-16.03.49:841][233]ArenaBattle: Warning: AABPawn::PossessedBy(36)
+[2023.08.19-16.03.49:842][233]ArenaBattle: Warning: AABGameMode::PostLogin(21) PostLogin End
+[2023.08.19-16.03.49:842][233]PIE: 서버가 로그인했습니다.
+[2023.08.19-16.03.49:843][233]PIE: 에디터에서 플레이 총 시작 시간 0.147초입니다.
+[2023.08.19-16.03.54:222][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.19-16.03.54:222][484]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2023.08.19-16.03.54:223][484]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2023.08.19-16.03.54:223][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.19-16.03.54:242][484]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.19-16.03.54:244][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.19-16.03.54:261][484]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.19-16.03.54:261][484]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.08.19-16.03.54:264][484]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.08.19-16.03.54:270][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.19-16.03.54:272][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.08.19-16.03.54:318][485]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2023.08.19-16.05.04:404][660]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2023.08.19-16.05.04:418][660]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.19-16.05.04:419][660]PIE: New page: PIE 세션: Step2 (2023. 8. 20. 오전 10:05:04)
+[2023.08.19-16.05.04:419][660]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2023.08.19-16.05.04:422][660]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003543s)
+[2023.08.19-16.05.04:422][660]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.003688s)
+[2023.08.19-16.05.04:422][660]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.08.19-16.05.04:423][660]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.19-16.05.04:424][660]LogAIModule: Creating AISystem for world Step2
+[2023.08.19-16.05.04:424][660]LogPlayLevel: PIE: World Init took: (0.001519s)
+[2023.08.19-16.05.04:442][660]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.08.19-16.05.04:443][660]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.08.19-16.05.04:443][660]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.19-16.05.04:443][660]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.19-16.05.04:443][660]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.19-16.05.04:443][660]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.19-16.05.04:443][660]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.19-16.05.04:443][660]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.19-16.05.04:443][660]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.19-16.05.04:444][660]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.19-16.05.04:444][660]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.19-16.05.04:444][660]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.19-16.05.04:444][660]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.19-16.05.04:448][660]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.19-16.05.04:522][660]LogAudioMixer: Display: Using Audio Hardware Device Audio(THX Spatial Audio)
+[2023.08.19-16.05.04:522][660]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.19-16.05.04:522][660]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.19-16.05.04:522][660]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.19-16.05.04:525][660]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.08.19-16.05.04:525][660]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.08.19-16.05.04:528][660]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.08.19-16.05.04:528][660]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.08.19-16.05.04:528][660]LogInit: FAudioDevice initialized.
+[2023.08.19-16.05.04:528][660]LogAudio: Display: Audio Device (ID: 6) registered with world 'Step2'.
+[2023.08.19-16.05.04:544][660]LogLoad: Game class is 'ABGameMode'
+[2023.08.19-16.05.04:546][660]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 60) at 2023.08.20-01.05.04
+[2023.08.19-16.05.04:547][660]LogWorld: Bringing up level for play took: 0.001226
+[2023.08.19-16.05.04:550][660]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2023.08.19-16.05.04:550][660]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(9)
+[2023.08.19-16.05.04:551][660]ArenaBattle: Warning: AABGameMode::PostLogin(19) PostLogin
+[2023.08.19-16.05.04:551][660]ArenaBattle: Warning: AABPawn::PostInitializeComponents(30)
+[2023.08.19-16.05.04:551][660]ArenaBattle: Warning: AABPlayerController::OnPossess(14)
+[2023.08.19-16.05.04:551][660]ArenaBattle: Warning: AABPawn::PossessedBy(36)
+[2023.08.19-16.05.04:551][660]ArenaBattle: Warning: AABGameMode::PostLogin(21) PostLogin End
+[2023.08.19-16.05.04:552][660]PIE: 서버가 로그인했습니다.
+[2023.08.19-16.05.04:553][660]PIE: 에디터에서 플레이 총 시작 시간 0.135초입니다.
+[2023.08.19-16.05.07:873][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.19-16.05.07:873][844]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2023.08.19-16.05.07:874][844]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2023.08.19-16.05.07:874][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.19-16.05.07:892][844]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.19-16.05.07:895][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.19-16.05.07:912][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.19-16.05.07:912][844]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.08.19-16.05.07:915][844]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.08.19-16.05.07:924][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.08.19-16.05.07:954][845]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.08.19-16.05.59:407][696]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2023.08.19-16.05.59:407][696]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2023.08.19-16.05.59:418][696]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter as actor: BP_ThirdPersonCharacter_C /Game/Book/Maps/Step2.Step2:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2023.08.19-16.05.59:424][696]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter as actor: BP_ThirdPersonCharacter_C /Game/Book/Maps/Step2.Step2:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2023.08.19-16.06.00:294][742]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2023.08.19-16.06.00:294][742]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2023.08.19-16.06.00:305][742]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter as actor: BP_ThirdPersonCharacter_C /Game/Book/Maps/Step2.Step2:PersistentLevel.BP_ThirdPersonCharacter_C_1
+[2023.08.19-16.06.00:312][742]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter as actor: BP_ThirdPersonCharacter_C /Game/Book/Maps/Step2.Step2:PersistentLevel.BP_ThirdPersonCharacter_C_1
+[2023.08.19-16.06.00:490][743]LogViewport: Scene viewport resized to 558x212, mode Windowed.
+[2023.08.19-16.06.23:118][592]LogUObjectGlobals: Warning: 'Class 없음.DestructibleMesh' 오브젝트를 찾는 데 실패했습니다.
+[2023.08.19-16.07.03:153][338]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2023.08.19-16.07.03:166][338]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.19-16.07.03:167][338]PIE: New page: PIE 세션: Step2 (2023. 8. 20. 오전 10:07:03)
+[2023.08.19-16.07.03:167][338]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2023.08.19-16.07.03:172][338]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004502s)
+[2023.08.19-16.07.03:172][338]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.004633s)
+[2023.08.19-16.07.03:172][338]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.08.19-16.07.03:172][338]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.19-16.07.03:173][338]LogAIModule: Creating AISystem for world Step2
+[2023.08.19-16.07.03:173][338]LogPlayLevel: PIE: World Init took: (0.001426s)
+[2023.08.19-16.07.03:193][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.08.19-16.07.03:196][338]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.08.19-16.07.03:196][338]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.19-16.07.03:196][338]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.19-16.07.03:197][338]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.19-16.07.03:197][338]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.19-16.07.03:197][338]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.19-16.07.03:197][338]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.19-16.07.03:197][338]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.19-16.07.03:197][338]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.19-16.07.03:197][338]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.19-16.07.03:198][338]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.19-16.07.03:198][338]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.19-16.07.03:202][338]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.19-16.07.03:277][338]LogAudioMixer: Display: Using Audio Hardware Device Audio(THX Spatial Audio)
+[2023.08.19-16.07.03:278][338]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.19-16.07.03:278][338]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.19-16.07.03:278][338]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.19-16.07.03:280][338]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.08.19-16.07.03:280][338]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.08.19-16.07.03:283][338]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.08.19-16.07.03:283][338]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.08.19-16.07.03:283][338]LogInit: FAudioDevice initialized.
+[2023.08.19-16.07.03:283][338]LogAudio: Display: Audio Device (ID: 7) registered with world 'Step2'.
+[2023.08.19-16.07.03:304][338]LogLoad: Game class is 'ABGameMode'
+[2023.08.19-16.07.03:308][338]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 60) at 2023.08.20-01.07.03
+[2023.08.19-16.07.03:309][338]LogWorld: Bringing up level for play took: 0.004609
+[2023.08.19-16.07.03:314][338]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2023.08.19-16.07.03:314][338]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(9)
+[2023.08.19-16.07.03:314][338]ArenaBattle: Warning: AABPlayerController::OnPossess(14)
+[2023.08.19-16.07.03:315][338]ArenaBattle: Warning: AABGameMode::PostLogin(19) PostLogin
+[2023.08.19-16.07.03:315][338]ArenaBattle: Warning: AABPlayerController::OnPossess(14)
+[2023.08.19-16.07.03:315][338]ArenaBattle: Warning: AABGameMode::PostLogin(21) PostLogin End
+[2023.08.19-16.07.03:315][338]PIE: 서버가 로그인했습니다.
+[2023.08.19-16.07.03:317][338]PIE: 에디터에서 플레이 총 시작 시간 0.15초입니다.
+[2023.08.19-16.07.06:622][524]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.19-16.07.06:623][524]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2023.08.19-16.07.06:623][524]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2023.08.19-16.07.06:624][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.19-16.07.06:646][524]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.19-16.07.06:649][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.19-16.07.06:665][524]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.19-16.07.06:665][524]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.08.19-16.07.06:668][524]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.08.19-16.07.06:675][524]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.19-16.07.06:678][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.08.19-16.07.06:812][525]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2023.08.19-16.07.06:823][525]LogViewport: Scene viewport resized to 558x212, mode Windowed.
+[2023.08.19-16.07.31:916][511]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.08.19-16.07.31:936][511]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Book/Maps/Step2_Auto3
+[2023.08.19-16.07.31:936][511]LogSavePackage: Moving '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Saved/Step2_Auto3CC24356B482C0DBF9CE4DB8F325265B6.tmp' to '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Saved/Autosaves/Game/Book/Maps/Step2_Auto3.umap'
+[2023.08.19-16.07.31:958][511]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Book/Maps/Step2' took 0.059
+[2023.08.19-16.07.31:958][511]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.059
+[2023.08.19-16.07.50:590][290]Cmd: DELETE
+[2023.08.19-16.07.50:590][290]Cmd: ACTOR DELETE
+[2023.08.19-16.07.50:598][290]LogEditorActor: Deleted Actor: BP_ThirdPersonCharacter_C
+[2023.08.19-16.07.50:649][290]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.08.19-16.07.50:652][290]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2023.08.19-16.07.55:004][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Maps/Step2" FILE="../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Maps/Step2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.19-16.07.55:018][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.08.19-16.07.55:033][541]LogSavePackage: Moving output files for package: /Game/Book/Maps/Step2
+[2023.08.19-16.07.55:035][541]LogSavePackage: Moving '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Saved/Step2F409BBA44761418269E0DEAF7B24427A.tmp' to '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Maps/Step2.umap'
+[2023.08.19-16.07.55:074][541]AssetCheck: New page: 에셋 저장:  Step2
+[2023.08.19-16.07.55:074][541]LogContentValidation: Display: World /Game/Book/Maps/Step2.Step2 유효성 검사 중
+[2023.08.19-16.07.59:217][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Maps/Step2" FILE="../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Maps/Step2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.19-16.07.59:233][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.08.19-16.07.59:247][780]LogSavePackage: Moving output files for package: /Game/Book/Maps/Step2
+[2023.08.19-16.07.59:249][780]LogSavePackage: Moving '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Saved/Step2DB228CD841747F7F72E45FBFE0A86B2B.tmp' to '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Maps/Step2.umap'
+[2023.08.19-16.07.59:286][780]AssetCheck: New page: 에셋 저장:  Step2
+[2023.08.19-16.07.59:286][780]LogContentValidation: Display: World /Game/Book/Maps/Step2.Step2 유효성 검사 중
+[2023.08.19-16.08.05:507][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.08.19-16.08.05:508][153]LogStall: Shutdown...
+[2023.08.19-16.08.05:516][153]LogStall: Shutdown complete.
+[2023.08.19-16.08.05:587][153]LogSlate: Window 'ArenaBattle - 언리얼 에디터' being destroyed
+[2023.08.19-16.08.05:801][154]Cmd: QUIT_EDITOR
+[2023.08.19-16.08.05:801][154]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.08.19-16.08.05:815][154]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.08.19-16.08.05:815][154]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.08.19-16.08.05:815][154]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.08.19-16.08.06:606][154]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.08.19-16.08.06:606][154]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.08.19-16.08.06:606][154]LogAudio: Display: Audio Device unregistered from world 'Step2'.
+[2023.08.19-16.08.06:606][154]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.08.19-16.08.06:610][154]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.08.19-16.08.06:629][154]LogAudio: Display: Audio Device Manager Shutdown
+[2023.08.19-16.08.06:638][154]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.08.19-16.08.06:638][154]LogExit: Preparing to exit.
+[2023.08.19-16.08.06:673][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.08.19-16.08.07:294][154]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.08.19-16.08.07:294][154]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.08.19-16.08.07:294][154]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.08.19-16.08.07:294][154]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.08.19-16.08.07:294][154]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.08.19-16.08.07:298][154]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2023.08.19-16.08.07:342][154]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2023.08.19-16.08.07:363][154]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.08.19-16.08.07:363][154]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.08.19-16.08.07:369][154]LogExit: Editor shut down
+[2023.08.19-16.08.07:400][154]LogExit: Transaction tracking system shut down
+[2023.08.19-16.08.07:712][154]LogExit: Object subsystem successfully closed.
+[2023.08.19-16.08.07:730][154]LogShaderCompilers: Display: ================================================
+[2023.08.19-16.08.07:730][154]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.08.19-16.08.07:730][154]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.08.19-16.08.07:730][154]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.08.19-16.08.07:731][154]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.08.19-16.08.07:731][154]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.08.19-16.08.07:731][154]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.08.19-16.08.07:731][154]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.08.19-16.08.07:731][154]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.08.19-16.08.07:731][154]LogShaderCompilers: Display: ================================================
+[2023.08.19-16.08.07:836][154]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.08.19-16.08.07:952][154]LogModuleManager: Shutting down and abandoning module ArenaBattle (903)
+[2023.08.19-16.08.07:952][154]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (895)
+[2023.08.19-16.08.07:952][154]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (892)
+[2023.08.19-16.08.07:952][154]LogModuleManager: Shutting down and abandoning module Voice (890)
+[2023.08.19-16.08.07:952][154]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (884)
+[2023.08.19-16.08.07:952][154]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (880)
+[2023.08.19-16.08.07:953][154]LogModuleManager: Shutting down and abandoning module SubobjectEditor (878)
+[2023.08.19-16.08.07:953][154]LogModuleManager: Shutting down and abandoning module SceneOutliner (876)
+[2023.08.19-16.08.07:953][154]LogModuleManager: Shutting down and abandoning module AddContentDialog (874)
+[2023.08.19-16.08.07:955][154]LogModuleManager: Shutting down and abandoning module WidgetCarousel (873)
+[2023.08.19-16.08.07:955][154]LogModuleManager: Shutting down and abandoning module StatusBar (870)
+[2023.08.19-16.08.07:955][154]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (868)
+[2023.08.19-16.08.07:955][154]LogModuleManager: Shutting down and abandoning module StatsViewer (866)
+[2023.08.19-16.08.07:955][154]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (864)
+[2023.08.19-16.08.07:955][154]LogModuleManager: Shutting down and abandoning module AutomationWorker (862)
+[2023.08.19-16.08.07:955][154]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (860)
+[2023.08.19-16.08.07:955][154]LogModuleManager: Shutting down and abandoning module GooglePADEditor (858)
+[2023.08.19-16.08.07:955][154]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (856)
+[2023.08.19-16.08.07:955][154]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (854)
+[2023.08.19-16.08.07:955][154]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (852)
+[2023.08.19-16.08.07:955][154]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (850)
+[2023.08.19-16.08.07:955][154]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (848)
+[2023.08.19-16.08.07:956][154]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (846)
+[2023.08.19-16.08.07:956][154]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (844)
+[2023.08.19-16.08.07:956][154]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (842)
+[2023.08.19-16.08.07:956][154]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (840)
+[2023.08.19-16.08.07:956][154]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (838)
+[2023.08.19-16.08.07:956][154]LogModuleManager: Shutting down and abandoning module WebMMedia (836)
+[2023.08.19-16.08.07:956][154]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (834)
+[2023.08.19-16.08.07:956][154]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (832)
+[2023.08.19-16.08.07:956][154]LogModuleManager: Shutting down and abandoning module SequenceRecorder (831)
+[2023.08.19-16.08.07:956][154]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (828)
+[2023.08.19-16.08.07:956][154]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (826)
+[2023.08.19-16.08.07:956][154]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (824)
+[2023.08.19-16.08.07:956][154]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (822)
+[2023.08.19-16.08.07:956][154]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (820)
+[2023.08.19-16.08.07:956][154]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (818)
+[2023.08.19-16.08.07:956][154]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (816)
+[2023.08.19-16.08.07:956][154]LogModuleManager: Shutting down and abandoning module PlanarCut (814)
+[2023.08.19-16.08.07:956][154]LogModuleManager: Shutting down and abandoning module CharacterAI (812)
+[2023.08.19-16.08.07:956][154]LogModuleManager: Shutting down and abandoning module TextureAlignMode (810)
+[2023.08.19-16.08.07:956][154]LogModuleManager: Shutting down and abandoning module BspMode (808)
+[2023.08.19-16.08.07:956][154]LogModuleManager: Shutting down and abandoning module GeometryMode (806)
+[2023.08.19-16.08.07:956][154]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (804)
+[2023.08.19-16.08.07:957][154]LogModuleManager: Shutting down and abandoning module ControlRigSplineEditor (802)
+[2023.08.19-16.08.07:957][154]LogModuleManager: Shutting down and abandoning module IKRigEditor (800)
+[2023.08.19-16.08.07:957][154]LogModuleManager: Shutting down and abandoning module ControlRigEditor (798)
+[2023.08.19-16.08.07:957][154]LogModuleManager: Shutting down and abandoning module AnimationEditor (797)
+[2023.08.19-16.08.07:957][154]LogModuleManager: Shutting down and abandoning module SmartSnapping (794)
+[2023.08.19-16.08.07:957][154]LogModuleManager: Shutting down and abandoning module SessionServices (792)
+[2023.08.19-16.08.07:957][154]LogModuleManager: Shutting down and abandoning module MeshPaint (790)
+[2023.08.19-16.08.07:957][154]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (788)
+[2023.08.19-16.08.07:957][154]LogModuleManager: Shutting down and abandoning module PlacementMode (787)
+[2023.08.19-16.08.07:957][154]LogModuleManager: Shutting down and abandoning module FoliageEdit (784)
+[2023.08.19-16.08.07:957][154]LogModuleManager: Shutting down and abandoning module LandscapeEditor (782)
+[2023.08.19-16.08.07:957][154]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (780)
+[2023.08.19-16.08.07:958][154]LogModuleManager: Shutting down and abandoning module ActorPickerMode (778)
+[2023.08.19-16.08.07:958][154]LogModuleManager: Shutting down and abandoning module ViewportSnapping (776)
+[2023.08.19-16.08.07:958][154]LogModuleManager: Shutting down and abandoning module EditorWidgets (774)
+[2023.08.19-16.08.07:958][154]LogModuleManager: Shutting down and abandoning module ViewportInteraction (772)
+[2023.08.19-16.08.07:958][154]LogModuleManager: Shutting down and abandoning module ClothPainter (770)
+[2023.08.19-16.08.07:958][154]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (769)
+[2023.08.19-16.08.07:958][154]LogModuleManager: Shutting down and abandoning module LogVisualizer (766)
+[2023.08.19-16.08.07:958][154]LogModuleManager: Shutting down and abandoning module IntroTutorials (764)
+[2023.08.19-16.08.07:958][154]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (762)
+[2023.08.19-16.08.07:958][154]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (760)
+[2023.08.19-16.08.07:958][154]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (759)
+[2023.08.19-16.08.07:958][154]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (757)
+[2023.08.19-16.08.08:727][154]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (754)
+[2023.08.19-16.08.08:727][154]LogModuleManager: Shutting down and abandoning module HoloLensPlatformEditor (752)
+[2023.08.19-16.08.08:727][154]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (750)
+[2023.08.19-16.08.08:727][154]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (748)
+[2023.08.19-16.08.08:727][154]LogModuleManager: Shutting down and abandoning module CSVtoSVG (746)
+[2023.08.19-16.08.08:727][154]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (744)
+[2023.08.19-16.08.08:727][154]LogModuleManager: Shutting down and abandoning module EditorConfig (742)
+[2023.08.19-16.08.08:727][154]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (740)
+[2023.08.19-16.08.08:727][154]LogModuleManager: Shutting down and abandoning module EditorFramework (738)
+[2023.08.19-16.08.08:727][154]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (736)
+[2023.08.19-16.08.08:727][154]LogModuleManager: Shutting down and abandoning module TraceInsights (734)
+[2023.08.19-16.08.08:727][154]MemoryProfiler: Shutdown
+[2023.08.19-16.08.08:727][154]NetworkingProfiler: Shutdown
+[2023.08.19-16.08.08:727][154]LoadingProfiler: Shutdown
+[2023.08.19-16.08.08:727][154]TimingProfiler: Shutdown
+[2023.08.19-16.08.08:728][154]LogModuleManager: Shutting down and abandoning module TraceServices (733)
+[2023.08.19-16.08.08:728][154]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (730)
+[2023.08.19-16.08.08:728][154]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (729)
+[2023.08.19-16.08.08:728][154]LogModuleManager: Shutting down and abandoning module InputBindingEditor (726)
+[2023.08.19-16.08.08:728][154]LogModuleManager: Shutting down and abandoning module MergeActors (724)
+[2023.08.19-16.08.08:728][154]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (722)
+[2023.08.19-16.08.08:728][154]LogModuleManager: Shutting down and abandoning module LocalizationService (721)
+[2023.08.19-16.08.08:728][154]LogModuleManager: Shutting down and abandoning module HardwareTargeting (718)
+[2023.08.19-16.08.08:728][154]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (716)
+[2023.08.19-16.08.08:728][154]LogModuleManager: Shutting down and abandoning module UndoHistory (714)
+[2023.08.19-16.08.08:728][154]LogModuleManager: Shutting down and abandoning module XmlParser (712)
+[2023.08.19-16.08.08:728][154]LogModuleManager: Shutting down and abandoning module Blutility (710)
+[2023.08.19-16.08.08:728][154]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (708)
+[2023.08.19-16.08.08:728][154]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (707)
+[2023.08.19-16.08.08:729][154]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (704)
+[2023.08.19-16.08.08:729][154]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (703)
+[2023.08.19-16.08.08:729][154]LogModuleManager: Shutting down and abandoning module SettingsEditor (700)
+[2023.08.19-16.08.08:729][154]LogModuleManager: Shutting down and abandoning module ProjectLauncher (698)
+[2023.08.19-16.08.08:729][154]LogModuleManager: Shutting down and abandoning module SessionFrontend (696)
+[2023.08.19-16.08.08:729][154]LogModuleManager: Shutting down and abandoning module ProfilerClient (694)
+[2023.08.19-16.08.08:729][154]LogModuleManager: Shutting down and abandoning module DeviceManager (692)
+[2023.08.19-16.08.08:729][154]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (691)
+[2023.08.19-16.08.08:741][154]LogModuleManager: Shutting down and abandoning module AutomationController (688)
+[2023.08.19-16.08.08:741][154]LogModuleManager: Shutting down and abandoning module AutomationWindow (686)
+[2023.08.19-16.08.08:741][154]LogModuleManager: Shutting down and abandoning module Layers (684)
+[2023.08.19-16.08.08:741][154]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (682)
+[2023.08.19-16.08.08:741][154]LogModuleManager: Shutting down and abandoning module DetailCustomizations (680)
+[2023.08.19-16.08.08:741][154]LogModuleManager: Shutting down and abandoning module PackagesDialog (678)
+[2023.08.19-16.08.08:741][154]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (676)
+[2023.08.19-16.08.08:741][154]LogModuleManager: Shutting down and abandoning module Persona (674)
+[2023.08.19-16.08.08:742][154]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (673)
+[2023.08.19-16.08.08:742][154]LogModuleManager: Shutting down and abandoning module AnimGraph (671)
+[2023.08.19-16.08.08:742][154]LogModuleManager: Shutting down and abandoning module Kismet (668)
+[2023.08.19-16.08.08:742][154]LogModuleManager: Shutting down and abandoning module KismetWidgets (667)
+[2023.08.19-16.08.08:742][154]LogModuleManager: Shutting down and abandoning module GraphEditor (664)
+[2023.08.19-16.08.08:742][154]LogModuleManager: Shutting down and abandoning module StructViewer (662)
+[2023.08.19-16.08.08:742][154]LogModuleManager: Shutting down and abandoning module ClassViewer (660)
+[2023.08.19-16.08.08:744][154]LogModuleManager: Shutting down and abandoning module NaniteTools (658)
+[2023.08.19-16.08.08:744][154]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (656)
+[2023.08.19-16.08.08:744][154]LogModuleManager: Shutting down and abandoning module SourceControlWindows (654)
+[2023.08.19-16.08.08:745][154]LogModuleManager: Shutting down and abandoning module OutputLog (652)
+[2023.08.19-16.08.08:745][154]LogModuleManager: Shutting down and abandoning module Documentation (650)
+[2023.08.19-16.08.08:745][154]LogModuleManager: Shutting down and abandoning module LiveCoding (648)
+[2023.08.19-16.08.08:746][154]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (646)
+[2023.08.19-16.08.08:746][154]LogModuleManager: Shutting down and abandoning module MovieScene (644)
+[2023.08.19-16.08.08:746][154]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (642)
+[2023.08.19-16.08.08:746][154]LogModuleManager: Shutting down and abandoning module LauncherPlatform (640)
+[2023.08.19-16.08.08:746][154]LogModuleManager: Shutting down and abandoning module AnalyticsET (638)
+[2023.08.19-16.08.08:746][154]LogModuleManager: Shutting down and abandoning module PortalServices (636)
+[2023.08.19-16.08.08:746][154]LogModuleManager: Shutting down and abandoning module PortalRpc (634)
+[2023.08.19-16.08.08:746][154]LogModuleManager: Shutting down and abandoning module MessagingRpc (632)
+[2023.08.19-16.08.08:746][154]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (630)
+[2023.08.19-16.08.08:746][154]LogModuleManager: Shutting down and abandoning module AudioMixer (629)
+[2023.08.19-16.08.08:746][154]LogModuleManager: Shutting down and abandoning module AudioMixerCore (628)
+[2023.08.19-16.08.08:746][154]LogModuleManager: Shutting down and abandoning module AIModule (624)
+[2023.08.19-16.08.08:746][154]LogModuleManager: Shutting down and abandoning module GameplayDebugger (623)
+[2023.08.19-16.08.08:746][154]LogModuleManager: Shutting down and abandoning module AITestSuite (621)
+[2023.08.19-16.08.08:746][154]LogModuleManager: Shutting down and abandoning module NavigationSystem (619)
+[2023.08.19-16.08.08:746][154]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (616)
+[2023.08.19-16.08.08:746][154]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (614)
+[2023.08.19-16.08.08:746][154]LogModuleManager: Shutting down and abandoning module TypedElementFramework (612)
+[2023.08.19-16.08.08:746][154]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (610)
+[2023.08.19-16.08.08:746][154]LogModuleManager: Shutting down and abandoning module ProfilerService (608)
+[2023.08.19-16.08.08:986][154]LogModuleManager: Shutting down and abandoning module TaskGraph (606)
+[2023.08.19-16.08.08:986][154]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (604)
+[2023.08.19-16.08.08:986][154]LogModuleManager: Shutting down and abandoning module MegascansPlugin (602)
+[2023.08.19-16.08.08:986][154]LogModuleManager: Shutting down and abandoning module Bridge (600)
+[2023.08.19-16.08.08:986][154]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (598)
+[2023.08.19-16.08.08:986][154]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (596)
+[2023.08.19-16.08.08:986][154]LogModuleManager: Shutting down and abandoning module InterchangePipelines (594)
+[2023.08.19-16.08.08:986][154]LogModuleManager: Shutting down and abandoning module InterchangeExport (592)
+[2023.08.19-16.08.08:986][154]LogModuleManager: Shutting down and abandoning module InterchangeMessages (590)
+[2023.08.19-16.08.08:986][154]LogModuleManager: Shutting down and abandoning module InterchangeImport (588)
+[2023.08.19-16.08.08:986][154]LogModuleManager: Shutting down and abandoning module InterchangeNodes (586)
+[2023.08.19-16.08.08:986][154]LogModuleManager: Shutting down and abandoning module InterchangeResultsBrowser (584)
+[2023.08.19-16.08.08:986][154]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (582)
+[2023.08.19-16.08.08:986][154]LogModuleManager: Shutting down and abandoning module InterchangeEditor (580)
+[2023.08.19-16.08.08:986][154]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (578)
+[2023.08.19-16.08.08:986][154]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (576)
+[2023.08.19-16.08.08:986][154]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (574)
+[2023.08.19-16.08.08:986][154]LogModuleManager: Shutting down and abandoning module CollectionManager (573)
+[2023.08.19-16.08.08:986][154]LogModuleManager: Shutting down and abandoning module SynthesisEditor (570)
+[2023.08.19-16.08.08:986][154]LogModuleManager: Shutting down and abandoning module Synthesis (568)
+[2023.08.19-16.08.08:986][154]LogModuleManager: Shutting down and abandoning module ResonanceAudio (566)
+[2023.08.19-16.08.08:986][154]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (564)
+[2023.08.19-16.08.08:987][154]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (562)
+[2023.08.19-16.08.08:987][154]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (560)
+[2023.08.19-16.08.08:987][154]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (558)
+[2023.08.19-16.08.08:987][154]LogModuleManager: Shutting down and abandoning module ModelingOperators (556)
+[2023.08.19-16.08.08:987][154]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (554)
+[2023.08.19-16.08.08:987][154]LogModuleManager: Shutting down and abandoning module ModelingComponents (552)
+[2023.08.19-16.08.08:987][154]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (550)
+[2023.08.19-16.08.08:987][154]LogModuleManager: Shutting down and abandoning module MeshModelingTools (548)
+[2023.08.19-16.08.08:987][154]LogModuleManager: Shutting down and abandoning module HairStrandsEditor (546)
+[2023.08.19-16.08.08:987][154]LogModuleManager: Shutting down and abandoning module GooglePAD (544)
+[2023.08.19-16.08.08:987][154]LogModuleManager: Shutting down and abandoning module DynamicMesh (542)
+[2023.08.19-16.08.08:987][154]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (540)
+[2023.08.19-16.08.08:987][154]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (538)
+[2023.08.19-16.08.08:987][154]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (536)
+[2023.08.19-16.08.08:987][154]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (534)
+[2023.08.19-16.08.08:987][154]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (532)
+[2023.08.19-16.08.08:987][154]LogModuleManager: Shutting down and abandoning module CableComponent (530)
+[2023.08.19-16.08.08:987][154]LogModuleManager: Shutting down and abandoning module AudioCapture (528)
+[2023.08.19-16.08.08:987][154]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (527)
+[2023.08.19-16.08.08:987][154]LogModuleManager: Shutting down and abandoning module AssetTags (524)
+[2023.08.19-16.08.08:987][154]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (522)
+[2023.08.19-16.08.08:987][154]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (520)
+[2023.08.19-16.08.08:987][154]LogModuleManager: Shutting down and abandoning module AppleImageUtils (518)
+[2023.08.19-16.08.08:987][154]LogModuleManager: Shutting down and abandoning module AndroidPermission (516)
+[2023.08.19-16.08.08:987][154]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (514)
+[2023.08.19-16.08.08:987][154]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (512)
+[2023.08.19-16.08.08:987][154]LogModuleManager: Shutting down and abandoning module TemplateSequence (508)
+[2023.08.19-16.08.08:987][154]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (506)
+[2023.08.19-16.08.08:987][154]LogModuleManager: Shutting down and abandoning module SequencerScripting (504)
+[2023.08.19-16.08.08:987][154]LogModuleManager: Shutting down and abandoning module MediaCompositing (502)
+[2023.08.19-16.08.08:987][154]LogModuleManager: Shutting down and abandoning module ImgMedia (500)
+[2023.08.19-16.08.08:987][154]LogModuleManager: Shutting down and abandoning module AlembicImporter (498)
+[2023.08.19-16.08.08:987][154]LogModuleManager: Shutting down and abandoning module AlembicLibrary (497)
+[2023.08.19-16.08.08:987][154]LogModuleManager: Shutting down and abandoning module GeometryCache (496)
+[2023.08.19-16.08.08:987][154]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (495)
+[2023.08.19-16.08.08:987][154]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (490)
+[2023.08.19-16.08.08:988][154]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (488)
+[2023.08.19-16.08.08:988][154]LogOpenImageDenoise: OIDN shutting down
+[2023.08.19-16.08.08:988][154]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (486)
+[2023.08.19-16.08.08:988][154]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (484)
+[2023.08.19-16.08.08:988][154]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (482)
+[2023.08.19-16.08.08:988][154]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (480)
+[2023.08.19-16.08.08:988][154]LogModuleManager: Shutting down and abandoning module MeshLODToolset (478)
+[2023.08.19-16.08.08:988][154]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (476)
+[2023.08.19-16.08.08:988][154]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (474)
+[2023.08.19-16.08.08:988][154]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (472)
+[2023.08.19-16.08.08:988][154]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (470)
+[2023.08.19-16.08.08:988][154]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (469)
+[2023.08.19-16.08.08:988][154]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (466)
+[2023.08.19-16.08.08:988][154]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (464)
+[2023.08.19-16.08.08:988][154]LogModuleManager: Shutting down and abandoning module ChaosNiagara (462)
+[2023.08.19-16.08.08:988][154]LogModuleManager: Shutting down and abandoning module FractureEditor (460)
+[2023.08.19-16.08.08:988][154]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (458)
+[2023.08.19-16.08.08:989][154]LogModuleManager: Shutting down and abandoning module BackChannel (456)
+[2023.08.19-16.08.08:989][154]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (454)
+[2023.08.19-16.08.08:989][154]LogModuleManager: Shutting down and abandoning module AutomationUtils (452)
+[2023.08.19-16.08.08:989][154]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (450)
+[2023.08.19-16.08.08:989][154]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (448)
+[2023.08.19-16.08.08:989][154]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (446)
+[2023.08.19-16.08.08:989][154]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (444)
+[2023.08.19-16.08.08:989][154]LogModuleManager: Shutting down and abandoning module UObjectPlugin (442)
+[2023.08.19-16.08.08:989][154]LogModuleManager: Shutting down and abandoning module UnrealInsightsInterface (440)
+[2023.08.19-16.08.08:989][154]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (438)
+[2023.08.19-16.08.08:989][154]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (436)
+[2023.08.19-16.08.08:989][154]LogModuleManager: Shutting down and abandoning module PluginUtils (434)
+[2023.08.19-16.08.08:989][154]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (432)
+[2023.08.19-16.08.08:989][154]LogModuleManager: Shutting down and abandoning module GitSourceControl (430)
+[2023.08.19-16.08.08:989][154]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (428)
+[2023.08.19-16.08.08:989][154]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (426)
+[2023.08.19-16.08.08:989][154]LogModuleManager: Shutting down and abandoning module StylusInput (424)
+[2023.08.19-16.08.08:989][154]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (422)
+[2023.08.19-16.08.08:989][154]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (420)
+[2023.08.19-16.08.08:989][154]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (418)
+[2023.08.19-16.08.08:989][154]LogModuleManager: Shutting down and abandoning module PluginBrowser (416)
+[2023.08.19-16.08.08:989][154]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (414)
+[2023.08.19-16.08.08:990][154]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (412)
+[2023.08.19-16.08.08:990][154]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (410)
+[2023.08.19-16.08.08:990][154]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (408)
+[2023.08.19-16.08.08:990][154]LogModuleManager: Shutting down and abandoning module EditorDebugTools (406)
+[2023.08.19-16.08.08:990][154]LogModuleManager: Shutting down and abandoning module CurveEditorTools (404)
+[2023.08.19-16.08.08:990][154]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (402)
+[2023.08.19-16.08.08:990][154]LogModuleManager: Shutting down and abandoning module CryptoKeys (400)
+[2023.08.19-16.08.08:990][154]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (398)
+[2023.08.19-16.08.08:990][154]LogModuleManager: Shutting down and abandoning module ControlRigSpline (396)
+[2023.08.19-16.08.08:990][154]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (394)
+[2023.08.19-16.08.08:990][154]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (392)
+[2023.08.19-16.08.08:990][154]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (390)
+[2023.08.19-16.08.08:990][154]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (388)
+[2023.08.19-16.08.08:990][154]LogModuleManager: Shutting down and abandoning module Paper2DEditor (386)
+[2023.08.19-16.08.08:991][154]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (384)
+[2023.08.19-16.08.08:991][154]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (382)
+[2023.08.19-16.08.08:991][154]LogModuleManager: Shutting down and abandoning module SoundFields (378)
+[2023.08.19-16.08.08:991][154]LogModuleManager: Shutting down and abandoning module SignificanceManager (376)
+[2023.08.19-16.08.08:991][154]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (374)
+[2023.08.19-16.08.08:991][154]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (372)
+[2023.08.19-16.08.08:991][154]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (370)
+[2023.08.19-16.08.08:991][154]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (368)
+[2023.08.19-16.08.08:991][154]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (367)
+[2023.08.19-16.08.08:991][154]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (364)
+[2023.08.19-16.08.08:991][154]LogModuleManager: Shutting down and abandoning module ActorSequence (362)
+[2023.08.19-16.08.08:991][154]LogModuleManager: Shutting down and abandoning module UdpMessaging (360)
+[2023.08.19-16.08.09:093][154]LogModuleManager: Shutting down and abandoning module TcpMessaging (358)
+[2023.08.19-16.08.09:193][154]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (356)
+[2023.08.19-16.08.09:193][154]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (354)
+[2023.08.19-16.08.09:193][154]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (352)
+[2023.08.19-16.08.09:193][154]LogModuleManager: Shutting down and abandoning module Niagara (350)
+[2023.08.19-16.08.09:193][154]LogModuleManager: Shutting down and abandoning module SignalProcessing (349)
+[2023.08.19-16.08.09:193][154]LogModuleManager: Shutting down and abandoning module NiagaraEditor (347)
+[2023.08.19-16.08.09:194][154]LogModuleManager: Shutting down and abandoning module NiagaraCore (344)
+[2023.08.19-16.08.09:194][154]LogModuleManager: Shutting down and abandoning module PBIK (342)
+[2023.08.19-16.08.09:194][154]LogModuleManager: Shutting down and abandoning module FullBodyIK (340)
+[2023.08.19-16.08.09:194][154]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (338)
+[2023.08.19-16.08.09:194][154]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (336)
+[2023.08.19-16.08.09:194][154]LogModuleManager: Shutting down and abandoning module AnimationSharing (334)
+[2023.08.19-16.08.09:194][154]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (332)
+[2023.08.19-16.08.09:194][154]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (330)
+[2023.08.19-16.08.09:194][154]LogModuleManager: Shutting down and abandoning module FacialAnimation (328)
+[2023.08.19-16.08.09:194][154]LogModuleManager: Shutting down and abandoning module DataValidation (326)
+[2023.08.19-16.08.09:194][154]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (324)
+[2023.08.19-16.08.09:195][154]LogModuleManager: Shutting down and abandoning module LevelEditor (323)
+[2023.08.19-16.08.09:199][154]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (322)
+[2023.08.19-16.08.09:199][154]LogModuleManager: Shutting down and abandoning module LevelAssetEditor (320)
+[2023.08.19-16.08.09:199][154]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (318)
+[2023.08.19-16.08.09:200][154]LogModuleManager: Shutting down and abandoning module MainFrame (316)
+[2023.08.19-16.08.09:200][154]LogModuleManager: Shutting down and abandoning module HotReload (315)
+[2023.08.19-16.08.09:201][154]LogModuleManager: Shutting down and abandoning module ContentBrowser (311)
+[2023.08.19-16.08.09:201][154]LogModuleManager: Shutting down and abandoning module ToolMenus (310)
+[2023.08.19-16.08.09:201][154]LogModuleManager: Shutting down and abandoning module ContentBrowserData (308)
+[2023.08.19-16.08.09:201][154]LogModuleManager: Shutting down and abandoning module TreeMap (305)
+[2023.08.19-16.08.09:201][154]LogModuleManager: Shutting down and abandoning module GameplayCameras (302)
+[2023.08.19-16.08.09:201][154]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (300)
+[2023.08.19-16.08.09:201][154]LogModuleManager: Shutting down and abandoning module IKRig (298)
+[2023.08.19-16.08.09:201][154]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (296)
+[2023.08.19-16.08.09:201][154]LogModuleManager: Shutting down and abandoning module ControlRig (294)
+[2023.08.19-16.08.09:201][154]LogModuleManager: Shutting down and abandoning module LevelSequence (293)
+[2023.08.19-16.08.09:201][154]LogModuleManager: Shutting down and abandoning module Paper2D (290)
+[2023.08.19-16.08.09:201][154]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (288)
+[2023.08.19-16.08.09:201][154]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (286)
+[2023.08.19-16.08.09:201][154]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (284)
+[2023.08.19-16.08.09:201][154]LogModuleManager: Shutting down and abandoning module AndroidFileServer (282)
+[2023.08.19-16.08.09:201][154]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (280)
+[2023.08.19-16.08.09:201][154]LogModuleManager: Shutting down and abandoning module PacketHandler (278)
+[2023.08.19-16.08.09:201][154]LogModuleManager: Shutting down and abandoning module AnimationDataController (276)
+[2023.08.19-16.08.09:201][154]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (274)
+[2023.08.19-16.08.09:201][154]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (272)
+[2023.08.19-16.08.09:201][154]LogModuleManager: Shutting down and abandoning module MediaAssets (270)
+[2023.08.19-16.08.09:201][154]LogModuleManager: Shutting down and abandoning module Overlay (268)
+[2023.08.19-16.08.09:201][154]LogModuleManager: Shutting down and abandoning module OverlayEditor (267)
+[2023.08.19-16.08.09:201][154]LogModuleManager: Shutting down and abandoning module VREditor (264)
+[2023.08.19-16.08.09:201][154]LogModuleManager: Shutting down and abandoning module StringTableEditor (262)
+[2023.08.19-16.08.09:201][154]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (260)
+[2023.08.19-16.08.09:201][154]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (258)
+[2023.08.19-16.08.09:201][154]LogModuleManager: Shutting down and abandoning module FunctionalTesting (256)
+[2023.08.19-16.08.09:201][154]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (254)
+[2023.08.19-16.08.09:203][154]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (253)
+[2023.08.19-16.08.09:203][154]LogModuleManager: Shutting down and abandoning module UMG (250)
+[2023.08.19-16.08.09:203][154]LogModuleManager: Shutting down and abandoning module UMGEditor (249)
+[2023.08.19-16.08.09:203][154]LogModuleManager: Shutting down and abandoning module SlateReflector (244)
+[2023.08.19-16.08.09:203][154]LogModuleManager: Shutting down and abandoning module Slate (242)
+[2023.08.19-16.08.09:203][154]LogModuleManager: Shutting down and abandoning module SlateCore (240)
+[2023.08.19-16.08.09:206][154]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (238)
+[2023.08.19-16.08.09:206][154]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (236)
+[2023.08.19-16.08.09:206][154]LogModuleManager: Shutting down and abandoning module UnrealEd (234)
+[2023.08.19-16.08.09:206][154]LogModuleManager: Shutting down and abandoning module MRMesh (232)
+[2023.08.19-16.08.09:206][154]LogModuleManager: Shutting down and abandoning module Messaging (230)
+[2023.08.19-16.08.09:206][154]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (228)
+[2023.08.19-16.08.09:206][154]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (226)
+[2023.08.19-16.08.09:206][154]LogModuleManager: Shutting down and abandoning module Networking (224)
+[2023.08.19-16.08.09:206][154]LogModuleManager: Shutting down and abandoning module Core (222)
+[2023.08.19-16.08.09:206][154]LogModuleManager: Shutting down and abandoning module MaterialEditor (220)
+[2023.08.19-16.08.09:206][154]LogModuleManager: Shutting down and abandoning module MovieSceneTools (218)
+[2023.08.19-16.08.09:206][154]LogModuleManager: Shutting down and abandoning module CurveEditor (217)
+[2023.08.19-16.08.09:207][154]LogModuleManager: Shutting down and abandoning module Sequencer (215)
+[2023.08.19-16.08.09:207][154]LogModuleManager: Shutting down and abandoning module EditorStyle (214)
+[2023.08.19-16.08.09:207][154]LogModuleManager: Shutting down and abandoning module KismetCompiler (210)
+[2023.08.19-16.08.09:207][154]LogModuleManager: Shutting down and abandoning module MeshBuilder (208)
+[2023.08.19-16.08.09:207][154]LogModuleManager: Shutting down and abandoning module NaniteBuilder (206)
+[2023.08.19-16.08.09:207][154]LogModuleManager: Shutting down and abandoning module MeshUtilities (204)
+[2023.08.19-16.08.09:207][154]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (203)
+[2023.08.19-16.08.09:207][154]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (202)
+[2023.08.19-16.08.09:207][154]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (201)
+[2023.08.19-16.08.09:207][154]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (199)
+[2023.08.19-16.08.09:207][154]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (197)
+[2023.08.19-16.08.09:207][154]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (195)
+[2023.08.19-16.08.09:207][154]LogModuleManager: Shutting down and abandoning module MaterialBaking (191)
+[2023.08.19-16.08.09:207][154]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (186)
+[2023.08.19-16.08.09:207][154]LogModuleManager: Shutting down and abandoning module DerivedDataCache (184)
+[2023.08.19-16.08.09:221][154]LogModuleManager: Shutting down and abandoning module TargetPlatform (182)
+[2023.08.19-16.08.09:222][154]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (181)
+[2023.08.19-16.08.09:222][154]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (179)
+[2023.08.19-16.08.09:222][154]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (177)
+[2023.08.19-16.08.09:222][154]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (175)
+[2023.08.19-16.08.09:222][154]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (173)
+[2023.08.19-16.08.09:222][154]LogModuleManager: Shutting down and abandoning module AudioFormatBink (171)
+[2023.08.19-16.08.09:222][154]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (169)
+[2023.08.19-16.08.09:222][154]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (167)
+[2023.08.19-16.08.09:222][154]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (165)
+[2023.08.19-16.08.09:222][154]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (163)
+[2023.08.19-16.08.09:222][154]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (161)
+[2023.08.19-16.08.09:222][154]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (159)
+[2023.08.19-16.08.09:222][154]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (157)
+[2023.08.19-16.08.09:223][154]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (155)
+[2023.08.19-16.08.09:223][154]LogModuleManager: Shutting down and abandoning module HoloLensTargetPlatform (153)
+[2023.08.19-16.08.09:223][154]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (151)
+[2023.08.19-16.08.09:223][154]LogModuleManager: Shutting down and abandoning module TextureFormat (149)
+[2023.08.19-16.08.09:223][154]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (148)
+[2023.08.19-16.08.09:224][154]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (146)
+[2023.08.19-16.08.09:224][154]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (144)
+[2023.08.19-16.08.09:224][154]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (142)
+[2023.08.19-16.08.09:224][154]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (140)
+[2023.08.19-16.08.09:224][154]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (138)
+[2023.08.19-16.08.09:224][154]LogModuleManager: Shutting down and abandoning module ImageWrapper (137)
+[2023.08.19-16.08.09:224][154]LogModuleManager: Shutting down and abandoning module TurnkeySupport (133)
+[2023.08.19-16.08.09:224][154]LogModuleManager: Shutting down and abandoning module InputCore (130)
+[2023.08.19-16.08.09:224][154]LogModuleManager: Shutting down and abandoning module Settings (128)
+[2023.08.19-16.08.09:224][154]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (126)
+[2023.08.19-16.08.09:225][154]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (124)
+[2023.08.19-16.08.09:225][154]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (123)
+[2023.08.19-16.08.09:226][154]LogModuleManager: Shutting down and abandoning module Chaos (120)
+[2023.08.19-16.08.09:226][154]LogModuleManager: Shutting down and abandoning module GeometryCore (119)
+[2023.08.19-16.08.09:226][154]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (116)
+[2023.08.19-16.08.09:226][154]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (115)
+[2023.08.19-16.08.09:226][154]LogModuleManager: Shutting down and abandoning module AVEncoder (114)
+[2023.08.19-16.08.09:226][154]LogModuleManager: Shutting down and abandoning module D3D12RHI (110)
+[2023.08.19-16.08.09:226][154]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (108)
+[2023.08.19-16.08.09:226][154]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (106)
+[2023.08.19-16.08.09:226][154]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (104)
+[2023.08.19-16.08.09:226][154]LogModuleManager: Shutting down and abandoning module HairStrandsCore (102)
+[2023.08.19-16.08.09:226][154]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (100)
+[2023.08.19-16.08.09:226][154]LogModuleManager: Shutting down and abandoning module ChunkDownloader (98)
+[2023.08.19-16.08.09:226][154]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (96)
+[2023.08.19-16.08.09:226][154]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (94)
+[2023.08.19-16.08.09:226][154]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (92)
+[2023.08.19-16.08.09:228][154]LogModuleManager: Shutting down and abandoning module XMPP (87)
+[2023.08.19-16.08.09:229][154]LogModuleManager: Shutting down and abandoning module WebSockets (86)
+[2023.08.19-16.08.09:238][154]LogModuleManager: Shutting down and abandoning module HTTP (83)
+[2023.08.19-16.08.09:238][154]LogHttp: Warning: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2023.08.19-16.08.09:238][154]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B52427719-4415-71FE-315E-5EB40D21A8B8%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=1ce38f174454ea88647df287f084b646%7C335d09b7d27a4d119a3e6f7a7fc05fe4%7C74ffb627-6500-4148-ad31-43345307c4a8&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2023.08.19-16.08.09:238][154]LogHttp: Warning: Cleaning up 1 outstanding Http requests.
+[2023.08.19-16.08.09:250][154]LogModuleManager: Shutting down and abandoning module SSL (82)
+[2023.08.19-16.08.09:253][154]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (78)
+[2023.08.19-16.08.09:253][154]LogModuleManager: Shutting down and abandoning module WmfMedia (76)
+[2023.08.19-16.08.09:258][154]LogModuleManager: Shutting down and abandoning module Media (75)
+[2023.08.19-16.08.09:260][154]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (72)
+[2023.08.19-16.08.09:260][154]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (70)
+[2023.08.19-16.08.09:260][154]LogModuleManager: Shutting down and abandoning module NiagaraShader (68)
+[2023.08.19-16.08.09:260][154]LogModuleManager: Shutting down and abandoning module ChaosCloth (66)
+[2023.08.19-16.08.09:260][154]LogModuleManager: Shutting down and abandoning module VariantManagerContent (64)
+[2023.08.19-16.08.09:260][154]LogModuleManager: Shutting down and abandoning module DatasmithContent (62)
+[2023.08.19-16.08.09:261][154]LogModuleManager: Shutting down and abandoning module PixWinPlugin (60)
+[2023.08.19-16.08.09:261][154]LogModuleManager: Shutting down and abandoning module AISupportModule (58)
+[2023.08.19-16.08.09:261][154]LogModuleManager: Shutting down and abandoning module DesktopPlatform (56)
+[2023.08.19-16.08.09:261][154]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (54)
+[2023.08.19-16.08.09:261][154]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (52)
+[2023.08.19-16.08.09:261][154]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (50)
+[2023.08.19-16.08.09:261][154]LogModuleManager: Shutting down and abandoning module PlatformCrypto (48)
+[2023.08.19-16.08.09:261][154]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (46)
+[2023.08.19-16.08.09:262][154]LogModuleManager: Shutting down and abandoning module SourceControl (45)
+[2023.08.19-16.08.09:262][154]LogModuleManager: Shutting down and abandoning module XGEController (42)
+[2023.08.19-16.08.09:262][154]LogXGEController: Cleaning working directory: C:/Users/Moon/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2023.08.19-16.08.09:262][154]LogModuleManager: Shutting down and abandoning module FastBuildController (40)
+[2023.08.19-16.08.09:263][154]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2023.08.19-16.08.09:263][154]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2023.08.19-16.08.09:264][154]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2023.08.19-16.08.09:264][154]LogModuleManager: Shutting down and abandoning module Virtualization (32)
+[2023.08.19-16.08.09:264][154]LogModuleManager: Shutting down and abandoning module MessageLog (31)
+[2023.08.19-16.08.09:264][154]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2023.08.19-16.08.09:264][154]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2023.08.19-16.08.09:264][154]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2023.08.19-16.08.09:265][154]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2023.08.19-16.08.09:269][154]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2023.08.19-16.08.09:269][154]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2023.08.19-16.08.09:269][154]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2023.08.19-16.08.09:269][154]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2023.08.19-16.08.09:269][154]LogModuleManager: Shutting down and abandoning module SandboxFile (12)
+[2023.08.19-16.08.09:269][154]LogModuleManager: Shutting down and abandoning module PakFile (10)
+[2023.08.19-16.08.09:269][154]LogModuleManager: Shutting down and abandoning module RSA (9)
+[2023.08.19-16.08.09:269][154]LogModuleManager: Shutting down and abandoning module NetworkFile (6)
+[2023.08.19-16.08.09:269][154]LogModuleManager: Shutting down and abandoning module StreamingFile (4)
+[2023.08.19-16.08.09:269][154]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2023.08.19-16.08.09:401][154]LogD3D12RHI: Display: D3D12 ReleaseResources: 287 items to release
+[2023.08.19-16.08.09:401][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer0", 1902 x 1079 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2023.08.19-16.08.09:401][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer1", 1902 x 1079 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2023.08.19-16.08.09:401][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer2", 1902 x 1079 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2023.08.19-16.08.09:456][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene view state exposure readback", 16 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.08.19-16.08.09:456][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene view state exposure readback", 16 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.08.19-16.08.09:457][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene view state exposure readback", 16 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.08.19-16.08.09:457][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene view state exposure readback", 16 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.08.19-16.08.09:458][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "HitProxyCPUTexture", 3167520 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.08.19-16.08.09:459][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "HitProxyTexture", 1416 x 538 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:459][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "BufferedRT", 1416 x 538 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2023.08.19-16.08.09:459][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 114 x 114 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:460][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:460][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:460][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 114 x 114 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:460][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 114 x 114 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:461][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 114 x 114 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:461][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 114 x 114 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:462][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 114 x 114 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:462][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 114 x 114 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:463][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 114 x 114 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:463][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 114 x 114 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:463][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 114 x 114 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:464][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 114 x 114 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:464][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 114 x 114 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:464][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 114 x 114 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:465][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 114 x 114 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:465][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 114 x 114 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:465][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 114 x 114 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:466][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 114 x 114 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:466][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 114 x 114 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:466][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 114 x 114 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:467][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 114 x 114 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:467][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 114 x 114 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:468][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 114 x 114 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:468][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 114 x 114 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:469][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 114 x 114 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:469][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 114 x 114 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:470][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 114 x 114 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:470][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 114 x 114 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:471][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 114 x 114 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:472][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 114 x 114 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:473][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 114 x 114 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:473][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 114 x 114 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:473][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 114 x 114 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:474][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 114 x 114 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:474][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 114 x 114 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:475][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 114 x 114 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:476][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 114 x 114 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:476][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 114 x 114 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:477][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 114 x 114 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:477][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 114 x 114 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:478][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 114 x 114 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:478][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 114 x 114 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:479][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 114 x 114 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:479][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:480][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:480][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:481][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:482][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:482][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:483][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:483][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:483][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:484][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:484][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:485][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:485][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:486][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:486][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:487][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:488][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 114 x 114 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:488][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:489][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:489][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 114 x 114 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:490][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 114 x 114 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:490][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 114 x 114 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:491][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:492][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:493][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:493][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.VoxelVisBuffer", 25165824 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2023.08.19-16.08.09:494][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer0", 512 x 256 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2023.08.19-16.08.09:494][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer1", 512 x 256 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2023.08.19-16.08.09:494][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer2", 512 x 256 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2023.08.19-16.08.09:531][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.08.19-16.08.09:532][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.08.19-16.08.09:533][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.08.19-16.08.09:533][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.08.19-16.08.09:534][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:534][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:535][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.08.19-16.08.09:535][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.08.19-16.08.09:536][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.08.19-16.08.09:537][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.08.19-16.08.09:537][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:537][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:538][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.08.19-16.08.09:538][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.08.19-16.08.09:539][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.08.19-16.08.09:539][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.08.19-16.08.09:540][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:540][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:551][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.08.19-16.08.09:552][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.08.19-16.08.09:553][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.08.19-16.08.09:554][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.08.19-16.08.09:554][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:555][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:556][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.08.19-16.08.09:557][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.08.19-16.08.09:557][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.08.19-16.08.09:558][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.08.19-16.08.09:558][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:558][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:559][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.08.19-16.08.09:560][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.08.19-16.08.09:560][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.08.19-16.08.09:561][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.08.19-16.08.09:562][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:562][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:563][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:563][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:563][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:563][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:564][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:564][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:565][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:565][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:565][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:565][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:566][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:566][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:567][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:567][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:567][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:568][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:568][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:568][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:569][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:569][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:570][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:570][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:571][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:572][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:572][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:572][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:573][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:573][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:573][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:574][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:574][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:574][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:574][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:575][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:575][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:575][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:576][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:576][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:576][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:577][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:577][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "PrimitiveSceneDataTexture", 40 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2023.08.19-16.08.09:578][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "PrimitiveSceneDataTexture", 40 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2023.08.19-16.08.09:578][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleCurveTexture", 512 x 512 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:579][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.TranslucencyVolume.SHLightingNewHistory0", 45 x 17 x 26, Mips: 1, Format: 0xA, Flags: 0x4
+[2023.08.19-16.08.09:579][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.NumHistoryFramesAccumulated", 1416 x 540 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2023.08.19-16.08.09:579][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.CameraAPVolume0", 32 x 32 x 16, Mips: 1, Format: 0xA, Flags: 0x4
+[2023.08.19-16.08.09:580][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "GlobalDistanceFieldPageAtlas", 512 x 512 x 256, Mips: 1, Format: 0x3D, Flags: 0x4
+[2023.08.19-16.08.09:586][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "GlobalDistanceFieldCoverageAtlas", 256 x 256 x 128, Mips: 1, Format: 0x3D, Flags: 0x4
+[2023.08.19-16.08.09:586][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFieldPageTableCombined", 16 x 16 x 64, Mips: 1, Format: 0x39, Flags: 0x4
+[2023.08.19-16.08.09:587][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "GlobalSDFMipTexture", 56 x 56 x 224, Mips: 1, Format: 0x3D, Flags: 0x4
+[2023.08.19-16.08.09:587][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "GlobalDistanceFieldPageTableStationaryLayer", 16 x 16 x 64, Mips: 1, Format: 0x39, Flags: 0x4
+[2023.08.19-16.08.09:588][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "GlobalDistanceFieldPageTableMovableLayer", 16 x 16 x 64, Mips: 1, Format: 0x39, Flags: 0x4
+[2023.08.19-16.08.09:588][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.FastUpdateMode", 1416 x 540 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2023.08.19-16.08.09:589][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "EyeAdaptation", 1 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x5
+[2023.08.19-16.08.09:589][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.TranslucencyVolume.SHLightingNewHistory0", 45 x 17 x 26, Mips: 1, Format: 0x1A, Flags: 0x4
+[2023.08.19-16.08.09:590][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.DepthHistory", 1416 x 540 x 1, Mips: 1, Format: 0x29, Flags: 0x4
+[2023.08.19-16.08.09:591][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Editor.PrimitivesDepthHistory", 2832 x 1080 x 1, Mips: 1, Format: 0x29, Flags: 0x1
+[2023.08.19-16.08.09:591][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.SkyViewLut", 192 x 104 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2023.08.19-16.08.09:592][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "SceneColor", 1416 x 540 x 1, Mips: 1, Format: 0xA, Flags: 0x5
+[2023.08.19-16.08.09:592][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.LowFrequencies", 1416 x 540 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2023.08.19-16.08.09:593][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.TracingDepth", 354 x 135 x 1, Mips: 1, Format: 0x22, Flags: 0x5
+[2023.08.19-16.08.09:593][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.Tracing", 354 x 135 x 1, Mips: 1, Format: 0xA, Flags: 0x5
+[2023.08.19-16.08.09:594][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.VoxelLighting", 64 x 256 x 384, Mips: 1, Format: 0xA, Flags: 0x4
+[2023.08.19-16.08.09:595][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.DepthProbeAtlasTexture", 1024 x 1024 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2023.08.19-16.08.09:595][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeAtlasTextureSource", 1024 x 1024 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2023.08.19-16.08.09:595][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.FinalRadianceAtlas", 2048 x 2048 x 1, Mips: 3, Format: 0x1A, Flags: 0x4
+[2023.08.19-16.08.09:596][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Dummy", 1 x 1 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2023.08.19-16.08.09:596][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "OctahedralSolidAngleTexture", 16 x 16 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2023.08.19-16.08.09:597][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.LowFrequencies", 1416 x 540 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2023.08.19-16.08.09:597][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.DepthProbeAtlasTexture", 4096 x 4096 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2023.08.19-16.08.09:598][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeAtlasTextureSource", 4096 x 4096 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2023.08.19-16.08.09:600][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.FinalRadianceAtlas", 4352 x 4352 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2023.08.19-16.08.09:601][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.RealTimeSkyCapViewLut", 192 x 104 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2023.08.19-16.08.09:601][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.TranslucencyAlpha", 1416 x 540 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2023.08.19-16.08.09:602][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeIndirectionTexture", 72 x 24 x 24, Mips: 1, Format: 0x2A, Flags: 0x4
+[2023.08.19-16.08.09:602][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeIndirectionTexture", 72 x 24 x 24, Mips: 1, Format: 0x2A, Flags: 0x4
+[2023.08.19-16.08.09:603][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.HighFrequencies", 1416 x 540 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2023.08.19-16.08.09:603][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.Reconstruct", 708 x 269 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.08.19-16.08.09:604][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "EyeAdaptation", 1 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x5
+[2023.08.19-16.08.09:604][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "CombineLUTs", 32 x 32 x 32, Mips: 1, Format: 0x18, Flags: 0x1
+[2023.08.19-16.08.09:605][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.ReconstructDepth", 708 x 269 x 1, Mips: 1, Format: 0x22, Flags: 0x1
+[2023.08.19-16.08.09:605][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.SubpixelInfo", 1416 x 540 x 1, Mips: 1, Format: 0x39, Flags: 0x4
+[2023.08.19-16.08.09:606][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.Metadata", 1416 x 540 x 1, Mips: 1, Format: 0x31, Flags: 0x4
+[2023.08.19-16.08.09:606][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.Translucency", 1416 x 540 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2023.08.19-16.08.09:607][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.AccumulatedResolveVariance", 1416 x 540 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2023.08.19-16.08.09:607][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.ReconstructDepth", 708 x 269 x 1, Mips: 1, Format: 0x22, Flags: 0x1
+[2023.08.19-16.08.09:608][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.Reconstruct", 708 x 269 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.08.19-16.08.09:608][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.NumHistoryFramesAccumulated", 1416 x 540 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2023.08.19-16.08.09:609][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Editor.PrimitivesDepthHistory", 2832 x 1080 x 1, Mips: 1, Format: 0x29, Flags: 0x1
+[2023.08.19-16.08.09:609][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.HighFrequencies", 1416 x 540 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2023.08.19-16.08.09:610][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.TranslucencyAlpha", 1416 x 540 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2023.08.19-16.08.09:610][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.Translucency", 1416 x 540 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2023.08.19-16.08.09:610][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.SubpixelInfo", 1416 x 540 x 1, Mips: 1, Format: 0x39, Flags: 0x4
+[2023.08.19-16.08.09:611][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeIndirectionTexture", 192 x 48 x 48, Mips: 1, Format: 0x2A, Flags: 0x4
+[2023.08.19-16.08.09:612][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.Metadata", 1416 x 540 x 1, Mips: 1, Format: 0x31, Flags: 0x4
+[2023.08.19-16.08.09:612][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeFilteredRadiance", 712 x 408 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2023.08.19-16.08.09:613][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.Output", 1416 x 540 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2023.08.19-16.08.09:613][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.RealTimeSkyCapCamera360APLut", 32 x 32 x 16, Mips: 1, Format: 0xA, Flags: 0x4
+[2023.08.19-16.08.09:614][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeSceneDepth", 89 x 51 x 1, Mips: 1, Format: 0x2A, Flags: 0x4
+[2023.08.19-16.08.09:614][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.NumHistoryFramesAccumulated", 1416 x 540 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2023.08.19-16.08.09:615][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.FastUpdateMode", 1416 x 540 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2023.08.19-16.08.09:615][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.RoughSpecularIndirect", 1416 x 540 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2023.08.19-16.08.09:616][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeTranslatedWorldPosition", 89 x 51 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2023.08.19-16.08.09:616][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.SpecularIndirect", 1416 x 540 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2023.08.19-16.08.09:617][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.SpecularIndirect", 1416 x 540 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2023.08.19-16.08.09:618][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "GBufferA", 1416 x 540 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2023.08.19-16.08.09:618][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.DiffuseIndirect", 1416 x 540 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2023.08.19-16.08.09:619][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.AccumulatedResolveVariance", 1416 x 540 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2023.08.19-16.08.09:620][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.NumHistoryFramesAccumulated", 1416 x 540 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2023.08.19-16.08.09:620][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.RoughSpecularIndirect", 1416 x 540 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2023.08.19-16.08.09:621][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "GBufferA", 1416 x 540 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2023.08.19-16.08.09:622][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeTranslatedWorldPosition", 89 x 51 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2023.08.19-16.08.09:622][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeSceneDepth", 89 x 51 x 1, Mips: 1, Format: 0x2A, Flags: 0x4
+[2023.08.19-16.08.09:623][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeFilteredRadiance", 712 x 408 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2023.08.19-16.08.09:623][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeIndirectionTexture", 192 x 48 x 48, Mips: 1, Format: 0x2A, Flags: 0x4
+[2023.08.19-16.08.09:623][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.TranslucencyVolume.SHLightingNewHistory0", 45 x 17 x 26, Mips: 1, Format: 0xA, Flags: 0x4
+[2023.08.19-16.08.09:624][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.TranslucencyVolume.SHLightingNewHistory0", 45 x 17 x 26, Mips: 1, Format: 0x1A, Flags: 0x4
+[2023.08.19-16.08.09:624][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.TransmittanceLut", 256 x 64 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2023.08.19-16.08.09:625][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.MultiScatteredLuminanceLut", 32 x 32 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2023.08.19-16.08.09:625][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.DistantSkyLightLut", 1 x 1 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2023.08.19-16.08.09:626][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2023.08.19-16.08.09:626][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2023.08.19-16.08.09:627][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2023.08.19-16.08.09:628][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2023.08.19-16.08.09:629][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2023.08.19-16.08.09:629][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.RealTimeSkyCapCamera360APLut", 32 x 32 x 16, Mips: 1, Format: 0xA, Flags: 0x4
+[2023.08.19-16.08.09:630][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Dummy", 1 x 1 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2023.08.19-16.08.09:630][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Shadow.Virtual.PhysicalPagePool", 16384 x 4096 x 1, Mips: 1, Format: 0x2A, Flags: 0x4
+[2023.08.19-16.08.09:641][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2023.08.19-16.08.09:642][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneAlbedo", 4096 x 4096 x 1, Mips: 1, Format: 0x61, Flags: 0x0
+[2023.08.19-16.08.09:642][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneOpacity", 4096 x 4096 x 1, Mips: 1, Format: 0x50, Flags: 0x0
+[2023.08.19-16.08.09:642][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneDepth", 4096 x 4096 x 1, Mips: 1, Format: 0x23, Flags: 0x1
+[2023.08.19-16.08.09:643][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneNormal", 4096 x 4096 x 1, Mips: 1, Format: 0x53, Flags: 0x0
+[2023.08.19-16.08.09:643][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneEmissive", 4096 x 4096 x 1, Mips: 1, Format: 0x5F, Flags: 0x0
+[2023.08.19-16.08.09:643][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneDirectLighting", 4096 x 4096 x 1, Mips: 1, Format: 0x1A, Flags: 0x5
+[2023.08.19-16.08.09:644][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneIndirectLighting", 4096 x 4096 x 1, Mips: 1, Format: 0x1A, Flags: 0x5
+[2023.08.19-16.08.09:644][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneNumFramesAccumulatedAtlas", 4096 x 4096 x 1, Mips: 1, Format: 0x3D, Flags: 0x5
+[2023.08.19-16.08.09:646][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneFinalLighting", 4096 x 4096 x 1, Mips: 1, Format: 0x1A, Flags: 0x5
+[2023.08.19-16.08.09:647][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Radiosity.ProbeSHBlueAtlas", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2023.08.19-16.08.09:647][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Radiosity.ProbeSHGreenAtlas", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2023.08.19-16.08.09:648][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyLight.ConvolvedSkyRenderTarget0", 128 x 128 x 6, Mips: 8, Format: 0x1A, Flags: 0x5
+[2023.08.19-16.08.09:648][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyLight.CapturedSkyRenderTarget", 128 x 128 x 6, Mips: 8, Format: 0x1A, Flags: 0x5
+[2023.08.19-16.08.09:649][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyLight.ConvolvedSkyRenderTarget1", 128 x 128 x 6, Mips: 8, Format: 0x1A, Flags: 0x5
+[2023.08.19-16.08.09:649][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Radiosity.ProbeSHRedAtlas", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2023.08.19-16.08.09:650][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Radiosity.TraceRadianceAtlas", 4096 x 4096 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2023.08.19-16.08.09:652][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.RealTimeSkyCapViewLut", 192 x 104 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2023.08.19-16.08.09:653][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "HairLUT0", 1 x 1 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.08.19-16.08.09:653][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Hair.LUT(DualScattering)", 64 x 64 x 16, Mips: 1, Format: 0xA, Flags: 0x4
+[2023.08.19-16.08.09:653][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkySHIrradiance", 9 x 1 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.08.19-16.08.09:654][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "ReflectionColorScratchCubemap0", 128 x 128 x 6, Mips: 8, Format: 0xA, Flags: 0x1
+[2023.08.19-16.08.09:654][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "ReflectionColorScratchCubemap1", 128 x 128 x 6, Mips: 8, Format: 0xA, Flags: 0x1
+[2023.08.19-16.08.09:655][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "DiffuseIrradianceScratchCubemap1", 32 x 32 x 6, Mips: 6, Format: 0xA, Flags: 0x1
+[2023.08.19-16.08.09:655][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "DiffuseIrradianceScratchCubemap0", 32 x 32 x 6, Mips: 6, Format: 0xA, Flags: 0x1
+[2023.08.19-16.08.09:656][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.FixupProbeBordersIndirectArgs", 65532 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2023.08.19-16.08.09:656][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceCacheHardwareRayTracingIndirectArgs", 65532 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2023.08.19-16.08.09:657][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.FilterProbesIndirectArgs", 65532 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2023.08.19-16.08.09:657][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.CompactRayTraceDispatchIndirectArgs", 65532 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2023.08.19-16.08.09:658][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.CompactTracingIndirectArgs", 65532 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2023.08.19-16.08.09:658][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Shadow.Virtual.DrawIndirectArgsBuffer", 65536 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2023.08.19-16.08.09:659][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "InstanceCulling.DrawIndirectArgsBuffer", 65536 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2023.08.19-16.08.09:659][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "ShaderDraw.IndirectBuffer", 65536 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2023.08.19-16.08.09:660][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Nanite.MainAndPostNodesAndClusterBatchesBuffer", 44040192 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2023.08.19-16.08.09:662][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.ReflectionResolveTileIndirectArgs", 65532 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2023.08.19-16.08.09:662][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "Shadow.Virtual.ProcessGPUInstanceInvalidationsIndirectArgs", 65536 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2023.08.19-16.08.09:662][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.08.19-16.08.09:663][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.08.19-16.08.09:663][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.08.19-16.08.09:663][154]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.08.19-16.08.09:952][154]LogD3D12RHI: ~FD3D12DynamicRHI
+[2023.08.19-16.08.09:952][154]LogExit: Exiting.
+[2023.08.19-16.08.09:963][154]Log file closed, 08/20/23 01:08:09
