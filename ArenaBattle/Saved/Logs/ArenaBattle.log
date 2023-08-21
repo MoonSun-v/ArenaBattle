@@ -6369,3 +6369,1416 @@ Scale3D: 1.000000 1.000000 1.000000
 [2023.08.21-14.57.33:610][443]LogSavePackage: Moving '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Saved/Step2C2BCCF2E44F727C11DE328ADC080852F.tmp' to '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Maps/Step2.umap'
 [2023.08.21-14.57.33:650][443]AssetCheck: New page: 에셋 저장:  Step2
 [2023.08.21-14.57.33:650][443]LogContentValidation: Display: World /Game/Book/Maps/Step2.Step2 유효성 검사 중
+[2023.08.21-15.01.01:834][526]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.08.21-15.01.17:520][242]Running C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe  -projectfiles -project="C:/Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/ArenaBattle.uproject" -game -rocket -progress
+[2023.08.21-15.01.18:230][242]Log file: C:\Users\Moon\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2023.08.21-15.01.18:230][242]
+[2023.08.21-15.01.18:230][242]Some Platforms were skipped due to invalid SDK setup: IOS, Android, Linux, LinuxArm64.
+[2023.08.21-15.01.18:230][242]See the log file for detailed information
+[2023.08.21-15.01.18:230][242]
+[2023.08.21-15.01.18:331][242]Discovering modules, targets and source code for project...
+[2023.08.21-15.01.23:962][242]Binding IntelliSense data...
+[2023.08.21-15.01.29:396][242]Binding IntelliSense data... 100%
+[2023.08.21-15.01.29:396][242]Writing project files...
+[2023.08.21-15.01.43:383][242]Writing project files... 33%
+[2023.08.21-15.01.43:385][242]Writing project files... 100%
+[2023.08.21-15.01.43:500][242]LogVSAccessor: Warning: Couldn't save all documents
+[2023.08.21-15.01.43:540][242]Candidate modules for hot reload:
+[2023.08.21-15.01.43:540][242]  ArenaBattle
+[2023.08.21-15.01.43:561][242]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe  -ModuleWithSuffix=ArenaBattle,7298 ArenaBattleEditor Win64 Development -Project="C:/Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/ArenaBattle.uproject" "C:/Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/ArenaBattle.uproject"  -IgnoreJunk]
+[2023.08.21-15.01.47:305][242]LogDerivedDataCache: C:/Users/Moon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.943 and deleted 0 file(s) with total size 0 MiB.
+[2023.08.21-15.01.58:610][242]CompilerResultsLog: New page: 컴파일 - 2023. 8. 22. 오전 9:01:58
+[2023.08.21-15.01.58:610][242]CompilerResultsLog: Log file: C:\Users\Moon\AppData\Local\UnrealBuildTool\Log.txt
+[2023.08.21-15.01.58:610][242]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Moon\Documents\GitHub\ArenaBattle).
+[2023.08.21-15.01.58:611][242]CompilerResultsLog: Creating makefile for ArenaBattleEditor (no existing makefile)
+[2023.08.21-15.01.58:611][242]CompilerResultsLog: Parsing headers for ArenaBattleEditor
+[2023.08.21-15.01.58:611][242]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\ArenaBattle.uproject" "C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\ArenaBattleEditor\Development\ArenaBattleEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Moon\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2023.08.21-15.01.58:611][242]CompilerResultsLog: Reflection code generated for ArenaBattleEditor in 5.5650365 seconds
+[2023.08.21-15.01.58:611][242]CompilerResultsLog: Building ArenaBattleEditor...
+[2023.08.21-15.01.58:611][242]CompilerResultsLog: Using Visual Studio 2019 14.29.30151 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.08.21-15.01.58:611][242]CompilerResultsLog: [Adaptive Build] Excluded from ArenaBattle unity file: ABAnimInstance.cpp
+[2023.08.21-15.01.58:611][242]CompilerResultsLog: Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+[2023.08.21-15.01.58:611][242]CompilerResultsLog:   Executing up to 8 processes, one per physical core
+[2023.08.21-15.01.58:611][242]CompilerResultsLog: Building 6 actions with 6 processes...
+[2023.08.21-15.01.58:611][242]CompilerResultsLog: [1/6] Compile ArenaBattle.init.gen.cpp
+[2023.08.21-15.01.58:611][242]CompilerResultsLog: [2/6] Compile ABAnimInstance.gen.cpp
+[2023.08.21-15.01.58:611][242]CompilerResultsLog: [3/6] Compile ABAnimInstance.cpp
+[2023.08.21-15.01.58:611][242]CompilerResultsLog: [4/6] Link UnrealEditor-ArenaBattle-7298.lib
+[2023.08.21-15.01.58:611][242]CompilerResultsLog:    C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-7298.lib ???̺귯?? ?? C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-7298.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.08.21-15.01.58:611][242]CompilerResultsLog: [5/6] Link UnrealEditor-ArenaBattle-7298.dll
+[2023.08.21-15.01.58:611][242]CompilerResultsLog:    C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-7298.suppressed.lib ???̺귯?? ?? C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-7298.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.08.21-15.01.58:611][242]CompilerResultsLog: [6/6] WriteMetadata ArenaBattleEditor.target
+[2023.08.21-15.01.58:611][242]CompilerResultsLog: Total time in Parallel executor: 4.05 seconds
+[2023.08.21-15.01.58:611][242]CompilerResultsLog: Total execution time: 14.81 seconds
+[2023.08.21-15.01.58:611][242]LogMainFrame: MainFrame: Module compiling took 15.111 seconds
+[2023.08.21-15.01.58:970][242]LogClass: /Script/ArenaBattle Reload.
+[2023.08.21-15.01.58:970][242]LogClass: Could not find existing class ABAnimInstance in package /Script/ArenaBattle for reload, assuming new or modified class
+[2023.08.21-15.01.59:000][242]Re-instancing ABCharacter after reload.
+[2023.08.21-15.01.59:288][242]Display: HotReload took 15.8s.
+[2023.08.21-15.01.59:288][242]Display: Reload/Re-instancing Complete: 1 package changed, 1 class new, 5 classes unchanged
+[2023.08.21-15.01.59:292][242]Warning: HotReload operation took 15.8s.
+[2023.08.21-15.01.59:347][242]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2023.08.21-15.01.59:353][242]LogSlate: Window 'C++ 클래스 추가' being destroyed
+[2023.08.21-15.02.00:121][242]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2023.08.21-15.02.00:123][242]LogHotReload: New module detected: UnrealEditor-ArenaBattle-7298.dll
+[2023.08.21-15.02.00:179][243]LogHotReload: Starting Hot-Reload from IDE
+[2023.08.21-15.02.00:544][243]Display: HotReload took  0.4s.
+[2023.08.21-15.02.00:545][243]Display: Reload/Re-instancing Complete: No object changes detected
+[2023.08.21-15.02.01:367][243]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2023.08.21-15.02.01:448][244]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2023.08.21-15.02.01:789][245]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2023.08.21-15.02.02:120][246]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2023.08.21-15.02.02:454][247]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2023.08.21-15.02.02:788][248]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2023.08.21-15.02.03:120][249]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2023.08.21-15.02.03:453][250]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2023.08.21-15.02.03:787][251]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2023.08.21-15.02.04:120][252]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2023.08.21-15.02.04:455][253]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2023.08.21-15.02.04:789][254]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2023.08.21-15.02.05:122][255]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2023.08.21-15.02.05:460][256]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2023.08.21-15.02.05:792][257]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2023.08.21-15.02.06:128][258]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2023.08.21-15.02.06:466][259]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2023.08.21-15.02.06:805][260]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2023.08.21-15.02.07:138][261]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2023.08.21-15.02.07:475][262]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2023.08.21-15.06.11:979][ 43]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Book/Animation/WarriorAnimBlueprint.WarriorAnimBlueprint
+[2023.08.21-15.06.11:980][ 43]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.21-15.06.12:011][ 43]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.21-15.06.12:027][ 43]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.21-15.06.13:660][ 43]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.21-15.06.13:815][ 43]LogViewport: Scene viewport resized to 234x391, mode Windowed.
+[2023.08.21-15.06.13:913][ 43]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.08.21-15.10.41:202][999]LogViewport: Scene viewport resized to 235x391, mode Windowed.
+[2023.08.21-15.10.41:279][999]LogViewport: Scene viewport resized to 272x391, mode Windowed.
+[2023.08.21-15.10.41:371][999]LogViewport: Scene viewport resized to 283x391, mode Windowed.
+[2023.08.21-15.10.42:171][ 24]LogViewport: Scene viewport resized to 317x391, mode Windowed.
+[2023.08.21-15.10.42:267][ 26]LogViewport: Scene viewport resized to 460x391, mode Windowed.
+[2023.08.21-15.11.34:002][733]LogViewport: Scene viewport resized to 160x160, mode Windowed.
+[2023.08.21-15.12.19:567][317]LogSlate: Window 'WarriorAnimBlueprint' being destroyed
+[2023.08.21-15.12.19:577][317]LogSlate: Window 'WarriorAnimBlueprint' being destroyed
+[2023.08.21-15.12.19:601][317]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.08.21-15.12.19:601][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-15.12.19:637][317]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.08.21-15.12.19:637][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-15.12.19:808][317]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.08.21-15.12.19:808][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-15.12.21:510][408]LogVSAccessor: Warning: Couldn't save all documents
+[2023.08.21-15.12.21:550][408]Candidate modules for hot reload:
+[2023.08.21-15.12.21:550][408]  ArenaBattle
+[2023.08.21-15.12.21:563][408]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe  -ModuleWithSuffix=ArenaBattle,7897 ArenaBattleEditor Win64 Development -Project="C:/Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/ArenaBattle.uproject" "C:/Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/ArenaBattle.uproject"  -IgnoreJunk]
+[2023.08.21-15.12.21:572][408]Warning: Starting HotReload took  0.1s.
+[2023.08.21-15.12.23:363][470]LogViewport: Scene viewport resized to 1051x539, mode Windowed.
+[2023.08.21-15.12.23:461][470]LogViewport: Scene viewport resized to 1168x539, mode Windowed.
+[2023.08.21-15.12.23:564][470]LogViewport: Scene viewport resized to 1180x539, mode Windowed.
+[2023.08.21-15.12.23:680][470]LogViewport: Scene viewport resized to 1200x539, mode Windowed.
+[2023.08.21-15.12.23:785][470]LogViewport: Scene viewport resized to 1254x539, mode Windowed.
+[2023.08.21-15.12.23:889][470]LogViewport: Scene viewport resized to 1300x539, mode Windowed.
+[2023.08.21-15.12.46:233][486]CompilerResultsLog: New page: 컴파일 - 2023. 8. 22. 오전 9:12:46
+[2023.08.21-15.12.46:233][486]CompilerResultsLog: Log file: C:\Users\Moon\AppData\Local\UnrealBuildTool\Log.txt
+[2023.08.21-15.12.46:233][486]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Moon\Documents\GitHub\ArenaBattle).
+[2023.08.21-15.12.46:233][486]CompilerResultsLog: Invalidating makefile for ArenaBattleEditor (working set of source files changed)
+[2023.08.21-15.12.46:233][486]CompilerResultsLog: Parsing headers for ArenaBattleEditor
+[2023.08.21-15.12.46:233][486]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\ArenaBattle.uproject" "C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\ArenaBattleEditor\Development\ArenaBattleEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Moon\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2023.08.21-15.12.46:234][486]CompilerResultsLog: Reflection code generated for ArenaBattleEditor in 5.7342778 seconds
+[2023.08.21-15.12.46:234][486]CompilerResultsLog: Building ArenaBattleEditor...
+[2023.08.21-15.12.46:234][486]CompilerResultsLog: Using Visual Studio 2019 14.29.30151 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.08.21-15.12.46:234][486]CompilerResultsLog: [Adaptive Build] Excluded from ArenaBattle unity file: ABAnimInstance.cpp
+[2023.08.21-15.12.46:234][486]CompilerResultsLog: Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+[2023.08.21-15.12.46:234][486]CompilerResultsLog:   Executing up to 8 processes, one per physical core
+[2023.08.21-15.12.46:234][486]CompilerResultsLog: Building 6 actions with 6 processes...
+[2023.08.21-15.12.46:234][486]CompilerResultsLog: [1/6] Compile ArenaBattle.init.gen.cpp
+[2023.08.21-15.12.46:234][486]CompilerResultsLog: [2/6] Compile ABAnimInstance.cpp
+[2023.08.21-15.12.46:234][486]CompilerResultsLog: [3/6] Compile ABAnimInstance.gen.cpp
+[2023.08.21-15.12.46:234][486]CompilerResultsLog: [4/6] Link UnrealEditor-ArenaBattle-7897.lib
+[2023.08.21-15.12.46:234][486]CompilerResultsLog:    C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-7897.lib ???̺귯?? ?? C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-7897.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.08.21-15.12.46:234][486]CompilerResultsLog: [5/6] Link UnrealEditor-ArenaBattle-7897.dll
+[2023.08.21-15.12.46:234][486]CompilerResultsLog:    C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-7897.suppressed.lib ???̺귯?? ?? C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-7897.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.08.21-15.12.46:234][486]CompilerResultsLog: [6/6] WriteMetadata ArenaBattleEditor.target
+[2023.08.21-15.12.46:234][486]CompilerResultsLog: Total time in Parallel executor: 13.44 seconds
+[2023.08.21-15.12.46:234][486]CompilerResultsLog: Total execution time: 24.41 seconds
+[2023.08.21-15.12.46:234][486]LogMainFrame: MainFrame: Module compiling took 24.723 seconds
+[2023.08.21-15.12.46:660][486]LogClass: /Script/ArenaBattle Reload.
+[2023.08.21-15.12.46:660][486]LogClass: ABAnimInstance Reload.
+[2023.08.21-15.12.46:660][486]LogClass: Could not find existing class ABAnimInstance in package /Script/ArenaBattle for reload, assuming new or modified class
+[2023.08.21-15.12.46:710][486]Re-instancing ABAnimInstance after reload.
+[2023.08.21-15.12.47:214][486]Display: HotReload took 25.7s.
+[2023.08.21-15.12.47:214][486]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed, 5 classes unchanged
+[2023.08.21-15.13.33:072][912]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Book/Animation/WarriorAnimBlueprint.WarriorAnimBlueprint
+[2023.08.21-15.13.33:073][912]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.21-15.13.33:107][912]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.21-15.13.33:120][912]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.21-15.13.34:472][912]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.21-15.13.34:621][912]LogViewport: Scene viewport resized to 460x392, mode Windowed.
+[2023.08.21-15.13.34:701][912]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.08.21-15.14.43:800][390]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.08.21-15.14.46:645][479]LogBlueprint: Warning: Reparenting blueprint AnimBlueprint /Game/Book/Animation/WarriorAnimBlueprint.WarriorAnimBlueprint from AnimInstance to ABAnimInstance...
+[2023.08.21-15.14.46:666][479]BlueprintLog: New page: WarriorAnimBlueprint 컴파일
+[2023.08.21-15.14.47:099][479]LogUObjectHash: Compacting FUObjectHashTables data took   7.54ms
+[2023.08.21-15.14.51:088][619]BlueprintLog: New page: WarriorAnimBlueprint 컴파일
+[2023.08.21-15.14.51:323][619]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2023.08.21-15.14.52:084][636]LogSavePackage: Moving output files for package: /Game/Book/Animation/WarriorAnimBlueprint
+[2023.08.21-15.14.52:086][636]LogSavePackage: Moving '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Saved/WarriorAnimBlueprintE357C0F5404C114C47FE0A98FE95E780.tmp' to '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Animation/WarriorAnimBlueprint.uasset'
+[2023.08.21-15.14.52:111][636]AssetCheck: New page: 에셋 저장:  WarriorAnimBlueprint
+[2023.08.21-15.14.52:111][636]LogContentValidation: Display: AnimBlueprint /Game/Book/Animation/WarriorAnimBlueprint.WarriorAnimBlueprint 유효성 검사 중
+[2023.08.21-15.16.51:071][738]LogViewport: Scene viewport resized to 160x160, mode Windowed.
+[2023.08.21-15.17.09:342][279]BlueprintLog: New page: WarriorAnimBlueprint 컴파일
+[2023.08.21-15.17.09:462][279]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2023.08.21-15.17.10:401][298]LogSavePackage: Moving output files for package: /Game/Book/Animation/WarriorAnimBlueprint
+[2023.08.21-15.17.10:403][298]LogSavePackage: Moving '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Saved/WarriorAnimBlueprintFF5FF423451290C623EF1C9AC0993403.tmp' to '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Animation/WarriorAnimBlueprint.uasset'
+[2023.08.21-15.17.10:429][298]AssetCheck: New page: 에셋 저장:  WarriorAnimBlueprint
+[2023.08.21-15.17.10:429][298]LogContentValidation: Display: AnimBlueprint /Game/Book/Animation/WarriorAnimBlueprint.WarriorAnimBlueprint 유효성 검사 중
+[2023.08.21-15.17.19:466][569]LogSavePackage: Moving output files for package: /Game/Book/Animation/WarriorAnimBlueprint
+[2023.08.21-15.17.19:467][569]LogSavePackage: Moving '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Saved/WarriorAnimBlueprint0194BADB40F4A8F359FDC396BE8515A5.tmp' to '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Animation/WarriorAnimBlueprint.uasset'
+[2023.08.21-15.17.19:492][569]AssetCheck: New page: 에셋 저장:  WarriorAnimBlueprint
+[2023.08.21-15.17.19:492][569]LogContentValidation: Display: AnimBlueprint /Game/Book/Animation/WarriorAnimBlueprint.WarriorAnimBlueprint 유효성 검사 중
+[2023.08.21-15.17.48:131][474]LogSlate: Window 'WarriorAnimBlueprint' being destroyed
+[2023.08.21-15.17.48:142][474]LogSlate: Window 'WarriorAnimBlueprint' being destroyed
+[2023.08.21-15.17.48:164][474]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.08.21-15.17.48:164][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-15.17.48:182][474]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.08.21-15.17.48:182][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-15.17.48:342][474]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.08.21-15.17.48:342][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-15.23.29:629][953]LogVSAccessor: Warning: Couldn't save all documents
+[2023.08.21-15.23.29:672][953]Candidate modules for hot reload:
+[2023.08.21-15.23.29:672][953]  ArenaBattle
+[2023.08.21-15.23.29:687][953]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe  -ModuleWithSuffix=ArenaBattle,6266 ArenaBattleEditor Win64 Development -Project="C:/Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/ArenaBattle.uproject" "C:/Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/ArenaBattle.uproject"  -IgnoreJunk]
+[2023.08.21-15.23.29:696][953]Warning: Starting HotReload took  0.1s.
+[2023.08.21-15.23.56:121][ 98]CompilerResultsLog: New page: 컴파일 - 2023. 8. 22. 오전 9:23:56
+[2023.08.21-15.23.56:121][ 98]CompilerResultsLog: Log file: C:\Users\Moon\AppData\Local\UnrealBuildTool\Log.txt
+[2023.08.21-15.23.56:121][ 98]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Moon\Documents\GitHub\ArenaBattle).
+[2023.08.21-15.23.56:121][ 98]CompilerResultsLog: Invalidating makefile for ArenaBattleEditor (working set of source files changed)
+[2023.08.21-15.23.56:121][ 98]CompilerResultsLog: Parsing headers for ArenaBattleEditor
+[2023.08.21-15.23.56:121][ 98]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\ArenaBattle.uproject" "C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\ArenaBattleEditor\Development\ArenaBattleEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Moon\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2023.08.21-15.23.56:122][ 98]CompilerResultsLog: Reflection code generated for ArenaBattleEditor in 5.8916299 seconds
+[2023.08.21-15.23.56:122][ 98]CompilerResultsLog: Building ArenaBattleEditor...
+[2023.08.21-15.23.56:122][ 98]CompilerResultsLog: Using Visual Studio 2019 14.29.30151 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.08.21-15.23.56:122][ 98]CompilerResultsLog: [Adaptive Build] Excluded from ArenaBattle unity file: ABAnimInstance.cpp
+[2023.08.21-15.23.56:122][ 98]CompilerResultsLog: Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+[2023.08.21-15.23.56:122][ 98]CompilerResultsLog:   Executing up to 8 processes, one per physical core
+[2023.08.21-15.23.56:122][ 98]CompilerResultsLog: Building 5 actions with 5 processes...
+[2023.08.21-15.23.56:122][ 98]CompilerResultsLog: [1/5] Compile ABAnimInstance.cpp
+[2023.08.21-15.23.56:122][ 98]CompilerResultsLog: [2/5] Compile ABAnimInstance.gen.cpp
+[2023.08.21-15.23.56:122][ 98]CompilerResultsLog: [3/5] Link UnrealEditor-ArenaBattle-6266.lib
+[2023.08.21-15.23.56:122][ 98]CompilerResultsLog:    C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-6266.lib ???̺귯?? ?? C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-6266.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.08.21-15.23.56:122][ 98]CompilerResultsLog: [4/5] Link UnrealEditor-ArenaBattle-6266.dll
+[2023.08.21-15.23.56:122][ 98]CompilerResultsLog:    C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-6266.suppressed.lib ???̺귯?? ?? C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-6266.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.08.21-15.23.56:122][ 98]CompilerResultsLog: [5/5] WriteMetadata ArenaBattleEditor.target
+[2023.08.21-15.23.56:122][ 98]CompilerResultsLog: Total time in Parallel executor: 14.92 seconds
+[2023.08.21-15.23.56:122][ 98]CompilerResultsLog: Total execution time: 26.17 seconds
+[2023.08.21-15.23.56:122][ 98]LogMainFrame: MainFrame: Module compiling took 26.493 seconds
+[2023.08.21-15.23.56:898][ 98]Display: HotReload took 27.3s.
+[2023.08.21-15.23.56:898][ 98]Display: Reload/Re-instancing Complete: 1 package changed, 6 classes unchanged
+[2023.08.21-15.24.00:667][242]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2023.08.21-15.24.00:684][242]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.21-15.24.00:684][242]PIE: New page: PIE 세션: Step2 (2023. 8. 22. 오전 9:24:00)
+[2023.08.21-15.24.00:684][242]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2023.08.21-15.24.00:688][242]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003648s)
+[2023.08.21-15.24.00:688][242]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.003793s)
+[2023.08.21-15.24.00:688][242]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.08.21-15.24.00:688][242]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.21-15.24.00:689][242]LogAIModule: Creating AISystem for world Step2
+[2023.08.21-15.24.00:689][242]LogPlayLevel: PIE: World Init took: (0.001830s)
+[2023.08.21-15.24.00:844][242]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2023.08.21-15.24.00:861][242]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2023.08.21-15.24.00:861][242]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.21-15.24.00:861][242]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.21-15.24.00:861][242]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.21-15.24.00:861][242]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.21-15.24.00:861][242]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.21-15.24.00:862][242]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.21-15.24.00:862][242]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.21-15.24.00:862][242]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.21-15.24.00:862][242]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.21-15.24.00:863][242]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.21-15.24.00:863][242]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.21-15.24.00:867][242]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.21-15.24.00:944][242]LogAudioMixer: Display: Using Audio Hardware Device Audio(THX Spatial Audio)
+[2023.08.21-15.24.00:945][242]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.21-15.24.00:945][242]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.21-15.24.00:945][242]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.21-15.24.00:946][242]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2023.08.21-15.24.00:946][242]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2023.08.21-15.24.00:951][242]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2023.08.21-15.24.00:951][242]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2023.08.21-15.24.00:951][242]LogInit: FAudioDevice initialized.
+[2023.08.21-15.24.00:951][242]LogAudio: Display: Audio Device (ID: 20) registered with world 'Step2'.
+[2023.08.21-15.24.00:976][242]LogLoad: Game class is 'ABGameMode'
+[2023.08.21-15.24.00:977][242]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 60) at 2023.08.22-00.24.00
+[2023.08.21-15.24.00:977][242]LogWorld: Bringing up level for play took: 0.001251
+[2023.08.21-15.24.00:981][242]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2023.08.21-15.24.00:981][242]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(9)
+[2023.08.21-15.24.00:982][242]ArenaBattle: Warning: AABGameMode::PostLogin(19) PostLogin
+[2023.08.21-15.24.00:983][242]ArenaBattle: Warning: AABPlayerController::OnPossess(14)
+[2023.08.21-15.24.00:983][242]ArenaBattle: Warning: AABGameMode::PostLogin(21) PostLogin End
+[2023.08.21-15.24.00:983][242]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.08.21-15.24.00:984][242]PIE: 서버가 로그인했습니다.
+[2023.08.21-15.24.00:985][242]PIE: 에디터에서 플레이 총 시작 시간 0.301초입니다.
+[2023.08.21-15.24.04:043][393]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.21-15.24.04:043][393]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2023.08.21-15.24.04:043][393]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2023.08.21-15.24.04:045][393]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-15.24.04:066][393]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.21-15.24.04:074][393]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-15.24.04:116][393]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.21-15.24.04:116][393]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.08.21-15.24.04:119][393]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.08.21-15.24.04:127][393]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.21-15.24.04:189][393]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2023.08.21-15.24.04:288][394]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2023.08.21-15.24.05:101][431]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Maps/Step2" FILE="../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Maps/Step2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.21-15.24.05:144][431]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2023.08.21-15.24.05:162][431]LogSavePackage: Moving output files for package: /Game/Book/Maps/Step2
+[2023.08.21-15.24.05:164][431]LogSavePackage: Moving '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Saved/Step262823906490CFAD970D8619DBE899F4D.tmp' to '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Maps/Step2.umap'
+[2023.08.21-15.24.05:221][431]AssetCheck: New page: 에셋 저장:  Step2
+[2023.08.21-15.24.05:222][431]LogContentValidation: Display: World /Game/Book/Maps/Step2.Step2 유효성 검사 중
+[2023.08.21-15.25.28:757][381]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Book/Animation/WarriorAnimBlueprint.WarriorAnimBlueprint
+[2023.08.21-15.25.28:757][381]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.21-15.25.28:796][381]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.21-15.25.28:810][381]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.21-15.25.30:185][381]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.21-15.25.30:341][381]LogViewport: Scene viewport resized to 461x393, mode Windowed.
+[2023.08.21-15.26.03:353][457]LogSavePackage: Moving output files for package: /Game/Book/Animation/WarriorAnimBlueprint
+[2023.08.21-15.26.03:355][457]LogSavePackage: Moving '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Saved/WarriorAnimBlueprint9CE6E6B24F89E940D68A3C832521E134.tmp' to '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Animation/WarriorAnimBlueprint.uasset'
+[2023.08.21-15.26.03:382][457]AssetCheck: New page: 에셋 저장:  WarriorAnimBlueprint
+[2023.08.21-15.26.03:382][457]LogContentValidation: Display: AnimBlueprint /Game/Book/Animation/WarriorAnimBlueprint.WarriorAnimBlueprint 유효성 검사 중
+[2023.08.21-15.27.56:603][394]BlueprintLog: New page: WarriorAnimBlueprint 컴파일
+[2023.08.21-15.27.56:735][394]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2023.08.21-15.27.57:623][414]LogSavePackage: Moving output files for package: /Game/Book/Animation/WarriorAnimBlueprint
+[2023.08.21-15.27.57:624][414]LogSavePackage: Moving '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Saved/WarriorAnimBlueprint6DDE8F964D476615FFCEE884971E7F6B.tmp' to '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Animation/WarriorAnimBlueprint.uasset'
+[2023.08.21-15.27.57:650][414]AssetCheck: New page: 에셋 저장:  WarriorAnimBlueprint
+[2023.08.21-15.27.57:650][414]LogContentValidation: Display: AnimBlueprint /Game/Book/Animation/WarriorAnimBlueprint.WarriorAnimBlueprint 유효성 검사 중
+[2023.08.21-15.28.05:474][681]LogSavePackage: Moving output files for package: /Game/Book/Animation/WarriorAnimBlueprint
+[2023.08.21-15.28.05:475][681]LogSavePackage: Moving '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Saved/WarriorAnimBlueprint740FDAC2475C1B3DD3A57AA5BAA0660B.tmp' to '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Animation/WarriorAnimBlueprint.uasset'
+[2023.08.21-15.28.05:501][681]AssetCheck: New page: 에셋 저장:  WarriorAnimBlueprint
+[2023.08.21-15.28.05:501][681]LogContentValidation: Display: AnimBlueprint /Game/Book/Animation/WarriorAnimBlueprint.WarriorAnimBlueprint 유효성 검사 중
+[2023.08.21-15.28.18:910][158]LogSlateStyle: Warning: 'CoreStyle' 스타일의 리소스 누락: ''Graph.Node.Comment.TextColor' 컬러를 찾을 수 없습니다.'
+[2023.08.21-15.28.50:339][236]BlueprintLog: New page: WarriorAnimBlueprint 컴파일
+[2023.08.21-15.28.50:454][236]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2023.08.21-15.28.51:351][257]LogSavePackage: Moving output files for package: /Game/Book/Animation/WarriorAnimBlueprint
+[2023.08.21-15.28.51:353][257]LogSavePackage: Moving '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Saved/WarriorAnimBlueprint68721C504478F58D7374508199968C27.tmp' to '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Animation/WarriorAnimBlueprint.uasset'
+[2023.08.21-15.28.51:385][257]AssetCheck: New page: 에셋 저장:  WarriorAnimBlueprint
+[2023.08.21-15.28.51:386][257]LogContentValidation: Display: AnimBlueprint /Game/Book/Animation/WarriorAnimBlueprint.WarriorAnimBlueprint 유효성 검사 중
+[2023.08.21-15.29.40:713][ 17]LogSlate: Window 'WarriorAnimBlueprint' being destroyed
+[2023.08.21-15.29.40:725][ 17]LogSlate: Window 'WarriorAnimBlueprint' being destroyed
+[2023.08.21-15.29.40:744][ 17]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.08.21-15.29.40:744][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-15.29.40:763][ 17]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.08.21-15.29.40:763][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-15.29.40:937][ 17]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.08.21-15.29.40:937][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-15.29.43:679][148]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.08.21-15.29.43:876][148]LogUObjectGlobals: Warning: 'Class 없음.Physics' 오브젝트를 찾는 데 실패했습니다.
+[2023.08.21-15.30.05:064][149]LogSlate: Window '프로젝트 세팅' being destroyed
+[2023.08.21-15.30.05:093][149]LogSlate: Window '프로젝트 세팅' being destroyed
+[2023.08.21-15.42.37:263][525]LogVSAccessor: Warning: Couldn't save all documents
+[2023.08.21-15.42.37:298][525]Candidate modules for hot reload:
+[2023.08.21-15.42.37:298][525]  ArenaBattle
+[2023.08.21-15.42.37:314][525]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe  -ModuleWithSuffix=ArenaBattle,1469 ArenaBattleEditor Win64 Development -Project="C:/Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/ArenaBattle.uproject" "C:/Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/ArenaBattle.uproject"  -IgnoreJunk]
+[2023.08.21-15.42.37:324][525]Warning: Starting HotReload took  0.1s.
+[2023.08.21-15.43.05:834][696]CompilerResultsLog: New page: 컴파일 - 2023. 8. 22. 오전 9:43:05
+[2023.08.21-15.43.05:834][696]CompilerResultsLog: Log file: C:\Users\Moon\AppData\Local\UnrealBuildTool\Log.txt
+[2023.08.21-15.43.05:834][696]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Moon\Documents\GitHub\ArenaBattle).
+[2023.08.21-15.43.05:834][696]CompilerResultsLog: Invalidating makefile for ArenaBattleEditor (working set of source files changed)
+[2023.08.21-15.43.05:834][696]CompilerResultsLog: Parsing headers for ArenaBattleEditor
+[2023.08.21-15.43.05:834][696]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\ArenaBattle.uproject" "C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\ArenaBattleEditor\Development\ArenaBattleEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Moon\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2023.08.21-15.43.05:834][696]CompilerResultsLog: Reflection code generated for ArenaBattleEditor in 6.5560466 seconds
+[2023.08.21-15.43.05:834][696]CompilerResultsLog: Building ArenaBattleEditor...
+[2023.08.21-15.43.05:834][696]CompilerResultsLog: Using Visual Studio 2019 14.29.30151 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.08.21-15.43.05:834][696]CompilerResultsLog: [Adaptive Build] Excluded from ArenaBattle unity file: ABAnimInstance.cpp, ABCharacter.cpp
+[2023.08.21-15.43.05:834][696]CompilerResultsLog: Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+[2023.08.21-15.43.05:834][696]CompilerResultsLog:   Executing up to 8 processes, one per physical core
+[2023.08.21-15.43.05:834][696]CompilerResultsLog: Building 7 actions with 7 processes...
+[2023.08.21-15.43.05:834][696]CompilerResultsLog: [1/7] Compile ArenaBattle.init.gen.cpp
+[2023.08.21-15.43.05:834][696]CompilerResultsLog: [2/7] Compile ABAnimInstance.gen.cpp
+[2023.08.21-15.43.05:834][696]CompilerResultsLog: [3/7] Compile ABAnimInstance.cpp
+[2023.08.21-15.43.05:834][696]CompilerResultsLog: [4/7] Compile ABCharacter.cpp
+[2023.08.21-15.43.05:834][696]CompilerResultsLog: [5/7] Link UnrealEditor-ArenaBattle-1469.lib
+[2023.08.21-15.43.05:834][696]CompilerResultsLog:    C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-1469.lib ???̺귯?? ?? C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-1469.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.08.21-15.43.05:835][696]CompilerResultsLog: [6/7] Link UnrealEditor-ArenaBattle-1469.dll
+[2023.08.21-15.43.05:835][696]CompilerResultsLog:    C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-1469.suppressed.lib ???̺귯?? ?? C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-1469.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.08.21-15.43.05:835][696]CompilerResultsLog: [7/7] WriteMetadata ArenaBattleEditor.target
+[2023.08.21-15.43.05:835][696]CompilerResultsLog: Total time in Parallel executor: 15.88 seconds
+[2023.08.21-15.43.05:835][696]CompilerResultsLog: Total execution time: 28.13 seconds
+[2023.08.21-15.43.05:835][696]LogMainFrame: MainFrame: Module compiling took 28.571 seconds
+[2023.08.21-15.43.06:196][696]LogClass: /Script/ArenaBattle Reload.
+[2023.08.21-15.43.06:196][696]LogClass: ABAnimInstance Reload.
+[2023.08.21-15.43.06:196][696]LogClass: Could not find existing class ABAnimInstance in package /Script/ArenaBattle for reload, assuming new or modified class
+[2023.08.21-15.43.06:238][696]Re-instancing ABAnimInstance after reload.
+[2023.08.21-15.43.06:357][696]Re-instancing ABCharacter after reload.
+[2023.08.21-15.43.06:691][696]Display: HotReload took 29.4s.
+[2023.08.21-15.43.06:691][696]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed, 5 classes unchanged
+[2023.08.21-15.46.51:214][997]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Book/Animation/WarriorAnimBlueprint.WarriorAnimBlueprint
+[2023.08.21-15.46.51:215][997]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.21-15.46.51:252][997]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.21-15.46.51:265][997]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.21-15.46.52:784][997]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.21-15.46.52:963][997]LogViewport: Scene viewport resized to 461x394, mode Windowed.
+[2023.08.21-15.48.30:206][226]BlueprintLog: New page: WarriorAnimBlueprint 컴파일
+[2023.08.21-15.48.30:464][226]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2023.08.21-15.48.31:263][246]LogSavePackage: Moving output files for package: /Game/Book/Animation/WarriorAnimBlueprint
+[2023.08.21-15.48.31:265][246]LogSavePackage: Moving '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Saved/WarriorAnimBlueprint35AAC26B4B4EAB72DF3748A407DD2EC8.tmp' to '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Animation/WarriorAnimBlueprint.uasset'
+[2023.08.21-15.48.31:294][246]AssetCheck: New page: 에셋 저장:  WarriorAnimBlueprint
+[2023.08.21-15.48.31:294][246]LogContentValidation: Display: AnimBlueprint /Game/Book/Animation/WarriorAnimBlueprint.WarriorAnimBlueprint 유효성 검사 중
+[2023.08.21-15.48.40:056][554]LogSavePackage: Moving output files for package: /Game/Book/Animation/WarriorAnimBlueprint
+[2023.08.21-15.48.40:058][554]LogSavePackage: Moving '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Saved/WarriorAnimBlueprintDF2B6BFF40A1D8A416C01BBE4184F24D.tmp' to '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Animation/WarriorAnimBlueprint.uasset'
+[2023.08.21-15.48.40:087][554]AssetCheck: New page: 에셋 저장:  WarriorAnimBlueprint
+[2023.08.21-15.48.40:087][554]LogContentValidation: Display: AnimBlueprint /Game/Book/Animation/WarriorAnimBlueprint.WarriorAnimBlueprint 유효성 검사 중
+[2023.08.21-15.48.40:342][564]BlueprintLog: New page: WarriorAnimBlueprint 컴파일
+[2023.08.21-15.48.40:532][564]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2023.08.21-15.48.50:216][907]LogSavePackage: Moving output files for package: /Game/Book/Animation/WarriorAnimBlueprint
+[2023.08.21-15.48.50:218][907]LogSavePackage: Moving '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Saved/WarriorAnimBlueprint81AFEEB249F5E57F809A70AAD81989F0.tmp' to '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Animation/WarriorAnimBlueprint.uasset'
+[2023.08.21-15.48.50:244][907]AssetCheck: New page: 에셋 저장:  WarriorAnimBlueprint
+[2023.08.21-15.48.50:244][907]LogContentValidation: Display: AnimBlueprint /Game/Book/Animation/WarriorAnimBlueprint.WarriorAnimBlueprint 유효성 검사 중
+[2023.08.21-15.48.54:077][  1]LogSlate: Window 'WarriorAnimBlueprint' being destroyed
+[2023.08.21-15.48.54:090][  1]LogSlate: Window 'WarriorAnimBlueprint' being destroyed
+[2023.08.21-15.48.54:108][  1]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.08.21-15.48.54:108][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-15.48.54:124][  1]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.08.21-15.48.54:125][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-15.48.54:297][  1]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.08.21-15.48.54:297][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-15.48.56:415][107]LogVSAccessor: Warning: Couldn't save all documents
+[2023.08.21-15.48.56:455][107]Candidate modules for hot reload:
+[2023.08.21-15.48.56:456][107]  ArenaBattle
+[2023.08.21-15.48.56:470][107]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe  -ModuleWithSuffix=ArenaBattle,8666 ArenaBattleEditor Win64 Development -Project="C:/Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/ArenaBattle.uproject" "C:/Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/ArenaBattle.uproject"  -IgnoreJunk]
+[2023.08.21-15.48.56:479][107]Warning: Starting HotReload took  0.1s.
+[2023.08.21-15.49.01:770][176]CompilerResultsLog: New page: 컴파일 - 2023. 8. 22. 오전 9:49:01
+[2023.08.21-15.49.01:770][176]CompilerResultsLog: Log file: C:\Users\Moon\AppData\Local\UnrealBuildTool\Log.txt
+[2023.08.21-15.49.01:770][176]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Moon\Documents\GitHub\ArenaBattle).
+[2023.08.21-15.49.01:770][176]CompilerResultsLog: Building ArenaBattleEditor...
+[2023.08.21-15.49.01:770][176]CompilerResultsLog: Using Visual Studio 2019 14.29.30151 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.08.21-15.49.01:770][176]CompilerResultsLog: [Adaptive Build] Excluded from ArenaBattle unity file: ABAnimInstance.cpp, ABCharacter.cpp
+[2023.08.21-15.49.01:770][176]CompilerResultsLog: Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+[2023.08.21-15.49.01:770][176]CompilerResultsLog:   Executing up to 8 processes, one per physical core
+[2023.08.21-15.49.01:770][176]CompilerResultsLog: Building 3 actions with 3 processes...
+[2023.08.21-15.49.01:770][176]CompilerResultsLog: [1/3] Link UnrealEditor-ArenaBattle-8666.lib
+[2023.08.21-15.49.01:770][176]CompilerResultsLog:    C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-8666.lib ???̺귯?? ?? C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-8666.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.08.21-15.49.01:770][176]CompilerResultsLog: [2/3] Link UnrealEditor-ArenaBattle-8666.dll
+[2023.08.21-15.49.01:770][176]CompilerResultsLog:    C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-8666.suppressed.lib ???̺귯?? ?? C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-8666.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.08.21-15.49.01:770][176]CompilerResultsLog: [3/3] WriteMetadata ArenaBattleEditor.target
+[2023.08.21-15.49.01:770][176]CompilerResultsLog: Total time in Parallel executor: 2.44 seconds
+[2023.08.21-15.49.01:770][176]CompilerResultsLog: Total execution time: 4.75 seconds
+[2023.08.21-15.49.01:770][176]LogMainFrame: MainFrame: Module compiling took 5.355 seconds
+[2023.08.21-15.49.02:509][176]Display: HotReload took  6.1s.
+[2023.08.21-15.49.02:509][176]Display: Reload/Re-instancing Complete: 1 package changed, 6 classes unchanged
+[2023.08.21-15.49.11:096][321]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2023.08.21-15.49.11:112][321]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.21-15.49.11:113][321]PIE: New page: PIE 세션: Step2 (2023. 8. 22. 오전 9:49:11)
+[2023.08.21-15.49.11:113][321]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2023.08.21-15.49.11:116][321]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003613s)
+[2023.08.21-15.49.11:116][321]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.003755s)
+[2023.08.21-15.49.11:116][321]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.08.21-15.49.11:117][321]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.21-15.49.11:117][321]LogAIModule: Creating AISystem for world Step2
+[2023.08.21-15.49.11:117][321]LogPlayLevel: PIE: World Init took: (0.001520s)
+[2023.08.21-15.49.11:270][321]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2023.08.21-15.49.11:290][321]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2023.08.21-15.49.11:290][321]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.21-15.49.11:290][321]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.21-15.49.11:290][321]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.21-15.49.11:290][321]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.21-15.49.11:290][321]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.21-15.49.11:290][321]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.21-15.49.11:290][321]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.21-15.49.11:290][321]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.21-15.49.11:291][321]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.21-15.49.11:291][321]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.21-15.49.11:291][321]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.21-15.49.11:295][321]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.21-15.49.11:382][321]LogAudioMixer: Display: Using Audio Hardware Device Audio(THX Spatial Audio)
+[2023.08.21-15.49.11:382][321]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.21-15.49.11:382][321]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.21-15.49.11:382][321]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.21-15.49.11:383][321]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2023.08.21-15.49.11:383][321]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2023.08.21-15.49.11:387][321]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2023.08.21-15.49.11:387][321]LogInit: FAudioDevice initialized.
+[2023.08.21-15.49.11:387][321]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2023.08.21-15.49.11:387][321]LogAudio: Display: Audio Device (ID: 21) registered with world 'Step2'.
+[2023.08.21-15.49.11:411][321]LogLoad: Game class is 'ABGameMode'
+[2023.08.21-15.49.11:412][321]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 60) at 2023.08.22-00.49.11
+[2023.08.21-15.49.11:412][321]LogWorld: Bringing up level for play took: 0.001132
+[2023.08.21-15.49.11:417][321]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2023.08.21-15.49.11:417][321]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(9)
+[2023.08.21-15.49.11:417][321]ArenaBattle: Warning: AABGameMode::PostLogin(19) PostLogin
+[2023.08.21-15.49.11:418][321]ArenaBattle: Warning: AABPlayerController::OnPossess(14)
+[2023.08.21-15.49.11:419][321]ArenaBattle: Warning: AABGameMode::PostLogin(21) PostLogin End
+[2023.08.21-15.49.11:420][321]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.08.21-15.49.11:420][321]PIE: 서버가 로그인했습니다.
+[2023.08.21-15.49.11:421][321]PIE: 에디터에서 플레이 총 시작 시간 0.31초입니다.
+[2023.08.21-15.49.18:381][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.21-15.49.18:381][729]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2023.08.21-15.49.18:382][729]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2023.08.21-15.49.18:382][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-15.49.18:407][729]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.21-15.49.18:415][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-15.49.18:457][729]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.21-15.49.18:468][729]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.08.21-15.49.18:471][729]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.08.21-15.49.18:478][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.21-15.49.18:537][729]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2023.08.21-15.49.18:634][730]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2023.08.21-15.51.10:657][129]LogViewport: Scene viewport resized to 1298x539, mode Windowed.
+[2023.08.21-15.51.10:753][129]LogViewport: Scene viewport resized to 1037x539, mode Windowed.
+[2023.08.21-15.51.10:852][129]LogViewport: Scene viewport resized to 987x539, mode Windowed.
+[2023.08.21-15.51.10:962][129]LogViewport: Scene viewport resized to 978x539, mode Windowed.
+[2023.08.21-15.52.19:807][400]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin_Skeleton.SK_Mannequin_Skeleton
+[2023.08.21-15.52.20:141][400]LogTexture: Display: 텍스처 빌드 중: /Game/Characters/Mannequin_UE4/Textures/T_UELogo_Mask.T_UELogo_Mask(TFO_AutoDXT, 512X512 X1X1)(필요 메모리 예상: 5.000MB), 인코딩 속도: Fast
+[2023.08.21-15.52.20:141][400]LogTexture: Display: 텍스처 빌드 중: /Game/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01_N.T_ML_Aluminum01_N(TFO_BC5, 512X512 X1X1)(필요 메모리 예상: 5.000MB), 인코딩 속도: Fast
+[2023.08.21-15.52.20:141][400]LogTexture: Display: 텍스처 빌드 중: /Game/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_D.T_ML_Rubber_Blue_01_D(TFO_AutoDXT, 512X512 X1X1)(필요 메모리 예상: 5.000MB), 인코딩 속도: Fast
+[2023.08.21-15.52.20:141][400]LogTexture: Display: 텍스처 빌드 중: /Game/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01.T_ML_Aluminum01(TFO_AutoDXT, 512X512 X1X1)(필요 메모리 예상: 5.000MB), 인코딩 속도: Fast
+[2023.08.21-15.52.20:141][400]LogTexture: Display: 텍스처 빌드 중: /Game/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_N.T_ML_Rubber_Blue_01_N(TFO_BC5, 512X512 X1X1)(필요 메모리 예상: 5.000MB), 인코딩 속도: Fast
+[2023.08.21-15.52.20:141][400]LogTexture: Display: 텍스처 빌드 중: /Game/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin_MAT_MASKA.T_UE4_Mannequin_MAT_MASKA(TFO_AutoDXT, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2023.08.21-15.52.20:141][400]LogTexture: Display: 텍스처 빌드 중: /Game/Characters/Mannequin_UE4/Textures/T_UELogo_N_TGA.T_UELogo_N_TGA(TFO_BC5, 512X512 X1X1)(필요 메모리 예상: 5.000MB), 인코딩 속도: Fast
+[2023.08.21-15.52.20:142][400]LogMaterial: Display: Missing cached shadermap for M_MannequinUE4_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 467EDF54512C69430575D17746BF6269B0E78DEC), compiling. 
+[2023.08.21-15.52.20:416][400]LogTexture: Display: 텍스처 빌드 중: /Game/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin__normals.T_UE4_Mannequin__normals(TFO_BC5, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2023.08.21-15.52.20:416][400]LogMaterial: Display: Missing cached shadermap for M_MannequinUE4_ChestLogo in PCD3D_SM5, Default, SM5 (DDC key hash: 283C14E850C687648250DA598D0BAC9C001ECE60), compiling. 
+[2023.08.21-15.52.20:625][400]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2023.08.21-15.52.20:625][400]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.21-15.52.20:668][400]LogSkeletalMesh: Display: 스켈레탈 메시가 준비 되기를 기다리는 중 0/1 (SK_Mannequin)...
+[2023.08.21-15.52.20:757][400]LogSkeletalMesh: Built Skeletal Mesh [0.14s] /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin.SK_Mannequin
+[2023.08.21-15.52.20:757][400]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.21-15.52.21:273][400]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.21-15.52.21:456][400]LogViewport: Scene viewport resized to 862x840, mode Windowed.
+[2023.08.21-15.52.24:536][463]LogShaderCompilers: Display: ================================================
+[2023.08.21-15.52.24:536][463]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.08.21-15.52.24:536][463]LogShaderCompilers: Display: Total job queries 160, among them cache hits 0 (0.00%)
+[2023.08.21-15.52.24:536][463]LogShaderCompilers: Display: Tracking 33 distinct input hashes that result in 15 distinct outputs (45.45%)
+[2023.08.21-15.52.24:537][463]LogShaderCompilers: Display: RAM used: 0.04 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.08.21-15.52.24:537][463]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.08.21-15.52.24:537][463]LogShaderCompilers: Display: Shaders Compiled: 160
+[2023.08.21-15.52.24:537][463]LogShaderCompilers: Display: Jobs assigned 97, completed 33 (34.02%)
+[2023.08.21-15.52.24:537][463]LogShaderCompilers: Display: Average time worker was idle: 5147.00 s
+[2023.08.21-15.52.24:537][463]LogShaderCompilers: Display: Time job spent in pending queue: average 0.44 s, longest 7.99 s
+[2023.08.21-15.52.24:537][463]LogShaderCompilers: Display: Job execution time: average 7.75 s, max 10.46 s
+[2023.08.21-15.52.24:537][463]LogShaderCompilers: Display: Job life time (pending + execution): average 8.86 s, max 10.55
+[2023.08.21-15.52.24:537][463]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 14.64 s
+[2023.08.21-15.52.24:537][463]LogShaderCompilers: Display: Jobs were issued in 23 batches (only local compilation was used), average 4.22 jobs/batch
+[2023.08.21-15.52.24:537][463]LogShaderCompilers: Display: Average processing rate: 2.25 jobs/sec
+[2023.08.21-15.52.24:537][463]LogShaderCompilers: Display: Effective parallelization: 4.69 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.08.21-15.52.24:537][463]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.08.21-15.52.24:537][463]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    2 times, average 2.47 sec, max 2.50 sec, min 2.43 sec)
+[2023.08.21-15.52.24:537][463]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    2 times, average 2.43 sec, max 2.45 sec, min 2.42 sec)
+[2023.08.21-15.52.24:537][463]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 2.43 sec, max 2.49 sec, min 2.36 sec)
+[2023.08.21-15.52.24:537][463]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 2.35 sec, max 2.41 sec, min 2.28 sec)
+[2023.08.21-15.52.24:537][463]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    2 times, average 2.22 sec, max 2.26 sec, min 2.18 sec)
+[2023.08.21-15.52.24:538][463]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.08.21-15.52.24:538][463]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.53% of total time (compiled    3 times, average 1.95 sec, max 2.20 sec, min 1.68 sec)
+[2023.08.21-15.52.24:538][463]LogShaderCompilers: Display:                                             FDebugViewModePS - 7.18% of total time (compiled    2 times, average 2.47 sec, max 2.50 sec, min 2.43 sec)
+[2023.08.21-15.52.24:538][463]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 7.09% of total time (compiled    2 times, average 2.43 sec, max 2.45 sec, min 2.42 sec)
+[2023.08.21-15.52.24:538][463]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 7.07% of total time (compiled    2 times, average 2.43 sec, max 2.49 sec, min 2.36 sec)
+[2023.08.21-15.52.24:538][463]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 6.84% of total time (compiled    2 times, average 2.35 sec, max 2.41 sec, min 2.28 sec)
+[2023.08.21-15.52.24:538][463]LogShaderCompilers: Display: ================================================
+[2023.08.21-15.53.16:602][717]LogSlate: Window 'SK_Mannequin_Skeleton' being destroyed
+[2023.08.21-15.53.16:612][717]LogSlate: Window 'SK_Mannequin_Skeleton' being destroyed
+[2023.08.21-15.53.16:616][717]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2023.08.21-15.53.16:616][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-15.53.16:748][717]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2023.08.21-15.53.16:748][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-15.53.19:303][852]LogViewport: Scene viewport resized to 1038x539, mode Windowed.
+[2023.08.21-15.53.19:407][852]LogViewport: Scene viewport resized to 1205x539, mode Windowed.
+[2023.08.21-15.54.04:935][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Maps/Step2" FILE="../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Maps/Step2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.21-15.54.04:998][410]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2023.08.21-15.54.05:022][410]LogSavePackage: Moving output files for package: /Game/Book/Maps/Step2
+[2023.08.21-15.54.05:024][410]LogSavePackage: Moving '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Saved/Step2C6E6C6AF4D77F44755C2C0B3282E3593.tmp' to '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Maps/Step2.umap'
+[2023.08.21-15.54.05:070][410]AssetCheck: New page: 에셋 저장:  Step2
+[2023.08.21-15.54.05:070][410]LogContentValidation: Display: World /Game/Book/Maps/Step2.Step2 유효성 검사 중
+[2023.08.21-15.57.26:816][829]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin_Skeleton.SK_Mannequin_Skeleton
+[2023.08.21-15.57.26:818][829]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.21-15.57.26:858][829]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.21-15.57.27:287][829]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.21-15.57.27:429][829]LogViewport: Scene viewport resized to 863x842, mode Windowed.
+[2023.08.21-15.57.38:672][217]LogSlate: Window 'SK_Mannequin_Skeleton' being destroyed
+[2023.08.21-15.57.38:684][217]LogSlate: Window 'SK_Mannequin_Skeleton' being destroyed
+[2023.08.21-15.57.38:687][217]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2023.08.21-15.57.38:687][217]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-15.57.38:820][217]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2023.08.21-15.57.38:821][217]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-15.58.47:409][273]LogSlate: Window '스켈레탈 메시 선택' being destroyed
+[2023.08.21-15.58.47:427][273]LogContentBrowser: Deferred new asset file creation: NewIKRig
+[2023.08.21-15.58.47:435][273]LogContentBrowser: Creating deferred item: NewIKRig
+[2023.08.21-15.58.47:451][274]LogContentBrowser: Renaming the item being created (Deferred Item: NewIKRig).
+[2023.08.21-15.58.51:889][531]LogViewport: Scene viewport resized to 1202x539, mode Windowed.
+[2023.08.21-15.58.51:984][531]LogViewport: Scene viewport resized to 975x539, mode Windowed.
+[2023.08.21-15.58.52:080][531]LogViewport: Scene viewport resized to 911x539, mode Windowed.
+[2023.08.21-15.59.47:296][327]LogContentBrowser: Attempting asset rename: NewIKRig -> IKRigMannequin
+[2023.08.21-15.59.47:299][327]LogContentBrowser: End creating deferred item NewIKRig
+[2023.08.21-16.00.21:652][997]LogSlate: Window '스켈레탈 메시 선택' being destroyed
+[2023.08.21-16.00.21:671][997]LogContentBrowser: Deferred new asset file creation: NewIKRig
+[2023.08.21-16.00.21:679][997]LogContentBrowser: Creating deferred item: NewIKRig
+[2023.08.21-16.00.21:695][998]LogContentBrowser: Renaming the item being created (Deferred Item: NewIKRig).
+[2023.08.21-16.00.34:019][738]LogContentBrowser: Attempting asset rename: NewIKRig -> IKRigCardboard
+[2023.08.21-16.00.34:020][738]LogContentBrowser: End creating deferred item NewIKRig
+[2023.08.21-16.01.02:840][ 79]LogSlate: Window 'IK 릭을 선택하여 다음에서 애니메이션 복사' being destroyed
+[2023.08.21-16.01.02:853][ 79]LogContentBrowser: Deferred new asset file creation: NewIKRetargeter
+[2023.08.21-16.01.02:860][ 79]LogContentBrowser: Creating deferred item: NewIKRetargeter
+[2023.08.21-16.01.02:877][ 80]LogContentBrowser: Renaming the item being created (Deferred Item: NewIKRetargeter).
+[2023.08.21-16.01.19:487][  6]LogContentBrowser: Attempting asset rename: NewIKRetargeter -> IKRetargeter
+[2023.08.21-16.01.19:497][  6]LogContentBrowser: End creating deferred item NewIKRetargeter
+[2023.08.21-16.01.20:966][ 81]LogAssetEditorSubsystem: Opening Asset editor for IKRetargeter /Game/Book/Animation/IKRetargeter.IKRetargeter
+[2023.08.21-16.01.20:969][ 81]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.21-16.01.20:993][ 81]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.21-16.01.21:207][ 81]LogViewport: Scene viewport resized to 847x844, mode Windowed.
+[2023.08.21-16.01.21:298][ 81]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.08.21-16.01.39:062][694]LogTemp: Warning: IK Retargeter could not find source root bone, None in mesh SK_Mannequin
+[2023.08.21-16.01.39:062][694]LogTemp: Warning: IK Retargeter unable to initialize source root, 'None' on skeletal mesh: 'SK_Mannequin'
+[2023.08.21-16.01.39:062][694]LogTemp: Warning: IK Retargeter could not find target root bone, None in mesh SK_CharM_Cardboard
+[2023.08.21-16.01.39:062][694]LogTemp: Warning: IK Retargeter unable to initialize target root, 'None' on skeletal mesh: 'SK_CharM_Cardboard'
+[2023.08.21-16.01.39:062][694]LogTemp: Error: IK Retargeter unable to initialize one or more root bones on source, SK_Mannequin and target, SK_CharM_Cardboard
+[2023.08.21-16.01.39:062][694]LogTemp: Warning: IK Retargeter unable to create any Bone Chain pairs between source, SK_Mannequin and target, SK_CharM_Cardboard
+[2023.08.21-16.01.46:689][825]LogDerivedDataCache: C:/Users/Moon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.211 and deleted 0 file(s) with total size 0 MiB.
+[2023.08.21-16.02.27:718][ 25]LogSlate: Window 'IKRetargeter' being destroyed
+[2023.08.21-16.02.27:730][ 25]LogSlate: Window 'IKRetargeter' being destroyed
+[2023.08.21-16.02.27:731][ 25]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2023.08.21-16.02.27:731][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-16.02.43:139][413]LogSlate: Window '스켈레탈 메시 선택' being destroyed
+[2023.08.21-16.02.43:155][413]LogContentBrowser: Deferred new asset file creation: NewIKRig
+[2023.08.21-16.02.43:162][413]LogContentBrowser: Creating deferred item: NewIKRig
+[2023.08.21-16.02.43:180][414]LogContentBrowser: Renaming the item being created (Deferred Item: NewIKRig).
+[2023.08.21-16.02.59:590][385]LogContentBrowser: Attempting asset rename: NewIKRig -> IKRigWarrior
+[2023.08.21-16.02.59:592][385]LogContentBrowser: End creating deferred item NewIKRig
+[2023.08.21-16.03.09:731][890]LogAssetEditorSubsystem: Opening Asset editor for IKRetargeter /Game/Book/Animation/IKRetargeter.IKRetargeter
+[2023.08.21-16.03.09:732][890]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.21-16.03.09:766][890]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.21-16.03.09:766][890]LogTemp: Warning: IK Retargeter could not find source root bone, None in mesh SK_Mannequin
+[2023.08.21-16.03.09:766][890]LogTemp: Warning: IK Retargeter unable to initialize source root, 'None' on skeletal mesh: 'SK_Mannequin'
+[2023.08.21-16.03.09:766][890]LogTemp: Warning: IK Retargeter could not find target root bone, None in mesh SK_CharM_Cardboard
+[2023.08.21-16.03.09:766][890]LogTemp: Warning: IK Retargeter unable to initialize target root, 'None' on skeletal mesh: 'SK_CharM_Cardboard'
+[2023.08.21-16.03.09:766][890]LogTemp: Error: IK Retargeter unable to initialize one or more root bones on source, SK_Mannequin and target, SK_CharM_Cardboard
+[2023.08.21-16.03.09:766][890]LogTemp: Warning: IK Retargeter unable to create any Bone Chain pairs between source, SK_Mannequin and target, SK_CharM_Cardboard
+[2023.08.21-16.03.09:964][890]LogViewport: Scene viewport resized to 848x846, mode Windowed.
+[2023.08.21-16.03.10:057][890]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.08.21-16.03.13:123][993]LogSlate: Window 'IKRetargeter' being destroyed
+[2023.08.21-16.03.13:136][993]LogSlate: Window 'IKRetargeter' being destroyed
+[2023.08.21-16.03.13:137][993]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2023.08.21-16.03.13:137][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-16.03.15:831][115]LogSlateStyle: Warning: 'Window.Buttons.Close' 슬레이트 위젯 스타일을 찾을 수 없습니다. 대신 FButtonStyle 디폴트를 사용합니다.
+[2023.08.21-16.03.15:831][115]LogSlateStyle: Warning: 'Window.Buttons.Close' 슬레이트 위젯 스타일을 찾을 수 없습니다. 대신 FButtonStyle 디폴트를 사용합니다.
+[2023.08.21-16.03.16:446][135]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2023.08.21-16.03.23:763][135]LogSlate: Window 'Delete Assets' being destroyed
+[2023.08.21-16.03.23:825][135]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2023.08.21-16.03.23:876][135]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2023.08.21-16.03.23:923][135]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.08.21-16.03.38:632][544]LogSlate: Window 'IK 릭을 선택하여 다음에서 애니메이션 복사' being destroyed
+[2023.08.21-16.03.38:685][544]LogContentBrowser: Deferred new asset file creation: NewIKRetargeter
+[2023.08.21-16.03.38:692][544]LogContentBrowser: Creating deferred item: NewIKRetargeter
+[2023.08.21-16.03.38:710][545]LogContentBrowser: Renaming the item being created (Deferred Item: NewIKRetargeter).
+[2023.08.21-16.03.46:963][ 29]LogContentBrowser: Attempting asset rename: NewIKRetargeter -> IKRetargeterWarrior
+[2023.08.21-16.03.46:965][ 29]LogContentBrowser: End creating deferred item NewIKRetargeter
+[2023.08.21-16.03.48:468][109]LogAssetEditorSubsystem: Opening Asset editor for IKRetargeter /Game/Book/Animation/IKRetargeterWarrior.IKRetargeterWarrior
+[2023.08.21-16.03.48:469][109]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.21-16.03.48:501][109]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.21-16.03.48:700][109]LogViewport: Scene viewport resized to 849x848, mode Windowed.
+[2023.08.21-16.03.48:783][109]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.08.21-16.03.51:796][203]LogTemp: Warning: IK Retargeter could not find source root bone, None in mesh SK_CharM_Warrior
+[2023.08.21-16.03.51:796][203]LogTemp: Warning: IK Retargeter unable to initialize source root, 'None' on skeletal mesh: 'SK_CharM_Warrior'
+[2023.08.21-16.03.51:796][203]LogTemp: Warning: IK Retargeter could not find target root bone, None in mesh SK_CharM_Cardboard
+[2023.08.21-16.03.51:796][203]LogTemp: Warning: IK Retargeter unable to initialize target root, 'None' on skeletal mesh: 'SK_CharM_Cardboard'
+[2023.08.21-16.03.51:796][203]LogTemp: Error: IK Retargeter unable to initialize one or more root bones on source, SK_CharM_Warrior and target, SK_CharM_Cardboard
+[2023.08.21-16.03.51:796][203]LogTemp: Warning: IK Retargeter unable to create any Bone Chain pairs between source, SK_CharM_Warrior and target, SK_CharM_Cardboard
+[2023.08.21-16.05.10:906][136]LogSlate: Window 'IKRetargeterWarrior' being destroyed
+[2023.08.21-16.05.10:918][136]LogSlate: Window 'IKRetargeterWarrior' being destroyed
+[2023.08.21-16.05.10:919][136]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2023.08.21-16.05.10:919][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-16.05.29:500][493]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_anim.Manny_upperarm_r_anim
+[2023.08.21-16.05.29:500][493]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_anim.Manny_upperarm_l_anim
+[2023.08.21-16.05.29:687][493]LogSkeletalMesh: Building Skeletal Mesh SKM_Manny...
+[2023.08.21-16.05.29:687][493]LogSlate: Window 'IK 릭을 선택하여 다음에서 애니메이션 복사' being destroyed
+[2023.08.21-16.05.29:750][493]LogContentBrowser: Deferred new asset file creation: NewIKRetargeter
+[2023.08.21-16.05.29:764][493]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.Manny_calf_l_anim
+[2023.08.21-16.05.29:764][493]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_anim.Manny_calf_r_anim
+[2023.08.21-16.05.29:764][493]LogContentBrowser: Creating deferred item: NewIKRetargeter
+[2023.08.21-16.05.29:792][494]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_anim.Manny_clavicle_l_anim
+[2023.08.21-16.05.29:792][494]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_anim.Manny_clavicle_r_anim
+[2023.08.21-16.05.29:792][494]LogContentBrowser: Renaming the item being created (Deferred Item: NewIKRetargeter).
+[2023.08.21-16.05.29:814][496]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_anim.Manny_foot_l_anim
+[2023.08.21-16.05.29:815][496]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_anim.Manny_foot_r_anim
+[2023.08.21-16.05.29:834][497]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_anim.Manny_hand_r_anim
+[2023.08.21-16.05.29:834][497]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_anim.Manny_hand_l_anim
+[2023.08.21-16.05.29:845][497]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_anim.Manny_lowerarm_l_anim
+[2023.08.21-16.05.29:846][497]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_anim.Manny_lowerarm_r_anim
+[2023.08.21-16.05.30:079][499]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_anim.Manny_thigh_r_anim
+[2023.08.21-16.05.30:079][499]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_anim.Manny_thigh_l_anim
+[2023.08.21-16.05.32:771][657]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 2 
+[2023.08.21-16.05.33:296][688]LogContentBrowser: Attempting asset rename: NewIKRetargeter -> NewIKRetargeter
+[2023.08.21-16.05.33:300][688]LogContentBrowser: End creating deferred item NewIKRetargeter
+[2023.08.21-16.05.36:076][837]LogContentBrowser: Attempting asset rename: NewIKRetargeter -> NewIKRetargeter
+[2023.08.21-16.05.38:530][972]LogAssetEditorSubsystem: Opening Asset editor for IKRetargeter /Game/Book/Animation/NewIKRetargeter.NewIKRetargeter
+[2023.08.21-16.05.38:531][972]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.21-16.05.38:581][972]LogSkeletalMesh: Display: 스켈레탈 메시가 준비 되기를 기다리는 중 0/1 (SKM_Manny)...
+[2023.08.21-16.05.40:535][972]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s
+[2023.08.21-16.05.41:809][972]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 3 
+[2023.08.21-16.05.48:567][972]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' exceeded budget of 10.000000s, reporting...
+[2023.08.21-16.05.51:286][972]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' report submitted, and took 0.049983s
+[2023.08.21-16.05.54:250][972]LogSkeletalMesh: Built Skeletal Mesh [24.67s] /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2023.08.21-16.05.54:406][972]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' complete in 0.004031s (3.168940s overbudget)
+[2023.08.21-16.05.54:418][972]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.21-16.05.54:606][972]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.002501s (11.401502s overbudget)
+[2023.08.21-16.05.54:641][972]LogViewport: Scene viewport resized to 850x850, mode Windowed.
+[2023.08.21-16.05.54:729][972]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.08.21-16.06.10:337][486]LogTemp: Warning: IK Retargeter could not find target root bone, None in mesh SK_CharM_Cardboard
+[2023.08.21-16.06.10:337][486]LogTemp: Warning: IK Retargeter unable to initialize target root, 'None' on skeletal mesh: 'SK_CharM_Cardboard'
+[2023.08.21-16.06.10:337][486]LogTemp: Error: IK Retargeter unable to initialize one or more root bones on source, SKM_Manny and target, SK_CharM_Cardboard
+[2023.08.21-16.06.10:337][486]LogTemp: Warning: IK Retargeter unable to create any Bone Chain pairs between source, SKM_Manny and target, SK_CharM_Cardboard
+[2023.08.21-16.06.24:269][951]LogTemp: Warning: IK Retargeter could not find target root bone, None in mesh SK_CharM_Cardboard
+[2023.08.21-16.06.24:269][951]LogTemp: Warning: IK Retargeter unable to initialize target root, 'None' on skeletal mesh: 'SK_CharM_Cardboard'
+[2023.08.21-16.06.24:269][951]LogTemp: Error: IK Retargeter unable to initialize one or more root bones on source, SKM_Manny and target, SK_CharM_Cardboard
+[2023.08.21-16.06.24:269][951]LogTemp: Warning: IK Retargeter unable to create any Bone Chain pairs between source, SKM_Manny and target, SK_CharM_Cardboard
+[2023.08.21-16.06.36:431][332]LogSlate: Window 'NewIKRetargeter' being destroyed
+[2023.08.21-16.06.36:445][332]LogSlate: Window 'NewIKRetargeter' being destroyed
+[2023.08.21-16.06.36:446][332]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2023.08.21-16.06.36:446][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-16.06.38:198][416]LogAssetEditorSubsystem: Opening Asset editor for IKRetargeter /Game/Book/Animation/NewIKRetargeter.NewIKRetargeter
+[2023.08.21-16.06.38:199][416]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.21-16.06.38:238][416]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.21-16.06.38:238][416]LogTemp: Warning: IK Retargeter could not find target root bone, None in mesh SK_CharM_Cardboard
+[2023.08.21-16.06.38:238][416]LogTemp: Warning: IK Retargeter unable to initialize target root, 'None' on skeletal mesh: 'SK_CharM_Cardboard'
+[2023.08.21-16.06.38:238][416]LogTemp: Error: IK Retargeter unable to initialize one or more root bones on source, SKM_Manny and target, SK_CharM_Cardboard
+[2023.08.21-16.06.38:238][416]LogTemp: Warning: IK Retargeter unable to create any Bone Chain pairs between source, SKM_Manny and target, SK_CharM_Cardboard
+[2023.08.21-16.06.38:439][416]LogViewport: Scene viewport resized to 851x852, mode Windowed.
+[2023.08.21-16.06.38:534][416]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.08.21-16.06.51:984][672]LogSlate: Window '익스포트 경로 선택' being destroyed
+[2023.08.21-16.06.51:996][672]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Jump.MM_Jump
+[2023.08.21-16.06.52:250][672]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Book/Animation/MM_Jump_Retargeted.MM_Jump_Retargeted
+[2023.08.21-16.06.52:250][672]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Book/Animation/MM_Jump_Retargeted.MM_Jump_Retargeted
+[2023.08.21-16.06.52:250][672]LogTemp: Warning: IK Retargeter could not find target root bone, None in mesh SK_CharM_Cardboard
+[2023.08.21-16.06.52:250][672]LogTemp: Warning: IK Retargeter unable to initialize target root, 'None' on skeletal mesh: 'SK_CharM_Cardboard'
+[2023.08.21-16.06.52:250][672]LogTemp: Error: IK Retargeter unable to initialize one or more root bones on source, SKM_Manny and target, SK_CharM_Cardboard
+[2023.08.21-16.06.52:250][672]LogTemp: Warning: IK Retargeter unable to create any Bone Chain pairs between source, SKM_Manny and target, SK_CharM_Cardboard
+[2023.08.21-16.06.52:250][672]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "애니메이션 에셋 리타깃 중: {Asset}".
+[2023.08.21-16.06.52:261][672]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_Jump_Retargeted
+[2023.08.21-16.06.52:407][672]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Book/Animation/MM_Jump_Retargeted.MM_Jump_Retargeted
+[2023.08.21-16.06.59:386][888]LogSlate: Window 'NewIKRetargeter' being destroyed
+[2023.08.21-16.06.59:400][888]LogSlate: Window 'NewIKRetargeter' being destroyed
+[2023.08.21-16.06.59:400][888]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2023.08.21-16.06.59:400][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-16.07.01:400][985]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Book/Animation/MM_Jump_Retargeted.MM_Jump_Retargeted
+[2023.08.21-16.07.01:401][985]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.21-16.07.01:441][985]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.21-16.07.01:902][985]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.21-16.07.02:078][985]LogViewport: Scene viewport resized to 1084x474, mode Windowed.
+[2023.08.21-16.07.02:123][985]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.08.21-16.07.04:886][ 70]LogSlate: Window 'MM_Jump_Retargeted' being destroyed
+[2023.08.21-16.07.04:896][ 70]LogSlate: Window 'MM_Jump_Retargeted' being destroyed
+[2023.08.21-16.07.04:896][ 70]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2023.08.21-16.07.04:896][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-16.07.05:015][ 70]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2023.08.21-16.07.05:015][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-16.07.24:049][308]LogViewport: Scene viewport resized to 912x539, mode Windowed.
+[2023.08.21-16.07.24:139][308]LogViewport: Scene viewport resized to 994x539, mode Windowed.
+[2023.08.21-16.07.24:238][308]LogViewport: Scene viewport resized to 1176x539, mode Windowed.
+[2023.08.21-16.07.24:341][308]LogViewport: Scene viewport resized to 1181x539, mode Windowed.
+[2023.08.21-16.07.24:431][308]LogViewport: Scene viewport resized to 1193x539, mode Windowed.
+[2023.08.21-16.07.24:532][308]LogViewport: Scene viewport resized to 1194x539, mode Windowed.
+[2023.08.21-16.07.27:620][446]LogAssetEditorSubsystem: Opening Asset editor for IKRetargeter /Game/Book/Animation/NewIKRetargeter.NewIKRetargeter
+[2023.08.21-16.07.27:621][446]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.21-16.07.27:659][446]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.21-16.07.27:659][446]LogTemp: Warning: IK Retargeter could not find target root bone, None in mesh SK_CharM_Cardboard
+[2023.08.21-16.07.27:659][446]LogTemp: Warning: IK Retargeter unable to initialize target root, 'None' on skeletal mesh: 'SK_CharM_Cardboard'
+[2023.08.21-16.07.27:660][446]LogTemp: Error: IK Retargeter unable to initialize one or more root bones on source, SKM_Manny and target, SK_CharM_Cardboard
+[2023.08.21-16.07.27:660][446]LogTemp: Warning: IK Retargeter unable to create any Bone Chain pairs between source, SKM_Manny and target, SK_CharM_Cardboard
+[2023.08.21-16.07.27:871][446]LogViewport: Scene viewport resized to 853x855, mode Windowed.
+[2023.08.21-16.07.27:958][446]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.08.21-16.07.32:366][589]LogTemp: Warning: IK Retargeter could not find target root bone, None in mesh SK_CharM_Cardboard
+[2023.08.21-16.07.32:366][589]LogTemp: Warning: IK Retargeter unable to initialize target root, 'None' on skeletal mesh: 'SK_CharM_Cardboard'
+[2023.08.21-16.07.32:366][589]LogTemp: Error: IK Retargeter unable to initialize one or more root bones on source, SKM_Manny and target, SK_CharM_Cardboard
+[2023.08.21-16.07.32:366][589]LogTemp: Warning: IK Retargeter unable to create any Bone Chain pairs between source, SKM_Manny and target, SK_CharM_Cardboard
+[2023.08.21-16.07.51:052][209]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Characters/Mannequins/Rigs/ABP_Manny_PostProcess.ABP_Manny_PostProcess
+[2023.08.21-16.07.51:053][209]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.21-16.07.51:093][209]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.21-16.07.51:113][209]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.21-16.07.52:506][209]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.21-16.07.52:687][209]LogViewport: Scene viewport resized to 466x402, mode Windowed.
+[2023.08.21-16.07.56:621][328]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2023.08.21-16.07.56:621][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-16.07.56:638][328]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2023.08.21-16.07.56:638][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-16.07.56:807][328]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2023.08.21-16.07.56:807][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-16.08.25:040][269]LogSlate: Window 'NewIKRetargeter' being destroyed
+[2023.08.21-16.08.25:051][269]LogSlate: Window 'NewIKRetargeter' being destroyed
+[2023.08.21-16.08.25:051][269]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2023.08.21-16.08.25:051][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-16.08.39:195][604]LogAssetEditorSubsystem: Opening Asset editor for IKRetargeter /Game/Book/Animation/NewIKRetargeter.NewIKRetargeter
+[2023.08.21-16.08.39:196][604]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.21-16.08.39:232][604]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.21-16.08.39:233][604]LogTemp: Warning: IK Retargeter could not find target root bone, None in mesh SK_CharM_Cardboard
+[2023.08.21-16.08.39:233][604]LogTemp: Warning: IK Retargeter unable to initialize target root, 'None' on skeletal mesh: 'SK_CharM_Cardboard'
+[2023.08.21-16.08.39:233][604]LogTemp: Error: IK Retargeter unable to initialize one or more root bones on source, SKM_Manny and target, SK_CharM_Cardboard
+[2023.08.21-16.08.39:233][604]LogTemp: Warning: IK Retargeter unable to create any Bone Chain pairs between source, SKM_Manny and target, SK_CharM_Cardboard
+[2023.08.21-16.08.39:437][604]LogViewport: Scene viewport resized to 854x855, mode Windowed.
+[2023.08.21-16.08.39:523][604]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.08.21-16.09.03:425][313]LogSlate: Window 'NewIKRetargeter' being destroyed
+[2023.08.21-16.09.03:436][313]LogSlate: Window 'NewIKRetargeter' being destroyed
+[2023.08.21-16.09.03:436][313]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2023.08.21-16.09.03:436][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-16.09.22:872][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2023.08.21-16.09.24:141][ 37]LogSlate: Window 'Delete Assets' being destroyed
+[2023.08.21-16.09.24:210][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2023.08.21-16.09.24:267][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2023.08.21-16.09.24:324][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.08.21-16.09.27:838][208]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2023.08.21-16.09.29:229][208]LogSlate: Window 'Delete Assets' being destroyed
+[2023.08.21-16.09.29:410][208]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Book/Animation/MM_Jump_Retargeted.MM_Jump_Retargeted
+	Asset Type: AnimSequence
+[2023.08.21-16.09.30:173][208]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2023.08.21-16.09.30:478][208]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2023.08.21-16.09.30:539][208]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2023.08.21-16.09.30:594][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.08.21-16.09.34:648][370]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2023.08.21-16.09.36:066][370]LogSlate: Window 'Delete Assets' being destroyed
+[2023.08.21-16.09.36:129][370]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2023.08.21-16.09.36:185][370]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2023.08.21-16.09.36:238][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.08.21-16.09.40:125][567]LogVSAccessor: Warning: Couldn't save all documents
+[2023.08.21-16.09.40:160][567]Candidate modules for hot reload:
+[2023.08.21-16.09.40:160][567]  ArenaBattle
+[2023.08.21-16.09.40:174][567]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe  -ModuleWithSuffix=ArenaBattle,0995 ArenaBattleEditor Win64 Development -Project="C:/Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/ArenaBattle.uproject" "C:/Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/ArenaBattle.uproject"  -IgnoreJunk]
+[2023.08.21-16.09.40:184][567]Warning: Starting HotReload took  0.1s.
+[2023.08.21-16.09.45:337][797]CompilerResultsLog: New page: 컴파일 - 2023. 8. 22. 오전 10:09:45
+[2023.08.21-16.09.45:337][797]CompilerResultsLog: Log file: C:\Users\Moon\AppData\Local\UnrealBuildTool\Log.txt
+[2023.08.21-16.09.45:337][797]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Moon\Documents\GitHub\ArenaBattle).
+[2023.08.21-16.09.45:337][797]CompilerResultsLog: Building ArenaBattleEditor...
+[2023.08.21-16.09.45:338][797]CompilerResultsLog: Using Visual Studio 2019 14.29.30151 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.08.21-16.09.45:338][797]CompilerResultsLog: [Adaptive Build] Excluded from ArenaBattle unity file: ABAnimInstance.cpp, ABCharacter.cpp
+[2023.08.21-16.09.45:338][797]CompilerResultsLog: Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+[2023.08.21-16.09.45:338][797]CompilerResultsLog:   Executing up to 8 processes, one per physical core
+[2023.08.21-16.09.45:338][797]CompilerResultsLog: Building 3 actions with 3 processes...
+[2023.08.21-16.09.45:338][797]CompilerResultsLog: [1/3] Link UnrealEditor-ArenaBattle-0995.lib
+[2023.08.21-16.09.45:338][797]CompilerResultsLog:    C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-0995.lib ???̺귯?? ?? C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-0995.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.08.21-16.09.45:338][797]CompilerResultsLog: [2/3] Link UnrealEditor-ArenaBattle-0995.dll
+[2023.08.21-16.09.45:338][797]CompilerResultsLog:    C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-0995.suppressed.lib ???̺귯?? ?? C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-0995.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.08.21-16.09.45:338][797]CompilerResultsLog: [3/3] WriteMetadata ArenaBattleEditor.target
+[2023.08.21-16.09.45:338][797]CompilerResultsLog: Total time in Parallel executor: 2.55 seconds
+[2023.08.21-16.09.45:338][797]CompilerResultsLog: Total execution time: 4.88 seconds
+[2023.08.21-16.09.45:338][797]LogMainFrame: MainFrame: Module compiling took 5.212 seconds
+[2023.08.21-16.09.45:751][797]Re-instancing ABCharacter after reload.
+[2023.08.21-16.09.46:071][797]Display: HotReload took  6.0s.
+[2023.08.21-16.09.46:071][797]Display: Reload/Re-instancing Complete: 1 package changed, 6 classes unchanged
+[2023.08.21-16.09.48:950][900]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2023.08.21-16.09.48:965][900]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.21-16.09.48:966][900]PIE: New page: PIE 세션: Step2 (2023. 8. 22. 오전 10:09:48)
+[2023.08.21-16.09.48:966][900]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2023.08.21-16.09.48:970][900]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003947s)
+[2023.08.21-16.09.48:970][900]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.004126s)
+[2023.08.21-16.09.48:970][900]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.08.21-16.09.48:971][900]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.21-16.09.48:972][900]LogAIModule: Creating AISystem for world Step2
+[2023.08.21-16.09.48:972][900]LogPlayLevel: PIE: World Init took: (0.001718s)
+[2023.08.21-16.09.49:127][900]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2023.08.21-16.09.49:136][900]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2023.08.21-16.09.49:136][900]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.21-16.09.49:136][900]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.21-16.09.49:136][900]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.21-16.09.49:136][900]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.21-16.09.49:136][900]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.21-16.09.49:136][900]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.21-16.09.49:136][900]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.21-16.09.49:136][900]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.21-16.09.49:137][900]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.21-16.09.49:137][900]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.21-16.09.49:137][900]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.21-16.09.49:141][900]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.21-16.09.49:217][900]LogAudioMixer: Display: Using Audio Hardware Device Audio(THX Spatial Audio)
+[2023.08.21-16.09.49:218][900]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.21-16.09.49:218][900]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.21-16.09.49:218][900]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.21-16.09.49:220][900]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2023.08.21-16.09.49:220][900]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2023.08.21-16.09.49:223][900]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2023.08.21-16.09.49:223][900]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2023.08.21-16.09.49:223][900]LogInit: FAudioDevice initialized.
+[2023.08.21-16.09.49:223][900]LogAudio: Display: Audio Device (ID: 22) registered with world 'Step2'.
+[2023.08.21-16.09.49:242][900]LogLoad: Game class is 'ABGameMode'
+[2023.08.21-16.09.49:243][900]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 60) at 2023.08.22-01.09.49
+[2023.08.21-16.09.49:244][900]LogWorld: Bringing up level for play took: 0.001112
+[2023.08.21-16.09.49:247][900]LogOnline: OSS: Created online subsystem instance for: :Context_65
+[2023.08.21-16.09.49:248][900]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(9)
+[2023.08.21-16.09.49:248][900]ArenaBattle: Warning: AABGameMode::PostLogin(19) PostLogin
+[2023.08.21-16.09.49:250][900]ArenaBattle: Warning: AABPlayerController::OnPossess(14)
+[2023.08.21-16.09.49:250][900]ArenaBattle: Warning: AABGameMode::PostLogin(21) PostLogin End
+[2023.08.21-16.09.49:250][900]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.08.21-16.09.49:250][900]PIE: 서버가 로그인했습니다.
+[2023.08.21-16.09.49:252][900]PIE: 에디터에서 플레이 총 시작 시간 0.286초입니다.
+[2023.08.21-16.09.52:705][ 73]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.21-16.09.52:705][ 73]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2023.08.21-16.09.52:706][ 73]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2023.08.21-16.09.52:706][ 73]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-16.09.52:724][ 73]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.21-16.09.52:731][ 73]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-16.09.52:775][ 73]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.21-16.09.52:776][ 73]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.08.21-16.09.52:780][ 73]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.08.21-16.09.52:787][ 73]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.21-16.09.52:860][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.08.21-16.09.52:961][ 74]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2023.08.21-16.09.54:193][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Maps/Step2" FILE="../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Maps/Step2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.21-16.09.54:234][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.08.21-16.09.54:256][136]LogSavePackage: Moving output files for package: /Game/Book/Maps/Step2
+[2023.08.21-16.09.54:258][136]LogSavePackage: Moving '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Saved/Step2430B5F0441AABE865AA1B9A2266C7075.tmp' to '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Maps/Step2.umap'
+[2023.08.21-16.09.54:300][136]AssetCheck: New page: 에셋 저장:  Step2
+[2023.08.21-16.09.54:300][136]LogContentValidation: Display: World /Game/Book/Maps/Step2.Step2 유효성 검사 중
+[2023.08.21-16.11.50:611][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2023.08.21-16.11.52:427][ 23]LogSlate: Window 'Delete Assets' being destroyed
+[2023.08.21-16.11.52:483][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.08.21-16.11.52:531][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2023.08.21-16.11.52:580][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.08.21-16.12.31:811][829]LogAssetEditorSubsystem: Opening Asset editor for IKRigDefinition /Game/Book/Animation/IKRigMannequin.IKRigMannequin
+[2023.08.21-16.12.31:812][829]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.21-16.12.31:848][829]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_44:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.21-16.12.31:848][829]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_44:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.21-16.12.32:382][829]LogViewport: Scene viewport resized to 542x855, mode Windowed.
+[2023.08.21-16.14.06:225][993]LogViewport: Scene viewport resized to 581x855, mode Windowed.
+[2023.08.21-16.14.06:326][995]LogViewport: Scene viewport resized to 659x855, mode Windowed.
+[2023.08.21-16.14.06:403][996]LogViewport: Scene viewport resized to 669x855, mode Windowed.
+[2023.08.21-16.14.07:932][ 50]LogViewport: Scene viewport resized to 616x855, mode Windowed.
+[2023.08.21-16.14.16:036][332]LogViewport: Scene viewport resized to 614x855, mode Windowed.
+[2023.08.21-16.14.16:120][332]LogViewport: Scene viewport resized to 548x855, mode Windowed.
+[2023.08.21-16.14.16:197][332]LogViewport: Scene viewport resized to 493x855, mode Windowed.
+[2023.08.21-16.14.16:293][332]LogViewport: Scene viewport resized to 452x855, mode Windowed.
+[2023.08.21-16.14.16:370][332]LogViewport: Scene viewport resized to 434x855, mode Windowed.
+[2023.08.21-16.14.16:668][332]LogViewport: Scene viewport resized to 429x855, mode Windowed.
+[2023.08.21-16.14.16:744][332]LogViewport: Scene viewport resized to 418x855, mode Windowed.
+[2023.08.21-16.14.16:821][332]LogViewport: Scene viewport resized to 417x855, mode Windowed.
+[2023.08.21-16.14.16:904][332]LogViewport: Scene viewport resized to 406x855, mode Windowed.
+[2023.08.21-16.14.16:987][332]LogViewport: Scene viewport resized to 402x855, mode Windowed.
+[2023.08.21-16.14.40:728][599]LogViewport: Scene viewport resized to 1191x539, mode Windowed.
+[2023.08.21-16.14.40:826][599]LogViewport: Scene viewport resized to 824x539, mode Windowed.
+[2023.08.21-16.14.40:930][599]LogViewport: Scene viewport resized to 792x539, mode Windowed.
+[2023.08.21-16.14.41:029][599]LogViewport: Scene viewport resized to 776x539, mode Windowed.
+[2023.08.21-16.17.15:318][873]LogViewport: Scene viewport resized to 403x855, mode Windowed.
+[2023.08.21-16.17.15:402][873]LogViewport: Scene viewport resized to 454x855, mode Windowed.
+[2023.08.21-16.17.15:485][873]LogViewport: Scene viewport resized to 542x855, mode Windowed.
+[2023.08.21-16.17.15:574][873]LogViewport: Scene viewport resized to 560x855, mode Windowed.
+[2023.08.21-16.17.15:653][873]LogViewport: Scene viewport resized to 563x855, mode Windowed.
+[2023.08.21-16.17.24:731][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Animation/IKRigMannequin" FILE="../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Animation/IKRigMannequin.uasset" SILENT=true
+[2023.08.21-16.17.24:747][194]LogSavePackage: Moving output files for package: /Game/Book/Animation/IKRigMannequin
+[2023.08.21-16.17.24:748][194]LogSavePackage: Moving '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Saved/IKRigMannequin2F73B0E04EB9F32C3E3476A125EFB9A8.tmp' to '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Animation/IKRigMannequin.uasset'
+[2023.08.21-16.17.24:781][194]AssetCheck: New page: 에셋 저장:  IKRigMannequin
+[2023.08.21-16.17.24:782][194]LogContentValidation: Display: IKRigDefinition /Game/Book/Animation/IKRigMannequin.IKRigMannequin 유효성 검사 중
+[2023.08.21-16.17.29:227][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Animation/IKRigMannequin" FILE="../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Animation/IKRigMannequin.uasset" SILENT=true
+[2023.08.21-16.17.29:245][350]LogSavePackage: Moving output files for package: /Game/Book/Animation/IKRigMannequin
+[2023.08.21-16.17.29:246][350]LogSavePackage: Moving '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Saved/IKRigMannequinC3404A754D46489C1FE258B51AA49517.tmp' to '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Animation/IKRigMannequin.uasset'
+[2023.08.21-16.17.29:270][350]AssetCheck: New page: 에셋 저장:  IKRigMannequin
+[2023.08.21-16.17.29:270][350]LogContentValidation: Display: IKRigDefinition /Game/Book/Animation/IKRigMannequin.IKRigMannequin 유효성 검사 중
+[2023.08.21-16.17.33:083][488]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.08.21-16.17.58:309][370]LogSlate: Window 'IKRigMannequin' being destroyed
+[2023.08.21-16.17.58:324][370]LogSlate: Window 'IKRigMannequin' being destroyed
+[2023.08.21-16.17.58:327][370]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2023.08.21-16.17.58:327][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-16.18.26:098][744]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim.Quinn_upperarm_r_anim
+[2023.08.21-16.18.26:098][744]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim.Quinn_upperarm_l_anim
+[2023.08.21-16.18.26:098][744]LogSkeletalMesh: Building Skeletal Mesh SKM_Quinn...
+[2023.08.21-16.18.26:098][744]LogSlate: Window '스켈레탈 메시 선택' being destroyed
+[2023.08.21-16.18.26:122][744]LogContentBrowser: Deferred new asset file creation: NewIKRig
+[2023.08.21-16.18.26:136][744]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.Quinn_calf_l_anim
+[2023.08.21-16.18.26:136][744]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_anim.Quinn_calf_r_anim
+[2023.08.21-16.18.26:136][744]LogContentBrowser: Creating deferred item: NewIKRig
+[2023.08.21-16.18.26:163][745]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_anim.Quinn_clavicle_l_anim
+[2023.08.21-16.18.26:163][745]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_anim.Quinn_clavicle_r_anim
+[2023.08.21-16.18.26:163][745]LogContentBrowser: Renaming the item being created (Deferred Item: NewIKRig).
+[2023.08.21-16.18.26:189][747]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_anim.Quinn_foot_l_anim
+[2023.08.21-16.18.26:189][747]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_anim.Quinn_foot_r_anim
+[2023.08.21-16.18.26:210][748]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_anim.Quinn_hand_r_anim
+[2023.08.21-16.18.26:210][748]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_anim.Quinn_hand_l_anim
+[2023.08.21-16.18.26:265][749]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_anim.Quinn_lowerarm_r_anim
+[2023.08.21-16.18.26:265][749]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_anim.Quinn_lowerarm_l_anim
+[2023.08.21-16.18.26:363][750]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_anim.Quinn_thigh_l_anim
+[2023.08.21-16.18.26:363][750]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim.Quinn_thigh_r_anim
+[2023.08.21-16.18.35:290][281]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 2 
+[2023.08.21-16.18.35:297][281]LogContentBrowser: Attempting asset rename: NewIKRig -> IKRigQuin
+[2023.08.21-16.18.35:315][281]LogSkeletalMesh: Display: 스켈레탈 메시가 준비 되기를 기다리는 중 0/1 (SKM_Quinn)...
+[2023.08.21-16.18.42:949][281]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 3 
+[2023.08.21-16.18.45:475][281]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' exceeded budget of 10.000000s
+[2023.08.21-16.18.52:146][281]LogSkeletalMesh: Built Skeletal Mesh [26.09s] /Game/Characters/Mannequins/Meshes/SKM_Quinn.SKM_Quinn
+[2023.08.21-16.18.52:157][281]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' complete in 0.005313s (6.859101s overbudget)
+[2023.08.21-16.18.52:161][281]LogContentBrowser: End creating deferred item NewIKRig
+[2023.08.21-16.20.21:272][ 39]LogSkeletalMesh: Display: 스켈레탈 메시가 준비 되기를 기다리는 중 0/1 (SKM_Quinn_Simple)...
+[2023.08.21-16.20.35:573][730]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.21-16.20.35:600][730]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.21-16.20.35:726][730]LogViewport: Scene viewport resized to 400x300, mode Windowed.
+[2023.08.21-16.20.35:795][730]LogViewport: Scene viewport resized to 400x300, mode Windowed.
+[2023.08.21-16.21.28:900][912]LogSlate: Window '익스포트 경로 선택' being destroyed
+[2023.08.21-16.21.36:895][209]LogSlate: Window '애니메이션 에셋 복제 후 리타깃' being destroyed
+[2023.08.21-16.21.37:165][209]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Book/Animation/MM_Jump.MM_Jump
+[2023.08.21-16.21.37:165][209]LogTemp: Warning: IK Retargeter bone chain, Spine, could not find end bone, spine_05 in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:165][209]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Book/Animation/MM_Jump.MM_Jump
+[2023.08.21-16.21.37:165][209]LogTemp: Warning: IK Retargeter bone chain, Spine, end bone, 'spine_05' was not a child of the start bone 'spine_01'.
+[2023.08.21-16.21.37:165][209]LogTemp: Warning: IK Retargeter target bone chain, 'Spine', is not compatible with Skeletal Mesh: 'SK_CharM_Cardboard'
+[2023.08.21-16.21.37:165][209]LogTemp: Warning: IK Retargeter bone chain, LeftLowerArmTwist02, could not find start bone, lowerarm_twist_02_l in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:165][209]LogTemp: Warning: IK Retargeter bone chain, LeftLowerArmTwist02, could not find end bone, lowerarm_twist_02_l in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:165][209]LogTemp: Warning: IK Retargeter bone chain, LeftLowerArmTwist02, end bone, 'lowerarm_twist_02_l' was not a child of the start bone 'lowerarm_twist_02_l'.
+[2023.08.21-16.21.37:165][209]LogTemp: Warning: IK Retargeter target bone chain, 'LeftLowerArmTwist02', is not compatible with Skeletal Mesh: 'SK_CharM_Cardboard'
+[2023.08.21-16.21.37:165][209]LogTemp: Warning: IK Retargeter bone chain, LeftIndexMetacarpal, could not find start bone, index_metacarpal_l in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:165][209]LogTemp: Warning: IK Retargeter bone chain, LeftIndexMetacarpal, could not find end bone, index_metacarpal_l in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:165][209]LogTemp: Warning: IK Retargeter bone chain, LeftIndexMetacarpal, end bone, 'index_metacarpal_l' was not a child of the start bone 'index_metacarpal_l'.
+[2023.08.21-16.21.37:165][209]LogTemp: Warning: IK Retargeter target bone chain, 'LeftIndexMetacarpal', is not compatible with Skeletal Mesh: 'SK_CharM_Cardboard'
+[2023.08.21-16.21.37:165][209]LogTemp: Warning: IK Retargeter bone chain, LeftIndex, could not find end bone, index_03_l in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:165][209]LogTemp: Warning: IK Retargeter bone chain, LeftIndex, end bone, 'index_03_l' was not a child of the start bone 'index_01_l'.
+[2023.08.21-16.21.37:166][209]LogTemp: Warning: IK Retargeter target bone chain, 'LeftIndex', is not compatible with Skeletal Mesh: 'SK_CharM_Cardboard'
+[2023.08.21-16.21.37:166][209]LogTemp: Warning: IK Retargeter bone chain, LeftMiddleMetacarpal, could not find start bone, middle_metacarpal_l in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:166][209]LogTemp: Warning: IK Retargeter bone chain, LeftMiddleMetacarpal, could not find end bone, middle_metacarpal_l in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:166][209]LogTemp: Warning: IK Retargeter bone chain, LeftMiddleMetacarpal, end bone, 'middle_metacarpal_l' was not a child of the start bone 'middle_metacarpal_l'.
+[2023.08.21-16.21.37:166][209]LogTemp: Warning: IK Retargeter target bone chain, 'LeftMiddleMetacarpal', is not compatible with Skeletal Mesh: 'SK_CharM_Cardboard'
+[2023.08.21-16.21.37:166][209]LogTemp: Warning: IK Retargeter bone chain, LeftMiddle, could not find start bone, middle_01_l in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:166][209]LogTemp: Warning: IK Retargeter bone chain, LeftMiddle, could not find end bone, middle_03_l in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:166][209]LogTemp: Warning: IK Retargeter bone chain, LeftMiddle, end bone, 'middle_03_l' was not a child of the start bone 'middle_01_l'.
+[2023.08.21-16.21.37:166][209]LogTemp: Warning: IK Retargeter target bone chain, 'LeftMiddle', is not compatible with Skeletal Mesh: 'SK_CharM_Cardboard'
+[2023.08.21-16.21.37:166][209]LogTemp: Warning: IK Retargeter bone chain, LeftThumb, could not find end bone, thumb_03_l in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:166][209]LogTemp: Warning: IK Retargeter bone chain, LeftThumb, end bone, 'thumb_03_l' was not a child of the start bone 'thumb_01_l'.
+[2023.08.21-16.21.37:166][209]LogTemp: Warning: IK Retargeter target bone chain, 'LeftThumb', is not compatible with Skeletal Mesh: 'SK_CharM_Cardboard'
+[2023.08.21-16.21.37:166][209]LogTemp: Warning: IK Retargeter bone chain, LeftPinkyMetacarpal, could not find start bone, pinky_metacarpal_l in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:166][209]LogTemp: Warning: IK Retargeter bone chain, LeftPinkyMetacarpal, could not find end bone, pinky_metacarpal_l in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:166][209]LogTemp: Warning: IK Retargeter bone chain, LeftPinkyMetacarpal, end bone, 'pinky_metacarpal_l' was not a child of the start bone 'pinky_metacarpal_l'.
+[2023.08.21-16.21.37:166][209]LogTemp: Warning: IK Retargeter target bone chain, 'LeftPinkyMetacarpal', is not compatible with Skeletal Mesh: 'SK_CharM_Cardboard'
+[2023.08.21-16.21.37:166][209]LogTemp: Warning: IK Retargeter bone chain, LeftPinky, could not find start bone, pinky_01_l in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:166][209]LogTemp: Warning: IK Retargeter bone chain, LeftPinky, could not find end bone, pinky_03_l in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:166][209]LogTemp: Warning: IK Retargeter bone chain, LeftPinky, end bone, 'pinky_03_l' was not a child of the start bone 'pinky_01_l'.
+[2023.08.21-16.21.37:166][209]LogTemp: Warning: IK Retargeter target bone chain, 'LeftPinky', is not compatible with Skeletal Mesh: 'SK_CharM_Cardboard'
+[2023.08.21-16.21.37:166][209]LogTemp: Warning: IK Retargeter bone chain, LeftRingMetacarpal, could not find start bone, ring_metacarpal_l in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:166][209]LogTemp: Warning: IK Retargeter bone chain, LeftRingMetacarpal, could not find end bone, ring_metacarpal_l in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:166][209]LogTemp: Warning: IK Retargeter bone chain, LeftRingMetacarpal, end bone, 'ring_metacarpal_l' was not a child of the start bone 'ring_metacarpal_l'.
+[2023.08.21-16.21.37:166][209]LogTemp: Warning: IK Retargeter target bone chain, 'LeftRingMetacarpal', is not compatible with Skeletal Mesh: 'SK_CharM_Cardboard'
+[2023.08.21-16.21.37:166][209]LogTemp: Warning: IK Retargeter bone chain, LeftRing, could not find end bone, ring_03_l in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:166][209]LogTemp: Warning: IK Retargeter bone chain, LeftRing, end bone, 'ring_03_l' was not a child of the start bone 'ring_01_l'.
+[2023.08.21-16.21.37:166][209]LogTemp: Warning: IK Retargeter target bone chain, 'LeftRing', is not compatible with Skeletal Mesh: 'SK_CharM_Cardboard'
+[2023.08.21-16.21.37:166][209]LogTemp: Warning: IK Retargeter bone chain, LeftUpperArmTwist02, could not find start bone, upperarm_twist_02_l in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:166][209]LogTemp: Warning: IK Retargeter bone chain, LeftUpperArmTwist02, could not find end bone, upperarm_twist_02_l in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:166][209]LogTemp: Warning: IK Retargeter bone chain, LeftUpperArmTwist02, end bone, 'upperarm_twist_02_l' was not a child of the start bone 'upperarm_twist_02_l'.
+[2023.08.21-16.21.37:166][209]LogTemp: Warning: IK Retargeter target bone chain, 'LeftUpperArmTwist02', is not compatible with Skeletal Mesh: 'SK_CharM_Cardboard'
+[2023.08.21-16.21.37:166][209]LogTemp: Warning: IK Retargeter bone chain, RightLowerArmTwist02, could not find start bone, lowerarm_twist_02_r in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:166][209]LogTemp: Warning: IK Retargeter bone chain, RightLowerArmTwist02, could not find end bone, lowerarm_twist_02_r in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:166][209]LogTemp: Warning: IK Retargeter bone chain, RightLowerArmTwist02, end bone, 'lowerarm_twist_02_r' was not a child of the start bone 'lowerarm_twist_02_r'.
+[2023.08.21-16.21.37:166][209]LogTemp: Warning: IK Retargeter target bone chain, 'RightLowerArmTwist02', is not compatible with Skeletal Mesh: 'SK_CharM_Cardboard'
+[2023.08.21-16.21.37:166][209]LogTemp: Warning: IK Retargeter bone chain, RightPinkyMetacarpal, could not find start bone, pinky_metacarpal_r in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:166][209]LogTemp: Warning: IK Retargeter bone chain, RightPinkyMetacarpal, could not find end bone, pinky_metacarpal_r in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:166][209]LogTemp: Warning: IK Retargeter bone chain, RightPinkyMetacarpal, end bone, 'pinky_metacarpal_r' was not a child of the start bone 'pinky_metacarpal_r'.
+[2023.08.21-16.21.37:167][209]LogTemp: Warning: IK Retargeter target bone chain, 'RightPinkyMetacarpal', is not compatible with Skeletal Mesh: 'SK_CharM_Cardboard'
+[2023.08.21-16.21.37:167][209]LogTemp: Warning: IK Retargeter bone chain, RightPinky, could not find start bone, pinky_01_r in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:167][209]LogTemp: Warning: IK Retargeter bone chain, RightPinky, could not find end bone, pinky_03_r in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:167][209]LogTemp: Warning: IK Retargeter bone chain, RightPinky, end bone, 'pinky_03_r' was not a child of the start bone 'pinky_01_r'.
+[2023.08.21-16.21.37:167][209]LogTemp: Warning: IK Retargeter target bone chain, 'RightPinky', is not compatible with Skeletal Mesh: 'SK_CharM_Cardboard'
+[2023.08.21-16.21.37:167][209]LogTemp: Warning: IK Retargeter bone chain, RightRingMetacarpal, could not find start bone, ring_metacarpal_r in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:167][209]LogTemp: Warning: IK Retargeter bone chain, RightRingMetacarpal, could not find end bone, ring_metacarpal_r in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:167][209]LogTemp: Warning: IK Retargeter bone chain, RightRingMetacarpal, end bone, 'ring_metacarpal_r' was not a child of the start bone 'ring_metacarpal_r'.
+[2023.08.21-16.21.37:167][209]LogTemp: Warning: IK Retargeter target bone chain, 'RightRingMetacarpal', is not compatible with Skeletal Mesh: 'SK_CharM_Cardboard'
+[2023.08.21-16.21.37:167][209]LogTemp: Warning: IK Retargeter bone chain, RightRing, could not find end bone, ring_03_r in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:167][209]LogTemp: Warning: IK Retargeter bone chain, RightRing, end bone, 'ring_03_r' was not a child of the start bone 'ring_01_r'.
+[2023.08.21-16.21.37:167][209]LogTemp: Warning: IK Retargeter target bone chain, 'RightRing', is not compatible with Skeletal Mesh: 'SK_CharM_Cardboard'
+[2023.08.21-16.21.37:167][209]LogTemp: Warning: IK Retargeter bone chain, RightMiddleMetacarpal, could not find start bone, middle_metacarpal_r in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:167][209]LogTemp: Warning: IK Retargeter bone chain, RightMiddleMetacarpal, could not find end bone, middle_metacarpal_r in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:167][209]LogTemp: Warning: IK Retargeter bone chain, RightMiddleMetacarpal, end bone, 'middle_metacarpal_r' was not a child of the start bone 'middle_metacarpal_r'.
+[2023.08.21-16.21.37:167][209]LogTemp: Warning: IK Retargeter target bone chain, 'RightMiddleMetacarpal', is not compatible with Skeletal Mesh: 'SK_CharM_Cardboard'
+[2023.08.21-16.21.37:167][209]LogTemp: Warning: IK Retargeter bone chain, RightMiddle, could not find start bone, middle_01_r in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:167][209]LogTemp: Warning: IK Retargeter bone chain, RightMiddle, could not find end bone, middle_03_r in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:167][209]LogTemp: Warning: IK Retargeter bone chain, RightMiddle, end bone, 'middle_03_r' was not a child of the start bone 'middle_01_r'.
+[2023.08.21-16.21.37:167][209]LogTemp: Warning: IK Retargeter target bone chain, 'RightMiddle', is not compatible with Skeletal Mesh: 'SK_CharM_Cardboard'
+[2023.08.21-16.21.37:167][209]LogTemp: Warning: IK Retargeter bone chain, RightIndexMetacarpal, could not find start bone, index_metacarpal_r in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:167][209]LogTemp: Warning: IK Retargeter bone chain, RightIndexMetacarpal, could not find end bone, index_metacarpal_r in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:167][209]LogTemp: Warning: IK Retargeter bone chain, RightIndexMetacarpal, end bone, 'index_metacarpal_r' was not a child of the start bone 'index_metacarpal_r'.
+[2023.08.21-16.21.37:167][209]LogTemp: Warning: IK Retargeter target bone chain, 'RightIndexMetacarpal', is not compatible with Skeletal Mesh: 'SK_CharM_Cardboard'
+[2023.08.21-16.21.37:167][209]LogTemp: Warning: IK Retargeter bone chain, RightIndex, could not find end bone, index_03_r in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:167][209]LogTemp: Warning: IK Retargeter bone chain, RightIndex, end bone, 'index_03_r' was not a child of the start bone 'index_01_r'.
+[2023.08.21-16.21.37:167][209]LogTemp: Warning: IK Retargeter target bone chain, 'RightIndex', is not compatible with Skeletal Mesh: 'SK_CharM_Cardboard'
+[2023.08.21-16.21.37:167][209]LogTemp: Warning: IK Retargeter bone chain, RightThumb, could not find end bone, thumb_03_r in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:167][209]LogTemp: Warning: IK Retargeter bone chain, RightThumb, end bone, 'thumb_03_r' was not a child of the start bone 'thumb_01_r'.
+[2023.08.21-16.21.37:167][209]LogTemp: Warning: IK Retargeter target bone chain, 'RightThumb', is not compatible with Skeletal Mesh: 'SK_CharM_Cardboard'
+[2023.08.21-16.21.37:167][209]LogTemp: Warning: IK Retargeter bone chain, RightUpperArmTwist02, could not find start bone, upperarm_twist_02_r in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:167][209]LogTemp: Warning: IK Retargeter bone chain, RightUpperArmTwist02, could not find end bone, upperarm_twist_02_r in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:167][209]LogTemp: Warning: IK Retargeter bone chain, RightUpperArmTwist02, end bone, 'upperarm_twist_02_r' was not a child of the start bone 'upperarm_twist_02_r'.
+[2023.08.21-16.21.37:167][209]LogTemp: Warning: IK Retargeter target bone chain, 'RightUpperArmTwist02', is not compatible with Skeletal Mesh: 'SK_CharM_Cardboard'
+[2023.08.21-16.21.37:167][209]LogTemp: Warning: IK Retargeter bone chain, RightCalfTwist02, could not find start bone, calf_twist_02_r in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:167][209]LogTemp: Warning: IK Retargeter bone chain, RightCalfTwist02, could not find end bone, calf_twist_02_r in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:168][209]LogTemp: Warning: IK Retargeter bone chain, RightCalfTwist02, end bone, 'calf_twist_02_r' was not a child of the start bone 'calf_twist_02_r'.
+[2023.08.21-16.21.37:168][209]LogTemp: Warning: IK Retargeter target bone chain, 'RightCalfTwist02', is not compatible with Skeletal Mesh: 'SK_CharM_Cardboard'
+[2023.08.21-16.21.37:168][209]LogTemp: Warning: IK Retargeter bone chain, RightThighTwist02, could not find start bone, thigh_twist_02_r in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:168][209]LogTemp: Warning: IK Retargeter bone chain, RightThighTwist02, could not find end bone, thigh_twist_02_r in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:168][209]LogTemp: Warning: IK Retargeter bone chain, RightThighTwist02, end bone, 'thigh_twist_02_r' was not a child of the start bone 'thigh_twist_02_r'.
+[2023.08.21-16.21.37:168][209]LogTemp: Warning: IK Retargeter target bone chain, 'RightThighTwist02', is not compatible with Skeletal Mesh: 'SK_CharM_Cardboard'
+[2023.08.21-16.21.37:168][209]LogTemp: Warning: IK Retargeter bone chain, LeftCalfTwist02, could not find start bone, calf_twist_02_l in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:168][209]LogTemp: Warning: IK Retargeter bone chain, LeftCalfTwist02, could not find end bone, calf_twist_02_l in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:168][209]LogTemp: Warning: IK Retargeter bone chain, LeftCalfTwist02, end bone, 'calf_twist_02_l' was not a child of the start bone 'calf_twist_02_l'.
+[2023.08.21-16.21.37:168][209]LogTemp: Warning: IK Retargeter target bone chain, 'LeftCalfTwist02', is not compatible with Skeletal Mesh: 'SK_CharM_Cardboard'
+[2023.08.21-16.21.37:168][209]LogTemp: Warning: IK Retargeter bone chain, LeftThighTwist02, could not find start bone, thigh_twist_02_l in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:168][209]LogTemp: Warning: IK Retargeter bone chain, LeftThighTwist02, could not find end bone, thigh_twist_02_l in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:168][209]LogTemp: Warning: IK Retargeter bone chain, LeftThighTwist02, end bone, 'thigh_twist_02_l' was not a child of the start bone 'thigh_twist_02_l'.
+[2023.08.21-16.21.37:168][209]LogTemp: Warning: IK Retargeter target bone chain, 'LeftThighTwist02', is not compatible with Skeletal Mesh: 'SK_CharM_Cardboard'
+[2023.08.21-16.21.37:168][209]LogTemp: Warning: IK Retargeter bone chain, FootRootIK, could not find start bone, ik_foot_root in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:168][209]LogTemp: Warning: IK Retargeter bone chain, FootRootIK, could not find end bone, ik_foot_root in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:168][209]LogTemp: Warning: IK Retargeter bone chain, FootRootIK, end bone, 'ik_foot_root' was not a child of the start bone 'ik_foot_root'.
+[2023.08.21-16.21.37:168][209]LogTemp: Warning: IK Retargeter target bone chain, 'FootRootIK', is not compatible with Skeletal Mesh: 'SK_CharM_Cardboard'
+[2023.08.21-16.21.37:168][209]LogTemp: Warning: IK Retargeter bone chain, LeftFootIK, could not find start bone, ik_foot_l in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:168][209]LogTemp: Warning: IK Retargeter bone chain, LeftFootIK, could not find end bone, ik_foot_l in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:168][209]LogTemp: Warning: IK Retargeter bone chain, LeftFootIK, end bone, 'ik_foot_l' was not a child of the start bone 'ik_foot_l'.
+[2023.08.21-16.21.37:168][209]LogTemp: Warning: IK Retargeter target bone chain, 'LeftFootIK', is not compatible with Skeletal Mesh: 'SK_CharM_Cardboard'
+[2023.08.21-16.21.37:168][209]LogTemp: Warning: IK Retargeter bone chain, RightFootIK, could not find start bone, ik_foot_r in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:168][209]LogTemp: Warning: IK Retargeter bone chain, RightFootIK, could not find end bone, ik_foot_r in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:168][209]LogTemp: Warning: IK Retargeter bone chain, RightFootIK, end bone, 'ik_foot_r' was not a child of the start bone 'ik_foot_r'.
+[2023.08.21-16.21.37:168][209]LogTemp: Warning: IK Retargeter target bone chain, 'RightFootIK', is not compatible with Skeletal Mesh: 'SK_CharM_Cardboard'
+[2023.08.21-16.21.37:168][209]LogTemp: Warning: IK Retargeter bone chain, HandRootIK, could not find start bone, ik_hand_root in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:168][209]LogTemp: Warning: IK Retargeter bone chain, HandRootIK, could not find end bone, ik_hand_root in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:168][209]LogTemp: Warning: IK Retargeter bone chain, HandRootIK, end bone, 'ik_hand_root' was not a child of the start bone 'ik_hand_root'.
+[2023.08.21-16.21.37:168][209]LogTemp: Warning: IK Retargeter target bone chain, 'HandRootIK', is not compatible with Skeletal Mesh: 'SK_CharM_Cardboard'
+[2023.08.21-16.21.37:168][209]LogTemp: Warning: IK Retargeter bone chain, HandGunIK, could not find start bone, ik_hand_gun in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:168][209]LogTemp: Warning: IK Retargeter bone chain, HandGunIK, could not find end bone, ik_hand_gun in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:168][209]LogTemp: Warning: IK Retargeter bone chain, HandGunIK, end bone, 'ik_hand_gun' was not a child of the start bone 'ik_hand_gun'.
+[2023.08.21-16.21.37:168][209]LogTemp: Warning: IK Retargeter target bone chain, 'HandGunIK', is not compatible with Skeletal Mesh: 'SK_CharM_Cardboard'
+[2023.08.21-16.21.37:168][209]LogTemp: Warning: IK Retargeter bone chain, LeftHandIK, could not find start bone, ik_hand_l in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:169][209]LogTemp: Warning: IK Retargeter bone chain, LeftHandIK, could not find end bone, ik_hand_l in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:169][209]LogTemp: Warning: IK Retargeter bone chain, LeftHandIK, end bone, 'ik_hand_l' was not a child of the start bone 'ik_hand_l'.
+[2023.08.21-16.21.37:169][209]LogTemp: Warning: IK Retargeter target bone chain, 'LeftHandIK', is not compatible with Skeletal Mesh: 'SK_CharM_Cardboard'
+[2023.08.21-16.21.37:169][209]LogTemp: Warning: IK Retargeter bone chain, RightHandIK, could not find start bone, ik_hand_r in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:169][209]LogTemp: Warning: IK Retargeter bone chain, RightHandIK, could not find end bone, ik_hand_r in mesh SK_CharM_Cardboard
+[2023.08.21-16.21.37:169][209]LogTemp: Warning: IK Retargeter bone chain, RightHandIK, end bone, 'ik_hand_r' was not a child of the start bone 'ik_hand_r'.
+[2023.08.21-16.21.37:169][209]LogTemp: Warning: IK Retargeter target bone chain, 'RightHandIK', is not compatible with Skeletal Mesh: 'SK_CharM_Cardboard'
+[2023.08.21-16.21.37:169][209]LogTemp: Warning: IK Rig, 'IK_Mannequin' is missing a required bone in Skeletal Mesh: 'spine_05'.
+[2023.08.21-16.21.37:169][209]LogTemp: Warning: IK Rig, 'IK_Mannequin' is missing a required bone in Skeletal Mesh: 'spine_04'.
+[2023.08.21-16.21.37:169][209]LogTemp: Error: Trying to initialize IKRig with a Skeleton that is missing required bones. See output log. IK_Mannequin
+[2023.08.21-16.21.37:169][209]LogTemp: Warning: IK Retargeter unable to initialize IK Rig for SK_CharM_Cardboard. See output for details.
+[2023.08.21-16.21.37:169][209]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "애니메이션 에셋 리타깃 중: {Asset}".
+[2023.08.21-16.21.37:177][209]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_Jump
+[2023.08.21-16.21.37:280][209]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2023.08.21-16.21.37:280][209]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-16.21.37:302][209]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2023.08.21-16.21.37:302][209]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-16.21.37:375][209]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Book/Animation/MM_Jump.MM_Jump
+[2023.08.21-16.21.39:497][296]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Book/Animation/MM_Jump.MM_Jump
+[2023.08.21-16.21.39:500][296]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.21-16.21.39:540][296]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_49:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.21-16.21.39:972][296]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.21-16.21.40:143][296]LogViewport: Scene viewport resized to 996x475, mode Windowed.
+[2023.08.21-16.21.40:190][296]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.08.21-16.21.42:710][380]LogSlate: Window 'MM_Jump' being destroyed
+[2023.08.21-16.21.42:723][380]LogSlate: Window 'MM_Jump' being destroyed
+[2023.08.21-16.21.42:724][380]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2023.08.21-16.21.42:724][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-16.21.42:836][380]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2023.08.21-16.21.42:836][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-16.21.48:451][472]LogViewport: Scene viewport resized to 780x539, mode Windowed.
+[2023.08.21-16.21.48:542][472]LogViewport: Scene viewport resized to 1133x539, mode Windowed.
+[2023.08.21-16.21.48:657][472]LogViewport: Scene viewport resized to 1343x539, mode Windowed.
+[2023.08.21-16.21.52:820][662]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2023.08.21-16.21.54:885][662]LogSlate: Window 'Delete Assets' being destroyed
+[2023.08.21-16.21.54:947][662]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2023.08.21-16.21.54:999][662]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2023.08.21-16.21.55:047][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.08.21-16.21.56:442][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.08.21-16.21.57:900][722]LogSlate: Window 'Delete Assets' being destroyed
+[2023.08.21-16.21.57:960][722]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2023.08.21-16.21.58:011][722]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2023.08.21-16.21.58:059][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.08.21-16.21.59:540][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.08.21-16.22.00:777][787]LogSlate: Window 'Delete Assets' being destroyed
+[2023.08.21-16.22.00:836][787]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.08.21-16.22.00:885][787]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2023.08.21-16.22.00:934][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.08.21-16.22.03:462][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Maps/Step2" FILE="../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Maps/Step2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.21-16.22.03:514][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.08.21-16.22.03:529][909]LogSavePackage: Moving output files for package: /Game/Book/Maps/Step2
+[2023.08.21-16.22.03:530][909]LogSavePackage: Moving '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Saved/Step225C4CA6C48DF56CA07BCD69E9A7668BF.tmp' to '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Maps/Step2.umap'
+[2023.08.21-16.22.03:574][909]AssetCheck: New page: 에셋 저장:  Step2
+[2023.08.21-16.22.03:574][909]LogContentValidation: Display: World /Game/Book/Maps/Step2.Step2 유효성 검사 중
+[2023.08.21-16.22.05:041][985]LogViewport: Scene viewport resized to 1342x539, mode Windowed.
+[2023.08.21-16.22.05:145][985]LogViewport: Scene viewport resized to 1064x539, mode Windowed.
+[2023.08.21-16.22.05:252][985]LogViewport: Scene viewport resized to 924x539, mode Windowed.
+[2023.08.21-16.22.05:355][985]LogViewport: Scene viewport resized to 917x539, mode Windowed.
+[2023.08.21-16.25.04:174][ 43]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Book/Animation/WarriorAnimBlueprint.WarriorAnimBlueprint
+[2023.08.21-16.25.04:175][ 43]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.21-16.25.04:210][ 43]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.21-16.25.04:224][ 43]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.21-16.25.05:562][ 43]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.21-16.25.05:774][ 43]LogViewport: Scene viewport resized to 428x402, mode Windowed.
+[2023.08.21-16.27.47:109][586]LogSavePackage: Moving output files for package: /Game/Book/Animation/WarriorAnimBlueprint
+[2023.08.21-16.27.47:111][586]LogSavePackage: Moving '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Saved/WarriorAnimBlueprint140FE7D34272AD59CBE68C86B3274B8F.tmp' to '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Animation/WarriorAnimBlueprint.uasset'
+[2023.08.21-16.27.47:147][586]AssetCheck: New page: 에셋 저장:  WarriorAnimBlueprint
+[2023.08.21-16.27.47:147][586]LogContentValidation: Display: AnimBlueprint /Game/Book/Animation/WarriorAnimBlueprint.WarriorAnimBlueprint 유효성 검사 중
+[2023.08.21-16.28.51:942][911]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.08.21-16.28.52:910][944]LogViewport: Scene viewport resized to 160x160, mode Windowed.
+[2023.08.21-16.32.21:619][442]LogSavePackage: Moving output files for package: /Game/Book/Animation/WarriorAnimBlueprint
+[2023.08.21-16.32.21:620][442]LogSavePackage: Moving '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Saved/WarriorAnimBlueprint74C325334C03CC4F18E149BCFA741DF6.tmp' to '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Animation/WarriorAnimBlueprint.uasset'
+[2023.08.21-16.32.21:659][442]AssetCheck: New page: 에셋 저장:  WarriorAnimBlueprint
+[2023.08.21-16.32.21:659][442]LogContentValidation: Display: AnimBlueprint /Game/Book/Animation/WarriorAnimBlueprint.WarriorAnimBlueprint 유효성 검사 중
+[2023.08.21-16.32.26:039][571]LogSavePackage: Moving output files for package: /Game/Book/Animation/WarriorAnimBlueprint
+[2023.08.21-16.32.26:041][571]LogSavePackage: Moving '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Saved/WarriorAnimBlueprint134AAEA347D169F1E1C5B094EBAB2C39.tmp' to '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Animation/WarriorAnimBlueprint.uasset'
+[2023.08.21-16.32.26:070][571]AssetCheck: New page: 에셋 저장:  WarriorAnimBlueprint
+[2023.08.21-16.32.26:071][571]LogContentValidation: Display: AnimBlueprint /Game/Book/Animation/WarriorAnimBlueprint.WarriorAnimBlueprint 유효성 검사 중
+[2023.08.21-16.36.49:781][778]LogSavePackage: Moving output files for package: /Game/Book/Animation/WarriorAnimBlueprint
+[2023.08.21-16.36.49:783][778]LogSavePackage: Moving '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Saved/WarriorAnimBlueprint656DE90E4111E915AA117A8FD71AB94F.tmp' to '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Animation/WarriorAnimBlueprint.uasset'
+[2023.08.21-16.36.49:810][778]AssetCheck: New page: 에셋 저장:  WarriorAnimBlueprint
+[2023.08.21-16.36.49:810][778]LogContentValidation: Display: AnimBlueprint /Game/Book/Animation/WarriorAnimBlueprint.WarriorAnimBlueprint 유효성 검사 중
+[2023.08.21-16.37.01:924][146]LogSavePackage: Moving output files for package: /Game/Book/Animation/WarriorAnimBlueprint
+[2023.08.21-16.37.01:926][146]LogSavePackage: Moving '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Saved/WarriorAnimBlueprint257D88624FB60DED20CD5FA5662B708D.tmp' to '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Animation/WarriorAnimBlueprint.uasset'
+[2023.08.21-16.37.01:953][146]AssetCheck: New page: 에셋 저장:  WarriorAnimBlueprint
+[2023.08.21-16.37.01:953][146]LogContentValidation: Display: AnimBlueprint /Game/Book/Animation/WarriorAnimBlueprint.WarriorAnimBlueprint 유효성 검사 중
+[2023.08.21-16.37.02:291][157]BlueprintLog: New page: WarriorAnimBlueprint 컴파일
+[2023.08.21-16.37.02:465][157]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2023.08.21-16.37.20:550][703]LogSavePackage: Moving output files for package: /Game/Book/Animation/WarriorAnimBlueprint
+[2023.08.21-16.37.20:552][703]LogSavePackage: Moving '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Saved/WarriorAnimBlueprintBCCF538F41CB4C27647D349D80F024DD.tmp' to '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Animation/WarriorAnimBlueprint.uasset'
+[2023.08.21-16.37.20:580][703]AssetCheck: New page: 에셋 저장:  WarriorAnimBlueprint
+[2023.08.21-16.37.20:580][703]LogContentValidation: Display: AnimBlueprint /Game/Book/Animation/WarriorAnimBlueprint.WarriorAnimBlueprint 유효성 검사 중
+[2023.08.21-16.37.25:702][864]LogSlate: Window 'WarriorAnimBlueprint' being destroyed
+[2023.08.21-16.37.25:712][864]LogSlate: Window 'WarriorAnimBlueprint' being destroyed
+[2023.08.21-16.37.25:731][864]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2023.08.21-16.37.25:731][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-16.37.25:750][864]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2023.08.21-16.37.25:751][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-16.37.25:936][864]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2023.08.21-16.37.25:936][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-16.37.27:210][926]LogVSAccessor: Warning: Couldn't save all documents
+[2023.08.21-16.37.27:245][926]Candidate modules for hot reload:
+[2023.08.21-16.37.27:245][926]  ArenaBattle
+[2023.08.21-16.37.27:261][926]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe  -ModuleWithSuffix=ArenaBattle,8068 ArenaBattleEditor Win64 Development -Project="C:/Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/ArenaBattle.uproject" "C:/Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/ArenaBattle.uproject"  -IgnoreJunk]
+[2023.08.21-16.37.27:270][926]Warning: Starting HotReload took  0.1s.
+[2023.08.21-16.37.32:269][984]CompilerResultsLog: New page: 컴파일 - 2023. 8. 22. 오전 10:37:32
+[2023.08.21-16.37.32:269][984]CompilerResultsLog: Log file: C:\Users\Moon\AppData\Local\UnrealBuildTool\Log.txt
+[2023.08.21-16.37.32:269][984]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Moon\Documents\GitHub\ArenaBattle).
+[2023.08.21-16.37.32:269][984]CompilerResultsLog: Building ArenaBattleEditor...
+[2023.08.21-16.37.32:270][984]CompilerResultsLog: Using Visual Studio 2019 14.29.30151 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.08.21-16.37.32:270][984]CompilerResultsLog: [Adaptive Build] Excluded from ArenaBattle unity file: ABAnimInstance.cpp, ABCharacter.cpp
+[2023.08.21-16.37.32:270][984]CompilerResultsLog: Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+[2023.08.21-16.37.32:270][984]CompilerResultsLog:   Executing up to 8 processes, one per physical core
+[2023.08.21-16.37.32:270][984]CompilerResultsLog: Building 3 actions with 3 processes...
+[2023.08.21-16.37.32:270][984]CompilerResultsLog: [1/3] Link UnrealEditor-ArenaBattle-8068.lib
+[2023.08.21-16.37.32:270][984]CompilerResultsLog:    C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-8068.lib ???̺귯?? ?? C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-8068.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.08.21-16.37.32:270][984]CompilerResultsLog: [2/3] Link UnrealEditor-ArenaBattle-8068.dll
+[2023.08.21-16.37.32:270][984]CompilerResultsLog:    C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-8068.suppressed.lib ???̺귯?? ?? C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-8068.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.08.21-16.37.32:270][984]CompilerResultsLog: [3/3] WriteMetadata ArenaBattleEditor.target
+[2023.08.21-16.37.32:270][984]CompilerResultsLog: Total time in Parallel executor: 2.35 seconds
+[2023.08.21-16.37.32:270][984]CompilerResultsLog: Total execution time: 4.63 seconds
+[2023.08.21-16.37.32:270][984]LogMainFrame: MainFrame: Module compiling took 5.059 seconds
+[2023.08.21-16.37.32:726][984]Re-instancing ABCharacter after reload.
+[2023.08.21-16.37.33:060][984]Display: HotReload took  5.9s.
+[2023.08.21-16.37.33:060][984]Display: Reload/Re-instancing Complete: 1 package changed, 6 classes unchanged
+[2023.08.21-16.37.36:876][ 53]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2023.08.21-16.37.36:892][ 53]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.21-16.37.36:892][ 53]PIE: New page: PIE 세션: Step2 (2023. 8. 22. 오전 10:37:36)
+[2023.08.21-16.37.36:892][ 53]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2023.08.21-16.37.36:896][ 53]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003573s)
+[2023.08.21-16.37.36:896][ 53]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.003722s)
+[2023.08.21-16.37.36:896][ 53]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.08.21-16.37.36:896][ 53]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.21-16.37.36:897][ 53]LogAIModule: Creating AISystem for world Step2
+[2023.08.21-16.37.36:898][ 53]LogPlayLevel: PIE: World Init took: (0.001843s)
+[2023.08.21-16.37.37:071][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2023.08.21-16.37.37:084][ 53]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2023.08.21-16.37.37:084][ 53]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.21-16.37.37:085][ 53]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.21-16.37.37:085][ 53]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.21-16.37.37:085][ 53]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.21-16.37.37:085][ 53]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.21-16.37.37:085][ 53]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.21-16.37.37:085][ 53]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.21-16.37.37:085][ 53]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.21-16.37.37:086][ 53]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.21-16.37.37:086][ 53]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.21-16.37.37:086][ 53]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.21-16.37.37:090][ 53]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.21-16.37.37:178][ 53]LogAudioMixer: Display: Using Audio Hardware Device Audio(THX Spatial Audio)
+[2023.08.21-16.37.37:178][ 53]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.21-16.37.37:178][ 53]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.21-16.37.37:178][ 53]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.21-16.37.37:180][ 53]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2023.08.21-16.37.37:180][ 53]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2023.08.21-16.37.37:184][ 53]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2023.08.21-16.37.37:184][ 53]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2023.08.21-16.37.37:185][ 53]LogInit: FAudioDevice initialized.
+[2023.08.21-16.37.37:185][ 53]LogAudio: Display: Audio Device (ID: 23) registered with world 'Step2'.
+[2023.08.21-16.37.37:215][ 53]LogLoad: Game class is 'ABGameMode'
+[2023.08.21-16.37.37:218][ 53]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 60) at 2023.08.22-01.37.37
+[2023.08.21-16.37.37:218][ 53]LogWorld: Bringing up level for play took: 0.001617
+[2023.08.21-16.37.37:223][ 53]LogOnline: OSS: Created online subsystem instance for: :Context_76
+[2023.08.21-16.37.37:224][ 53]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(9)
+[2023.08.21-16.37.37:225][ 53]ArenaBattle: Warning: AABGameMode::PostLogin(19) PostLogin
+[2023.08.21-16.37.37:226][ 53]ArenaBattle: Warning: AABPlayerController::OnPossess(14)
+[2023.08.21-16.37.37:227][ 53]ArenaBattle: Warning: AABGameMode::PostLogin(21) PostLogin End
+[2023.08.21-16.37.37:227][ 53]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.08.21-16.37.37:227][ 53]PIE: 서버가 로그인했습니다.
+[2023.08.21-16.37.37:230][ 53]PIE: 에디터에서 플레이 총 시작 시간 0.338초입니다.
+[2023.08.21-16.37.46:344][569]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.21-16.37.46:344][569]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2023.08.21-16.37.46:344][569]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2023.08.21-16.37.46:344][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-16.37.46:366][569]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.21-16.37.46:376][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-16.37.46:421][569]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.21-16.37.46:422][569]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.08.21-16.37.46:425][569]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.08.21-16.37.46:433][569]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.21-16.37.46:505][569]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2023.08.21-16.37.46:610][570]LogPlayLevel: Display: Destroying online subsystem :Context_76
+[2023.08.21-16.38.31:386][244]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2023.08.21-16.38.31:405][244]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.21-16.38.31:405][244]PIE: New page: PIE 세션: Step2 (2023. 8. 22. 오전 10:38:31)
+[2023.08.21-16.38.31:405][244]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2023.08.21-16.38.31:409][244]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003503s)
+[2023.08.21-16.38.31:409][244]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.003643s)
+[2023.08.21-16.38.31:409][244]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.08.21-16.38.31:409][244]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.21-16.38.31:410][244]LogAIModule: Creating AISystem for world Step2
+[2023.08.21-16.38.31:410][244]LogPlayLevel: PIE: World Init took: (0.001477s)
+[2023.08.21-16.38.31:462][244]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2023.08.21-16.38.31:468][244]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2023.08.21-16.38.31:468][244]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.21-16.38.31:468][244]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.21-16.38.31:468][244]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.21-16.38.31:468][244]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.21-16.38.31:468][244]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.21-16.38.31:468][244]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.21-16.38.31:468][244]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.21-16.38.31:468][244]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.21-16.38.31:469][244]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.21-16.38.31:470][244]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.21-16.38.31:470][244]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.21-16.38.31:474][244]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.21-16.38.31:547][244]LogAudioMixer: Display: Using Audio Hardware Device Audio(THX Spatial Audio)
+[2023.08.21-16.38.31:547][244]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.21-16.38.31:547][244]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.21-16.38.31:547][244]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.21-16.38.31:548][244]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2023.08.21-16.38.31:548][244]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2023.08.21-16.38.31:552][244]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2023.08.21-16.38.31:552][244]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2023.08.21-16.38.31:552][244]LogInit: FAudioDevice initialized.
+[2023.08.21-16.38.31:552][244]LogAudio: Display: Audio Device (ID: 24) registered with world 'Step2'.
+[2023.08.21-16.38.31:570][244]LogLoad: Game class is 'ABGameMode'
+[2023.08.21-16.38.31:571][244]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 60) at 2023.08.22-01.38.31
+[2023.08.21-16.38.31:572][244]LogWorld: Bringing up level for play took: 0.001126
+[2023.08.21-16.38.31:575][244]LogOnline: OSS: Created online subsystem instance for: :Context_77
+[2023.08.21-16.38.31:576][244]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(9)
+[2023.08.21-16.38.31:577][244]ArenaBattle: Warning: AABGameMode::PostLogin(19) PostLogin
+[2023.08.21-16.38.31:578][244]ArenaBattle: Warning: AABPlayerController::OnPossess(14)
+[2023.08.21-16.38.31:578][244]ArenaBattle: Warning: AABGameMode::PostLogin(21) PostLogin End
+[2023.08.21-16.38.31:578][244]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.08.21-16.38.31:578][244]PIE: 서버가 로그인했습니다.
+[2023.08.21-16.38.31:580][244]PIE: 에디터에서 플레이 총 시작 시간 0.175초입니다.
+[2023.08.21-16.38.34:160][388]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.21-16.38.34:160][388]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2023.08.21-16.38.34:161][388]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2023.08.21-16.38.34:161][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-16.38.34:181][388]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.21-16.38.34:189][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-16.38.34:239][388]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.21-16.38.34:240][388]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.08.21-16.38.34:244][388]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.08.21-16.38.34:255][388]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2023.08.21-16.38.34:342][389]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2023.08.21-16.38.41:839][796]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Book/Animation/MM_Jump.MM_Jump
+[2023.08.21-16.38.41:844][796]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.21-16.38.41:894][796]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.21-16.38.42:305][796]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.21-16.38.42:483][796]LogViewport: Scene viewport resized to 999x475, mode Windowed.
+[2023.08.21-16.38.42:533][796]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.08.21-16.38.49:169][ 20]LogSlate: Window 'MM_Jump' being destroyed
+[2023.08.21-16.38.49:180][ 20]LogSlate: Window 'MM_Jump' being destroyed
+[2023.08.21-16.38.49:180][ 20]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2023.08.21-16.38.49:180][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-16.38.49:303][ 20]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2023.08.21-16.38.49:303][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-16.38.50:309][ 63]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Book/Animation/WarriorAnimBlueprint.WarriorAnimBlueprint
+[2023.08.21-16.38.50:310][ 63]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.21-16.38.50:360][ 63]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.21-16.38.50:376][ 63]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_57:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.21-16.38.51:773][ 63]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.21-16.38.52:000][ 63]LogViewport: Scene viewport resized to 430x402, mode Windowed.
+[2023.08.21-16.39.06:518][560]BlueprintLog: New page: WarriorAnimBlueprint 컴파일
+[2023.08.21-16.39.06:664][560]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2023.08.21-16.39.07:347][573]LogSavePackage: Moving output files for package: /Game/Book/Animation/WarriorAnimBlueprint
+[2023.08.21-16.39.07:349][573]LogSavePackage: Moving '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Saved/WarriorAnimBlueprint6C1EB08D4A0E0F0BD578FDAC19DD579C.tmp' to '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Animation/WarriorAnimBlueprint.uasset'
+[2023.08.21-16.39.07:377][573]AssetCheck: New page: 에셋 저장:  WarriorAnimBlueprint
+[2023.08.21-16.39.07:377][573]LogContentValidation: Display: AnimBlueprint /Game/Book/Animation/WarriorAnimBlueprint.WarriorAnimBlueprint 유효성 검사 중
+[2023.08.21-16.39.09:101][632]LogSlate: Window 'WarriorAnimBlueprint' being destroyed
+[2023.08.21-16.39.09:111][632]LogSlate: Window 'WarriorAnimBlueprint' being destroyed
+[2023.08.21-16.39.09:131][632]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2023.08.21-16.39.09:131][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-16.39.09:151][632]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2023.08.21-16.39.09:152][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-16.39.09:345][632]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2023.08.21-16.39.09:346][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-16.39.10:045][664]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2023.08.21-16.39.10:062][664]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.21-16.39.10:062][664]PIE: New page: PIE 세션: Step2 (2023. 8. 22. 오전 10:39:10)
+[2023.08.21-16.39.10:062][664]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2023.08.21-16.39.10:066][664]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003560s)
+[2023.08.21-16.39.10:066][664]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.003713s)
+[2023.08.21-16.39.10:066][664]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.08.21-16.39.10:066][664]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.21-16.39.10:067][664]LogAIModule: Creating AISystem for world Step2
+[2023.08.21-16.39.10:067][664]LogPlayLevel: PIE: World Init took: (0.001472s)
+[2023.08.21-16.39.10:144][664]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2023.08.21-16.39.10:159][664]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2023.08.21-16.39.10:159][664]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.21-16.39.10:159][664]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.21-16.39.10:159][664]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.21-16.39.10:159][664]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.21-16.39.10:159][664]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.21-16.39.10:159][664]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.21-16.39.10:159][664]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.21-16.39.10:159][664]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.21-16.39.10:160][664]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.21-16.39.10:160][664]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.21-16.39.10:160][664]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.21-16.39.10:164][664]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.21-16.39.10:237][664]LogAudioMixer: Display: Using Audio Hardware Device Audio(THX Spatial Audio)
+[2023.08.21-16.39.10:238][664]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.21-16.39.10:238][664]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.21-16.39.10:238][664]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.21-16.39.10:239][664]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2023.08.21-16.39.10:239][664]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2023.08.21-16.39.10:243][664]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2023.08.21-16.39.10:243][664]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2023.08.21-16.39.10:243][664]LogInit: FAudioDevice initialized.
+[2023.08.21-16.39.10:243][664]LogAudio: Display: Audio Device (ID: 25) registered with world 'Step2'.
+[2023.08.21-16.39.10:261][664]LogLoad: Game class is 'ABGameMode'
+[2023.08.21-16.39.10:262][664]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 60) at 2023.08.22-01.39.10
+[2023.08.21-16.39.10:263][664]LogWorld: Bringing up level for play took: 0.001083
+[2023.08.21-16.39.10:266][664]LogOnline: OSS: Created online subsystem instance for: :Context_83
+[2023.08.21-16.39.10:267][664]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(9)
+[2023.08.21-16.39.10:267][664]ArenaBattle: Warning: AABGameMode::PostLogin(19) PostLogin
+[2023.08.21-16.39.10:268][664]ArenaBattle: Warning: AABPlayerController::OnPossess(14)
+[2023.08.21-16.39.10:269][664]ArenaBattle: Warning: AABGameMode::PostLogin(21) PostLogin End
+[2023.08.21-16.39.10:270][664]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.08.21-16.39.10:270][664]PIE: 서버가 로그인했습니다.
+[2023.08.21-16.39.10:271][664]PIE: 에디터에서 플레이 총 시작 시간 0.209초입니다.
+[2023.08.21-16.39.18:010][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.21-16.39.18:010][115]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2023.08.21-16.39.18:011][115]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2023.08.21-16.39.18:011][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-16.39.18:031][115]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.21-16.39.18:040][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-16.39.18:093][115]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.21-16.39.18:094][115]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2023.08.21-16.39.18:097][115]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2023.08.21-16.39.18:104][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.21-16.39.18:108][115]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2023.08.21-16.39.18:196][116]LogPlayLevel: Display: Destroying online subsystem :Context_83
+[2023.08.21-16.39.23:564][362]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Book/Animation/WarriorAnimBlueprint.WarriorAnimBlueprint
+[2023.08.21-16.39.23:565][362]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.21-16.39.23:618][362]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.21-16.39.23:634][362]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_60:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.21-16.39.24:810][362]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.21-16.39.25:044][362]LogViewport: Scene viewport resized to 430x402, mode Windowed.
+[2023.08.21-16.39.26:307][404]BlueprintLog: New page: WarriorAnimBlueprint 컴파일
+[2023.08.21-16.39.26:444][404]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2023.08.21-16.39.27:215][421]LogSavePackage: Moving output files for package: /Game/Book/Animation/WarriorAnimBlueprint
+[2023.08.21-16.39.27:216][421]LogSavePackage: Moving '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Saved/WarriorAnimBlueprintF89442324ED044850D8803806D3A2B22.tmp' to '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Animation/WarriorAnimBlueprint.uasset'
+[2023.08.21-16.39.27:245][421]AssetCheck: New page: 에셋 저장:  WarriorAnimBlueprint
+[2023.08.21-16.39.27:245][421]LogContentValidation: Display: AnimBlueprint /Game/Book/Animation/WarriorAnimBlueprint.WarriorAnimBlueprint 유효성 검사 중
+[2023.08.21-16.39.32:460][605]LogSlate: Window 'WarriorAnimBlueprint' being destroyed
+[2023.08.21-16.39.32:470][605]LogSlate: Window 'WarriorAnimBlueprint' being destroyed
+[2023.08.21-16.39.32:489][605]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2023.08.21-16.39.32:489][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-16.39.32:507][605]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2023.08.21-16.39.32:507][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-16.39.32:685][605]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2023.08.21-16.39.32:685][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-16.40.00:224][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Maps/Step2" FILE="../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Maps/Step2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.21-16.40.00:348][834]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2023.08.21-16.40.00:398][834]LogSavePackage: Moving output files for package: /Game/Book/Maps/Step2
+[2023.08.21-16.40.00:401][834]LogSavePackage: Moving '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Saved/Step29397C9394E080A78B81AE59085EA4600.tmp' to '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Maps/Step2.umap'
+[2023.08.21-16.40.00:502][834]AssetCheck: New page: 에셋 저장:  Step2
+[2023.08.21-16.40.00:502][834]LogContentValidation: Display: World /Game/Book/Maps/Step2.Step2 유효성 검사 중
