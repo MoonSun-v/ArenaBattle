@@ -20,7 +20,18 @@ protected:
 	virtual void BeginPlay() override;
 
 	// 삼인칭 컨트롤 구현 : GTA 방식
-	void SetControlMode(int32 ControlMode);
+	// void SetControlMode(int32 ControlMode);
+
+	// 삼인칭 컨트롤 구현 : GTA 방식, DIABLO방식
+	enum class EControlMode
+	{
+		GTA,
+		DIABLO
+	};
+
+	void SetControlMode(EControlMode NewControlMode);
+	EControlMode CurrentControlMode = EControlMode::GTA;
+	FVector DirectionToMove = FVector::ZeroVector;
 
 public:	
 	// Called every frame

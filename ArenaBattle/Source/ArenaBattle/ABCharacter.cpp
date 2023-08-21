@@ -33,8 +33,9 @@ AABCharacter::AABCharacter()
 		GetMesh()->SetAnimInstanceClass(WARRIOR_ANIM.Class);
 	}
 
-	// 삼인칭 컨트롤 구현 : GTA 방식
-	SetControlMode(0);
+	// 삼인칭 컨트롤 구현 : GTA 방식 , DIABLO 방식
+	SetControlMode(// EControlMode::GTA);
+		EControlMode::DIABLO);
 }
 
 // Called when the game starts or when spawned
@@ -45,6 +46,7 @@ void AABCharacter::BeginPlay()
 }
 
 // 삼인칭 컨트롤 구현 : GTA 방식
+/*
 void AABCharacter::SetControlMode(int32 ControlMode)
 {
 	if (ControlMode == 0)
@@ -63,12 +65,62 @@ void AABCharacter::SetControlMode(int32 ControlMode)
 	}
 
 }
+*/
+
+// 삼인칭 컨트롤 구현 : DIABLO 방식
+void AABCharacter::SetControlMode(EControlMode NewControlMode)
+{
+	CurrentControlMode = NewControlMode;
+	switch (CurrentControlMode)
+	{
+	case EControlMode::GTA:
+		SpringArm->TargetArmLength = 450.0f;
+		SpringArm->SetRelativeRotation(FRotator::ZeroRotator);
+		SpringArm->bUsePawnControlRotation = true;
+		SpringArm->bInheritPitch = true;
+		SpringArm->bInheritRoll = true;
+		SpringArm->bInheritYaw = true;
+		SpringArm->bDoCollisionTest = true;
+		bUseControllerRotationYaw = false; 
+		// 움직이는 방향으로 캐릭터 회전
+		GetCharacterMovement()->bOrientRotationToMovement = true;
+		GetCharacterMovement()->bUseControllerDesiredRotation = false; // 캐릭터 회전 보완
+		GetCharacterMovement()->RotationRate = FRotator(0.0f, 720.0f, 0.0f);
+		break;
+	case EControlMode::DIABLO:
+		SpringArm->TargetArmLength = 800.0f;
+		SpringArm->SetRelativeRotation(FRotator(-45.0f, 0.0f, 0.0f));
+		SpringArm->bUsePawnControlRotation = false;
+		SpringArm->bInheritPitch = false;
+		SpringArm->bInheritRoll = false;
+		SpringArm->bInheritYaw = false;
+		SpringArm->bDoCollisionTest = false;
+		// 컨트롤 Yaw 회전과 폰의 Yaw 회전을 연동 (bUseControllerRotationYaw = true)
+		bUseControllerRotationYaw = false;
+		// 기존의 45도 회전을 부드럽게 회전시킴 
+		GetCharacterMovement()->bOrientRotationToMovement = false;
+		GetCharacterMovement()->bUseControllerDesiredRotation = true; // 캐릭터 회전 보완
+		GetCharacterMovement()->RotationRate = FRotator(0.0f, 720.0f, 0.0f);
+		break;
+	}
+}
 
 // Called every frame
 void AABCharacter::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
+	switch (CurrentControlMode)
+	{
+	case EControlMode::DIABLO:
+		if (DirectionToMove.SizeSquared() > 0.0f)
+		{
+			// 최종 벡터 방향과 캐릭터의 시선 방향(X축)이 일치해야 하므로 이 MakeFromX 사용
+			GetController()->SetControlRotation(FRotationMatrix::MakeFromX(DirectionToMove).Rotator());
+			AddMovementInput(DirectionToMove);
+		}
+		break;
+	}
 }
 
 // Called to bind functionality to input
@@ -86,44 +138,56 @@ void AABCharacter::UpDown(float NewAxisValue)
 {
 	//AddMovementInput(GetActorForwardVector(), NewAxisValue);
 	
-	AddMovementInput(FRotationMatrix(GetControlRotation()).GetUnitAxis(EAxis::X), NewAxisValue);
+	// AddMovementInput(FRotationMatrix(GetControlRotation()).GetUnitAxis(EAxis::X), NewAxisValue);
 
-	// 회전 값으로부터 시선 방향과 우측 방향의 벡터값을 가져오는 코드
-	// auto xAxis = FRotationMatrix(GetControlRotation()).GetUnitAxis(EAxis::X);
-	// 책에서 추가된 코드
-	/*
-	xAxis.Z = 0;
-	xAxis = xAxis.GetSafeNormal();
-	AddMovementInput(xAxis, NewAxisValue);
-	auto forward = GetActorForwardVector();
-	*/
+	switch (CurrentControlMode)
+	{
+	case EControlMode::GTA:
+		AddMovementInput(FRotationMatrix(FRotator(0.0f, GetControlRotation().Yaw, 0.0f)).GetUnitAxis(EAxis::X), NewAxisValue);
+		break;
+	case EControlMode::DIABLO:
+		DirectionToMove.X = NewAxisValue;
+		break;
+	}
 }
 
 void AABCharacter::LeftRight(float NewAxisValue)
 {
 	// AddMovementInput(GetActorRightVector(), NewAxisValue);
 
-	AddMovementInput(FRotationMatrix(GetControlRotation()).GetUnitAxis(EAxis::Y), NewAxisValue);
+	// AddMovementInput(FRotationMatrix(GetControlRotation()).GetUnitAxis(EAxis::Y), NewAxisValue);
 
-	// 회전 값으로부터 시선 방향과 우측 방향의 벡터값을 가져오는 코드 
-	// auto yAxis = FRotationMatrix(GetControlRotation()).GetUnitAxis(EAxis::Y);
-	// 책에서 추가된 코드
-	/*
-	yAxis.Z = 0;
-	yAxis = yAxis.GetSafeNormal();
-	AddMovementInput(yAxis, NewAxisValue);
-	ABLOG(Warning, TEXT("yAxis : %s"), *yAxis.ToString());
-	ABLOG(Warning, TEXT("GetActorRightVector : %s"), *GetActorRightVector().ToString());
-	*/
-
+	switch (CurrentControlMode)
+	{
+	case EControlMode::GTA:
+		AddMovementInput(FRotationMatrix(FRotator(0.0f, GetControlRotation().Yaw, 0.0f)).GetUnitAxis(EAxis::Y), NewAxisValue);
+		break;
+	case EControlMode::DIABLO:
+		DirectionToMove.Y = NewAxisValue;
+		break;
+	}
 }
 
 void AABCharacter::LookUp(float NewAxisValue)
 {
-	AddControllerPitchInput(NewAxisValue);
+	// AddControllerPitchInput(NewAxisValue);
+
+	switch (CurrentControlMode)
+	{
+	case EControlMode::GTA:
+		AddControllerPitchInput(NewAxisValue);
+		break;
+	}
 }
 
 void AABCharacter::Turn(float NewAxisValue)
 {
-	AddControllerYawInput(NewAxisValue);
+	// AddControllerYawInput(NewAxisValue);
+
+	switch (CurrentControlMode)
+	{
+	case EControlMode::GTA:
+		AddControllerYawInput(NewAxisValue);
+		break;
+	}
 }
