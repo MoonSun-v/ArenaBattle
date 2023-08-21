@@ -6201,3 +6201,171 @@ Scale3D: 1.000000 1.000000 1.000000
 [2023.08.21-14.41.45:035][677]LogSavePackage: Moving '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Saved/Step2949AD32A4D448B28F136BAAB867F97D7.tmp' to '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Maps/Step2.umap'
 [2023.08.21-14.41.45:076][677]AssetCheck: New page: 에셋 저장:  Step2
 [2023.08.21-14.41.45:076][677]LogContentValidation: Display: World /Game/Book/Maps/Step2.Step2 유효성 검사 중
+[2023.08.21-14.44.32:428][ 12]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.08.21-14.44.32:633][ 12]LogUObjectGlobals: Warning: 'Class 없음.Physics' 오브젝트를 찾는 데 실패했습니다.
+[2023.08.21-14.45.23:162][361]LogSlate: Window '프로젝트 세팅' being destroyed
+[2023.08.21-14.45.23:192][361]LogSlate: Window '프로젝트 세팅' being destroyed
+[2023.08.21-14.55.59:560][576]LogVSAccessor: Warning: Couldn't save all documents
+[2023.08.21-14.55.59:599][576]Candidate modules for hot reload:
+[2023.08.21-14.55.59:599][576]  ArenaBattle
+[2023.08.21-14.55.59:614][576]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe  -ModuleWithSuffix=ArenaBattle,0272 ArenaBattleEditor Win64 Development -Project="C:/Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/ArenaBattle.uproject" "C:/Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/ArenaBattle.uproject"  -IgnoreJunk]
+[2023.08.21-14.55.59:622][576]Warning: Starting HotReload took  0.1s.
+[2023.08.21-14.56.25:301][759]CompilerResultsLog: New page: 컴파일 - 2023. 8. 22. 오전 8:56:25
+[2023.08.21-14.56.25:302][759]CompilerResultsLog: Log file: C:\Users\Moon\AppData\Local\UnrealBuildTool\Log.txt
+[2023.08.21-14.56.25:302][759]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Moon\Documents\GitHub\ArenaBattle).
+[2023.08.21-14.56.25:302][759]CompilerResultsLog: Invalidating makefile for ArenaBattleEditor (working set of source files changed)
+[2023.08.21-14.56.25:302][759]CompilerResultsLog: Parsing headers for ArenaBattleEditor
+[2023.08.21-14.56.25:302][759]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\ArenaBattle.uproject" "C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\ArenaBattleEditor\Development\ArenaBattleEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Moon\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2023.08.21-14.56.25:302][759]CompilerResultsLog: Reflection code generated for ArenaBattleEditor in 5.7348054 seconds
+[2023.08.21-14.56.25:302][759]CompilerResultsLog: Building ArenaBattleEditor...
+[2023.08.21-14.56.25:302][759]CompilerResultsLog: Using Visual Studio 2019 14.29.30151 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.08.21-14.56.25:302][759]CompilerResultsLog: [Adaptive Build] Excluded from ArenaBattle unity file: ABCharacter.cpp
+[2023.08.21-14.56.25:302][759]CompilerResultsLog: Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+[2023.08.21-14.56.25:302][759]CompilerResultsLog:   Executing up to 8 processes, one per physical core
+[2023.08.21-14.56.25:302][759]CompilerResultsLog: Building 6 actions with 6 processes...
+[2023.08.21-14.56.25:302][759]CompilerResultsLog: [1/6] Compile ABCharacter.gen.cpp
+[2023.08.21-14.56.25:302][759]CompilerResultsLog: [2/6] Compile ABGameMode.cpp
+[2023.08.21-14.56.25:302][759]CompilerResultsLog: [3/6] Compile ABCharacter.cpp
+[2023.08.21-14.56.25:302][759]CompilerResultsLog: [4/6] Link UnrealEditor-ArenaBattle-0272.lib
+[2023.08.21-14.56.25:302][759]CompilerResultsLog:    C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-0272.lib ???̺귯?? ?? C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-0272.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.08.21-14.56.25:302][759]CompilerResultsLog: [5/6] Link UnrealEditor-ArenaBattle-0272.dll
+[2023.08.21-14.56.25:302][759]CompilerResultsLog:    C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-0272.suppressed.lib ???̺귯?? ?? C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-0272.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.08.21-14.56.25:302][759]CompilerResultsLog: [6/6] WriteMetadata ArenaBattleEditor.target
+[2023.08.21-14.56.25:302][759]CompilerResultsLog: Total time in Parallel executor: 14.43 seconds
+[2023.08.21-14.56.25:302][759]CompilerResultsLog: Total execution time: 25.44 seconds
+[2023.08.21-14.56.25:302][759]LogMainFrame: MainFrame: Module compiling took 25.742 seconds
+[2023.08.21-14.56.25:715][759]LogClass: ABCharacter Reload.
+[2023.08.21-14.56.25:716][759]LogClass: Could not find existing class ABCharacter in package /Script/ArenaBattle for reload, assuming new or modified class
+[2023.08.21-14.56.25:754][759]Re-instancing ABCharacter after reload.
+[2023.08.21-14.56.26:053][759]Display: HotReload took 26.5s.
+[2023.08.21-14.56.26:053][759]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed, 4 classes unchanged
+[2023.08.21-14.57.07:990][861]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2023.08.21-14.57.08:007][861]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.21-14.57.08:007][861]PIE: New page: PIE 세션: Step2 (2023. 8. 22. 오전 8:57:08)
+[2023.08.21-14.57.08:007][861]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2023.08.21-14.57.08:011][861]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003768s)
+[2023.08.21-14.57.08:011][861]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.003909s)
+[2023.08.21-14.57.08:011][861]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.08.21-14.57.08:011][861]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.21-14.57.08:012][861]LogAIModule: Creating AISystem for world Step2
+[2023.08.21-14.57.08:012][861]LogPlayLevel: PIE: World Init took: (0.001641s)
+[2023.08.21-14.57.08:159][861]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2023.08.21-14.57.08:162][861]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.08.21-14.57.08:163][861]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.21-14.57.08:163][861]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.21-14.57.08:163][861]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.21-14.57.08:163][861]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.21-14.57.08:163][861]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.21-14.57.08:163][861]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.21-14.57.08:163][861]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.21-14.57.08:163][861]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.21-14.57.08:164][861]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.21-14.57.08:164][861]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.21-14.57.08:164][861]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.21-14.57.08:169][861]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.21-14.57.08:244][861]LogAudioMixer: Display: Using Audio Hardware Device Audio(THX Spatial Audio)
+[2023.08.21-14.57.08:245][861]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.21-14.57.08:245][861]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.21-14.57.08:245][861]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.21-14.57.08:246][861]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2023.08.21-14.57.08:246][861]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2023.08.21-14.57.08:250][861]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2023.08.21-14.57.08:250][861]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2023.08.21-14.57.08:250][861]LogInit: FAudioDevice initialized.
+[2023.08.21-14.57.08:250][861]LogAudio: Display: Audio Device (ID: 18) registered with world 'Step2'.
+[2023.08.21-14.57.08:279][861]LogLoad: Game class is 'ABGameMode'
+[2023.08.21-14.57.08:280][861]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 0) at 2023.08.21-23.57.08
+[2023.08.21-14.57.08:281][861]LogWorld: Bringing up level for play took: 0.001643
+[2023.08.21-14.57.08:286][861]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2023.08.21-14.57.08:287][861]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(9)
+[2023.08.21-14.57.08:287][861]ArenaBattle: Warning: AABGameMode::PostLogin(19) PostLogin
+[2023.08.21-14.57.08:289][861]ArenaBattle: Warning: AABPlayerController::OnPossess(14)
+[2023.08.21-14.57.08:289][861]ArenaBattle: Warning: AABGameMode::PostLogin(21) PostLogin End
+[2023.08.21-14.57.08:290][861]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.08.21-14.57.08:290][861]PIE: 서버가 로그인했습니다.
+[2023.08.21-14.57.08:291][861]PIE: 에디터에서 플레이 총 시작 시간 0.285초입니다.
+[2023.08.21-14.57.15:375][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.21-14.57.15:375][431]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2023.08.21-14.57.15:376][431]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2023.08.21-14.57.15:376][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-14.57.15:396][431]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.21-14.57.15:404][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-14.57.15:452][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.21-14.57.15:453][431]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.08.21-14.57.15:456][431]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.08.21-14.57.15:524][431]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2023.08.21-14.57.15:623][432]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2023.08.21-14.57.16:424][477]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Maps/Step2" FILE="../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Maps/Step2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.21-14.57.16:475][477]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2023.08.21-14.57.16:494][477]LogSavePackage: Moving output files for package: /Game/Book/Maps/Step2
+[2023.08.21-14.57.16:495][477]LogSavePackage: Moving '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Saved/Step2DA2B886547C438B7BD5A90B229818FF1.tmp' to '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Maps/Step2.umap'
+[2023.08.21-14.57.16:541][477]AssetCheck: New page: 에셋 저장:  Step2
+[2023.08.21-14.57.16:541][477]LogContentValidation: Display: World /Game/Book/Maps/Step2.Step2 유효성 검사 중
+[2023.08.21-14.57.17:239][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Maps/Step2" FILE="../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Maps/Step2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.21-14.57.17:288][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.08.21-14.57.17:303][516]LogSavePackage: Moving output files for package: /Game/Book/Maps/Step2
+[2023.08.21-14.57.17:305][516]LogSavePackage: Moving '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Saved/Step216044C4A4927954A268D91ADBB1AF473.tmp' to '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Maps/Step2.umap'
+[2023.08.21-14.57.17:346][516]AssetCheck: New page: 에셋 저장:  Step2
+[2023.08.21-14.57.17:346][516]LogContentValidation: Display: World /Game/Book/Maps/Step2.Step2 유효성 검사 중
+[2023.08.21-14.57.23:548][671]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2023.08.21-14.57.23:563][671]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.21-14.57.23:563][671]PIE: New page: PIE 세션: Step2 (2023. 8. 22. 오전 8:57:23)
+[2023.08.21-14.57.23:591][671]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2023.08.21-14.57.23:598][671]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007791s)
+[2023.08.21-14.57.23:598][671]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.008083s)
+[2023.08.21-14.57.23:598][671]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.08.21-14.57.23:599][671]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.21-14.57.23:601][671]LogAIModule: Creating AISystem for world Step2
+[2023.08.21-14.57.23:601][671]LogPlayLevel: PIE: World Init took: (0.002195s)
+[2023.08.21-14.57.23:656][671]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2023.08.21-14.57.23:657][671]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2023.08.21-14.57.23:657][671]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.21-14.57.23:657][671]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.21-14.57.23:657][671]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.21-14.57.23:657][671]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.21-14.57.23:657][671]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.21-14.57.23:657][671]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.21-14.57.23:657][671]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.21-14.57.23:657][671]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.21-14.57.23:658][671]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.21-14.57.23:658][671]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.21-14.57.23:658][671]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.21-14.57.23:662][671]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.21-14.57.23:735][671]LogAudioMixer: Display: Using Audio Hardware Device Audio(THX Spatial Audio)
+[2023.08.21-14.57.23:735][671]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.21-14.57.23:735][671]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.21-14.57.23:735][671]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.21-14.57.23:736][671]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2023.08.21-14.57.23:736][671]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2023.08.21-14.57.23:740][671]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2023.08.21-14.57.23:740][671]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2023.08.21-14.57.23:740][671]LogInit: FAudioDevice initialized.
+[2023.08.21-14.57.23:740][671]LogAudio: Display: Audio Device (ID: 19) registered with world 'Step2'.
+[2023.08.21-14.57.23:758][671]LogLoad: Game class is 'ABGameMode'
+[2023.08.21-14.57.23:759][671]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 0) at 2023.08.21-23.57.23
+[2023.08.21-14.57.23:759][671]LogWorld: Bringing up level for play took: 0.001081
+[2023.08.21-14.57.23:763][671]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2023.08.21-14.57.23:763][671]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(9)
+[2023.08.21-14.57.23:764][671]ArenaBattle: Warning: AABGameMode::PostLogin(19) PostLogin
+[2023.08.21-14.57.23:765][671]ArenaBattle: Warning: AABPlayerController::OnPossess(14)
+[2023.08.21-14.57.23:766][671]ArenaBattle: Warning: AABGameMode::PostLogin(21) PostLogin End
+[2023.08.21-14.57.23:766][671]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.08.21-14.57.23:766][671]PIE: 서버가 로그인했습니다.
+[2023.08.21-14.57.23:767][671]PIE: 에디터에서 플레이 총 시작 시간 0.204초입니다.
+[2023.08.21-14.57.32:420][379]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.21-14.57.32:421][379]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2023.08.21-14.57.32:421][379]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2023.08.21-14.57.32:421][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-14.57.32:445][379]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.21-14.57.32:454][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.21-14.57.32:503][379]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.21-14.57.32:503][379]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.08.21-14.57.32:506][379]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.08.21-14.57.32:516][379]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2023.08.21-14.57.32:585][380]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2023.08.21-14.57.33:545][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Maps/Step2" FILE="../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Maps/Step2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.21-14.57.33:593][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.08.21-14.57.33:609][443]LogSavePackage: Moving output files for package: /Game/Book/Maps/Step2
+[2023.08.21-14.57.33:610][443]LogSavePackage: Moving '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Saved/Step2C2BCCF2E44F727C11DE328ADC080852F.tmp' to '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Maps/Step2.umap'
+[2023.08.21-14.57.33:650][443]AssetCheck: New page: 에셋 저장:  Step2
+[2023.08.21-14.57.33:650][443]LogContentValidation: Display: World /Game/Book/Maps/Step2.Step2 유효성 검사 중

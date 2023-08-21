@@ -36,6 +36,9 @@ AABCharacter::AABCharacter()
 	// 삼인칭 컨트롤 구현 : GTA 방식 , DIABLO 방식
 	SetControlMode(// EControlMode::GTA);
 		EControlMode::DIABLO);
+
+	ArmLengthSpeed = 3.0f;
+	ArmRotationSpeed = 10.0f;
 }
 
 // Called when the game starts or when spawned
@@ -74,13 +77,16 @@ void AABCharacter::SetControlMode(EControlMode NewControlMode)
 	switch (CurrentControlMode)
 	{
 	case EControlMode::GTA:
-		SpringArm->TargetArmLength = 450.0f;
-		SpringArm->SetRelativeRotation(FRotator::ZeroRotator);
+		// SpringArm->TargetArmLength = 450.0f;
+		// SpringArm->SetRelativeRotation(FRotator::ZeroRotator);
+		ArmLengthTo = 450.0f;
+		// 스프링 암 회전과 컨트롤 회전을 연결
 		SpringArm->bUsePawnControlRotation = true;
 		SpringArm->bInheritPitch = true;
 		SpringArm->bInheritRoll = true;
 		SpringArm->bInheritYaw = true;
 		SpringArm->bDoCollisionTest = true;
+		// 컨트롤 회전과 캐릭터 회전을 분리
 		bUseControllerRotationYaw = false; 
 		// 움직이는 방향으로 캐릭터 회전
 		GetCharacterMovement()->bOrientRotationToMovement = true;
@@ -88,8 +94,10 @@ void AABCharacter::SetControlMode(EControlMode NewControlMode)
 		GetCharacterMovement()->RotationRate = FRotator(0.0f, 720.0f, 0.0f);
 		break;
 	case EControlMode::DIABLO:
-		SpringArm->TargetArmLength = 800.0f;
-		SpringArm->SetRelativeRotation(FRotator(-45.0f, 0.0f, 0.0f));
+		// SpringArm->TargetArmLength = 800.0f;
+		// SpringArm->SetRelativeRotation(FRotator(-45.0f, 0.0f, 0.0f));
+		ArmLengthTo = 800.0f;
+		ArmRotationTo = FRotator(-45.0f, 0.0f, 0.0f);
 		SpringArm->bUsePawnControlRotation = false;
 		SpringArm->bInheritPitch = false;
 		SpringArm->bInheritRoll = false;
@@ -110,6 +118,18 @@ void AABCharacter::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
+	SpringArm->TargetArmLength = FMath::FInterpTo(SpringArm->TargetArmLength, ArmLengthTo, DeltaTime, ArmLengthSpeed);
+
+	switch (CurrentControlMode)
+	{
+	case EControlMode::DIABLO:
+		SpringArm->SetRelativeRotation(FMath::RInterpTo(SpringArm->GetRelativeRotation(),
+			ArmRotationTo,
+			DeltaTime,
+			ArmRotationSpeed));
+		break;
+	}
+
 	switch (CurrentControlMode)
 	{
 	case EControlMode::DIABLO:
@@ -127,6 +147,8 @@ void AABCharacter::Tick(float DeltaTime)
 void AABCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
 {
 	Super::SetupPlayerInputComponent(PlayerInputComponent);
+
+	PlayerInputComponent->BindAction(TEXT("ViewChange"), EInputEvent::IE_Pressed, this, &AABCharacter::ViewChange);
 
 	PlayerInputComponent->BindAxis(TEXT("UpDown"), this, &AABCharacter::UpDown);
 	PlayerInputComponent->BindAxis(TEXT("LeftRight"), this, &AABCharacter::LeftRight);
@@ -188,6 +210,25 @@ void AABCharacter::Turn(float NewAxisValue)
 	{
 	case EControlMode::GTA:
 		AddControllerYawInput(NewAxisValue);
+		break;
+	}
+}
+
+// GTA : SpringArm(카메라의 시선)이 컨트롤 회전의 중심
+// DIABLO : 캐릭터 자체가 회전의 중심
+void AABCharacter::ViewChange()
+{
+	switch (CurrentControlMode)
+	{
+	case EControlMode::GTA:
+		// GetController()->SetControlRotation(GetActorRotation());
+		GetController()->SetControlRotation(GetActorRotation());
+		SetControlMode(EControlMode::DIABLO);
+		break;
+	case EControlMode::DIABLO:
+		// GetController()->SetControlRotation(SpringArm->GetRelativeRotation());
+		GetController()->SetControlRotation(SpringArm->GetRelativeRotation());
+		SetControlMode(EControlMode::GTA);
 		break;
 	}
 }
