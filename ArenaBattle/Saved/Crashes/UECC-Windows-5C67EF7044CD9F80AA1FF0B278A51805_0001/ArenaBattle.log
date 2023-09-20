@@ -1,0 +1,1730 @@
+﻿Log file open, 09/20/23 22:21:14
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=32764)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ArenaBattle
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\ArenaBattle.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (22H2) [10.0.22621.2283] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-10875H CPU @ 2.30GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="1ce38f174454ea88647df287f084b646"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.573813
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-5C67EF7044CD9F80AA1FF0B278A51805
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading IOS ini files took 0.10 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.11 seconds
+LogConfig: Display: Loading Mac ini files took 0.11 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.11 seconds
+LogConfig: Display: Loading Android ini files took 0.11 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogConfig: Display: Loading Windows ini files took 0.14 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogConfig: Display: Loading Unix ini files took 0.14 seconds
+LogConfig: Display: Loading TVOS ini files took 0.14 seconds
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin ControlRig
+LogConfig: Display: Loading LinuxArm64 ini files took 0.17 seconds
+LogConfig: Display: Loading Linux ini files took 0.17 seconds
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (22H2) [10.0.22621.2283] (), CPU: Intel(R) Core(TM) i7-10875H CPU @ 2.30GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.09.20-13.21.15:494][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.09.20-13.21.15:494][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.09.20-13.21.15:494][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.09.20-13.21.15:494][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.09.20-13.21.15:494][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.09.20-13.21.15:494][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.09.20-13.21.15:494][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.09.20-13.21.15:494][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.09.20-13.21.15:494][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.09.20-13.21.15:494][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.09.20-13.21.15:494][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.09.20-13.21.15:494][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.09.20-13.21.15:494][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.09.20-13.21.15:494][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.09.20-13.21.15:494][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.09.20-13.21.15:494][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.09.20-13.21.15:494][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.09.20-13.21.15:494][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.09.20-13.21.15:494][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.09.20-13.21.15:494][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.09.20-13.21.15:494][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.09.20-13.21.15:494][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.09.20-13.21.15:494][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.09.20-13.21.15:494][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.09.20-13.21.15:494][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.09.20-13.21.15:494][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.09.20-13.21.15:494][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.09.20-13.21.15:494][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.09.20-13.21.15:494][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.09.20-13.21.15:494][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.09.20-13.21.15:494][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.09.20-13.21.15:494][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.09.20-13.21.15:494][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.09.20-13.21.15:494][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.09.20-13.21.15:495][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.09.20-13.21.15:495][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.09.20-13.21.15:495][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.09.20-13.21.15:495][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.09.20-13.21.15:495][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.09.20-13.21.15:495][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.09.20-13.21.15:495][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.09.20-13.21.15:495][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.09.20-13.21.15:495][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.09.20-13.21.15:495][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.09.20-13.21.15:495][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.09.20-13.21.15:495][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.09.20-13.21.15:495][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.09.20-13.21.15:495][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.09.20-13.21.15:495][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.09.20-13.21.15:495][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.09.20-13.21.15:495][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.09.20-13.21.15:495][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.09.20-13.21.15:495][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.09.20-13.21.15:495][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.09.20-13.21.15:495][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.09.20-13.21.15:495][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.09.20-13.21.15:495][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.09.20-13.21.15:499][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.09.20-13.21.15:499][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.09.20-13.21.15:499][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.09.20-13.21.15:500][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.09.20-13.21.15:500][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.09.20-13.21.15:500][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.09.20-13.21.15:500][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.09.20-13.21.15:500][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.09.20-13.21.15:500][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.09.20-13.21.15:500][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.09.20-13.21.15:500][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.09.20-13.21.15:540][  0]LogD3D12RHI: Aftermath initialized
+[2023.09.20-13.21.15:540][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.09.20-13.21.15:935][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 2060 (Max supported Feature Level 12_1, shader model 6.6)
+[2023.09.20-13.21.15:935][  0]LogD3D12RHI: Adapter has 5980MB of dedicated video memory, 0MB of dedicated system memory, and 16298MB of shared system memory, 1 output[s]
+[2023.09.20-13.21.16:051][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) UHD Graphics (Max supported Feature Level 12_1, shader model 6.5)
+[2023.09.20-13.21.16:051][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 16298MB of shared system memory, 0 output[s]
+[2023.09.20-13.21.16:075][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.09.20-13.21.16:075][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16298MB of shared system memory, 0 output[s]
+[2023.09.20-13.21.16:075][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.09.20-13.21.16:076][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.09.20-13.21.16:076][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.09.20-13.21.16:076][  0]LogHAL: Display: Platform has ~ 32 GB [34180071424 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.09.20-13.21.16:076][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.09.20-13.21.16:076][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.09.20-13.21.16:076][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.09.20-13.21.16:077][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.09.20-13.21.16:077][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Saved/Config/WindowsEditor/Editor.ini]
+[2023.09.20-13.21.16:077][  0]LogInit: Computer: DESKTOP-8PS5OBL
+[2023.09.20-13.21.16:077][  0]LogInit: User: Moon
+[2023.09.20-13.21.16:077][  0]LogInit: CPU Page size=4096, Cores=8
+[2023.09.20-13.21.16:077][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.09.20-13.21.16:077][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2023.09.20-13.21.16:077][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.09.20-13.21.16:077][  0]LogMemory: Process Physical Memory: 284.84 MB used, 289.20 MB peak
+[2023.09.20-13.21.16:077][  0]LogMemory: Process Virtual Memory: 263.91 MB used, 263.91 MB peak
+[2023.09.20-13.21.16:077][  0]LogMemory: Physical Memory: 10275.57 MB used,  22321.08 MB free, 32596.66 MB total
+[2023.09.20-13.21.16:077][  0]LogMemory: Virtual Memory: 22748.71 MB used,  14967.95 MB free, 37716.66 MB total
+[2023.09.20-13.21.16:077][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.09.20-13.21.16:094][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.09.20-13.21.16:144][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.09.20-13.21.16:146][  0]LogInit: Using OS detected language (ko-KR).
+[2023.09.20-13.21.16:146][  0]LogInit: Using OS detected locale (ko-KR).
+[2023.09.20-13.21.16:161][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so 'ko' will be used for the language.
+[2023.09.20-13.21.16:419][  0]LogInit: Setting process to per monitor DPI aware
+[2023.09.20-13.21.16:450][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.09.20-13.21.16:450][  0]LogWindowsTextInputMethodSystem:   - 한국어(대한민국) - Microsoft 입력기 (TSF IME).
+[2023.09.20-13.21.16:450][  0]LogWindowsTextInputMethodSystem: Activated input method: 한국어(대한민국) - Microsoft 입력기 (TSF IME).
+[2023.09.20-13.21.16:486][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.09.20-13.21.16:486][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.09.20-13.21.16:907][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.09.20-13.21.16:915][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.09.20-13.21.16:915][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.09.20-13.21.17:067][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.09.20-13.21.17:067][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.09.20-13.21.17:067][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.09.20-13.21.17:067][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.09.20-13.21.17:067][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.09.20-13.21.17:067][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.09.20-13.21.17:067][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.09.20-13.21.17:067][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.09.20-13.21.17:067][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.09.20-13.21.17:067][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2023.09.20-13.21.17:067][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2023.09.20-13.21.17:067][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2023.09.20-13.21.17:067][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.09.20-13.21.17:067][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.09.20-13.21.17:067][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.09.20-13.21.17:068][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.09.20-13.21.17:144][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.09.20-13.21.17:159][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.09.20-13.21.17:195][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.09.20-13.21.17:226][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.09.20-13.21.17:226][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.09.20-13.21.17:350][  0]LogD3D12RHI:     GPU DeviceId: 0x1f15 (for the marketing name, search the web for "GPU Device Id")
+[2023.09.20-13.21.17:350][  0]LogWindows: Attached monitors:
+[2023.09.20-13.21.17:350][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1080), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.09.20-13.21.17:350][  0]LogWindows: Found 1 attached monitors.
+[2023.09.20-13.21.17:350][  0]LogWindows: EnumDisplayDevices:
+[2023.09.20-13.21.17:350][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.09.20-13.21.17:351][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY2'
+[2023.09.20-13.21.17:352][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.09.20-13.21.17:352][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.09.20-13.21.17:353][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2060' (P:0 D:0), name: '\\.\DISPLAY5'
+[2023.09.20-13.21.17:354][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2060' (P:0 D:0), name: '\\.\DISPLAY6'
+[2023.09.20-13.21.17:354][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2060' (P:0 D:0), name: '\\.\DISPLAY7'
+[2023.09.20-13.21.17:356][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2023.09.20-13.21.17:356][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2023.09.20-13.21.17:356][  0]LogD3D12RHI:   Driver Version: 517.00 (internal:31.0.15.1700, unified:517.00)
+[2023.09.20-13.21.17:356][  0]LogD3D12RHI:      Driver Date: 8-2-2022
+[2023.09.20-13.21.17:356][  0]LogRHI: Texture pool is 3283 MB (70% of 4690 MB)
+[2023.09.20-13.21.17:356][  0]LogD3D12RHI: Async texture creation enabled
+[2023.09.20-13.21.17:356][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.09.20-13.21.17:376][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.09.20-13.21.17:398][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/ArenaBattle.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/ArenaBattle.uproject"  -platform=all'
+[2023.09.20-13.21.17:398][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/ArenaBattle.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/ArenaBattle.uproject"  -platform=all" ]
+[2023.09.20-13.21.17:490][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.09.20-13.21.17:517][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.09.20-13.21.17:517][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.09.20-13.21.17:539][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.09.20-13.21.17:539][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.09.20-13.21.17:539][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.09.20-13.21.17:539][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.09.20-13.21.17:539][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.09.20-13.21.17:539][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.09.20-13.21.17:539][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.09.20-13.21.17:539][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.09.20-13.21.17:539][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.09.20-13.21.17:539][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.09.20-13.21.17:609][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.09.20-13.21.17:609][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.09.20-13.21.17:620][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.09.20-13.21.17:620][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.09.20-13.21.17:632][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.09.20-13.21.17:632][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.09.20-13.21.17:632][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.09.20-13.21.17:632][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.09.20-13.21.17:642][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.09.20-13.21.17:642][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.09.20-13.21.17:642][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.09.20-13.21.17:651][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.09.20-13.21.17:651][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.09.20-13.21.17:671][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.09.20-13.21.17:671][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.09.20-13.21.17:671][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.09.20-13.21.17:671][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.09.20-13.21.17:671][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.09.20-13.21.17:698][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.09.20-13.21.17:708][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.09.20-13.21.17:708][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.09.20-13.21.17:708][  0]LogTargetPlatformManager:   ADPCM
+[2023.09.20-13.21.17:708][  0]LogTargetPlatformManager:   PCM
+[2023.09.20-13.21.17:718][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.09.20-13.21.17:718][  0]LogTargetPlatformManager:   BINKA
+[2023.09.20-13.21.17:718][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.09.20-13.21.17:718][  0]LogTargetPlatformManager:   OGG
+[2023.09.20-13.21.17:718][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.09.20-13.21.17:718][  0]LogTargetPlatformManager:   OPUS
+[2023.09.20-13.21.17:824][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.09.20-13.21.17:844][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.09.20-13.21.17:844][  0]LogTargetPlatformManager:   SF_METAL
+[2023.09.20-13.21.17:844][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.09.20-13.21.17:844][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.09.20-13.21.17:844][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.09.20-13.21.17:844][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.09.20-13.21.17:844][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.09.20-13.21.17:844][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.09.20-13.21.17:844][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.09.20-13.21.17:844][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.09.20-13.21.17:844][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.09.20-13.21.17:844][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.09.20-13.21.17:844][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.09.20-13.21.17:844][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.09.20-13.21.17:844][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.09.20-13.21.17:844][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.09.20-13.21.17:856][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.09.20-13.21.17:856][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.09.20-13.21.17:856][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.09.20-13.21.17:856][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.09.20-13.21.17:856][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.09.20-13.21.17:856][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.09.20-13.21.17:856][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.09.20-13.21.17:857][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.09.20-13.21.17:857][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.09.20-13.21.17:858][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.09.20-13.21.17:858][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.09.20-13.21.17:859][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.09.20-13.21.17:865][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.09.20-13.21.17:865][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.09.20-13.21.17:865][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.09.20-13.21.17:865][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.09.20-13.21.17:910][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.09.20-13.21.17:911][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.09.20-13.21.17:911][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.09.20-13.21.17:932][  0]LogDerivedDataCache: Speed tests for C:/Users/Moon/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2023.09.20-13.21.17:932][  0]LogDerivedDataCache: Display: Performance to C:/Users/Moon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.09ms. RandomReadSpeed=306.11MBs, RandomWriteSpeed=52.31MBs. Assigned SpeedClass 'Local'
+[2023.09.20-13.21.17:935][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Moon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.09.20-13.21.17:935][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.09.20-13.21.17:935][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.09.20-13.21.17:952][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.09.20-13.21.17:952][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.09.20-13.21.17:952][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Intermediate/Shaders/WorkingDirectory/28444/).
+[2023.09.20-13.21.17:953][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Moon/AppData/Local/Temp/UnrealShaderWorkingDir/F693873A452BE1ED89B4179953BEF8F8/'.
+[2023.09.20-13.21.17:953][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.09.20-13.21.17:953][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2023.09.20-13.21.21:678][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.09.20-13.21.21:678][  0]LogSlate: Using FreeType 2.10.0
+[2023.09.20-13.21.21:680][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.09.20-13.21.21:774][  0]LogAssetRegistry: FAssetRegistry took 0.0342 seconds to start up
+[2023.09.20-13.21.21:790][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.09.20-13.21.22:264][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.09.20-13.21.22:266][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.09.20-13.21.23:169][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.09.20-13.21.23:169][  0]LogDeviceProfileManager: Active device profile: [0000053AC27D47C0][0000053AB9A70000 50] WindowsEditor
+[2023.09.20-13.21.23:169][  0]LogDeviceProfileManager: Profiles: [0000053AC27D4980][0000053AB99CA000 50] Windows, [0000053AC27D47C0][0000053AB9A70000 50] WindowsEditor, [0000053AC27D24C0][0000053AB9A22800 50] WindowsServer, [0000053AC27D1F80][0000053A9FF25000 50] WindowsClient, [0000053AC27D4440][0000053AC27F0000 50] IOS, [0000053AC27D4280][0000053AC27F5000 50] iPadAir2, [0000053AC27D4EC0][0000053AC27FA000 50] IPadPro, [0000053AC27D5240][0000053AC27F7800 50] iPadAir3, [0000053AC27D08C0][0000053AC27FC800 50] iPadAir4, [0000053AC27D2680][0000053AB9A25000 50] iPadMini4, [0000053AC27D3640][0000053AC3020000 50] iPadMini5, [0000053AC27D5400][0000053AC3025000 50] iPadMini6, [0000053AC27D7E00][0000053AC302C800 50] iPhone6S, [0000053AC27D8180][0000053AC302A000 50] iPhone7, [0000053AC27D8500][0000053AC3027800 50] iPodTouch7, [0000053AC27D01C0][0000053AC27F2800 50] iPhone6SPlus, [0000053AC27D78C0][0000053AC30A0000 50] iPhone7Plus, [0000053AC27D4D00][0000053AC30A5000 50] iPhoneSE, [0000053AC27D1180][0000053AC30A7800 50] iPhone8, [0000053AC27D7700][0000053AC30AA000 50] iPhone8Plus, [0000053AC27D32C0][0000053AC30AC800 50] iPhoneX, [0000053AC27D2300][0000053AC3022800 50] iPhoneXS, [0000053AC27D7540][0000053AC30B0000 50] iPhoneXSMax, [0000053AC27D8C00][0000053AC30B5000 50] iPhoneXR, [0000053AC27D7380][0000053AC30B7800 50] iPhone11, [0000053AC27D8A40][0000053AC30BA000 50] iPhone11Pro, [0000053AC27D8340][0000053AC30BC800 50] iPhone11ProMax, [0000053AC27D2BC0][0000053AC30A2800 50] iPhoneSE2, [0000053AC27D6C80][0000053AC30C0000 50] iPhone12Mini, [0000053AC27D1C00][0000053AC30C5000 50] iPhone12, [0000053AC27D1A40][0000053AC30C7800 50] iPhone12Pro, [0000053AC27D2F40][0000053AC30CA000 50] iPhone12ProMax, [0000053AC27D0E00][0000053AC30CC800 50] iPhone13Mini, [0000053AC27D0FC0][0000053AC30B2800 50] iPhone13, [0000053AC27D71C0][0000053AC30D0000 50] iPhone13Pro, [0000053AC27D0A80][0000053AC30D5000 50] iPhone13ProMax, [0000053AC27D7FC0][0000053AC30D7800 50] iPadPro105, [0000053AC27D2A00][0000053AC30DA000 50] iPadPro129, [0000053AC27D0540][0000053AC30DC800 50] iPadPro97, [0000053AC27D0C40][0000053AC30C2800 50] iPadPro2_129, [0000053AC27D5E80][0000053AC30E0000 50] iPad5, [0000053AC27D63C0][0000053AC30E5000 50] iPad6, [0000053AC27D3F00][0000053AC30E7800 50] iPad7, [0000053AC27D6900][0000053AC30EA000 50] iPad8, [0000053AC27D5080][0000053AC30EC800 50] iPad9, [0000053AC27D6740][0000053AC30D2800 50] iPadPro11, [0000053AC27D3800][0000053AC3100000 50] iPadPro2_11, [0000053AC27D7C40][0000053AC3105000 50] iPadPro3_11, [0000053AC27D5CC0][0000053AC3107800 50] iPadPro3_129, [0000053AC27D5780][0000053AC310A000 50] iPadPro4_129, [0000053AC27D5B00][0000053AC310C800 50] iPadPro5_129, [0000053AC27D2140][0000053AC30E2800 50] AppleTV, [0000053AC27D6200][0000053AC3110000 50] AppleTV4K, [0000053AC27D3D40][0000053AC3115000 50] TVOS, [0000053AC27DA640][0000053AC311A000 50] Mac, [0000053AC27DA9C0][0000053AC3117800 50] MacEditor, [0000053AC27D9300][0000053AC311C800 50] MacClient, [0000053AC27D7A80][0000053AC3102800 50] MacServer, [0000053AC27D1880][0000053AC3122800 50] Linux, [0000053AC27D94C0][0000053AC3120000 50] LinuxEditor, [0000053AC27D8F80][0000053AC3127800 50] LinuxArm64Editor, [0000053AC27D6E40][0000053AC312A000 50] LinuxArm64, [0000053AC27D9F40][0000053AC312C800 50] LinuxClient, [0000053AC27D5940][0000053AC3112800 50] LinuxArm64Client, [0000053AC27D3100][0000053AC3130000 50] LinuxServer, [0000053AC27D2D80][0000053AC3135000 50] LinuxArm64Server, [0000053AC27D8DC0][0000053AC3137800 50] Android, [0000053AC27D4600][0000053AC313A000 50] Android_Preview_OpenGL, [0000053AC27DAB80][0000053AC313C800 50] Android_Preview_Vulkan, [0000053AC27D8880][0000053AC3125000 50] Android_Low, [0000053AC27D6580][0000053AC3140000 50] Android_Mid, [0000053AC27DA800][0000053AC3145000 50] Android_High, [0000053AC27D6AC0][0000053AC3147800 50] Android_Default, [0000053AC27D16C0][0000053AC314A000 50] Android_Adreno4xx, [0000053AC27DA2C0][0000053AC314C800 50] Android_Adreno5xx_Low, [0000053AC27D40C0][0000053AC3132800 50] Android_Adreno5xx, [0000053AC27D0380][0000053AC3150000 50] Android_Adreno6xx, [0000053AC27DA480][0000053AC3155000 50] Android_Adreno6xx_Vulkan, [0000053AC27D9140][0000053AC3157800 50] Android_Adreno7xx, [0000053AC27D0000][0000053AC315A000 50] Android_Adreno7xx_Vulkan, [0000053AC27DAD40][0000053AC315C800 50] Android_Mali_T6xx, [0000053AC27D9BC0][0000053AC3142800 50] Android_Mali_T7xx, [0000053AC27DAF00][0000053AC30F0000 50] Android_Mali_T8xx, [0000053AC27D39C0][0000053AC30F5000 50] Android_Mali_G71, [0000053AC27DB0C0][0000053AC30F7800 50] Android_Mali_G72, [0000053AC27D9A00][0000053AC30FA000 50] Android_Mali_G72_Vulkan, [0000053AC27D1340][0000053AC30FC800 50] Android_Mali_G76, [0000053AC27D9D80][0000053AC3152800 50] Android_Mali_G76_Vulkan, [0000053AC27D6040][0000053AC3160000 50] Android_Mali_G77, [0000053AC27DBD00][0000053AC3165000 50] Android_Mali_G77_Vulkan, [0000053AC27DB600][0000053AC3167800 50] Android_Mali_G78, [0000053AC27DBEC0][0000053AC316A000 50] Android_Mali_G78_Vulkan, [0000053AC27DB280][0000053AC316C800 50] Android_Mali_G710, [0000053AC27DC080][0000053AC30F2800 50] Android_Mali_G710_Vulkan, [0000053AC27D7000][0000053AC3170000 50] Android_Xclipse_920, [0000053AC27DB7C0][0000053AC3175000 50] Android_Xclipse_920_Vulkan, [0000053AC27D1DC0][0000053AC3177800 50] Android_Vulkan_SM5, [0000053AC27D55C0][0000053AC317A000 50] Android_PowerVR_G6xxx, [0000053AC27DC240][0000053AC317C800 50] Android_PowerVR_GT7xxx, [0000053AC27DCE80][0000053AC3162800 50] Android_PowerVR_GE8xxx, [0000053AC27DC5C0][0000053AC3180000 50] Android_PowerVR_GM9xxx, [0000053AC27DD040][0000053AC3185000 50] Android_PowerVR_GM9xxx_Vulkan, [0000053AC27D86C0][0000053AC3187800 50] Android_TegraK1, [0000053AC27DA100][0000053AC318A000 50] Android_Unknown_Vulkan, [0000053AC27DB980][0000053AC318C800 50] Oculus_Quest, [0000053AC27D1500][0000053AC3172800 50] Oculus_Quest2, [0000053AC27DDC80][0000053AC3190000 50] HoloLens, 
+[2023.09.20-13.21.23:169][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.09.20-13.21.23:177][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_ValidHostPrerequisites")
+[2023.09.20-13.21.23:177][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2023.09.20-13.21.23:177][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.09.20-13.21.23:177][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.09.20-13.21.23:177][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.19041.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2023.09.20-13.21.23:258][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.09.20-13.21.23:772][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.09.20-13.21.23:772][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.09.20-13.21.23:772][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.09.20-13.21.23:772][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.09.20-13.21.23:773][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.09.20-13.21.23:813][  0]LogNetVersion: ArenaBattle 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1909477609)
+[2023.09.20-13.21.24:130][  0]LogSlate: Border
+[2023.09.20-13.21.24:130][  0]LogSlate: BreadcrumbButton
+[2023.09.20-13.21.24:130][  0]LogSlate: Default
+[2023.09.20-13.21.24:130][  0]LogSlate: Icons.Save
+[2023.09.20-13.21.24:130][  0]LogSlate: Icons.Toolbar.Settings
+[2023.09.20-13.21.24:130][  0]LogSlate: ListView
+[2023.09.20-13.21.24:130][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.09.20-13.21.24:130][  0]LogSlate: SoftwareCursor_Grab
+[2023.09.20-13.21.24:130][  0]LogSlate: TableView.DarkRow
+[2023.09.20-13.21.24:130][  0]LogSlate: TableView.Row
+[2023.09.20-13.21.24:130][  0]LogSlate: TreeView
+[2023.09.20-13.21.24:585][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2023.09.20-13.21.24:656][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2023.09.20-13.21.24:656][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2023.09.20-13.21.24:952][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.09.20-13.21.24:952][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2023.09.20-13.21.24:952][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.09.20-13.21.26:016][  0]LogPython: Using Python 3.9.7
+[2023.09.20-13.21.28:154][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 36C7655642CE28B8ABC95492125CD86D | Instance: 946279D04F859EBFCD0A90B44538C461 (DESKTOP-8PS5OBL-28444).
+[2023.09.20-13.21.28:262][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.09.20-13.21.28:274][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.09.20-13.21.28:637][  0]LogSkeletalMesh: Display: [AssetLog] C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Content\InfinityBladeWarriors\Character\CompleteCharacters\SK_CharM_Cardboard.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2023.09.20-13.21.28:637][  0]LogStaticMesh: StaticMesh /Game/InfinityBladeGrassLands/Effects/FX_Meshes/Env/SM_Treasure_Coin.SM_Treasure_Coin should be resaved to improve async compilation performance.
+[2023.09.20-13.21.28:646][  0]LogStaticMesh: StaticMesh /Game/InfinityBladeGrassLands/Effects/FX_Meshes/Env/SM_TreasureChest_Gold.SM_TreasureChest_Gold should be resaved to improve async compilation performance.
+[2023.09.20-13.21.28:720][  0]LogStaticMesh: StaticMesh /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Castle_Fountain_01.SM_Plains_Castle_Fountain_01 should be resaved to improve async compilation performance.
+[2023.09.20-13.21.28:768][  0]LogStaticMesh: StaticMesh /Game/InfinityBladeGrassLands/Effects/FX_Meshes/Env/SM_Plains_Fountain_02.SM_Plains_Fountain_02 should be resaved to improve async compilation performance.
+[2023.09.20-13.21.29:091][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2023.09.20-13.21.29:114][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2023.09.20-13.21.29:185][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2023.09.20-13.21.29:253][  0]LogUProjectInfo: Found projects:
+[2023.09.20-13.21.30:544][  0]LogOpenImageDenoise: OIDN starting up
+[2023.09.20-13.21.30:974][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.09.20-13.21.31:111][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.09.20-13.21.31:111][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.09.20-13.21.31:719][  0]LogCollectionManager: Loaded 0 collections in 0.004905 seconds
+[2023.09.20-13.21.32:176][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Saved/Collections/' took 0.00s
+[2023.09.20-13.21.32:176][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Developers/Moon/Collections/' took 0.00s
+[2023.09.20-13.21.32:176][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Collections/' took 0.00s
+[2023.09.20-13.21.33:111][  0]LogEngine: Initializing Engine...
+[2023.09.20-13.21.33:144][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.09.20-13.21.33:148][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.09.20-13.21.33:805][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.09.20-13.21.33:806][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.09.20-13.21.33:832][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.20-13.21.33:905][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.09.20-13.21.33:906][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.09.20-13.21.33:970][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.09.20-13.21.33:971][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.09.20-13.21.33:971][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.09.20-13.21.33:973][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.09.20-13.21.33:973][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.09.20-13.21.33:973][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.20-13.21.33:973][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.20-13.21.33:973][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.20-13.21.33:973][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.20-13.21.33:973][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.20-13.21.33:973][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.20-13.21.33:973][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.20-13.21.33:973][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.20-13.21.33:974][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.20-13.21.33:974][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.20-13.21.33:974][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.20-13.21.33:994][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.20-13.21.34:104][  0]LogAudioMixer: Display: Using Audio Hardware Device Audio(THX Spatial Audio)
+[2023.09.20-13.21.34:105][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.20-13.21.34:111][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.20-13.21.34:111][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.20-13.21.34:112][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.09.20-13.21.34:112][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.09.20-13.21.34:115][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.09.20-13.21.34:115][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.09.20-13.21.34:115][  0]LogInit: FAudioDevice initialized.
+[2023.09.20-13.21.34:115][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.09.20-13.21.34:115][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.09.20-13.21.34:115][  0]LogInit: Texture streaming: Enabled
+[2023.09.20-13.21.34:209][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.09.20-13.21.34:234][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.09.20-13.21.34:296][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.09.20-13.21.34:396][  0]LogInit: Transaction tracking system initialized
+[2023.09.20-13.21.34:601][  0]BlueprintLog: New page: 에디터 로드
+[2023.09.20-13.21.35:132][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2023.09.20-13.21.35:264][  0]TimingProfiler: Initialize
+[2023.09.20-13.21.35:265][  0]TimingProfiler: OnSessionChanged
+[2023.09.20-13.21.35:265][  0]LoadingProfiler: Initialize
+[2023.09.20-13.21.35:265][  0]LoadingProfiler: OnSessionChanged
+[2023.09.20-13.21.35:265][  0]NetworkingProfiler: Initialize
+[2023.09.20-13.21.35:265][  0]NetworkingProfiler: OnSessionChanged
+[2023.09.20-13.21.35:265][  0]MemoryProfiler: Initialize
+[2023.09.20-13.21.35:265][  0]MemoryProfiler: OnSessionChanged
+[2023.09.20-13.21.37:046][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/' took 0.09s
+[2023.09.20-13.21.37:046][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.09.20-13.21.37:259][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.09.20-13.21.37:263][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2023.09.20-13.21.37:263][  0]LogUnrealEdMisc: Loading editor; pre map load, took 25.653
+[2023.09.20-13.21.37:263][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Maps/Step2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.09.20-13.21.37:264][  0]LightingResults: New page: 라이팅 빌드
+[2023.09.20-13.21.37:281][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.09.20-13.21.37:281][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.20-13.21.37:282][  0]MapCheck: New page: 맵 체크
+[2023.09.20-13.21.37:282][  0]LightingResults: New page: 라이팅 빌드
+[2023.09.20-13.21.37:297][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.20-13.21.37:302][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.09.20-13.21.37:452][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Step2'.
+[2023.09.20-13.21.37:452][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.09.20-13.21.37:452][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.20-13.21.37:453][  0]LogAIModule: Creating AISystem for world Step2
+[2023.09.20-13.21.37:459][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.09.20-13.21.37:477][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.09.20-13.21.37:477][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.09.20-13.21.37:477][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.302ms.
+[2023.09.20-13.21.37:478][  0]LogFileHelpers: Loading map 'Step2' took 0.214
+[2023.09.20-13.21.37:510][  0]LogUnrealEdMisc: Total Editor Startup Time, took 25.900
+[2023.09.20-13.21.37:510][  0]LogShaderCompilers: Display: ================================================
+[2023.09.20-13.21.37:511][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.20-13.21.37:511][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.09.20-13.21.37:511][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.09.20-13.21.37:511][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.09.20-13.21.37:511][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.20-13.21.37:511][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.09.20-13.21.37:511][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.09.20-13.21.37:511][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.09.20-13.21.37:511][  0]LogShaderCompilers: Display: ================================================
+[2023.09.20-13.21.37:627][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.09.20-13.21.37:627][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.09.20-13.21.37:646][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.20-13.21.37:659][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.20-13.21.37:671][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.20-13.21.37:688][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.20-13.21.37:728][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.09.20-13.21.37:728][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.09.20-13.21.37:729][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.09.20-13.21.37:729][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.09.20-13.21.37:731][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.09.20-13.21.37:731][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.09.20-13.21.37:732][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.09.20-13.21.37:732][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.09.20-13.21.37:734][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.09.20-13.21.37:734][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.09.20-13.21.37:736][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.09.20-13.21.37:736][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.09.20-13.21.37:737][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.09.20-13.21.37:737][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.09.20-13.21.37:739][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.09.20-13.21.37:739][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.09.20-13.21.37:741][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.09.20-13.21.37:741][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.09.20-13.21.37:742][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.09.20-13.21.37:743][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.09.20-13.21.37:743][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.09.20-13.21.38:304][  0]LogStall: Startup...
+[2023.09.20-13.21.38:307][  0]LogStall: Startup complete.
+[2023.09.20-13.21.38:380][  0]LogLoad: (Engine Initialization) Total time: 26.77 seconds
+[2023.09.20-13.21.38:380][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.09.20-13.21.38:539][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.09.20-13.21.38:592][  0]LogSlate: Took 0.000612 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.09.20-13.21.38:596][  0]LogSlate: Took 0.003339 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2023.09.20-13.21.38:603][  0]LogSlate: Took 0.003219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2023.09.20-13.21.38:604][  0]LogSlate: Took 0.000419 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.09.20-13.21.38:605][  0]LogSlate: Took 0.000403 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.09.20-13.21.38:608][  0]LogSlate: Took 0.000313 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.09.20-13.21.38:609][  0]LogSlate: Took 0.000331 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.09.20-13.21.38:613][  0]LogSlate: Took 0.002815 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2023.09.20-13.21.38:673][  0]LogViewport: Scene viewport resized to 1450x522, mode Windowed.
+[2023.09.20-13.21.38:744][  0]LogSlate: Took 0.000484 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.09.20-13.21.40:418][  1]LogAssetRegistry: Asset discovery search completed in 18.6473 seconds
+[2023.09.20-13.21.40:445][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2023.09.20-13.23.20:279][300]LogDerivedDataCache: C:/Users/Moon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.079 and deleted 0 file(s) with total size 0 MiB.
+[2023.09.20-13.25.06:788][811]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2023.09.20-13.25.06:802][811]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.20-13.25.06:803][811]PIE: New page: PIE 세션: Step2 (2023. 9. 21. 오전 7:25:06)
+[2023.09.20-13.25.06:810][811]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.09.20-13.25.06:810][811]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.09.20-13.25.06:810][811]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2023.09.20-13.25.06:815][811]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005033s)
+[2023.09.20-13.25.06:815][811]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.005192s)
+[2023.09.20-13.25.06:815][811]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.09.20-13.25.06:815][811]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.20-13.25.06:816][811]LogAIModule: Creating AISystem for world Step2
+[2023.09.20-13.25.06:817][811]LogPlayLevel: PIE: World Init took: (0.001427s)
+[2023.09.20-13.25.06:834][811]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.09.20-13.25.06:834][811]ArenaBattle: Warning: UABGameInstance::Init(18) DropExp of Level 20 ABCharacter : 105
+[2023.09.20-13.25.06:834][811]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.09.20-13.25.06:834][811]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.20-13.25.06:834][811]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.20-13.25.06:834][811]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.20-13.25.06:835][811]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.20-13.25.06:835][811]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.20-13.25.06:835][811]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.20-13.25.06:835][811]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.20-13.25.06:835][811]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.20-13.25.06:835][811]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.20-13.25.06:835][811]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.20-13.25.06:835][811]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.20-13.25.06:839][811]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.20-13.25.06:913][811]LogAudioMixer: Display: Using Audio Hardware Device Audio(THX Spatial Audio)
+[2023.09.20-13.25.06:913][811]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.20-13.25.06:913][811]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.20-13.25.06:914][811]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.20-13.25.06:916][811]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.09.20-13.25.06:916][811]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.09.20-13.25.06:919][811]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.09.20-13.25.06:919][811]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.09.20-13.25.06:919][811]LogInit: FAudioDevice initialized.
+[2023.09.20-13.25.06:919][811]LogAudio: Display: Audio Device (ID: 2) registered with world 'Step2'.
+[2023.09.20-13.25.06:940][811]LogLoad: Game class is 'ABGameMode'
+[2023.09.20-13.25.06:942][811]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 60) at 2023.09.20-22.25.06
+[2023.09.20-13.25.06:944][811]LogWorld: Bringing up level for play took: 0.002752
+[2023.09.20-13.25.06:947][811]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2023.09.20-13.25.06:948][811]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(9)
+[2023.09.20-13.25.06:948][811]ArenaBattle: Warning: AABGameMode::PostLogin(19) PostLogin
+[2023.09.20-13.25.06:981][811]ArenaBattle: Warning: AABPlayerController::OnPossess(14)
+[2023.09.20-13.25.06:981][811]ArenaBattle: Warning: AABGameMode::PostLogin(21) PostLogin End
+[2023.09.20-13.25.06:982][811]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.09.20-13.25.06:982][811]PIE: 서버가 로그인했습니다.
+[2023.09.20-13.25.06:983][811]PIE: 에디터에서 플레이 총 시작 시간 0.181초입니다.
+[2023.09.20-13.25.07:886][845]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.09.20-13.25.08:120][859]ArenaBattle: Warning: AABCharacter::Attack(349) IsAttacking
+[2023.09.20-13.25.08:120][859]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.09.20-13.25.08:451][879]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.09.20-13.25.08:451][879]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_b4d627496fa35b8871d42385ceef7843>::operator ()(197) OnNextAttackCheck
+[2023.09.20-13.25.08:451][879]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack2
+[2023.09.20-13.25.08:502][882]ArenaBattle: Warning: AABCharacter::Attack(349) IsAttacking
+[2023.09.20-13.25.08:720][895]ArenaBattle: Warning: AABCharacter::Attack(349) IsAttacking
+[2023.09.20-13.25.08:720][895]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.09.20-13.25.09:034][914]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.09.20-13.25.09:034][914]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_b4d627496fa35b8871d42385ceef7843>::operator ()(197) OnNextAttackCheck
+[2023.09.20-13.25.09:034][914]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack3
+[2023.09.20-13.25.09:318][931]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.09.20-13.25.09:635][950]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.09.20-13.25.09:635][950]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_b4d627496fa35b8871d42385ceef7843>::operator ()(197) OnNextAttackCheck
+[2023.09.20-13.25.11:198][ 42]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.20-13.25.11:198][ 42]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2023.09.20-13.25.11:199][ 42]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2023.09.20-13.25.11:200][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.20-13.25.11:219][ 42]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.20-13.25.11:222][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.20-13.25.11:238][ 42]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.20-13.25.11:238][ 42]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.09.20-13.25.11:242][ 42]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.09.20-13.25.11:247][ 42]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.20-13.25.11:253][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2023.09.20-13.25.11:294][ 43]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2023.09.20-13.25.17:887][141]LogViewport: Scene viewport resized to 1449x522, mode Windowed.
+[2023.09.20-13.25.17:983][141]LogViewport: Scene viewport resized to 1352x522, mode Windowed.
+[2023.09.20-13.25.18:095][141]LogViewport: Scene viewport resized to 1020x522, mode Windowed.
+[2023.09.20-13.25.18:206][141]LogViewport: Scene viewport resized to 998x522, mode Windowed.
+[2023.09.20-13.25.18:663][141]LogViewport: Scene viewport resized to 997x522, mode Windowed.
+[2023.09.20-13.25.18:755][141]LogViewport: Scene viewport resized to 958x522, mode Windowed.
+[2023.09.20-13.25.18:851][141]LogViewport: Scene viewport resized to 956x522, mode Windowed.
+[2023.09.20-13.25.18:942][141]LogViewport: Scene viewport resized to 954x522, mode Windowed.
+[2023.09.20-13.25.28:214][269]LogWindowsTextInputMethodSystem: Activated input method: 한국어(대한민국) - Microsoft 입력기 (TSF IME).
+[2023.09.20-13.25.28:382][269]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.09.20-13.25.28:596][269]LogUObjectGlobals: Warning: 'Class 없음.Physics' 오브젝트를 찾는 데 실패했습니다.
+[2023.09.20-13.27.51:726][ 16]LogSlate: Window '프로파일 편집' being destroyed
+[2023.09.20-13.27.54:350][139]LogSlate: Window '프로젝트 세팅' being destroyed
+[2023.09.20-13.27.54:380][139]LogSlate: Window '프로젝트 세팅' being destroyed
+[2023.09.20-13.27.58:705][231]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Book/Animation/WarriorAnimBlueprint.WarriorAnimBlueprint
+[2023.09.20-13.27.58:706][231]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.20-13.27.58:761][231]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.20-13.27.58:816][231]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 0/1 (/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1)...
+[2023.09.20-13.27.58:872][231]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.20-13.28.03:008][231]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2023.09.20-13.28.03:008][231]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.049589s
+[2023.09.20-13.28.05:944][231]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.20-13.28.06:125][231]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.000555s (3.169109s overbudget)
+[2023.09.20-13.28.06:243][231]LogSlate: Took 0.000510 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.09.20-13.28.06:250][231]LogViewport: Scene viewport resized to 444x221, mode Windowed.
+[2023.09.20-13.28.14:618][489]LogViewport: Scene viewport resized to 444x223, mode Windowed.
+[2023.09.20-13.28.14:699][489]LogViewport: Scene viewport resized to 444x260, mode Windowed.
+[2023.09.20-13.28.14:782][489]LogViewport: Scene viewport resized to 444x273, mode Windowed.
+[2023.09.20-13.28.16:475][520]LogViewport: Scene viewport resized to 444x275, mode Windowed.
+[2023.09.20-13.28.16:551][520]LogViewport: Scene viewport resized to 444x313, mode Windowed.
+[2023.09.20-13.28.16:648][520]LogViewport: Scene viewport resized to 444x343, mode Windowed.
+[2023.09.20-13.28.16:732][520]LogViewport: Scene viewport resized to 444x353, mode Windowed.
+[2023.09.20-13.28.16:814][520]LogViewport: Scene viewport resized to 444x355, mode Windowed.
+[2023.09.20-13.28.21:498][674]LogSlate: Took 0.003748 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.09.20-13.28.21:499][674]LogSlate: Last resort fallback font was requested. Font: '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf', Character: 'Ʈ (U+01ae)'
+[2023.09.20-13.28.21:508][674]LogSlate: Took 0.005065 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2023.09.20-13.28.38:523][271]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.09.20-13.28.50:421][686]LogSlateStyle: Warning: 'CoreStyle' 스타일의 리소스 누락: ''Graph.Node.Comment.TextColor' 컬러를 찾을 수 없습니다.'
+[2023.09.20-13.29.30:021][ 78]LogSlate: Window 'WarriorAnimBlueprint' being destroyed
+[2023.09.20-13.29.30:036][ 78]LogSlate: Window 'WarriorAnimBlueprint' being destroyed
+[2023.09.20-13.29.30:054][ 78]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.09.20-13.29.30:054][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.20-13.29.30:070][ 78]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.09.20-13.29.30:070][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.20-13.29.30:218][ 78]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.09.20-13.29.30:218][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.20-13.29.40:032][315]LogViewport: Scene viewport resized to 934x522, mode Windowed.
+[2023.09.20-13.29.40:098][317]LogViewport: Scene viewport resized to 872x522, mode Windowed.
+[2023.09.20-13.29.40:169][318]LogViewport: Scene viewport resized to 853x522, mode Windowed.
+[2023.09.20-13.29.40:336][319]LogViewport: Scene viewport resized to 850x522, mode Windowed.
+[2023.09.20-13.29.41:971][401]LogViewport: Scene viewport resized to 335x206, mode Windowed.
+[2023.09.20-13.29.43:493][445]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2023.09.20-13.29.43:508][445]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2023.09.20-13.29.43:510][445]LogPlayLevel: [PlayLevel] Compiling WarriorAnimBlueprint before play...
+[2023.09.20-13.29.43:678][445]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.09.20-13.29.43:679][445]LogPlayLevel: PlayLevel: Blueprint regeneration took 171 ms (1 blueprints)
+[2023.09.20-13.29.43:679][445]PIE: New page: PIE 세션: Step2 (2023. 9. 21. 오전 7:29:43)
+[2023.09.20-13.29.43:679][445]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2023.09.20-13.29.43:684][445]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004670s)
+[2023.09.20-13.29.43:684][445]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.004809s)
+[2023.09.20-13.29.43:684][445]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.09.20-13.29.43:685][445]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.20-13.29.43:685][445]LogAIModule: Creating AISystem for world Step2
+[2023.09.20-13.29.43:686][445]LogPlayLevel: PIE: World Init took: (0.001426s)
+[2023.09.20-13.29.43:738][445]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2023.09.20-13.29.43:739][445]ArenaBattle: Warning: UABGameInstance::Init(18) DropExp of Level 20 ABCharacter : 105
+[2023.09.20-13.29.43:739][445]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.09.20-13.29.43:739][445]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.20-13.29.43:739][445]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.20-13.29.43:739][445]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.20-13.29.43:739][445]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.20-13.29.43:739][445]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.20-13.29.43:739][445]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.20-13.29.43:739][445]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.20-13.29.43:740][445]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.20-13.29.43:740][445]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.20-13.29.43:740][445]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.20-13.29.43:740][445]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.20-13.29.43:744][445]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.20-13.29.43:819][445]LogAudioMixer: Display: Using Audio Hardware Device Audio(THX Spatial Audio)
+[2023.09.20-13.29.43:820][445]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.20-13.29.43:820][445]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.20-13.29.43:820][445]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.20-13.29.43:824][445]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.09.20-13.29.43:824][445]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.09.20-13.29.43:826][445]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.09.20-13.29.43:826][445]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.09.20-13.29.43:826][445]LogInit: FAudioDevice initialized.
+[2023.09.20-13.29.43:827][445]LogAudio: Display: Audio Device (ID: 3) registered with world 'Step2'.
+[2023.09.20-13.29.43:848][445]LogLoad: Game class is 'ABGameMode'
+[2023.09.20-13.29.43:850][445]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 60) at 2023.09.20-22.29.43
+[2023.09.20-13.29.43:851][445]LogWorld: Bringing up level for play took: 0.002262
+[2023.09.20-13.29.43:855][445]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2023.09.20-13.29.43:856][445]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(9)
+[2023.09.20-13.29.43:856][445]ArenaBattle: Warning: AABGameMode::PostLogin(19) PostLogin
+[2023.09.20-13.29.43:857][445]ArenaBattle: Warning: AABPlayerController::OnPossess(14)
+[2023.09.20-13.29.43:857][445]ArenaBattle: Warning: AABGameMode::PostLogin(21) PostLogin End
+[2023.09.20-13.29.43:858][445]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.09.20-13.29.43:858][445]PIE: 서버가 로그인했습니다.
+[2023.09.20-13.29.43:859][445]PIE: 에디터에서 플레이 총 시작 시간 0.351초입니다.
+[2023.09.20-13.29.44:915][498]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.09.20-13.29.45:145][512]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.09.20-13.29.45:480][532]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.09.20-13.29.45:480][532]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_b4d627496fa35b8871d42385ceef7843>::operator ()(197) OnNextAttackCheck
+[2023.09.20-13.29.46:765][609]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.09.20-13.29.46:996][623]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.09.20-13.29.46:996][623]ArenaBattle: Warning: AABCharacter::AttackCheck(425) Hit Actor Name : ABCharacter_1
+[2023.09.20-13.29.46:996][623]ArenaBattle: Warning: AABCharacter::TakeDamage(220) Actor : ABCharacter_1 took Damage : 10.000000
+[2023.09.20-13.29.47:328][643]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.09.20-13.29.47:328][643]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_b4d627496fa35b8871d42385ceef7843>::operator ()(197) OnNextAttackCheck
+[2023.09.20-13.29.48:247][698]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.09.20-13.29.48:397][707]ArenaBattle: Warning: AABCharacter::Attack(349) IsAttacking
+[2023.09.20-13.29.48:480][712]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.09.20-13.29.48:480][712]ArenaBattle: Warning: AABCharacter::AttackCheck(425) Hit Actor Name : ABCharacter_1
+[2023.09.20-13.29.48:480][712]ArenaBattle: Warning: AABCharacter::TakeDamage(220) Actor : ABCharacter_1 took Damage : 10.000000
+[2023.09.20-13.29.48:564][717]ArenaBattle: Warning: AABCharacter::Attack(349) IsAttacking
+[2023.09.20-13.29.48:732][727]ArenaBattle: Warning: AABCharacter::Attack(349) IsAttacking
+[2023.09.20-13.29.48:812][732]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.09.20-13.29.48:812][732]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_b4d627496fa35b8871d42385ceef7843>::operator ()(197) OnNextAttackCheck
+[2023.09.20-13.29.48:812][732]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack2
+[2023.09.20-13.29.48:882][736]ArenaBattle: Warning: AABCharacter::Attack(349) IsAttacking
+[2023.09.20-13.29.49:079][748]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.09.20-13.29.49:079][748]ArenaBattle: Warning: AABCharacter::AttackCheck(425) Hit Actor Name : ABCharacter_1
+[2023.09.20-13.29.49:079][748]ArenaBattle: Warning: AABCharacter::TakeDamage(220) Actor : ABCharacter_1 took Damage : 10.000000
+[2023.09.20-13.29.49:098][749]ArenaBattle: Warning: AABCharacter::Attack(349) IsAttacking
+[2023.09.20-13.29.49:281][760]ArenaBattle: Warning: AABCharacter::Attack(349) IsAttacking
+[2023.09.20-13.29.49:397][767]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.09.20-13.29.49:397][767]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_b4d627496fa35b8871d42385ceef7843>::operator ()(197) OnNextAttackCheck
+[2023.09.20-13.29.49:397][767]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack3
+[2023.09.20-13.29.49:481][772]ArenaBattle: Warning: AABCharacter::Attack(349) IsAttacking
+[2023.09.20-13.29.49:665][783]ArenaBattle: Warning: AABCharacter::Attack(349) IsAttacking
+[2023.09.20-13.29.49:680][784]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.09.20-13.29.49:680][784]ArenaBattle: Warning: AABCharacter::AttackCheck(425) Hit Actor Name : ABCharacter_1
+[2023.09.20-13.29.49:680][784]ArenaBattle: Warning: AABCharacter::TakeDamage(220) Actor : ABCharacter_1 took Damage : 10.000000
+[2023.09.20-13.29.49:995][803]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.09.20-13.29.49:995][803]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_b4d627496fa35b8871d42385ceef7843>::operator ()(197) OnNextAttackCheck
+[2023.09.20-13.29.49:996][803]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack4
+[2023.09.20-13.29.50:263][819]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.09.20-13.29.50:263][819]ArenaBattle: Warning: AABCharacter::AttackCheck(425) Hit Actor Name : ABCharacter_1
+[2023.09.20-13.29.50:263][819]ArenaBattle: Warning: AABCharacter::TakeDamage(220) Actor : ABCharacter_1 took Damage : 10.000000
+[2023.09.20-13.29.50:414][828]ArenaBattle: Warning: AABCharacter::Attack(349) IsAttacking
+[2023.09.20-13.29.53:792][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.20-13.29.53:792][ 29]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2023.09.20-13.29.53:792][ 29]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2023.09.20-13.29.53:793][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.20-13.29.53:812][ 29]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.20-13.29.53:820][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.20-13.29.53:872][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.20-13.29.53:872][ 29]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.09.20-13.29.53:875][ 29]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.09.20-13.29.53:892][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2023.09.20-13.29.54:120][ 30]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.09.20-13.29.54:132][ 30]LogViewport: Scene viewport resized to 335x206, mode Windowed.
+[2023.09.20-13.31.05:369][505]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.09.20-13.31.05:569][505]LogUObjectGlobals: Warning: 'Class 없음.Physics' 오브젝트를 찾는 데 실패했습니다.
+[2023.09.20-13.32.32:309][790]LogSlate: Window '프로파일 편집' being destroyed
+[2023.09.20-13.32.40:647][998]ArenaBattle: Error: UABCharacterStatComponent::SetNewLevel(49) ASSERTION : 'nullptr != ABGameInstance'
+[2023.09.20-13.32.40:784][  0]ArenaBattle: Warning: AABPawn::PostInitializeComponents(63)
+[2023.09.20-13.32.40:913][  2]ArenaBattle: Warning: AFountain::PostInitializeComponents(94)
+[2023.09.20-13.33.20:117][196]LogVSAccessor: Couldn't get item operations. Visual Studio may still be initializing.
+[2023.09.20-13.33.24:762][197]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2023.09.20-13.33.24:768][197]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Book/Maps/Step2' took 0.059
+[2023.09.20-13.33.24:768][197]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Book/Animation/WarriorAnimBlueprint] ([2] browsable assets)...
+[2023.09.20-13.33.24:834][197]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Book/Animation/WarriorAnimBlueprint.WarriorAnimBlueprint]
+[2023.09.20-13.33.24:834][197]OBJ SavePackage: Finished generating thumbnails for package [/Game/Book/Animation/WarriorAnimBlueprint]
+[2023.09.20-13.33.24:852][197]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.017680 seconds
+[2023.09.20-13.33.24:965][197]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Book/Animation/WarriorAnimBlueprint_Auto1
+[2023.09.20-13.33.24:965][197]LogSavePackage: Moving '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Saved/WarriorAnimBlueprint_Auto1B13A607F4B2A3B28AB1887BF661CE698.tmp' to '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Saved/Autosaves/Game/Book/Animation/WarriorAnimBlueprint_Auto1.uasset'
+[2023.09.20-13.33.24:967][197]LogFileHelpers: Auto-saving content packages took 0.199
+[2023.09.20-13.35.57:672][787]LogSlate: Window '프로파일 편집' being destroyed
+[2023.09.20-13.36.53:902][823]LogSlate: Window '프로파일 편집' being destroyed
+[2023.09.20-13.36.54:672][840]LogSlate: Window '프로젝트 세팅' being destroyed
+[2023.09.20-13.36.54:710][840]LogSlate: Window '프로젝트 세팅' being destroyed
+[2023.09.20-13.38.46:658][310]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2023.09.20-13.38.46:678][310]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.20-13.38.46:678][310]PIE: New page: PIE 세션: Step2 (2023. 9. 21. 오전 7:38:46)
+[2023.09.20-13.38.46:678][310]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2023.09.20-13.38.46:684][310]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005489s)
+[2023.09.20-13.38.46:684][310]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.005661s)
+[2023.09.20-13.38.46:684][310]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.09.20-13.38.46:684][310]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.20-13.38.46:685][310]LogAIModule: Creating AISystem for world Step2
+[2023.09.20-13.38.46:686][310]LogPlayLevel: PIE: World Init took: (0.001714s)
+[2023.09.20-13.38.46:744][310]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2023.09.20-13.38.46:750][310]ArenaBattle: Warning: UABGameInstance::Init(18) DropExp of Level 20 ABCharacter : 105
+[2023.09.20-13.38.46:750][310]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.09.20-13.38.46:750][310]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.20-13.38.46:750][310]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.20-13.38.46:750][310]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.20-13.38.46:750][310]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.20-13.38.46:750][310]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.20-13.38.46:750][310]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.20-13.38.46:750][310]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.20-13.38.46:750][310]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.20-13.38.46:751][310]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.20-13.38.46:752][310]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.20-13.38.46:752][310]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.20-13.38.46:756][310]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.20-13.38.46:837][310]LogAudioMixer: Display: Using Audio Hardware Device Audio(THX Spatial Audio)
+[2023.09.20-13.38.46:838][310]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.20-13.38.46:838][310]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.20-13.38.46:838][310]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.20-13.38.46:840][310]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.09.20-13.38.46:840][310]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.09.20-13.38.46:843][310]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.09.20-13.38.46:843][310]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.09.20-13.38.46:843][310]LogInit: FAudioDevice initialized.
+[2023.09.20-13.38.46:843][310]LogAudio: Display: Audio Device (ID: 4) registered with world 'Step2'.
+[2023.09.20-13.38.46:867][310]LogLoad: Game class is 'ABGameMode'
+[2023.09.20-13.38.46:870][310]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 60) at 2023.09.20-22.38.46
+[2023.09.20-13.38.46:871][310]LogWorld: Bringing up level for play took: 0.003935
+[2023.09.20-13.38.46:875][310]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2023.09.20-13.38.46:875][310]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(9)
+[2023.09.20-13.38.46:876][310]ArenaBattle: Warning: AABGameMode::PostLogin(19) PostLogin
+[2023.09.20-13.38.46:877][310]ArenaBattle: Warning: AABPlayerController::OnPossess(14)
+[2023.09.20-13.38.46:878][310]ArenaBattle: Warning: AABGameMode::PostLogin(21) PostLogin End
+[2023.09.20-13.38.46:878][310]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.09.20-13.38.46:878][310]PIE: 서버가 로그인했습니다.
+[2023.09.20-13.38.46:879][310]PIE: 에디터에서 플레이 총 시작 시간 0.202초입니다.
+[2023.09.20-13.38.50:342][508]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.09.20-13.38.50:573][522]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.09.20-13.38.50:573][522]ArenaBattle: Warning: AABCharacter::AttackCheck(425) Hit Actor Name : ABCharacter_1
+[2023.09.20-13.38.50:573][522]ArenaBattle: Warning: AABCharacter::TakeDamage(220) Actor : ABCharacter_1 took Damage : 10.000000
+[2023.09.20-13.38.50:907][542]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.09.20-13.38.50:907][542]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_b4d627496fa35b8871d42385ceef7843>::operator ()(197) OnNextAttackCheck
+[2023.09.20-13.38.59:416][ 47]LogViewport: Scene viewport resized to 854x522, mode Windowed.
+[2023.09.20-13.38.59:504][ 47]LogViewport: Scene viewport resized to 1011x522, mode Windowed.
+[2023.09.20-13.38.59:610][ 47]LogViewport: Scene viewport resized to 1044x522, mode Windowed.
+[2023.09.20-13.38.59:719][ 47]LogViewport: Scene viewport resized to 1060x522, mode Windowed.
+[2023.09.20-13.39.00:484][ 47]LogViewport: Scene viewport resized to 1062x522, mode Windowed.
+[2023.09.20-13.39.00:602][ 47]LogViewport: Scene viewport resized to 1115x522, mode Windowed.
+[2023.09.20-13.39.00:708][ 47]LogViewport: Scene viewport resized to 1116x522, mode Windowed.
+[2023.09.20-13.39.04:228][201]LogViewport: Scene viewport resized to 440x206, mode Windowed.
+[2023.09.20-13.39.17:913][880]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.09.20-13.39.18:096][891]ArenaBattle: Warning: AABCharacter::Attack(349) IsAttacking
+[2023.09.20-13.39.18:145][894]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.09.20-13.39.18:145][894]ArenaBattle: Warning: AABCharacter::AttackCheck(425) Hit Actor Name : ABCharacter_1
+[2023.09.20-13.39.18:145][894]ArenaBattle: Warning: AABCharacter::TakeDamage(220) Actor : ABCharacter_1 took Damage : 10.000000
+[2023.09.20-13.39.18:280][902]ArenaBattle: Warning: AABCharacter::Attack(349) IsAttacking
+[2023.09.20-13.39.18:447][912]ArenaBattle: Warning: AABCharacter::Attack(349) IsAttacking
+[2023.09.20-13.39.18:478][914]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.09.20-13.39.18:478][914]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_b4d627496fa35b8871d42385ceef7843>::operator ()(197) OnNextAttackCheck
+[2023.09.20-13.39.18:478][914]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack2
+[2023.09.20-13.39.18:679][926]ArenaBattle: Warning: AABCharacter::Attack(349) IsAttacking
+[2023.09.20-13.39.18:744][930]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.09.20-13.39.18:744][930]ArenaBattle: Warning: AABCharacter::AttackCheck(425) Hit Actor Name : ABCharacter_1
+[2023.09.20-13.39.18:744][930]ArenaBattle: Warning: AABCharacter::TakeDamage(220) Actor : ABCharacter_1 took Damage : 10.000000
+[2023.09.20-13.39.19:061][949]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.09.20-13.39.19:061][949]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_b4d627496fa35b8871d42385ceef7843>::operator ()(197) OnNextAttackCheck
+[2023.09.20-13.39.19:061][949]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack3
+[2023.09.20-13.39.19:344][966]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.09.20-13.39.19:344][966]ArenaBattle: Warning: AABCharacter::AttackCheck(425) Hit Actor Name : ABCharacter_1
+[2023.09.20-13.39.19:344][966]ArenaBattle: Warning: AABCharacter::TakeDamage(220) Actor : ABCharacter_1 took Damage : 10.000000
+[2023.09.20-13.39.19:661][985]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.09.20-13.39.19:661][985]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_b4d627496fa35b8871d42385ceef7843>::operator ()(197) OnNextAttackCheck
+[2023.09.20-13.39.23:214][198]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.09.20-13.39.23:446][212]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.09.20-13.39.23:446][212]ArenaBattle: Warning: AABCharacter::AttackCheck(425) Hit Actor Name : ABCharacter_1
+[2023.09.20-13.39.23:446][212]ArenaBattle: Warning: AABCharacter::TakeDamage(220) Actor : ABCharacter_1 took Damage : 10.000000
+[2023.09.20-13.39.23:779][232]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.09.20-13.39.23:779][232]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_b4d627496fa35b8871d42385ceef7843>::operator ()(197) OnNextAttackCheck
+[2023.09.20-13.39.24:647][284]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.09.20-13.39.24:879][298]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.09.20-13.39.24:879][298]ArenaBattle: Warning: AABCharacter::AttackCheck(425) Hit Actor Name : ABCharacter_1
+[2023.09.20-13.39.24:879][298]ArenaBattle: Warning: AABCharacter::TakeDamage(220) Actor : ABCharacter_1 took Damage : 10.000000
+[2023.09.20-13.39.25:212][318]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.09.20-13.39.25:212][318]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_b4d627496fa35b8871d42385ceef7843>::operator ()(197) OnNextAttackCheck
+[2023.09.20-13.39.34:528][874]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.09.20-13.39.34:759][888]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.09.20-13.39.34:759][888]ArenaBattle: Warning: AABCharacter::AttackCheck(425) Hit Actor Name : ABCharacter_1
+[2023.09.20-13.39.34:759][888]ArenaBattle: Warning: AABCharacter::TakeDamage(220) Actor : ABCharacter_1 took Damage : 10.000000
+[2023.09.20-13.39.35:092][908]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.09.20-13.39.35:092][908]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_b4d627496fa35b8871d42385ceef7843>::operator ()(197) OnNextAttackCheck
+[2023.09.20-13.39.38:361][104]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.09.20-13.39.38:510][113]ArenaBattle: Warning: AABCharacter::Attack(349) IsAttacking
+[2023.09.20-13.39.38:593][118]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.09.20-13.39.38:593][118]ArenaBattle: Warning: AABCharacter::AttackCheck(425) Hit Actor Name : ABCharacter_1
+[2023.09.20-13.39.38:593][118]ArenaBattle: Warning: AABCharacter::TakeDamage(220) Actor : ABCharacter_1 took Damage : 10.000000
+[2023.09.20-13.39.38:694][124]ArenaBattle: Warning: AABCharacter::Attack(349) IsAttacking
+[2023.09.20-13.39.38:878][135]ArenaBattle: Warning: AABCharacter::Attack(349) IsAttacking
+[2023.09.20-13.39.38:926][138]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.09.20-13.39.38:926][138]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_b4d627496fa35b8871d42385ceef7843>::operator ()(197) OnNextAttackCheck
+[2023.09.20-13.39.38:926][138]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack2
+[2023.09.20-13.39.39:061][146]ArenaBattle: Warning: AABCharacter::Attack(349) IsAttacking
+[2023.09.20-13.39.39:192][154]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.09.20-13.39.39:192][154]ArenaBattle: Warning: AABCharacter::AttackCheck(425) Hit Actor Name : ABCharacter_1
+[2023.09.20-13.39.39:192][154]ArenaBattle: Warning: AABCharacter::TakeDamage(220) Actor : ABCharacter_1 took Damage : 10.000000
+[2023.09.20-13.39.39:293][160]ArenaBattle: Warning: AABCharacter::Attack(349) IsAttacking
+[2023.09.20-13.39.39:509][173]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.09.20-13.39.39:509][173]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_b4d627496fa35b8871d42385ceef7843>::operator ()(197) OnNextAttackCheck
+[2023.09.20-13.39.39:509][173]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack3
+[2023.09.20-13.39.39:593][178]ArenaBattle: Warning: AABCharacter::Attack(349) IsAttacking
+[2023.09.20-13.39.39:792][190]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.09.20-13.39.39:793][190]ArenaBattle: Warning: AABCharacter::AttackCheck(425) Hit Actor Name : ABCharacter_1
+[2023.09.20-13.39.39:793][190]ArenaBattle: Warning: AABCharacter::TakeDamage(220) Actor : ABCharacter_1 took Damage : 10.000000
+[2023.09.20-13.39.40:109][209]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.09.20-13.39.40:109][209]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_b4d627496fa35b8871d42385ceef7843>::operator ()(197) OnNextAttackCheck
+[2023.09.20-13.39.40:109][209]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack4
+[2023.09.20-13.39.40:376][225]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.09.20-13.39.40:376][225]ArenaBattle: Warning: AABCharacter::AttackCheck(425) Hit Actor Name : ABCharacter_1
+[2023.09.20-13.39.40:376][225]ArenaBattle: Warning: AABCharacter::TakeDamage(220) Actor : ABCharacter_1 took Damage : 10.000000
+[2023.09.20-13.39.42:141][329]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.20-13.39.42:141][329]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2023.09.20-13.39.42:141][329]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2023.09.20-13.39.42:142][329]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.20-13.39.42:182][329]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.20-13.39.42:190][329]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.20-13.39.42:241][329]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.20-13.39.42:242][329]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.09.20-13.39.42:245][329]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.09.20-13.39.42:263][329]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2023.09.20-13.39.42:547][330]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.09.20-13.39.42:560][330]LogViewport: Scene viewport resized to 440x206, mode Windowed.
+[2023.09.20-13.39.44:554][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Maps/Step2" FILE="../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Maps/Step2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.20-13.39.44:612][401]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2023.09.20-13.39.44:631][401]LogSavePackage: Moving output files for package: /Game/Book/Maps/Step2
+[2023.09.20-13.39.44:632][401]LogSavePackage: Moving '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Saved/Step246CE266C4FC2E21C06432AA3472DD7BF.tmp' to '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Maps/Step2.umap'
+[2023.09.20-13.39.44:677][401]AssetCheck: New page: 에셋 저장:  Step2
+[2023.09.20-13.39.44:677][401]LogContentValidation: Display: World /Game/Book/Maps/Step2.Step2 유효성 검사 중
+[2023.09.20-13.39.45:879][445]LogViewport: Scene viewport resized to 1113x522, mode Windowed.
+[2023.09.20-13.39.45:976][445]LogViewport: Scene viewport resized to 790x522, mode Windowed.
+[2023.09.20-13.39.46:004][445]LogViewport: Scene viewport resized to 439x206, mode Windowed.
+[2023.09.20-13.39.46:115][445]LogViewport: Scene viewport resized to 756x522, mode Windowed.
+[2023.09.20-13.39.46:146][445]LogViewport: Scene viewport resized to 311x206, mode Windowed.
+[2023.09.20-13.39.46:246][445]LogViewport: Scene viewport resized to 298x206, mode Windowed.
+[2023.09.20-13.40.51:903][905]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.09.20-13.40.52:109][905]LogUObjectGlobals: Warning: 'Class 없음.Physics' 오브젝트를 찾는 데 실패했습니다.
+[2023.09.20-13.41.03:176][142]LogSlate: Window '채널 편집' being destroyed
+[2023.09.20-13.41.31:072][334]LogSlate: Window '프로파일 편집' being destroyed
+[2023.09.20-13.41.34:183][421]LogSlate: Window '프로젝트 세팅' being destroyed
+[2023.09.20-13.41.34:225][421]LogSlate: Window '프로젝트 세팅' being destroyed
+[2023.09.20-13.41.37:262][536]LogViewport: Scene viewport resized to 756x521, mode Windowed.
+[2023.09.20-13.41.37:352][536]LogViewport: Scene viewport resized to 756x494, mode Windowed.
+[2023.09.20-13.41.37:384][536]LogViewport: Scene viewport resized to 298x205, mode Windowed.
+[2023.09.20-13.41.37:474][536]LogViewport: Scene viewport resized to 298x195, mode Windowed.
+[2023.09.20-13.41.40:355][612]LogVSAccessor: Warning: Couldn't save all documents
+[2023.09.20-13.41.40:416][612]Candidate modules for hot reload:
+[2023.09.20-13.41.40:416][612]  ArenaBattle
+[2023.09.20-13.41.40:430][612]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe  -ModuleWithSuffix=ArenaBattle,0579 ArenaBattleEditor Win64 Development -Project="C:/Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/ArenaBattle.uproject" "C:/Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/ArenaBattle.uproject"  -IgnoreJunk]
+[2023.09.20-13.41.40:439][612]Warning: Starting HotReload took  0.1s.
+[2023.09.20-13.41.42:260][653]LogViewport: Scene viewport resized to 761x494, mode Windowed.
+[2023.09.20-13.41.42:358][653]LogViewport: Scene viewport resized to 1103x494, mode Windowed.
+[2023.09.20-13.41.42:389][653]LogViewport: Scene viewport resized to 300x195, mode Windowed.
+[2023.09.20-13.41.42:499][653]LogViewport: Scene viewport resized to 1139x494, mode Windowed.
+[2023.09.20-13.41.42:528][653]LogViewport: Scene viewport resized to 435x195, mode Windowed.
+[2023.09.20-13.41.42:781][653]LogViewport: Scene viewport resized to 449x195, mode Windowed.
+[2023.09.20-13.42.00:240][178]CompilerResultsLog: New page: 컴파일 - 2023. 9. 21. 오전 7:42:00
+[2023.09.20-13.42.00:240][178]CompilerResultsLog: Log file: C:\Users\Moon\AppData\Local\UnrealBuildTool\Log.txt
+[2023.09.20-13.42.00:240][178]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Moon\Documents\GitHub\ArenaBattle).
+[2023.09.20-13.42.00:241][178]CompilerResultsLog: Invalidating makefile for ArenaBattleEditor (working set of source files changed)
+[2023.09.20-13.42.00:241][178]CompilerResultsLog: Building ArenaBattleEditor...
+[2023.09.20-13.42.00:241][178]CompilerResultsLog: Using Visual Studio 2019 14.29.30151 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.09.20-13.42.00:241][178]CompilerResultsLog: Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+[2023.09.20-13.42.00:241][178]CompilerResultsLog:   Executing up to 8 processes, one per physical core
+[2023.09.20-13.42.00:241][178]CompilerResultsLog: Building 4 actions with 4 processes...
+[2023.09.20-13.42.00:241][178]CompilerResultsLog: [1/4] Compile ABCharacter.cpp
+[2023.09.20-13.42.00:241][178]CompilerResultsLog: [2/4] Link UnrealEditor-ArenaBattle-0579.lib
+[2023.09.20-13.42.00:241][178]CompilerResultsLog:    C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-0579.lib ???̺귯?? ?? C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-0579.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.09.20-13.42.00:241][178]CompilerResultsLog: [3/4] Link UnrealEditor-ArenaBattle-0579.dll
+[2023.09.20-13.42.00:241][178]CompilerResultsLog:    C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-0579.suppressed.lib ???̺귯?? ?? C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-0579.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.09.20-13.42.00:241][178]CompilerResultsLog: [4/4] WriteMetadata ArenaBattleEditor.target
+[2023.09.20-13.42.00:241][178]CompilerResultsLog: Total time in Parallel executor: 14.10 seconds
+[2023.09.20-13.42.00:241][178]CompilerResultsLog: Total execution time: 19.50 seconds
+[2023.09.20-13.42.00:241][178]LogMainFrame: MainFrame: Module compiling took 19.886 seconds
+[2023.09.20-13.42.00:648][178]Re-instancing ABCharacter after reload.
+[2023.09.20-13.42.01:274][178]Display: HotReload took 20.9s.
+[2023.09.20-13.42.01:274][178]Display: Reload/Re-instancing Complete: 1 package changed, 10 classes unchanged, 1 scriptstruct unchanged, 5 functions remapped, 1 scriptstruct remapped
+[2023.09.20-13.42.02:364][179]LogViewport: Scene viewport resized to 449x195, mode Windowed.
+[2023.09.20-13.42.04:211][233]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2023.09.20-13.42.04:228][233]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.20-13.42.04:228][233]PIE: New page: PIE 세션: Step2 (2023. 9. 21. 오전 7:42:04)
+[2023.09.20-13.42.04:228][233]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2023.09.20-13.42.04:238][233]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010197s)
+[2023.09.20-13.42.04:238][233]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.010368s)
+[2023.09.20-13.42.04:238][233]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.09.20-13.42.04:238][233]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.20-13.42.04:239][233]LogAIModule: Creating AISystem for world Step2
+[2023.09.20-13.42.04:239][233]LogPlayLevel: PIE: World Init took: (0.001538s)
+[2023.09.20-13.42.04:382][233]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2023.09.20-13.42.04:386][233]ArenaBattle: Warning: UABGameInstance::Init(18) DropExp of Level 20 ABCharacter : 105
+[2023.09.20-13.42.04:386][233]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.09.20-13.42.04:386][233]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.20-13.42.04:386][233]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.20-13.42.04:386][233]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.20-13.42.04:386][233]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.20-13.42.04:386][233]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.20-13.42.04:386][233]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.20-13.42.04:386][233]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.20-13.42.04:386][233]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.20-13.42.04:387][233]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.20-13.42.04:387][233]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.20-13.42.04:387][233]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.20-13.42.04:391][233]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.20-13.42.04:465][233]LogAudioMixer: Display: Using Audio Hardware Device Audio(THX Spatial Audio)
+[2023.09.20-13.42.04:466][233]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.20-13.42.04:466][233]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.20-13.42.04:466][233]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.20-13.42.04:468][233]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.09.20-13.42.04:468][233]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.09.20-13.42.04:470][233]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.09.20-13.42.04:470][233]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.09.20-13.42.04:470][233]LogInit: FAudioDevice initialized.
+[2023.09.20-13.42.04:470][233]LogAudio: Display: Audio Device (ID: 5) registered with world 'Step2'.
+[2023.09.20-13.42.04:489][233]LogLoad: Game class is 'ABGameMode'
+[2023.09.20-13.42.04:491][233]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 60) at 2023.09.20-22.42.04
+[2023.09.20-13.42.04:492][233]LogWorld: Bringing up level for play took: 0.002277
+[2023.09.20-13.42.04:495][233]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2023.09.20-13.42.04:495][233]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(9)
+[2023.09.20-13.42.04:496][233]ArenaBattle: Warning: AABGameMode::PostLogin(19) PostLogin
+[2023.09.20-13.42.04:497][233]ArenaBattle: Warning: AABPlayerController::OnPossess(14)
+[2023.09.20-13.42.04:498][233]ArenaBattle: Warning: AABGameMode::PostLogin(21) PostLogin End
+[2023.09.20-13.42.04:498][233]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.09.20-13.42.04:498][233]PIE: 서버가 로그인했습니다.
+[2023.09.20-13.42.04:500][233]PIE: 에디터에서 플레이 총 시작 시간 0.273초입니다.
+[2023.09.20-13.42.05:275][265]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.09.20-13.42.05:493][276]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.09.20-13.42.05:847][294]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.09.20-13.42.05:847][294]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_b4d627496fa35b8871d42385ceef7843>::operator ()(197) OnNextAttackCheck
+[2023.09.20-13.42.06:214][313]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.09.20-13.42.07:286][367]ArenaBattle: Warning: AABItemBox::OnCharacterOverlap(68)
+[2023.09.20-13.42.08:007][410]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.09.20-13.42.08:238][424]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.09.20-13.42.08:238][424]ArenaBattle: Warning: AABCharacter::AttackCheck(425) Hit Actor Name : ABCharacter_1
+[2023.09.20-13.42.08:238][424]ArenaBattle: Warning: AABCharacter::TakeDamage(220) Actor : ABCharacter_1 took Damage : 10.000000
+[2023.09.20-13.42.08:571][444]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.09.20-13.42.08:571][444]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_b4d627496fa35b8871d42385ceef7843>::operator ()(197) OnNextAttackCheck
+[2023.09.20-13.42.10:340][550]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.09.20-13.42.10:424][555]ArenaBattle: Warning: AABCharacter::Attack(349) IsAttacking
+[2023.09.20-13.42.10:572][564]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.09.20-13.42.10:572][564]ArenaBattle: Warning: AABCharacter::AttackCheck(425) Hit Actor Name : ABCharacter_1
+[2023.09.20-13.42.10:572][564]ArenaBattle: Warning: AABCharacter::TakeDamage(220) Actor : ABCharacter_1 took Damage : 10.000000
+[2023.09.20-13.42.10:606][566]ArenaBattle: Warning: AABCharacter::Attack(349) IsAttacking
+[2023.09.20-13.42.10:906][584]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.09.20-13.42.10:906][584]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_b4d627496fa35b8871d42385ceef7843>::operator ()(197) OnNextAttackCheck
+[2023.09.20-13.42.10:906][584]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack2
+[2023.09.20-13.42.11:141][598]ArenaBattle: Warning: AABCharacter::Attack(349) IsAttacking
+[2023.09.20-13.42.11:172][600]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.09.20-13.42.11:172][600]ArenaBattle: Warning: AABCharacter::AttackCheck(425) Hit Actor Name : ABCharacter_1
+[2023.09.20-13.42.11:172][600]ArenaBattle: Warning: AABCharacter::TakeDamage(220) Actor : ABCharacter_1 took Damage : 10.000000
+[2023.09.20-13.42.11:341][610]ArenaBattle: Warning: AABCharacter::Attack(349) IsAttacking
+[2023.09.20-13.42.11:488][619]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.09.20-13.42.11:488][619]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_b4d627496fa35b8871d42385ceef7843>::operator ()(197) OnNextAttackCheck
+[2023.09.20-13.42.11:488][619]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack3
+[2023.09.20-13.42.11:506][620]ArenaBattle: Warning: AABCharacter::Attack(349) IsAttacking
+[2023.09.20-13.42.11:758][635]ArenaBattle: Warning: AABCharacter::Attack(349) IsAttacking
+[2023.09.20-13.42.11:772][636]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.09.20-13.42.11:772][636]ArenaBattle: Warning: AABCharacter::AttackCheck(425) Hit Actor Name : ABCharacter_1
+[2023.09.20-13.42.11:772][636]ArenaBattle: Warning: AABCharacter::TakeDamage(220) Actor : ABCharacter_1 took Damage : 10.000000
+[2023.09.20-13.42.11:940][646]ArenaBattle: Warning: AABCharacter::Attack(349) IsAttacking
+[2023.09.20-13.42.12:089][655]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.09.20-13.42.12:089][655]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_b4d627496fa35b8871d42385ceef7843>::operator ()(197) OnNextAttackCheck
+[2023.09.20-13.42.12:089][655]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack4
+[2023.09.20-13.42.12:108][656]ArenaBattle: Warning: AABCharacter::Attack(349) IsAttacking
+[2023.09.20-13.42.12:274][666]ArenaBattle: Warning: AABCharacter::Attack(349) IsAttacking
+[2023.09.20-13.42.12:356][671]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.09.20-13.42.12:357][671]ArenaBattle: Warning: AABCharacter::AttackCheck(425) Hit Actor Name : ABCharacter_1
+[2023.09.20-13.42.12:357][671]ArenaBattle: Warning: AABCharacter::TakeDamage(220) Actor : ABCharacter_1 took Damage : 10.000000
+[2023.09.20-13.42.12:474][678]ArenaBattle: Warning: AABCharacter::Attack(349) IsAttacking
+[2023.09.20-13.42.12:624][687]ArenaBattle: Warning: AABCharacter::Attack(349) IsAttacking
+[2023.09.20-13.42.13:157][719]ArenaBattle: Warning: AABCharacter::Attack(349) IsAttacking
+[2023.09.20-13.42.13:541][742]ArenaBattle: Warning: AABCharacter::Attack(349) IsAttacking
+[2023.09.20-13.42.13:706][752]ArenaBattle: Warning: AABCharacter::Attack(349) IsAttacking
+[2023.09.20-13.42.14:807][818]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.09.20-13.42.14:990][829]ArenaBattle: Warning: AABCharacter::Attack(349) IsAttacking
+[2023.09.20-13.42.15:038][832]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.09.20-13.42.15:039][832]ArenaBattle: Warning: AABCharacter::AttackCheck(425) Hit Actor Name : ABCharacter_1
+[2023.09.20-13.42.15:039][832]ArenaBattle: Warning: AABCharacter::TakeDamage(220) Actor : ABCharacter_1 took Damage : 10.000000
+[2023.09.20-13.42.15:140][838]ArenaBattle: Warning: AABCharacter::Attack(349) IsAttacking
+[2023.09.20-13.42.15:323][849]ArenaBattle: Warning: AABCharacter::Attack(349) IsAttacking
+[2023.09.20-13.42.15:373][852]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.09.20-13.42.15:373][852]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_b4d627496fa35b8871d42385ceef7843>::operator ()(197) OnNextAttackCheck
+[2023.09.20-13.42.15:373][852]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack2
+[2023.09.20-13.42.15:491][859]ArenaBattle: Warning: AABCharacter::Attack(349) IsAttacking
+[2023.09.20-13.42.15:638][868]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.09.20-13.42.15:639][868]ArenaBattle: Warning: AABCharacter::AttackCheck(425) Hit Actor Name : ABCharacter_1
+[2023.09.20-13.42.15:639][868]ArenaBattle: Warning: AABCharacter::TakeDamage(220) Actor : ABCharacter_1 took Damage : 10.000000
+[2023.09.20-13.42.15:691][871]ArenaBattle: Warning: AABCharacter::Attack(349) IsAttacking
+[2023.09.20-13.42.15:955][887]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.09.20-13.42.15:955][887]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_b4d627496fa35b8871d42385ceef7843>::operator ()(197) OnNextAttackCheck
+[2023.09.20-13.42.15:955][887]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack3
+[2023.09.20-13.42.16:239][904]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.09.20-13.42.16:239][904]ArenaBattle: Warning: AABCharacter::AttackCheck(425) Hit Actor Name : ABCharacter_1
+[2023.09.20-13.42.16:239][904]ArenaBattle: Warning: AABCharacter::TakeDamage(220) Actor : ABCharacter_1 took Damage : 10.000000
+[2023.09.20-13.42.16:555][923]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.09.20-13.42.16:555][923]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_b4d627496fa35b8871d42385ceef7843>::operator ()(197) OnNextAttackCheck
+[2023.09.20-13.42.18:906][ 39]LogViewport: Scene viewport resized to 449x195, mode Windowed.
+[2023.09.20-13.42.22:494][198]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.09.20-13.42.22:725][212]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.09.20-13.42.22:725][212]ArenaBattle: Warning: AABCharacter::AttackCheck(425) Hit Actor Name : ABCharacter_1
+[2023.09.20-13.42.22:725][212]ArenaBattle: Warning: AABCharacter::TakeDamage(220) Actor : ABCharacter_1 took Damage : 10.000000
+[2023.09.20-13.42.22:810][217]ArenaBattle: Warning: AABCharacter::Attack(349) IsAttacking
+[2023.09.20-13.42.23:013][229]ArenaBattle: Warning: AABCharacter::Attack(349) IsAttacking
+[2023.09.20-13.42.23:064][232]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.09.20-13.42.23:065][232]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_b4d627496fa35b8871d42385ceef7843>::operator ()(197) OnNextAttackCheck
+[2023.09.20-13.42.23:065][232]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack2
+[2023.09.20-13.42.23:317][247]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.09.20-13.42.23:317][247]ArenaBattle: Warning: AABCharacter::AttackCheck(425) Hit Actor Name : ABCharacter_1
+[2023.09.20-13.42.23:317][247]ArenaBattle: Warning: AABCharacter::TakeDamage(220) Actor : ABCharacter_1 took Damage : 10.000000
+[2023.09.20-13.42.23:638][266]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.09.20-13.42.23:638][266]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_b4d627496fa35b8871d42385ceef7843>::operator ()(197) OnNextAttackCheck
+[2023.09.20-13.42.23:971][286]ArenaBattle: Warning: AABCharacter::Attack(349) IsAttacking
+[2023.09.20-13.42.24:605][324]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.09.20-13.42.24:836][338]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.09.20-13.42.24:838][338]ArenaBattle: Warning: AABCharacter::AttackCheck(425) Hit Actor Name : ABCharacter_1
+[2023.09.20-13.42.24:838][338]ArenaBattle: Warning: AABCharacter::TakeDamage(220) Actor : ABCharacter_1 took Damage : 10.000000
+[2023.09.20-13.42.25:171][358]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.09.20-13.42.25:171][358]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_b4d627496fa35b8871d42385ceef7843>::operator ()(197) OnNextAttackCheck
+[2023.09.20-13.42.25:640][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.20-13.42.25:640][384]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2023.09.20-13.42.25:640][384]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2023.09.20-13.42.25:641][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.20-13.42.25:660][384]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.20-13.42.25:670][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.20-13.42.25:714][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.20-13.42.25:714][384]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.09.20-13.42.25:717][384]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.09.20-13.42.25:794][384]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2023.09.20-13.42.26:061][385]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.09.20-13.42.26:081][385]LogViewport: Scene viewport resized to 449x195, mode Windowed.
+[2023.09.20-13.42.27:827][441]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2023.09.20-13.42.27:843][441]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.20-13.42.27:843][441]PIE: New page: PIE 세션: Step2 (2023. 9. 21. 오전 7:42:27)
+[2023.09.20-13.42.27:843][441]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2023.09.20-13.42.27:849][441]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004663s)
+[2023.09.20-13.42.27:849][441]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.004809s)
+[2023.09.20-13.42.27:849][441]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.09.20-13.42.27:849][441]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.20-13.42.27:850][441]LogAIModule: Creating AISystem for world Step2
+[2023.09.20-13.42.27:850][441]LogPlayLevel: PIE: World Init took: (0.001426s)
+[2023.09.20-13.42.27:897][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.09.20-13.42.27:901][441]ArenaBattle: Warning: UABGameInstance::Init(18) DropExp of Level 20 ABCharacter : 105
+[2023.09.20-13.42.27:902][441]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.09.20-13.42.27:902][441]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.20-13.42.27:902][441]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.20-13.42.27:902][441]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.20-13.42.27:902][441]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.20-13.42.27:902][441]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.20-13.42.27:902][441]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.20-13.42.27:902][441]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.20-13.42.27:902][441]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.20-13.42.27:903][441]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.20-13.42.27:903][441]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.20-13.42.27:903][441]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.20-13.42.27:906][441]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.20-13.42.27:978][441]LogAudioMixer: Display: Using Audio Hardware Device Audio(THX Spatial Audio)
+[2023.09.20-13.42.27:979][441]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.20-13.42.27:979][441]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.20-13.42.27:980][441]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.20-13.42.27:981][441]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.09.20-13.42.27:981][441]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.09.20-13.42.27:983][441]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.09.20-13.42.27:983][441]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.09.20-13.42.27:983][441]LogInit: FAudioDevice initialized.
+[2023.09.20-13.42.27:983][441]LogAudio: Display: Audio Device (ID: 6) registered with world 'Step2'.
+[2023.09.20-13.42.28:003][441]LogLoad: Game class is 'ABGameMode'
+[2023.09.20-13.42.28:005][441]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 60) at 2023.09.20-22.42.28
+[2023.09.20-13.42.28:005][441]LogWorld: Bringing up level for play took: 0.002210
+[2023.09.20-13.42.28:009][441]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2023.09.20-13.42.28:009][441]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(9)
+[2023.09.20-13.42.28:009][441]ArenaBattle: Warning: AABGameMode::PostLogin(19) PostLogin
+[2023.09.20-13.42.28:011][441]ArenaBattle: Warning: AABPlayerController::OnPossess(14)
+[2023.09.20-13.42.28:011][441]ArenaBattle: Warning: AABGameMode::PostLogin(21) PostLogin End
+[2023.09.20-13.42.28:011][441]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.09.20-13.42.28:011][441]PIE: 서버가 로그인했습니다.
+[2023.09.20-13.42.28:013][441]PIE: 에디터에서 플레이 총 시작 시간 0.17초입니다.
+[2023.09.20-13.42.31:009][590]LogViewport: Scene viewport resized to 449x195, mode Windowed.
+[2023.09.20-13.42.34:646][775]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.09.20-13.42.34:878][789]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.09.20-13.42.34:878][789]ArenaBattle: Warning: AABCharacter::AttackCheck(425) Hit Actor Name : ABCharacter_1
+[2023.09.20-13.42.34:878][789]ArenaBattle: Warning: AABCharacter::TakeDamage(220) Actor : ABCharacter_1 took Damage : 10.000000
+[2023.09.20-13.42.35:211][809]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.09.20-13.42.35:212][809]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_b4d627496fa35b8871d42385ceef7843>::operator ()(197) OnNextAttackCheck
+[2023.09.20-13.42.35:445][823]ArenaBattle: Warning: AABCharacter::Attack(349) IsAttacking
+[2023.09.20-13.42.35:996][856]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.09.20-13.42.36:228][870]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.09.20-13.42.36:228][870]ArenaBattle: Warning: AABCharacter::AttackCheck(425) Hit Actor Name : ABCharacter_1
+[2023.09.20-13.42.36:228][870]ArenaBattle: Warning: AABCharacter::TakeDamage(220) Actor : ABCharacter_1 took Damage : 10.000000
+[2023.09.20-13.42.36:561][890]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.09.20-13.42.36:561][890]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_b4d627496fa35b8871d42385ceef7843>::operator ()(197) OnNextAttackCheck
+[2023.09.20-13.42.37:479][945]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.09.20-13.42.37:711][959]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.09.20-13.42.37:711][959]ArenaBattle: Warning: AABCharacter::AttackCheck(425) Hit Actor Name : ABCharacter_1
+[2023.09.20-13.42.37:711][959]ArenaBattle: Warning: AABCharacter::TakeDamage(220) Actor : ABCharacter_1 took Damage : 10.000000
+[2023.09.20-13.42.38:044][979]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.09.20-13.42.38:044][979]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_b4d627496fa35b8871d42385ceef7843>::operator ()(197) OnNextAttackCheck
+[2023.09.20-13.42.38:910][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.20-13.42.38:910][ 28]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2023.09.20-13.42.38:910][ 28]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2023.09.20-13.42.38:910][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.20-13.42.38:933][ 28]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.20-13.42.38:940][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.20-13.42.38:989][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.20-13.42.38:989][ 28]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.09.20-13.42.38:992][ 28]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.09.20-13.42.39:002][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2023.09.20-13.42.39:262][ 29]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.09.20-13.42.39:272][ 29]LogViewport: Scene viewport resized to 449x195, mode Windowed.
+[2023.09.20-13.42.46:740][283]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.09.20-13.42.46:943][283]LogUObjectGlobals: Warning: 'Class 없음.Physics' 오브젝트를 찾는 데 실패했습니다.
+[2023.09.20-13.43.34:151][494]LogSlate: Window '프로파일 편집' being destroyed
+[2023.09.20-13.44.27:330][563]LogSlate: Window '프로파일 편집' being destroyed
+[2023.09.20-13.44.30:844][585]LogSlate: Window '채널 편집' being destroyed
+[2023.09.20-13.44.54:129][721]LogSlate: Window '프로파일 편집' being destroyed
+[2023.09.20-13.46.04:576][965]LogSlate: Window '프로젝트 세팅' being destroyed
+[2023.09.20-13.46.04:616][965]LogSlate: Window '프로젝트 세팅' being destroyed
+[2023.09.20-13.47.17:430][232]LogVSAccessor: Warning: Couldn't save all documents
+[2023.09.20-13.47.17:478][232]Candidate modules for hot reload:
+[2023.09.20-13.47.17:478][232]  ArenaBattle
+[2023.09.20-13.47.17:493][232]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe  -ModuleWithSuffix=ArenaBattle,2580 ArenaBattleEditor Win64 Development -Project="C:/Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/ArenaBattle.uproject" "C:/Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/ArenaBattle.uproject"  -IgnoreJunk]
+[2023.09.20-13.47.17:501][232]Warning: Starting HotReload took  0.1s.
+[2023.09.20-13.47.38:173][835]CompilerResultsLog: New page: 컴파일 - 2023. 9. 21. 오전 7:47:38
+[2023.09.20-13.47.38:173][835]CompilerResultsLog: Log file: C:\Users\Moon\AppData\Local\UnrealBuildTool\Log.txt
+[2023.09.20-13.47.38:173][835]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Moon\Documents\GitHub\ArenaBattle).
+[2023.09.20-13.47.38:173][835]CompilerResultsLog: Invalidating makefile for ArenaBattleEditor (working set of source files changed)
+[2023.09.20-13.47.38:173][835]CompilerResultsLog: Building ArenaBattleEditor...
+[2023.09.20-13.47.38:173][835]CompilerResultsLog: Using Visual Studio 2019 14.29.30151 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.09.20-13.47.38:173][835]CompilerResultsLog: [Adaptive Build] Excluded from ArenaBattle unity file: ABCharacter.cpp
+[2023.09.20-13.47.38:173][835]CompilerResultsLog: Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+[2023.09.20-13.47.38:173][835]CompilerResultsLog:   Executing up to 8 processes, one per physical core
+[2023.09.20-13.47.38:173][835]CompilerResultsLog: Building 4 actions with 4 processes...
+[2023.09.20-13.47.38:173][835]CompilerResultsLog: [1/4] Compile ABCharacter.cpp
+[2023.09.20-13.47.38:173][835]CompilerResultsLog: [2/4] Link UnrealEditor-ArenaBattle-2580.lib
+[2023.09.20-13.47.38:174][835]CompilerResultsLog:    C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-2580.lib ???̺귯?? ?? C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-2580.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.09.20-13.47.38:174][835]CompilerResultsLog: [3/4] Link UnrealEditor-ArenaBattle-2580.dll
+[2023.09.20-13.47.38:174][835]CompilerResultsLog:    C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-2580.suppressed.lib ???̺귯?? ?? C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-2580.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.09.20-13.47.38:174][835]CompilerResultsLog: [4/4] WriteMetadata ArenaBattleEditor.target
+[2023.09.20-13.47.38:174][835]CompilerResultsLog: Total time in Parallel executor: 14.72 seconds
+[2023.09.20-13.47.38:174][835]CompilerResultsLog: Total execution time: 20.39 seconds
+[2023.09.20-13.47.38:174][835]LogMainFrame: MainFrame: Module compiling took 20.742 seconds
+[2023.09.20-13.47.38:588][835]Re-instancing ABCharacter after reload.
+[2023.09.20-13.47.39:173][835]Display: HotReload took 21.8s.
+[2023.09.20-13.47.39:173][835]Display: Reload/Re-instancing Complete: 1 package changed, 10 classes unchanged, 1 scriptstruct unchanged, 5 functions remapped, 1 scriptstruct remapped
+[2023.09.20-13.47.40:288][836]LogViewport: Scene viewport resized to 449x195, mode Windowed.
+[2023.09.20-13.47.48:789][123]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2023.09.20-13.47.48:808][123]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.20-13.47.48:808][123]PIE: New page: PIE 세션: Step2 (2023. 9. 21. 오전 7:47:48)
+[2023.09.20-13.47.48:809][123]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2023.09.20-13.47.48:813][123]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004879s)
+[2023.09.20-13.47.48:814][123]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.005040s)
+[2023.09.20-13.47.48:814][123]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.09.20-13.47.48:814][123]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.20-13.47.48:815][123]LogAIModule: Creating AISystem for world Step2
+[2023.09.20-13.47.48:815][123]LogPlayLevel: PIE: World Init took: (0.001732s)
+[2023.09.20-13.47.48:952][123]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2023.09.20-13.47.48:955][123]ArenaBattle: Warning: UABGameInstance::Init(18) DropExp of Level 20 ABCharacter : 105
+[2023.09.20-13.47.48:955][123]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.09.20-13.47.48:956][123]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.20-13.47.48:956][123]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.20-13.47.48:956][123]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.20-13.47.48:956][123]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.20-13.47.48:956][123]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.20-13.47.48:956][123]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.20-13.47.48:956][123]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.20-13.47.48:956][123]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.20-13.47.48:957][123]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.20-13.47.48:957][123]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.20-13.47.48:957][123]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.20-13.47.48:960][123]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.20-13.47.49:034][123]LogAudioMixer: Display: Using Audio Hardware Device Audio(THX Spatial Audio)
+[2023.09.20-13.47.49:036][123]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.20-13.47.49:036][123]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.20-13.47.49:036][123]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.20-13.47.49:038][123]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.09.20-13.47.49:038][123]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.09.20-13.47.49:040][123]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.09.20-13.47.49:040][123]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.09.20-13.47.49:040][123]LogInit: FAudioDevice initialized.
+[2023.09.20-13.47.49:040][123]LogAudio: Display: Audio Device (ID: 7) registered with world 'Step2'.
+[2023.09.20-13.47.49:059][123]LogLoad: Game class is 'ABGameMode'
+[2023.09.20-13.47.49:060][123]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 60) at 2023.09.20-22.47.49
+[2023.09.20-13.47.49:061][123]LogWorld: Bringing up level for play took: 0.002438
+[2023.09.20-13.47.49:065][123]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2023.09.20-13.47.49:065][123]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(9)
+[2023.09.20-13.47.49:066][123]ArenaBattle: Warning: AABGameMode::PostLogin(19) PostLogin
+[2023.09.20-13.47.49:067][123]ArenaBattle: Warning: AABPlayerController::OnPossess(14)
+[2023.09.20-13.47.49:068][123]ArenaBattle: Warning: AABGameMode::PostLogin(21) PostLogin End
+[2023.09.20-13.47.49:068][123]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.09.20-13.47.49:068][123]PIE: 서버가 로그인했습니다.
+[2023.09.20-13.47.49:069][123]PIE: 에디터에서 플레이 총 시작 시간 0.262초입니다.
+[2023.09.20-13.47.50:023][171]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.09.20-13.47.50:254][185]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.09.20-13.47.50:588][205]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.09.20-13.47.50:588][205]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_b4d627496fa35b8871d42385ceef7843>::operator ()(197) OnNextAttackCheck
+[2023.09.20-13.47.53:158][359]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.09.20-13.47.53:388][373]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.09.20-13.47.53:388][373]ArenaBattle: Warning: AABCharacter::AttackCheck(425) Hit Actor Name : ABCharacter_1
+[2023.09.20-13.47.53:388][373]ArenaBattle: Warning: AABCharacter::TakeDamage(220) Actor : ABCharacter_1 took Damage : 50.000000
+[2023.09.20-13.47.53:720][393]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.09.20-13.47.53:720][393]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_b4d627496fa35b8871d42385ceef7843>::operator ()(197) OnNextAttackCheck
+[2023.09.20-13.47.54:057][413]ArenaBattle: Warning: AABCharacter::Attack(349) IsAttacking
+[2023.09.20-13.47.54:524][441]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.09.20-13.47.54:754][455]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.09.20-13.47.54:755][455]ArenaBattle: Warning: AABCharacter::AttackCheck(425) Hit Actor Name : ABCharacter_1
+[2023.09.20-13.47.54:755][455]ArenaBattle: Warning: AABCharacter::TakeDamage(220) Actor : ABCharacter_1 took Damage : 50.000000
+[2023.09.20-13.47.55:088][475]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.09.20-13.47.55:088][475]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_b4d627496fa35b8871d42385ceef7843>::operator ()(197) OnNextAttackCheck
+[2023.09.20-13.47.55:590][505]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.09.20-13.47.55:822][519]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.09.20-13.47.55:822][519]ArenaBattle: Warning: AABCharacter::AttackCheck(425) Hit Actor Name : ABCharacter_1
+[2023.09.20-13.47.55:822][519]ArenaBattle: Warning: AABCharacter::TakeDamage(220) Actor : ABCharacter_1 took Damage : 50.000000
+[2023.09.20-13.47.56:155][539]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.09.20-13.47.56:155][539]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_b4d627496fa35b8871d42385ceef7843>::operator ()(197) OnNextAttackCheck
+[2023.09.20-13.47.57:123][597]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.09.20-13.47.57:355][611]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.09.20-13.47.57:355][611]ArenaBattle: Warning: AABCharacter::AttackCheck(425) Hit Actor Name : ABCharacter_1
+[2023.09.20-13.47.57:355][611]ArenaBattle: Warning: AABCharacter::TakeDamage(220) Actor : ABCharacter_1 took Damage : 50.000000
+[2023.09.20-13.47.57:689][631]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.09.20-13.47.57:689][631]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_b4d627496fa35b8871d42385ceef7843>::operator ()(197) OnNextAttackCheck
+[2023.09.20-13.48.04:019][984]LogViewport: Scene viewport resized to 449x195, mode Windowed.
+[2023.09.20-13.48.23:304][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.20-13.48.23:304][ 72]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2023.09.20-13.48.23:304][ 72]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2023.09.20-13.48.23:304][ 72]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.20-13.48.23:325][ 72]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.20-13.48.23:333][ 72]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.20-13.48.23:380][ 72]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.20-13.48.23:380][ 72]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.09.20-13.48.23:383][ 72]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.09.20-13.48.23:390][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.20-13.48.23:396][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2023.09.20-13.48.23:646][ 73]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2023.09.20-13.48.23:650][ 73]LogViewport: Scene viewport resized to 449x195, mode Windowed.
+[2023.09.20-13.50.51:581][760]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2023.09.20-13.50.51:606][760]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Book/Maps/Step2_Auto2
+[2023.09.20-13.50.51:607][760]LogSavePackage: Moving '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Saved/Step2_Auto2B9FAF2014DB32857E38A00AE8331583B.tmp' to '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Saved/Autosaves/Game/Book/Maps/Step2_Auto2.umap'
+[2023.09.20-13.50.51:619][760]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Book/Maps/Step2' took 0.096
+[2023.09.20-13.50.51:620][760]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.096
+[2023.09.20-13.51.34:766][934]ArenaBattle: Error: UABCharacterStatComponent::SetNewLevel(49) ASSERTION : 'nullptr != ABGameInstance'
+[2023.09.20-13.51.37:679][ 43]LogViewport: Scene viewport resized to 1149x494, mode Windowed.
+[2023.09.20-13.51.37:721][ 44]LogViewport: Scene viewport resized to 1182x494, mode Windowed.
+[2023.09.20-13.51.37:781][ 44]LogViewport: Scene viewport resized to 453x195, mode Windowed.
+[2023.09.20-13.51.37:849][ 45]LogViewport: Scene viewport resized to 1230x494, mode Windowed.
+[2023.09.20-13.51.37:914][ 45]LogViewport: Scene viewport resized to 466x195, mode Windowed.
+[2023.09.20-13.51.37:977][ 46]LogViewport: Scene viewport resized to 1269x494, mode Windowed.
+[2023.09.20-13.51.38:034][ 46]LogViewport: Scene viewport resized to 485x195, mode Windowed.
+[2023.09.20-13.51.38:090][ 47]LogViewport: Scene viewport resized to 1300x494, mode Windowed.
+[2023.09.20-13.51.38:154][ 47]LogViewport: Scene viewport resized to 500x195, mode Windowed.
+[2023.09.20-13.51.38:220][ 48]LogViewport: Scene viewport resized to 513x195, mode Windowed.
+[2023.09.20-13.52.15:148][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Maps/Step2" FILE="../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Maps/Step2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.20-13.52.15:201][293]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2023.09.20-13.52.15:221][293]LogSavePackage: Moving output files for package: /Game/Book/Maps/Step2
+[2023.09.20-13.52.15:223][293]LogSavePackage: Moving '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Saved/Step233CF56D34E16324065488F8645AA6C9D.tmp' to '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Maps/Step2.umap'
+[2023.09.20-13.52.15:268][293]AssetCheck: New page: 에셋 저장:  Step2
+[2023.09.20-13.52.15:268][293]LogContentValidation: Display: World /Game/Book/Maps/Step2.Step2 유효성 검사 중
+[2023.09.20-13.52.42:745][494]LogContentBrowser: Deferred new asset folder creation: 새 폴더
+[2023.09.20-13.52.42:954][494]LogContentBrowser: Creating deferred item: 새 폴더
+[2023.09.20-13.52.42:970][495]LogContentBrowser: Renaming the item being created (Deferred Item: 새 폴더).
+[2023.09.20-13.52.45:132][586]LogContentBrowser: Attempting asset rename: 새 폴더 -> UI
+[2023.09.20-13.52.45:132][586]LogContentBrowser: End creating deferred item 새 폴더
+[2023.09.20-13.52.55:147][ 67]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.09.20-13.52.59:063][ 67]LogSlate: Window '새 위젯 블루프린트의 루트 위젯 선택' being destroyed
+[2023.09.20-13.52.59:089][ 67]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.09.20-13.52.59:096][ 67]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.09.20-13.52.59:142][ 69]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.09.20-13.53.10:388][534]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> UI_HPBar
+[2023.09.20-13.53.10:408][534]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.09.20-13.54.09:251][ 23]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Book/UI/UI_HPBar.UI_HPBar
+[2023.09.20-13.54.09:260][ 23]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.20-13.54.09:292][ 23]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.20-13.54.09:301][ 23]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+스페이스 바]
+[2023.09.20-13.54.10:313][ 23]LogSlateStyle: Warning: 'None' 슬레이트 위젯 스타일을 찾을 수 없습니다. 대신 FToolbarStyle 디폴트를 사용합니다.
+[2023.09.20-13.54.10:313][ 23]LogSlateStyle: Warning: 'None' 슬레이트 위젯 스타일을 찾을 수 없습니다. 대신 FToolbarStyle 디폴트를 사용합니다.
+[2023.09.20-13.54.10:594][ 23]LogSlateStyle: Warning: 'CoreStyle' 스타일의 리소스 누락: ''Foreground' 슬레이트 컬러를 찾을 수 없습니다.'
+[2023.09.20-14.08.03:177][639]LogSlate: Window '색 선택 툴' being destroyed
+[2023.09.20-14.08.23:199][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/UI/UI_HPBar" FILE="../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/UI/UI_HPBar.uasset" SILENT=true
+[2023.09.20-14.08.23:215][267]LogSavePackage: Moving output files for package: /Game/Book/UI/UI_HPBar
+[2023.09.20-14.08.23:215][267]LogSavePackage: Moving '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Saved/UI_HPBar9405C691455CD64D70A3FFA28ABFCCF2.tmp' to '../../../../../../Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/UI/UI_HPBar.uasset'
+[2023.09.20-14.08.23:256][267]AssetCheck: New page: 에셋 저장:  UI_HPBar
+[2023.09.20-14.08.23:256][267]LogContentValidation: Display: WidgetBlueprint /Game/Book/UI/UI_HPBar.UI_HPBar 유효성 검사 중
+[2023.09.20-14.08.23:519][277]BlueprintLog: New page: UI_HPBar 컴파일
+[2023.09.20-14.08.23:721][277]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2023.09.20-14.08.27:121][383]LogSlate: Window 'UI_HPBar' being destroyed
+[2023.09.20-14.08.27:136][383]LogSlate: Window 'UI_HPBar' being destroyed
+[2023.09.20-14.08.27:153][383]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.09.20-14.08.27:153][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.20-14.08.27:179][383]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.09.20-14.08.27:179][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.20-14.08.41:270][852]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Book/UI/UI_HPBar.UI_HPBar
+[2023.09.20-14.08.41:271][852]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.20-14.08.41:311][852]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.20-14.08.42:325][852]LogSlateStyle: Warning: 'None' 슬레이트 위젯 스타일을 찾을 수 없습니다. 대신 FToolbarStyle 디폴트를 사용합니다.
+[2023.09.20-14.08.42:325][852]LogSlateStyle: Warning: 'None' 슬레이트 위젯 스타일을 찾을 수 없습니다. 대신 FToolbarStyle 디폴트를 사용합니다.
+[2023.09.20-14.08.46:380][972]LogSlate: Window 'UI_HPBar' being destroyed
+[2023.09.20-14.08.46:396][972]LogSlate: Window 'UI_HPBar' being destroyed
+[2023.09.20-14.08.46:408][972]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.09.20-14.08.46:408][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.20-14.08.46:436][972]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.09.20-14.08.46:436][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.20-14.10.24:165][514]LogVSAccessor: Warning: Couldn't save all documents
+[2023.09.20-14.10.24:205][514]Candidate modules for hot reload:
+[2023.09.20-14.10.24:205][514]  ArenaBattle
+[2023.09.20-14.10.24:220][514]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe  -ModuleWithSuffix=ArenaBattle,6903 ArenaBattleEditor Win64 Development -Project="C:/Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/ArenaBattle.uproject" "C:/Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/ArenaBattle.uproject"  -IgnoreJunk]
+[2023.09.20-14.10.24:230][514]Warning: Starting HotReload took  0.1s.
+[2023.09.20-14.10.58:354][473]CompilerResultsLog: New page: 컴파일 - 2023. 9. 21. 오전 8:10:58
+[2023.09.20-14.10.58:354][473]CompilerResultsLog: Log file: C:\Users\Moon\AppData\Local\UnrealBuildTool\Log.txt
+[2023.09.20-14.10.58:354][473]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Moon\Documents\GitHub\ArenaBattle).
+[2023.09.20-14.10.58:354][473]CompilerResultsLog: Invalidating makefile for ArenaBattleEditor (ArenaBattle.Build.cs modified)
+[2023.09.20-14.10.58:354][473]CompilerResultsLog: Parsing headers for ArenaBattleEditor
+[2023.09.20-14.10.58:354][473]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\ArenaBattle.uproject" "C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\ArenaBattleEditor\Development\ArenaBattleEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Moon\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2023.09.20-14.10.58:355][473]CompilerResultsLog: Reflection code generated for ArenaBattleEditor in 6.5432718 seconds
+[2023.09.20-14.10.58:355][473]CompilerResultsLog: Building ArenaBattleEditor...
+[2023.09.20-14.10.58:355][473]CompilerResultsLog: Using Visual Studio 2019 14.29.30151 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.09.20-14.10.58:355][473]CompilerResultsLog: [Adaptive Build] Excluded from ArenaBattle unity file: ABCharacter.cpp
+[2023.09.20-14.10.58:355][473]CompilerResultsLog: Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+[2023.09.20-14.10.58:355][473]CompilerResultsLog:   Executing up to 8 processes, one per physical core
+[2023.09.20-14.10.58:355][473]CompilerResultsLog: Building 8 actions with 8 processes...
+[2023.09.20-14.10.58:355][473]CompilerResultsLog: [1/8] Compile ArenaBattle.init.gen.cpp
+[2023.09.20-14.10.58:355][473]CompilerResultsLog: [2/8] Compile ABGameMode.cpp
+[2023.09.20-14.10.58:355][473]CompilerResultsLog: [3/8] Compile ABCharacter.gen.cpp
+[2023.09.20-14.10.58:355][473]CompilerResultsLog: [4/8] Compile ABCharacter.cpp
+[2023.09.20-14.10.58:355][473]CompilerResultsLog: [5/8] Compile ABItemBox.cpp
+[2023.09.20-14.10.58:355][473]CompilerResultsLog: [6/8] Link UnrealEditor-ArenaBattle-6903.lib
+[2023.09.20-14.10.58:355][473]CompilerResultsLog:    C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-6903.lib ???̺귯?? ?? C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-6903.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.09.20-14.10.58:355][473]CompilerResultsLog: [7/8] Link UnrealEditor-ArenaBattle-6903.dll
+[2023.09.20-14.10.58:355][473]CompilerResultsLog:    C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-6903.suppressed.lib ???̺귯?? ?? C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-6903.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.09.20-14.10.58:355][473]CompilerResultsLog: [8/8] WriteMetadata ArenaBattleEditor.target
+[2023.09.20-14.10.58:355][473]CompilerResultsLog: Total time in Parallel executor: 18.15 seconds
+[2023.09.20-14.10.58:355][473]CompilerResultsLog: Total execution time: 33.84 seconds
+[2023.09.20-14.10.58:355][473]LogMainFrame: MainFrame: Module compiling took 34.189 seconds
+[2023.09.20-14.10.58:739][473]LogClass: /Script/ArenaBattle Reload.
+[2023.09.20-14.10.58:739][473]LogClass: ABCharacter Reload.
+[2023.09.20-14.10.58:743][473]LogClass: Could not find existing class ABCharacter in package /Script/ArenaBattle for reload, assuming new or modified class
+[2023.09.20-14.10.58:743][473]LogClass: Function OnAttackMontageEnded is new or belongs to a modified class.
+[2023.09.20-14.10.58:838][473]Re-instancing ABCharacter after reload.
+[2023.09.20-14.10.59:422][473]Display: HotReload took 35.3s.
+[2023.09.20-14.10.59:423][473]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed, 9 classes unchanged, 1 scriptstruct unchanged, 4 functions remapped, 1 scriptstruct remapped
+[2023.09.20-14.11.00:468][474]LogViewport: Scene viewport resized to 513x195, mode Windowed.
+[2023.09.20-14.20.14:758][508]LogVSAccessor: Warning: Couldn't save all documents
+[2023.09.20-14.20.14:804][508]Candidate modules for hot reload:
+[2023.09.20-14.20.14:804][508]  ArenaBattle
+[2023.09.20-14.20.14:819][508]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe  -ModuleWithSuffix=ArenaBattle,5252 ArenaBattleEditor Win64 Development -Project="C:/Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/ArenaBattle.uproject" "C:/Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/ArenaBattle.uproject"  -IgnoreJunk]
+[2023.09.20-14.20.14:827][508]Warning: Starting HotReload took  0.1s.
+[2023.09.20-14.20.20:385][677]CompilerResultsLog: New page: 컴파일 - 2023. 9. 21. 오전 8:20:20
+[2023.09.20-14.20.20:385][677]CompilerResultsLog: Log file: C:\Users\Moon\AppData\Local\UnrealBuildTool\Log.txt
+[2023.09.20-14.20.20:385][677]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Moon\Documents\GitHub\ArenaBattle).
+[2023.09.20-14.20.20:385][677]CompilerResultsLog: Building ArenaBattleEditor...
+[2023.09.20-14.20.20:385][677]CompilerResultsLog: Using Visual Studio 2019 14.29.30151 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.09.20-14.20.20:385][677]CompilerResultsLog: [Adaptive Build] Excluded from ArenaBattle unity file: ABCharacter.cpp
+[2023.09.20-14.20.20:386][677]CompilerResultsLog: Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+[2023.09.20-14.20.20:386][677]CompilerResultsLog:   Executing up to 8 processes, one per physical core
+[2023.09.20-14.20.20:386][677]CompilerResultsLog: Building 3 actions with 3 processes...
+[2023.09.20-14.20.20:386][677]CompilerResultsLog: [1/3] Link UnrealEditor-ArenaBattle-5252.lib
+[2023.09.20-14.20.20:386][677]CompilerResultsLog:    C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-5252.lib ???̺귯?? ?? C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-5252.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.09.20-14.20.20:386][677]CompilerResultsLog: [2/3] Link UnrealEditor-ArenaBattle-5252.dll
+[2023.09.20-14.20.20:386][677]CompilerResultsLog:    C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-5252.suppressed.lib ???̺귯?? ?? C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-5252.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.09.20-14.20.20:386][677]CompilerResultsLog: [3/3] WriteMetadata ArenaBattleEditor.target
+[2023.09.20-14.20.20:386][677]CompilerResultsLog: Total time in Parallel executor: 2.67 seconds
+[2023.09.20-14.20.20:386][677]CompilerResultsLog: Total execution time: 5.29 seconds
+[2023.09.20-14.20.20:386][677]LogMainFrame: MainFrame: Module compiling took 5.626 seconds
+[2023.09.20-14.20.20:920][677]Re-instancing ABCharacter after reload.
+[2023.09.20-14.20.21:928][677]Display: HotReload took  7.2s.
+[2023.09.20-14.20.21:928][677]Display: Reload/Re-instancing Complete: 1 package changed, 10 classes unchanged, 1 scriptstruct unchanged, 5 functions remapped, 1 scriptstruct remapped
+[2023.09.20-14.20.23:030][678]LogViewport: Scene viewport resized to 513x195, mode Windowed.
+[2023.09.20-14.21.59:226][  9]LogVSAccessor: Warning: Couldn't save all documents
+[2023.09.20-14.21.59:271][  9]Candidate modules for hot reload:
+[2023.09.20-14.21.59:271][  9]  ArenaBattle
+[2023.09.20-14.21.59:287][  9]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe  -ModuleWithSuffix=ArenaBattle,3361 ArenaBattleEditor Win64 Development -Project="C:/Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/ArenaBattle.uproject" "C:/Users/Moon/Documents/GitHub/ArenaBattle/ArenaBattle/ArenaBattle.uproject"  -IgnoreJunk]
+[2023.09.20-14.21.59:294][  9]Warning: Starting HotReload took  0.1s.
+[2023.09.20-14.22.32:915][939]CompilerResultsLog: New page: 컴파일 - 2023. 9. 21. 오전 8:22:32
+[2023.09.20-14.22.32:915][939]CompilerResultsLog: Log file: C:\Users\Moon\AppData\Local\UnrealBuildTool\Log.txt
+[2023.09.20-14.22.32:915][939]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Moon\Documents\GitHub\ArenaBattle).
+[2023.09.20-14.22.32:915][939]CompilerResultsLog: Building ArenaBattleEditor...
+[2023.09.20-14.22.32:915][939]CompilerResultsLog: Using Visual Studio 2019 14.29.30151 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.09.20-14.22.32:915][939]CompilerResultsLog: [Adaptive Build] Excluded from ArenaBattle unity file: ABCharacter.cpp
+[2023.09.20-14.22.32:915][939]CompilerResultsLog: Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+[2023.09.20-14.22.32:915][939]CompilerResultsLog:   Executing up to 8 processes, one per physical core
+[2023.09.20-14.22.32:915][939]CompilerResultsLog: Building 4 actions with 4 processes...
+[2023.09.20-14.22.32:915][939]CompilerResultsLog: [1/4] Compile ABCharacter.cpp
+[2023.09.20-14.22.32:915][939]CompilerResultsLog: [2/4] Link UnrealEditor-ArenaBattle-3361.lib
+[2023.09.20-14.22.32:915][939]CompilerResultsLog:    C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-3361.lib ???̺귯?? ?? C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-3361.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.09.20-14.22.32:915][939]CompilerResultsLog: [3/4] Link UnrealEditor-ArenaBattle-3361.dll
+[2023.09.20-14.22.32:915][939]CompilerResultsLog:    C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-3361.suppressed.lib ???̺귯?? ?? C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-3361.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.09.20-14.22.32:915][939]CompilerResultsLog: [4/4] WriteMetadata ArenaBattleEditor.target
+[2023.09.20-14.22.32:915][939]CompilerResultsLog: Total time in Parallel executor: 30.68 seconds
+[2023.09.20-14.22.32:915][939]CompilerResultsLog: Total execution time: 33.35 seconds
+[2023.09.20-14.22.32:915][939]LogMainFrame: MainFrame: Module compiling took 33.688 seconds
+[2023.09.20-14.22.33:472][939]Re-instancing ABCharacter after reload.
+[2023.09.20-14.22.34:629][939]Display: HotReload took 35.4s.
+[2023.09.20-14.22.34:629][939]Display: Reload/Re-instancing Complete: 1 package changed, 10 classes unchanged, 1 scriptstruct unchanged, 5 functions remapped, 1 scriptstruct remapped
+[2023.09.20-14.22.35:782][940]LogViewport: Scene viewport resized to 513x195, mode Windowed.
+[2023.09.20-14.23.02:612][833]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2023.09.20-14.23.02:629][833]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.20-14.23.02:629][833]PIE: New page: PIE 세션: Step2 (2023. 9. 21. 오전 8:23:02)
+[2023.09.20-14.23.02:630][833]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2023.09.20-14.23.02:634][833]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004782s)
+[2023.09.20-14.23.02:635][833]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.004951s)
+[2023.09.20-14.23.02:635][833]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.09.20-14.23.02:635][833]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.20-14.23.02:636][833]LogAIModule: Creating AISystem for world Step2
+[2023.09.20-14.23.02:636][833]LogPlayLevel: PIE: World Init took: (0.001656s)
+[2023.09.20-14.23.03:075][833]LogUObjectHash: Compacting FUObjectHashTables data took   7.55ms
+[2023.09.20-14.23.03:080][833]ArenaBattle: Warning: UABGameInstance::Init(18) DropExp of Level 20 ABCharacter : 105
+[2023.09.20-14.23.03:080][833]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.09.20-14.23.03:080][833]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.20-14.23.03:080][833]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.20-14.23.03:080][833]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.20-14.23.03:080][833]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.20-14.23.03:080][833]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.20-14.23.03:080][833]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.20-14.23.03:080][833]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.20-14.23.03:080][833]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.20-14.23.03:082][833]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.20-14.23.03:082][833]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.20-14.23.03:082][833]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.20-14.23.03:086][833]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.20-14.23.03:165][833]LogAudioMixer: Display: Using Audio Hardware Device Audio(THX Spatial Audio)
+[2023.09.20-14.23.03:165][833]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.20-14.23.03:165][833]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.20-14.23.03:165][833]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.20-14.23.03:166][833]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.09.20-14.23.03:166][833]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2023.09.20-14.23.03:169][833]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.09.20-14.23.03:169][833]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2023.09.20-14.23.03:170][833]LogInit: FAudioDevice initialized.
+[2023.09.20-14.23.03:170][833]LogAudio: Display: Audio Device (ID: 8) registered with world 'Step2'.
+[2023.09.20-14.23.03:193][833]LogLoad: Game class is 'ABGameMode'
+[2023.09.20-14.23.03:195][833]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 60) at 2023.09.20-23.23.03
+[2023.09.20-14.23.03:197][833]LogWorld: Bringing up level for play took: 0.002822
+[2023.09.20-14.23.03:200][833]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2023.09.20-14.23.03:200][833]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(9)
+[2023.09.20-14.23.03:201][833]ArenaBattle: Warning: AABGameMode::PostLogin(19) PostLogin
+[2023.09.20-14.23.03:202][833]ArenaBattle: Warning: AABPlayerController::OnPossess(14)
+[2023.09.20-14.23.03:202][833]ArenaBattle: Warning: AABGameMode::PostLogin(21) PostLogin End
+[2023.09.20-14.23.03:203][833]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.09.20-14.23.03:203][833]PIE: 서버가 로그인했습니다.
+[2023.09.20-14.23.03:205][833]PIE: 에디터에서 플레이 총 시작 시간 0.576초입니다.
+[2023.09.20-14.23.05:959][983]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.20-14.23.05:960][983]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2023.09.20-14.23.05:960][983]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2023.09.20-14.23.05:960][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.20-14.23.05:979][983]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.20-14.23.05:991][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.20-14.23.08:639][983]LogSlate: Window '메시지' being destroyed
+[2023.09.20-14.23.08:695][983]Message dialog closed, result: Ok, title: 메시지, text: 앱 실행 도중 pure virtual 함수가 호출되고 있었습니다 (GIsRunning == 1).
+[2023.09.20-14.23.08:696][983]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.09.20-14.23.08:697][983]LogWindows: Windows GetLastError: 작업을 완료했습니다. (0)
