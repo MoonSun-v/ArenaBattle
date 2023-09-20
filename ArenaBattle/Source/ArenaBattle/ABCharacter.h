@@ -52,8 +52,8 @@ public:
 
 	void SetWeapon(class AABWeapon* NewWeapon);
 
-	// UPROPERTY(VisibleAnywhere, Category = Weapon)
-	// USkeletalMeshComponent* Weapon;
+	UPROPERTY(VisibleAnywhere, Category = Weapon)
+	USkeletalMeshComponent* Weapon;
 
 	UPROPERTY(VisibleAnywhere, Category = Camera)
 	USpringArmComponent* SpringArm;
@@ -63,12 +63,6 @@ public:
 
 	UPROPERTY(VisibleAnywhere, Category = Weapon)
 	class AABWeapon* CurrentWeapon;
-
-	UPROPERTY(VisibleAnywhere, Category = Stat)
-	class UABCharacterStatComponent* CharacterStat;
-
-	UPROPERTY(VisibleAnywhere, Category = UI)
-	class UWidgetComponent* HPBarWidget;
 
 
 private:
