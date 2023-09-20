@@ -209,7 +209,9 @@
             "c:\\users\\moon\\documents\\github\\arenabattle\\arenabattle\\source\\arenabattle\\abaniminstance.h",
             "c:\\users\\moon\\documents\\github\\arenabattle\\arenabattle\\intermediate\\build\\win64\\unrealeditor\\inc\\arenabattle\\abaniminstance.generated.h",
             "c:\\users\\moon\\documents\\github\\arenabattle\\arenabattle\\source\\arenabattle\\abweapon.h",
-            "c:\\users\\moon\\documents\\github\\arenabattle\\arenabattle\\intermediate\\build\\win64\\unrealeditor\\inc\\arenabattle\\abweapon.generated.h"
+            "c:\\users\\moon\\documents\\github\\arenabattle\\arenabattle\\intermediate\\build\\win64\\unrealeditor\\inc\\arenabattle\\abweapon.generated.h",
+            "c:\\users\\moon\\documents\\github\\arenabattle\\arenabattle\\source\\arenabattle\\abcharacterstatcomponent.h",
+            "c:\\users\\moon\\documents\\github\\arenabattle\\arenabattle\\intermediate\\build\\win64\\unrealeditor\\inc\\arenabattle\\abcharacterstatcomponent.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
