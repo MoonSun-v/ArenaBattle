@@ -17,13 +17,13 @@ void EmptyLinkFunctionForGeneratedCodeArenaBattle_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xEFC2D1A7,
-				0x1A148C9E,
+				0x7B336497,
+				0x6368974B,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UECodeGen_Private::ConstructUPackage(Z_Registration_Info_UPackage__Script_ArenaBattle.OuterSingleton, PackageParams);
 		}
 		return Z_Registration_Info_UPackage__Script_ArenaBattle.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_ArenaBattle(Z_Construct_UPackage__Script_ArenaBattle, TEXT("/Script/ArenaBattle"), Z_Registration_Info_UPackage__Script_ArenaBattle, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xEFC2D1A7, 0x1A148C9E));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_ArenaBattle(Z_Construct_UPackage__Script_ArenaBattle, TEXT("/Script/ArenaBattle"), Z_Registration_Info_UPackage__Script_ArenaBattle, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x7B336497, 0x6368974B));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
