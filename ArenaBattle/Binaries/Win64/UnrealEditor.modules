@@ -2,6 +2,7 @@
 	"BuildId": "19505902",
 	"Modules": 
 	{
-		"ArenaBattle": "UnrealEditor-ArenaBattle-1642.dll"
+		"ArenaBattle": "UnrealEditor-ArenaBattle-0003.dll",
+		"ArenaBattleSetting": "UnrealEditor-ArenaBattleSetting-0084.dll"
 	}
 }

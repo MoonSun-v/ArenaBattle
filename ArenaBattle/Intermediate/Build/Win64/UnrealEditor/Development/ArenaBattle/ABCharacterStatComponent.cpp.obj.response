@@ -1,5 +1,6 @@
-C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Source\ArenaBattle\ABCharacterStatComponent.cpp
+C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Source\ArenaBattle\Private\ABCharacterStatComponent.cpp
 /I .
+/I C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Source\ArenaBattle\Private
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\Engine
 /I Runtime
 /I ..\Shaders\Shared
@@ -251,8 +252,11 @@ C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Source\ArenaBattle\ABChar
 /I Runtime\ClothingSystemRuntimeInterface\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationDataController
 /I Developer\AnimationDataController\Public
-/I C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Inc\ArenaBattle
+/I C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Inc\ArenaBattleSetting
 /I C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Source
+/I C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Source\ArenaBattleSetting\Public
+/I C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Inc\ArenaBattle
+/I C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Source\ArenaBattle\Public
 /I ThirdParty\mimalloc\include
 /I ThirdParty\LibTiff\Source\Win64
 /I ThirdParty\LibTiff\Source
