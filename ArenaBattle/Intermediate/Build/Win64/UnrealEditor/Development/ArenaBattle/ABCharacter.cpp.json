@@ -380,7 +380,20 @@
             "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\public\\visuallogger\\visualloggerdebugsnapshotinterface.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\visualloggerdebugsnapshotinterface.generated.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\aimodule\\aicontroller.generated.h",
-            "c:\\users\\moon\\documents\\github\\arenabattle\\arenabattle\\intermediate\\build\\win64\\unrealeditor\\inc\\arenabattle\\abaicontroller.generated.h"
+            "c:\\users\\moon\\documents\\github\\arenabattle\\arenabattle\\intermediate\\build\\win64\\unrealeditor\\inc\\arenabattle\\abaicontroller.generated.h",
+            "c:\\users\\moon\\documents\\github\\arenabattle\\arenabattle\\source\\arenabattlesetting\\public\\abcharactersetting.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "c:\\users\\moon\\documents\\github\\arenabattle\\arenabattle\\intermediate\\build\\win64\\unrealeditor\\inc\\arenabattlesetting\\abcharactersetting.generated.h",
+            "c:\\users\\moon\\documents\\github\\arenabattle\\arenabattle\\source\\arenabattle\\public\\abgameinstance.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\datatable.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\public\\datatableutils.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\datatable.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\streamablemanager.h",
+            "c:\\users\\moon\\documents\\github\\arenabattle\\arenabattle\\intermediate\\build\\win64\\unrealeditor\\inc\\arenabattle\\abgameinstance.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

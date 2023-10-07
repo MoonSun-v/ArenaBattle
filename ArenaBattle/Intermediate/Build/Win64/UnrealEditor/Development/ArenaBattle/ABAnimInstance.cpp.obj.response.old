@@ -252,6 +252,7 @@ C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Source\ArenaBattle\Privat
 /I Runtime\ClothingSystemRuntimeInterface\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationDataController
 /I Developer\AnimationDataController\Public
+/I C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Inc\ArenaBattleSetting
 /I C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Source
 /I C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Source\ArenaBattleSetting\Public
 /I C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Inc\ArenaBattle
