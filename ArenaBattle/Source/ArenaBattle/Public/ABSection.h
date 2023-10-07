@@ -63,4 +63,13 @@ private:
 
 	UPROPERTY(EditAnywhere, Category = State, Meta = (AllowPrivateAccess = true))
 	bool bNoBattle;
+
+	UPROPERTY(EditAnywhere, Category = Spawn, Meta = (AllowPrivateAccess = true))
+	float EnemySpawnTime;
+
+	UPROPERTY(EditAnywhere, Category = Spawn, Meta = (AllowPrivateAccess = true))
+	float ItemBoxSpawnTime;
+
+	FTimerHandle SpawnNPCTimerHandle = { };
+	FTimerHandle SpawnItemBoxTimerHandle = { };
 };

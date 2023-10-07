@@ -205,7 +205,11 @@
             "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gameplaystaticstypes.generated.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gameplaystatics.generated.h",
-            "c:\\users\\moon\\documents\\github\\arenabattle\\arenabattle\\intermediate\\build\\win64\\unrealeditor\\inc\\arenabattle\\absection.generated.h"
+            "c:\\users\\moon\\documents\\github\\arenabattle\\arenabattle\\intermediate\\build\\win64\\unrealeditor\\inc\\arenabattle\\absection.generated.h",
+            "c:\\users\\moon\\documents\\github\\arenabattle\\arenabattle\\source\\arenabattle\\public\\abcharacter.h",
+            "c:\\users\\moon\\documents\\github\\arenabattle\\arenabattle\\intermediate\\build\\win64\\unrealeditor\\inc\\arenabattle\\abcharacter.generated.h",
+            "c:\\users\\moon\\documents\\github\\arenabattle\\arenabattle\\source\\arenabattle\\public\\abitembox.h",
+            "c:\\users\\moon\\documents\\github\\arenabattle\\arenabattle\\intermediate\\build\\win64\\unrealeditor\\inc\\arenabattle\\abitembox.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
