@@ -8,10 +8,11 @@ C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Source\ArenaBattle\Public
 C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Source\ArenaBattle\Public\ABItemBox.h
 C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Source\ArenaBattle\Public\ABPawn.h
 C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Source\ArenaBattle\Public\ABPlayerController.h
+C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Source\ArenaBattle\Public\ABSection.h
 C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Source\ArenaBattle\Public\ABWeapon.h
 C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Source\ArenaBattle\Public\BTDecorator_IsInAttackRange.h
 C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Source\ArenaBattle\Public\BTService_Detect.h
 C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Source\ArenaBattle\Public\BTTask_Attack.h
+C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Source\ArenaBattle\Public\BTTask_FindPatrolPos.h
 C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Source\ArenaBattle\Public\BTTask_TurnToTarget.h
 C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Source\ArenaBattle\Public\Fountain.h
-C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Source\ArenaBattle\Public\BTTask_FindPatrolPos.h
