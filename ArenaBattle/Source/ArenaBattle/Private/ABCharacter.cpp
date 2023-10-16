@@ -11,6 +11,7 @@
 #include "ABAIController.h"
 #include "ABCharacterSetting.h"
 #include "ABGameInstance.h"
+#include "ABPlayerController.h"
 
 // Sets default values
 AABCharacter::AABCharacter()
@@ -61,12 +62,12 @@ AABCharacter::AABCharacter()
 	*/
 
 	// 삼인칭 컨트롤 구현 : GTA 방식 , DIABLO 방식
-	SetControlMode(// EControlMode::GTA);
-		EControlMode::DIABLO);
+	// SetControlMode(// EControlMode::GTA);
+	//  	EControlMode::DIABLO);
 
 	ArmLengthSpeed = 3.0f;
 	ArmRotationSpeed = 10.0f;
-	GetCharacterMovement()->JumpZVelocity = 800.0f;
+	// GetCharacterMovement()->JumpZVelocity = 800.0f;
 
 	IsAttacking = false;
 
@@ -101,6 +102,17 @@ AABCharacter::AABCharacter()
 		}
 	}
 	*/
+
+	AssetIndex = 4;
+
+	// ?
+	Super::SetActorHiddenInGame(true);
+	//SetActorHiddenInGame(true);
+
+	HPBarWidget->SetHiddenInGame(true);
+	SetCanBeDamaged(false);
+
+	DeadTimer = 5.0f;
 }
 
 // Called when the game starts or when spawned
@@ -118,6 +130,7 @@ void AABCharacter::BeginPlay()
 	}
 	*/
 
+	/*
 	auto CharacterWidget = Cast<UABCharacterWidget>(HPBarWidget->GetUserWidgetObject());
 	if (nullptr != CharacterWidget)
 	{
@@ -136,6 +149,132 @@ void AABCharacter::BeginPlay()
 			AssetStreamingHandle = ABGameInstance->StreamableManager.RequestAsyncLoad(CharacterAssetToLoad, FStreamableDelegate::CreateUObject(this, &AABCharacter::OnAssetLoadCompleted));
 		}
 	}
+	*/
+
+	bIsPlayer = IsPlayerControlled();
+	if (bIsPlayer)
+	{
+		ABPlayerController = Cast<AABPlayerController>(GetController());
+		ABCHECK(nullptr != ABPlayerController);
+	}
+	else
+	{
+		ABAIController = Cast<AABAIController>(GetController());
+		ABCHECK(nullptr != ABAIController);
+	}
+
+	auto DefaultSetting = GetDefault<UABCharacterSetting>();
+	if (bIsPlayer)
+	{
+		AssetIndex = 4;
+	}
+	else
+	{
+		AssetIndex = FMath::RandRange(0, DefaultSetting->CharacterAssets.Num() - 1);
+	}
+
+	CharacterAssetToLoad = DefaultSetting->CharacterAssets[AssetIndex];
+	auto ABGameInstance = Cast<UABGameInstance>(GetGameInstance());
+	ABCHECK(nullptr != ABGameInstance);
+	AssetStreamingHandle = ABGameInstance->StreamableManager.RequestAsyncLoad(
+		CharacterAssetToLoad, FStreamableDelegate::CreateUObject(this, &AABCharacter::OnAssetLoadCompleted));
+	SetCharacterState(ECharacterState::LOADING);
+}
+
+void AABCharacter::SetCharacterState(ECharacterState NewState)
+{
+	ABCHECK(CurrentState != NewState);
+	CurrentState = NewState;
+
+	switch (CurrentState)
+	{
+	case ECharacterState::LOADING:
+	{		
+		if (bIsPlayer)
+		{
+			DisableInput(ABPlayerController);
+
+			// ABPlayerController->GetHUDWidget()->BindCharacterStat(CharacterStat);
+
+			// auto ABPlayerState = Cast<AABPlayerState>(PlayerState);
+			// ABCHECK(nullptr != ABPlayerState);
+			// CharacterStat->SetNewLevel(ABPlayerState->GetCharacterLevel());
+		}
+
+		SetActorHiddenInGame(true);
+		HPBarWidget->SetHiddenInGame(true);
+		SetCanBeDamaged(false);
+		break;
+	}
+	case ECharacterState::READY:
+	{
+		SetActorHiddenInGame(false);
+		HPBarWidget->SetHiddenInGame(false);
+		SetCanBeDamaged(true);
+
+		CharacterStat->OnHPIsZero.AddLambda([this]() -> void
+			{
+				SetCharacterState(ECharacterState::DEAD);
+			});
+
+		auto CharacterWidget = Cast<UABCharacterWidget>(HPBarWidget->GetUserWidgetObject());
+		ABCHECK(nullptr != CharacterWidget);
+		CharacterWidget->BindCharacterStat(CharacterStat);
+
+		if (bIsPlayer)
+		{
+			SetControlMode(EControlMode::DIABLO);
+			GetCharacterMovement()->MaxWalkSpeed = 600.0f;
+			EnableInput(ABPlayerController);
+		}
+		else
+		{
+			SetControlMode(EControlMode::NPC);
+			GetCharacterMovement()->MaxWalkSpeed = 400.0f;
+			ABAIController->RunAI();
+		}
+
+		break;
+	}
+	case ECharacterState::DEAD:
+	{
+		SetActorEnableCollision(false);
+		GetMesh()->SetHiddenInGame(false);
+		HPBarWidget->SetHiddenInGame(true);
+		ABAnim->SetDeadAnim();
+		SetCanBeDamaged(false);
+		
+		if (bIsPlayer)
+		{
+			DisableInput(ABPlayerController);
+		}
+		else
+		{
+			ABAIController->StopAI();
+		}
+
+		GetWorld()->GetTimerManager().SetTimer(DeadTimerHandle, FTimerDelegate::CreateLambda([this]() -> void
+			{
+				if (bIsPlayer)
+				{
+					ABLOG(Warning, TEXT("Player Dead"));
+					ABPlayerController->RestartLevel();
+				}
+				else
+				{
+					ABLOG(Warning, TEXT("Enemy Dead"));
+					Destroy();
+				}
+			}), DeadTimer, false);
+
+		break;
+	}
+	}
+}
+
+ECharacterState AABCharacter::GetCharacterState() const
+{
+	return CurrentState;
 }
 
 // 삼인칭 컨트롤 구현 : GTA 방식
@@ -215,7 +354,7 @@ void AABCharacter::Tick(float DeltaTime)
 	Super::Tick(DeltaTime);
 
 	SpringArm->TargetArmLength = FMath::FInterpTo(SpringArm->TargetArmLength, ArmLengthTo, DeltaTime, ArmLengthSpeed);
-
+	/*
 	switch (CurrentControlMode)
 	{
 	case EControlMode::DIABLO:
@@ -229,6 +368,23 @@ void AABCharacter::Tick(float DeltaTime)
 	switch (CurrentControlMode)
 	{
 	case EControlMode::DIABLO:
+		if (DirectionToMove.SizeSquared() > 0.0f)
+		{
+			// 최종 벡터 방향과 캐릭터의 시선 방향(X축)이 일치해야 하므로 이 MakeFromX 사용
+			GetController()->SetControlRotation(FRotationMatrix::MakeFromX(DirectionToMove).Rotator());
+			AddMovementInput(DirectionToMove);
+		}
+		break;
+	}
+	*/
+
+	switch (CurrentControlMode)
+	{
+	case EControlMode::DIABLO:
+		SpringArm->SetRelativeRotation(FMath::RInterpTo(SpringArm->GetRelativeRotation(),
+			ArmRotationTo,
+			DeltaTime,
+			ArmRotationSpeed));
 		if (DirectionToMove.SizeSquared() > 0.0f)
 		{
 			// 최종 벡터 방향과 캐릭터의 시선 방향(X축)이 일치해야 하므로 이 MakeFromX 사용
@@ -507,8 +663,8 @@ void AABCharacter::OnAssetLoadCompleted()
 {
 	USkeletalMesh* AssetLoaded = Cast<USkeletalMesh>(AssetStreamingHandle->GetLoadedAsset());
 	AssetStreamingHandle.Reset();
-	if (nullptr != AssetLoaded)
-	{
-		GetMesh()->SetSkeletalMesh(AssetLoaded);
-	}
+	ABCHECK(nullptr != AssetLoaded);
+	GetMesh()->SetSkeletalMesh(AssetLoaded);
+
+	SetCharacterState(ECharacterState::READY);
 }

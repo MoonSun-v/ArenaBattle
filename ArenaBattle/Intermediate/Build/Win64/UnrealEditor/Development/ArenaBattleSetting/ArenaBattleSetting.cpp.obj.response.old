@@ -1,13 +1,14 @@
 C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Source\ArenaBattleSetting\Private\ArenaBattleSetting.cpp
 /I .
 /I C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Source\ArenaBattleSetting\Private
-/I C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Source
-/I C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Source\ArenaBattleSetting\Public
+/I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject
 /I Runtime
+/I Runtime\CoreUObject\Public
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
-/I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject
-/I Runtime\CoreUObject\Public
+/I C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Inc\ArenaBattleSetting
+/I C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Source
+/I C:\Users\Moon\Documents\GitHub\ArenaBattle\ArenaBattle\Source\ArenaBattleSetting\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\Engine
 /I ..\Shaders\Shared
 /I Runtime\Engine\Classes
