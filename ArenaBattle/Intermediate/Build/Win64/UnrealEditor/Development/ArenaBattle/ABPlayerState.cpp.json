@@ -213,7 +213,11 @@
             "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\public\\datatableutils.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\datatable.generated.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\streamablemanager.h",
-            "c:\\users\\owner\\documents\\github\\arenabattle\\arenabattle\\intermediate\\build\\win64\\unrealeditor\\inc\\arenabattle\\abgameinstance.generated.h"
+            "c:\\users\\owner\\documents\\github\\arenabattle\\arenabattle\\intermediate\\build\\win64\\unrealeditor\\inc\\arenabattle\\abgameinstance.generated.h",
+            "c:\\users\\owner\\documents\\github\\arenabattle\\arenabattle\\source\\arenabattle\\public\\absavegame.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\savegame.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\savegame.generated.h",
+            "c:\\users\\owner\\documents\\github\\arenabattle\\arenabattle\\intermediate\\build\\win64\\unrealeditor\\inc\\arenabattle\\absavegame.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
