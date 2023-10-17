@@ -1,0 +1,1646 @@
+﻿Log file open, 10/17/23 19:01:22
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=9196)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ArenaBattle
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\Owner\Documents\GitHub\ArenaBattle\ArenaBattle\ArenaBattle.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (22H2) [10.0.22621.2428] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-10875H CPU @ 2.30GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="8d9265a74235612b0879f78e13614990"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.484432
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-5D0191274BC3D8FEA872B583323E1EC8
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading IOS ini files took 0.08 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.08 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.08 seconds
+LogConfig: Display: Loading Mac ini files took 0.08 seconds
+LogConfig: Display: Loading Android ini files took 0.08 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogConfig: Display: Loading Unix ini files took 0.10 seconds
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogConfig: Display: Loading TVOS ini files took 0.10 seconds
+LogPluginManager: Mounting Engine plugin XGEController
+LogConfig: Display: Loading Windows ini files took 0.11 seconds
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogConfig: Display: Loading Linux ini files took 0.12 seconds
+LogPluginManager: Mounting Engine plugin IKRig
+LogConfig: Display: Loading LinuxArm64 ini files took 0.12 seconds
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (22H2) [10.0.22621.2428] (), CPU: Intel(R) Core(TM) i7-10875H CPU @ 2.30GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.10.17-10.01.23:227][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.10.17-10.01.23:227][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.10.17-10.01.23:227][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.10.17-10.01.23:227][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.10.17-10.01.23:227][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.10.17-10.01.23:227][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.10.17-10.01.23:227][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.10.17-10.01.23:227][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.10.17-10.01.23:227][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.10.17-10.01.23:227][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.10.17-10.01.23:227][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.10.17-10.01.23:227][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.10.17-10.01.23:227][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.10.17-10.01.23:227][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.10.17-10.01.23:227][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.10.17-10.01.23:227][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.10.17-10.01.23:227][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.10.17-10.01.23:227][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.10.17-10.01.23:227][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.10.17-10.01.23:227][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.10.17-10.01.23:227][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.10.17-10.01.23:227][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.10.17-10.01.23:227][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.10.17-10.01.23:227][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.10.17-10.01.23:227][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.10.17-10.01.23:227][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.10.17-10.01.23:227][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.10.17-10.01.23:227][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.10.17-10.01.23:227][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.10.17-10.01.23:227][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.10.17-10.01.23:227][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.10.17-10.01.23:227][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.10.17-10.01.23:228][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.10.17-10.01.23:228][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.10.17-10.01.23:228][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.10.17-10.01.23:228][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.10.17-10.01.23:228][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.10.17-10.01.23:228][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.10.17-10.01.23:228][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.10.17-10.01.23:228][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.10.17-10.01.23:228][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.10.17-10.01.23:228][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.10.17-10.01.23:228][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.10.17-10.01.23:228][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.10.17-10.01.23:228][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.10.17-10.01.23:228][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.10.17-10.01.23:228][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.10.17-10.01.23:228][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.10.17-10.01.23:228][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.10.17-10.01.23:228][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.10.17-10.01.23:228][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.10.17-10.01.23:228][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.10.17-10.01.23:228][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.10.17-10.01.23:228][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.10.17-10.01.23:228][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.10.17-10.01.23:228][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.10.17-10.01.23:228][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.10.17-10.01.23:232][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.10.17-10.01.23:232][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.10.17-10.01.23:232][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.10.17-10.01.23:232][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.10.17-10.01.23:232][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.10.17-10.01.23:232][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.10.17-10.01.23:232][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.10.17-10.01.23:232][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.10.17-10.01.23:232][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.10.17-10.01.23:232][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.10.17-10.01.23:232][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.10.17-10.01.23:263][  0]LogD3D12RHI: Aftermath initialized
+[2023.10.17-10.01.23:263][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.10.17-10.01.23:697][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 2060 (Max supported Feature Level 12_1, shader model 6.6)
+[2023.10.17-10.01.23:697][  0]LogD3D12RHI: Adapter has 5968MB of dedicated video memory, 0MB of dedicated system memory, and 16300MB of shared system memory, 1 output[s]
+[2023.10.17-10.01.23:801][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) UHD Graphics (Max supported Feature Level 12_1, shader model 6.5)
+[2023.10.17-10.01.23:801][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 16300MB of shared system memory, 0 output[s]
+[2023.10.17-10.01.23:831][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.10.17-10.01.23:831][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16300MB of shared system memory, 0 output[s]
+[2023.10.17-10.01.23:831][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.10.17-10.01.23:831][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.10.17-10.01.23:831][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.10.17-10.01.23:832][  0]LogHAL: Display: Platform has ~ 32 GB [34184032256 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.10.17-10.01.23:832][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.10.17-10.01.23:832][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.10.17-10.01.23:832][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.10.17-10.01.23:832][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.10.17-10.01.23:832][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Owner/Documents/GitHub/ArenaBattle/ArenaBattle/Saved/Config/WindowsEditor/Editor.ini]
+[2023.10.17-10.01.23:833][  0]LogInit: Computer: MOON
+[2023.10.17-10.01.23:833][  0]LogInit: User: Owner
+[2023.10.17-10.01.23:833][  0]LogInit: CPU Page size=4096, Cores=8
+[2023.10.17-10.01.23:833][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.10.17-10.01.23:833][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2023.10.17-10.01.23:833][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.10.17-10.01.23:833][  0]LogMemory: Process Physical Memory: 284.35 MB used, 289.65 MB peak
+[2023.10.17-10.01.23:833][  0]LogMemory: Process Virtual Memory: 268.27 MB used, 268.27 MB peak
+[2023.10.17-10.01.23:833][  0]LogMemory: Physical Memory: 9630.87 MB used,  22969.56 MB free, 32600.43 MB total
+[2023.10.17-10.01.23:833][  0]LogMemory: Virtual Memory: 12912.35 MB used,  24808.09 MB free, 37720.43 MB total
+[2023.10.17-10.01.23:833][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.10.17-10.01.23:845][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.10.17-10.01.23:886][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.10.17-10.01.23:888][  0]LogInit: Using OS detected language (ko-KR).
+[2023.10.17-10.01.23:888][  0]LogInit: Using OS detected locale (ko-KR).
+[2023.10.17-10.01.23:901][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so 'ko' will be used for the language.
+[2023.10.17-10.01.24:151][  0]LogInit: Setting process to per monitor DPI aware
+[2023.10.17-10.01.24:175][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.10.17-10.01.24:175][  0]LogWindowsTextInputMethodSystem:   - 한국어(대한민국) - Microsoft 입력기 (TSF IME).
+[2023.10.17-10.01.24:175][  0]LogWindowsTextInputMethodSystem: Activated input method: 한국어(대한민국) - Microsoft 입력기 (TSF IME).
+[2023.10.17-10.01.24:203][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.10.17-10.01.24:203][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.10.17-10.01.24:457][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.10.17-10.01.24:463][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.10.17-10.01.24:463][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.10.17-10.01.24:646][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.10.17-10.01.24:646][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.10.17-10.01.24:646][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.10.17-10.01.24:646][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.10.17-10.01.24:646][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.10.17-10.01.24:646][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.10.17-10.01.24:646][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.10.17-10.01.24:646][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.10.17-10.01.24:646][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.10.17-10.01.24:646][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2023.10.17-10.01.24:646][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2023.10.17-10.01.24:646][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2023.10.17-10.01.24:646][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.10.17-10.01.24:646][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.10.17-10.01.24:646][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.10.17-10.01.24:646][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.10.17-10.01.24:719][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.10.17-10.01.24:733][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.10.17-10.01.24:771][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.10.17-10.01.24:804][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.10.17-10.01.24:804][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.10.17-10.01.24:882][  0]LogD3D12RHI:     GPU DeviceId: 0x1f15 (for the marketing name, search the web for "GPU Device Id")
+[2023.10.17-10.01.24:882][  0]LogWindows: Attached monitors:
+[2023.10.17-10.01.24:882][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1080), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.10.17-10.01.24:882][  0]LogWindows: Found 1 attached monitors.
+[2023.10.17-10.01.24:882][  0]LogWindows: EnumDisplayDevices:
+[2023.10.17-10.01.24:883][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.10.17-10.01.24:883][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY2'
+[2023.10.17-10.01.24:883][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.10.17-10.01.24:884][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.10.17-10.01.24:884][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2060' (P:0 D:0), name: '\\.\DISPLAY5'
+[2023.10.17-10.01.24:884][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2060' (P:0 D:0), name: '\\.\DISPLAY6'
+[2023.10.17-10.01.24:885][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2060' (P:0 D:0), name: '\\.\DISPLAY7'
+[2023.10.17-10.01.24:885][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2023.10.17-10.01.24:885][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2023.10.17-10.01.24:885][  0]LogD3D12RHI:   Driver Version: 536.23 (internal:31.0.15.3623, unified:536.23)
+[2023.10.17-10.01.24:885][  0]LogD3D12RHI:      Driver Date: 6-8-2023
+[2023.10.17-10.01.24:885][  0]LogRHI: Texture pool is 3276 MB (70% of 4680 MB)
+[2023.10.17-10.01.24:885][  0]LogD3D12RHI: Async texture creation enabled
+[2023.10.17-10.01.24:885][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.10.17-10.01.24:906][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.10.17-10.01.24:920][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/Owner/Documents/GitHub/ArenaBattle/ArenaBattle/ArenaBattle.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Owner/Documents/GitHub/ArenaBattle/ArenaBattle/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Owner/Documents/GitHub/ArenaBattle/ArenaBattle/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Owner/Documents/GitHub/ArenaBattle/ArenaBattle/ArenaBattle.uproject"  -platform=all'
+[2023.10.17-10.01.24:920][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/Owner/Documents/GitHub/ArenaBattle/ArenaBattle/ArenaBattle.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Owner/Documents/GitHub/ArenaBattle/ArenaBattle/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Owner/Documents/GitHub/ArenaBattle/ArenaBattle/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Owner/Documents/GitHub/ArenaBattle/ArenaBattle/ArenaBattle.uproject"  -platform=all" ]
+[2023.10.17-10.01.24:974][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.10.17-10.01.24:991][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.10.17-10.01.24:991][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.10.17-10.01.25:006][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.10.17-10.01.25:006][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.10.17-10.01.25:006][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.10.17-10.01.25:006][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.10.17-10.01.25:006][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.10.17-10.01.25:006][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.10.17-10.01.25:006][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.10.17-10.01.25:006][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.10.17-10.01.25:006][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.10.17-10.01.25:006][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.10.17-10.01.25:057][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.10.17-10.01.25:057][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.10.17-10.01.25:065][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.10.17-10.01.25:065][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.10.17-10.01.25:073][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.10.17-10.01.25:073][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.10.17-10.01.25:073][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.10.17-10.01.25:073][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.10.17-10.01.25:079][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.10.17-10.01.25:079][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.10.17-10.01.25:079][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.10.17-10.01.25:086][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.10.17-10.01.25:086][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.10.17-10.01.25:100][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.10.17-10.01.25:100][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.10.17-10.01.25:100][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.10.17-10.01.25:100][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.10.17-10.01.25:100][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.10.17-10.01.25:116][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.10.17-10.01.25:124][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.10.17-10.01.25:124][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.10.17-10.01.25:124][  0]LogTargetPlatformManager:   ADPCM
+[2023.10.17-10.01.25:124][  0]LogTargetPlatformManager:   PCM
+[2023.10.17-10.01.25:131][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.10.17-10.01.25:131][  0]LogTargetPlatformManager:   BINKA
+[2023.10.17-10.01.25:131][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.10.17-10.01.25:131][  0]LogTargetPlatformManager:   OGG
+[2023.10.17-10.01.25:131][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.10.17-10.01.25:131][  0]LogTargetPlatformManager:   OPUS
+[2023.10.17-10.01.25:218][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.10.17-10.01.25:232][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.10.17-10.01.25:232][  0]LogTargetPlatformManager:   SF_METAL
+[2023.10.17-10.01.25:232][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.10.17-10.01.25:232][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.10.17-10.01.25:232][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.10.17-10.01.25:232][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.10.17-10.01.25:232][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.10.17-10.01.25:232][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.10.17-10.01.25:232][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.10.17-10.01.25:232][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.10.17-10.01.25:232][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.10.17-10.01.25:232][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.10.17-10.01.25:232][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.10.17-10.01.25:232][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.10.17-10.01.25:232][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.10.17-10.01.25:232][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.10.17-10.01.25:239][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.10.17-10.01.25:239][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.10.17-10.01.25:239][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.10.17-10.01.25:239][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.10.17-10.01.25:239][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.10.17-10.01.25:239][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.10.17-10.01.25:239][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.10.17-10.01.25:239][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.10.17-10.01.25:240][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/Owner/Documents/GitHub/ArenaBattle/ArenaBattle/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.10.17-10.01.25:240][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.10.17-10.01.25:240][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/Owner/Documents/GitHub/ArenaBattle/ArenaBattle/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.10.17-10.01.25:241][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.10.17-10.01.25:245][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Owner/Documents/GitHub/ArenaBattle/ArenaBattle/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.10.17-10.01.25:245][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.10.17-10.01.25:245][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Owner/Documents/GitHub/ArenaBattle/ArenaBattle/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.10.17-10.01.25:245][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.10.17-10.01.25:289][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.10.17-10.01.25:289][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.10.17-10.01.25:289][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.10.17-10.01.25:302][  0]LogDerivedDataCache: Speed tests for C:/Users/Owner/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.10.17-10.01.25:302][  0]LogDerivedDataCache: Display: Performance to C:/Users/Owner/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.05ms. RandomReadSpeed=598.99MBs, RandomWriteSpeed=100.06MBs. Assigned SpeedClass 'Local'
+[2023.10.17-10.01.25:303][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Owner/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.10.17-10.01.25:303][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.10.17-10.01.25:303][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.10.17-10.01.25:320][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.10.17-10.01.25:320][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.10.17-10.01.25:321][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (../../../../../../Users/Owner/Documents/GitHub/ArenaBattle/ArenaBattle/Intermediate/Shaders/WorkingDirectory/20352/).
+[2023.10.17-10.01.25:321][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Owner/AppData/Local/Temp/UnrealShaderWorkingDir/F84F24D94AFFDD87D2C6C7A4977177BB/'.
+[2023.10.17-10.01.25:321][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.10.17-10.01.25:321][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2023.10.17-10.01.28:639][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.10.17-10.01.28:639][  0]LogSlate: Using FreeType 2.10.0
+[2023.10.17-10.01.28:640][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.10.17-10.01.28:719][  0]LogAssetRegistry: FAssetRegistry took 0.0257 seconds to start up
+[2023.10.17-10.01.28:731][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.10.17-10.01.29:119][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.10.17-10.01.29:120][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.10.17-10.01.29:664][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.10.17-10.01.29:664][  0]LogDeviceProfileManager: Active device profile: [0000097712851A40][0000097709290000 50] WindowsEditor
+[2023.10.17-10.01.29:664][  0]LogDeviceProfileManager: Profiles: [0000097712851500][00000977091DA000 50] Windows, [0000097712851A40][0000097709290000 50] WindowsEditor, [0000097712852680][0000097709222800 50] WindowsServer, [0000097712852BC0][00000976EEF25000 50] WindowsClient, [0000097712852300][0000097712840000 50] IOS, [0000097712852A00][0000097712845000 50] iPadAir2, [0000097712854EC0][000009771284A000 50] IPadPro, [0000097712855240][0000097712847800 50] iPadAir3, [0000097712854280][000009771284C800 50] iPadAir4, [0000097712852840][0000097709225000 50] iPadMini4, [0000097712851340][0000097712820000 50] iPadMini5, [0000097712855400][0000097712825000 50] iPadMini6, [0000097712858180][000009771282C800 50] iPhone6S, [0000097712858500][000009771282A000 50] iPhone7, [0000097712858880][0000097712827800 50] iPodTouch7, [0000097712854600][0000097712842800 50] iPhone6SPlus, [00000977128578C0][0000097712870000 50] iPhone7Plus, [00000977128540C0][0000097712875000 50] iPhoneSE, [0000097712853B80][0000097712877800 50] iPhone8, [0000097712857700][000009771287A000 50] iPhone8Plus, [0000097712850700][000009771287C800 50] iPhoneX, [0000097712853480][0000097712822800 50] iPhoneXS, [0000097712857540][0000097712890000 50] iPhoneXSMax, [0000097712858C00][0000097712895000 50] iPhoneXR, [0000097712857380][0000097712897800 50] iPhone11, [0000097712851880][000009771289A000 50] iPhone11Pro, [0000097712857E00][000009771289C800 50] iPhone11ProMax, [0000097712851DC0][0000097712872800 50] iPhoneSE2, [0000097712856AC0][00000977128A0000 50] iPhone12Mini, [0000097712855780][00000977128A5000 50] iPhone12, [00000977128539C0][00000977128A7800 50] iPhone12Pro, [00000977128524C0][00000977128AA000 50] iPhone12ProMax, [0000097712855E80][00000977128AC800 50] iPhone13Mini, [0000097712850380][0000097712892800 50] iPhone13, [0000097712856040][00000977128B0000 50] iPhone13Pro, [0000097712852140][00000977128B5000 50] iPhone13ProMax, [0000097712856900][00000977128B7800 50] iPadPro105, [0000097712850FC0][00000977128BA000 50] iPadPro129, [00000977128586C0][00000977128BC800 50] iPadPro97, [0000097712853800][00000977128A2800 50] iPadPro2_129, [0000097712855B00][00000977128C0000 50] iPad5, [0000097712856E40][00000977128C5000 50] iPad6, [00000977128508C0][00000977128C7800 50] iPad7, [00000977128563C0][00000977128CA000 50] iPad8, [0000097712854B40][00000977128CC800 50] iPad9, [0000097712851180][00000977128B2800 50] iPadPro11, [00000977128547C0][00000977128D0000 50] iPadPro2_11, [0000097712850C40][00000977128D5000 50] iPadPro3_11, [0000097712854D00][00000977128D7800 50] iPadPro3_129, [0000097712855CC0][00000977128DA000 50] iPadPro4_129, [00000977128501C0][00000977128DC800 50] iPadPro5_129, [0000097712853640][00000977128C2800 50] AppleTV, [0000097712855080][00000977128E0000 50] AppleTV4K, [0000097712850000][00000977128E5000 50] TVOS, [000009771285A2C0][00000977128EA000 50] Mac, [000009771285A640][00000977128E7800 50] MacEditor, [0000097712852F40][00000977128EC800 50] MacClient, [00000977128532C0][00000977128D2800 50] MacServer, [000009771285A9C0][00000977128F2800 50] Linux, [0000097712851C00][00000977128F0000 50] LinuxEditor, [0000097712859A00][00000977128F7800 50] LinuxArm64Editor, [0000097712859680][00000977128FA000 50] LinuxArm64, [0000097712859D80][00000977128FC800 50] LinuxClient, [0000097712850E00][00000977128E2800 50] LinuxArm64Client, [0000097712856740][0000097712900000 50] LinuxServer, [000009771285AB80][0000097712905000 50] LinuxArm64Server, [00000977128571C0][0000097712907800 50] Android, [0000097712859BC0][000009771290A000 50] Android_Preview_OpenGL, [0000097712851F80][000009771290C800 50] Android_Preview_Vulkan, [0000097712850540][00000977128F5000 50] Android_Low, [0000097712858A40][0000097712910000 50] Android_Mid, [0000097712856C80][0000097712915000 50] Android_High, [0000097712858DC0][0000097712917800 50] Android_Default, [00000977128555C0][000009771291A000 50] Android_Adreno4xx, [0000097712857A80][000009771291C800 50] Android_Adreno5xx_Low, [0000097712855940][0000097712902800 50] Android_Adreno5xx, [0000097712853100][0000097712920000 50] Android_Adreno6xx, [000009771285A100][0000097712925000 50] Android_Adreno6xx_Vulkan, [0000097712850A80][0000097712927800 50] Android_Adreno7xx, [0000097712857C40][000009771292A000 50] Android_Adreno7xx_Vulkan, [000009771285AD40][000009771292C800 50] Android_Mali_T6xx, [00000977128594C0][0000097712912800 50] Android_Mali_T7xx, [000009771285AF00][0000097712930000 50] Android_Mali_T8xx, [0000097712859300][0000097712935000 50] Android_Mali_G71, [000009771285B0C0][0000097712937800 50] Android_Mali_G72, [000009771285A480][000009771293A000 50] Android_Mali_G72_Vulkan, [0000097712859840][000009771293C800 50] Android_Mali_G76, [0000097712858340][0000097712922800 50] Android_Mali_G76_Vulkan, [0000097712853D40][0000097712940000 50] Android_Mali_G77, [000009771285BD00][0000097712945000 50] Android_Mali_G77_Vulkan, [000009771285B600][0000097712947800 50] Android_Mali_G78, [000009771285BEC0][000009771294A000 50] Android_Mali_G78_Vulkan, [000009771285C5C0][000009771294C800 50] Android_Mali_G710, [000009771285C080][0000097712932800 50] Android_Mali_G710_Vulkan, [0000097712859140][0000097712950000 50] Android_Xclipse_920, [000009771285B7C0][0000097712955000 50] Android_Xclipse_920_Vulkan, [0000097712856580][0000097712957800 50] Android_Vulkan_SM5, [0000097712857000][000009771295A000 50] Android_PowerVR_G6xxx, [000009771285B980][000009771295C800 50] Android_PowerVR_GT7xxx, [000009771285CE80][0000097712942800 50] Android_PowerVR_GE8xxx, [000009771285B440][0000097712960000 50] Android_PowerVR_GM9xxx, [000009771285D040][0000097712965000 50] Android_PowerVR_GM9xxx_Vulkan, [000009771285C240][0000097712967800 50] Android_TegraK1, [0000097712856200][000009771296A000 50] Android_Unknown_Vulkan, [0000097712853F00][000009771296C800 50] Oculus_Quest, [0000097712854440][0000097712952800 50] Oculus_Quest2, [000009771285DC80][0000097712970000 50] HoloLens, 
+[2023.10.17-10.01.29:664][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.10.17-10.01.29:671][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2023.10.17-10.01.29:671][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2023.10.17-10.01.29:671][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.10.17-10.01.29:671][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.10.17-10.01.29:671][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.22621.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2023.10.17-10.01.29:710][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.10.17-10.01.30:163][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.10.17-10.01.30:163][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.10.17-10.01.30:163][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.10.17-10.01.30:163][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.10.17-10.01.30:163][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.10.17-10.01.30:200][  0]LogNetVersion: ArenaBattle 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1909477609)
+[2023.10.17-10.01.30:501][  0]LogSlate: Border
+[2023.10.17-10.01.30:501][  0]LogSlate: BreadcrumbButton
+[2023.10.17-10.01.30:501][  0]LogSlate: Default
+[2023.10.17-10.01.30:501][  0]LogSlate: Icons.Save
+[2023.10.17-10.01.30:501][  0]LogSlate: Icons.Toolbar.Settings
+[2023.10.17-10.01.30:501][  0]LogSlate: ListView
+[2023.10.17-10.01.30:501][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.10.17-10.01.30:501][  0]LogSlate: SoftwareCursor_Grab
+[2023.10.17-10.01.30:501][  0]LogSlate: TableView.DarkRow
+[2023.10.17-10.01.30:501][  0]LogSlate: TableView.Row
+[2023.10.17-10.01.30:501][  0]LogSlate: TreeView
+[2023.10.17-10.01.30:910][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2023.10.17-10.01.30:972][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2023.10.17-10.01.30:972][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2023.10.17-10.01.31:252][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.10.17-10.01.31:252][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2023.10.17-10.01.31:252][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.10.17-10.01.32:066][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 323446C84DBA0F8CD5A27D82E5A50968 | Instance: D40088494DD7ECDE5DE9ECA6BAEAE3F4 (MOON-20352).
+[2023.10.17-10.01.32:153][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.10.17-10.01.32:163][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.10.17-10.01.32:189][  0]LogPython: Using Python 3.9.7
+[2023.10.17-10.01.34:337][  0]LogSkeletalMesh: Display: [AssetLog] C:\Users\Owner\Documents\GitHub\ArenaBattle\ArenaBattle\Content\InfinityBladeWarriors\Character\CompleteCharacters\SK_CharM_Cardboard.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2023.10.17-10.01.34:337][  0]LogStaticMesh: StaticMesh /Game/InfinityBladeGrassLands/Effects/FX_Meshes/Env/SM_Treasure_Coin.SM_Treasure_Coin should be resaved to improve async compilation performance.
+[2023.10.17-10.01.34:347][  0]LogStaticMesh: StaticMesh /Game/InfinityBladeGrassLands/Effects/FX_Meshes/Env/SM_TreasureChest_Gold.SM_TreasureChest_Gold should be resaved to improve async compilation performance.
+[2023.10.17-10.01.34:502][  0]LogStaticMesh: StaticMesh /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Castle_Fountain_01.SM_Plains_Castle_Fountain_01 should be resaved to improve async compilation performance.
+[2023.10.17-10.01.34:545][  0]LogStaticMesh: StaticMesh /Game/InfinityBladeGrassLands/Effects/FX_Meshes/Env/SM_Plains_Fountain_02.SM_Plains_Fountain_02 should be resaved to improve async compilation performance.
+[2023.10.17-10.01.34:863][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2023.10.17-10.01.34:884][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2023.10.17-10.01.34:947][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2023.10.17-10.01.35:010][  0]LogUProjectInfo: Found projects:
+[2023.10.17-10.01.36:249][  0]LogOpenImageDenoise: OIDN starting up
+[2023.10.17-10.01.36:487][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.10.17-10.01.36:562][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.10.17-10.01.36:562][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.10.17-10.01.37:164][  0]LogCollectionManager: Loaded 0 collections in 0.003968 seconds
+[2023.10.17-10.01.37:543][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Owner/Documents/GitHub/ArenaBattle/ArenaBattle/Saved/Collections/' took 0.00s
+[2023.10.17-10.01.37:543][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Owner/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Developers/Owner/Collections/' took 0.00s
+[2023.10.17-10.01.37:543][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Owner/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Collections/' took 0.00s
+[2023.10.17-10.01.38:406][  0]LogEngine: Initializing Engine...
+[2023.10.17-10.01.38:440][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.10.17-10.01.38:442][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.10.17-10.01.39:052][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.10.17-10.01.39:053][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.10.17-10.01.39:078][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.17-10.01.39:151][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.10.17-10.01.39:153][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.10.17-10.01.39:210][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.10.17-10.01.39:211][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.10.17-10.01.39:211][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.10.17-10.01.39:212][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.10.17-10.01.39:212][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.10.17-10.01.39:212][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.17-10.01.39:212][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.17-10.01.39:212][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.17-10.01.39:212][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.17-10.01.39:213][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.17-10.01.39:213][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.17-10.01.39:213][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.17-10.01.39:213][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.17-10.01.39:214][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.17-10.01.39:214][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.17-10.01.39:214][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.17-10.01.39:225][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.17-10.01.39:285][  0]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2023.10.17-10.01.39:286][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.17-10.01.39:289][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.17-10.01.39:290][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.17-10.01.39:291][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.10.17-10.01.39:291][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.17-10.01.39:293][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.17-10.01.39:293][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.10.17-10.01.39:293][  0]LogInit: FAudioDevice initialized.
+[2023.10.17-10.01.39:294][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.10.17-10.01.39:294][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.10.17-10.01.39:294][  0]LogInit: Texture streaming: Enabled
+[2023.10.17-10.01.39:378][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.10.17-10.01.39:401][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.10.17-10.01.39:401][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={B874314E-4943-A7CF-E7A1-C7ADF0B6C510}
+[2023.10.17-10.01.39:459][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.10.17-10.01.39:555][  0]LogInit: Transaction tracking system initialized
+[2023.10.17-10.01.39:753][  0]BlueprintLog: New page: 에디터 로드
+[2023.10.17-10.01.40:262][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2023.10.17-10.01.40:383][  0]TimingProfiler: Initialize
+[2023.10.17-10.01.40:384][  0]TimingProfiler: OnSessionChanged
+[2023.10.17-10.01.40:384][  0]LoadingProfiler: Initialize
+[2023.10.17-10.01.40:384][  0]LoadingProfiler: OnSessionChanged
+[2023.10.17-10.01.40:384][  0]NetworkingProfiler: Initialize
+[2023.10.17-10.01.40:384][  0]NetworkingProfiler: OnSessionChanged
+[2023.10.17-10.01.40:384][  0]MemoryProfiler: Initialize
+[2023.10.17-10.01.40:384][  0]MemoryProfiler: OnSessionChanged
+[2023.10.17-10.01.41:721][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Owner/Documents/GitHub/ArenaBattle/ArenaBattle/Content/' took 0.05s
+[2023.10.17-10.01.41:721][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.10.17-10.01.42:210][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.10.17-10.01.42:214][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2023.10.17-10.01.42:214][  0]LogUnrealEdMisc: Loading editor; pre map load, took 21.624
+[2023.10.17-10.01.42:215][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Owner/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Maps/Gameplay.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.10.17-10.01.42:215][  0]LightingResults: New page: 라이팅 빌드
+[2023.10.17-10.01.42:231][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.10.17-10.01.42:231][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.17-10.01.42:231][  0]MapCheck: New page: 맵 체크
+[2023.10.17-10.01.42:231][  0]LightingResults: New page: 라이팅 빌드
+[2023.10.17-10.01.42:249][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.17-10.01.42:256][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.10.17-10.01.42:291][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Gameplay'.
+[2023.10.17-10.01.42:291][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.10.17-10.01.42:291][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.17-10.01.42:293][  0]LogAIModule: Creating AISystem for world Gameplay
+[2023.10.17-10.01.42:300][  0]ArenaBattle: Warning: AABSection::SetState(108) SetState : 2
+[2023.10.17-10.01.42:301][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.17-10.01.42:324][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.10.17-10.01.42:324][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.17-10.01.42:324][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.225ms.
+[2023.10.17-10.01.42:325][  0]LogFileHelpers: Loading map 'Gameplay' took 0.110
+[2023.10.17-10.01.42:352][  0]LogUnrealEdMisc: Total Editor Startup Time, took 21.761
+[2023.10.17-10.01.42:352][  0]LogShaderCompilers: Display: ================================================
+[2023.10.17-10.01.42:352][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.17-10.01.42:352][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.10.17-10.01.42:352][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.10.17-10.01.42:352][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.10.17-10.01.42:352][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.17-10.01.42:352][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.10.17-10.01.42:352][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.10.17-10.01.42:352][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.10.17-10.01.42:352][  0]LogShaderCompilers: Display: ================================================
+[2023.10.17-10.01.42:489][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.17-10.01.42:503][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.17-10.01.42:518][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.17-10.01.42:531][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.17-10.01.42:569][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.10.17-10.01.42:569][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.10.17-10.01.42:570][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.10.17-10.01.42:570][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.10.17-10.01.42:571][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.10.17-10.01.42:572][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.10.17-10.01.42:573][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.10.17-10.01.42:573][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.10.17-10.01.42:575][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.10.17-10.01.42:575][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.10.17-10.01.42:576][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.10.17-10.01.42:576][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.10.17-10.01.42:577][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.10.17-10.01.42:577][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.10.17-10.01.42:578][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.10.17-10.01.42:578][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.10.17-10.01.42:579][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.10.17-10.01.42:579][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.10.17-10.01.42:580][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.10.17-10.01.42:580][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.10.17-10.01.42:580][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.10.17-10.01.42:970][  0]LogStall: Startup...
+[2023.10.17-10.01.42:973][  0]LogStall: Startup complete.
+[2023.10.17-10.01.43:048][  0]LogLoad: (Engine Initialization) Total time: 22.46 seconds
+[2023.10.17-10.01.43:048][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.10.17-10.01.43:208][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.10.17-10.01.43:253][  0]LogSlate: Took 0.000276 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.10.17-10.01.43:257][  0]LogSlate: Took 0.003524 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2023.10.17-10.01.43:265][  0]LogSlate: Took 0.003145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2023.10.17-10.01.43:266][  0]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.10.17-10.01.43:267][  0]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.10.17-10.01.43:270][  0]LogSlate: Took 0.000262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.10.17-10.01.43:271][  0]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.10.17-10.01.43:274][  0]LogSlate: Took 0.002978 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2023.10.17-10.01.43:351][  0]LogViewport: Scene viewport resized to 1357x522, mode Windowed.
+[2023.10.17-10.01.43:421][  0]LogSlate: Took 0.000328 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.10.17-10.01.45:077][  1]LogAssetRegistry: Asset discovery search completed in 16.3600 seconds
+[2023.10.17-10.01.45:099][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2023.10.17-10.01.45:361][  2]LogNavigationDataBuild: Navigation data generation finished in /Game/Book/Maps/Gameplay.
+[2023.10.17-10.03.25:665][303]LogDerivedDataCache: C:/Users/Owner/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.134 and deleted 0 file(s) with total size 0 MiB.
+[2023.10.17-10.06.18:448][126]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2023.10.17-10.06.18:462][126]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.17-10.06.18:463][126]PIE: New page: PIE 세션: Gameplay (2023. 10. 18. 오전 4:06:18)
+[2023.10.17-10.06.18:470][126]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.10.17-10.06.18:470][126]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.10.17-10.06.18:470][126]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Gameplay
+[2023.10.17-10.06.18:487][126]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016558s)
+[2023.10.17-10.06.18:487][126]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Gameplay.Gameplay to /Game/Book/Maps/UEDPIE_0_Gameplay.Gameplay (0.016743s)
+[2023.10.17-10.06.18:487][126]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.10.17-10.06.18:487][126]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.17-10.06.18:488][126]LogAIModule: Creating AISystem for world Gameplay
+[2023.10.17-10.06.18:489][126]LogPlayLevel: PIE: World Init took: (0.001748s)
+[2023.10.17-10.06.18:507][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.10.17-10.06.18:508][126]ArenaBattle: Warning: UABGameInstance::Init(18) DropExp of Level 20 ABCharacter : 105
+[2023.10.17-10.06.18:508][126]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.10.17-10.06.18:508][126]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.17-10.06.18:508][126]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.17-10.06.18:508][126]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.17-10.06.18:508][126]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.17-10.06.18:508][126]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.17-10.06.18:508][126]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.17-10.06.18:508][126]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.17-10.06.18:508][126]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.17-10.06.18:509][126]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.17-10.06.18:509][126]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.17-10.06.18:509][126]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.17-10.06.18:513][126]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.17-10.06.18:555][126]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2023.10.17-10.06.18:555][126]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.17-10.06.18:555][126]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.17-10.06.18:555][126]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.17-10.06.18:557][126]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.10.17-10.06.18:557][126]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.10.17-10.06.18:560][126]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.10.17-10.06.18:560][126]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.10.17-10.06.18:560][126]LogInit: FAudioDevice initialized.
+[2023.10.17-10.06.18:560][126]LogAudio: Display: Audio Device (ID: 2) registered with world 'Gameplay'.
+[2023.10.17-10.06.18:577][126]LogLoad: Game class is 'ABGameMode'
+[2023.10.17-10.06.18:582][126]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Gameplay.Gameplay up for play (max tick rate 60) at 2023.10.17-19.06.18
+[2023.10.17-10.06.18:584][126]LogWorld: Bringing up level for play took: 0.005978
+[2023.10.17-10.06.18:589][126]LogOnline: OSS: Created online subsystem instance for: :Context_1
+[2023.10.17-10.06.18:590][126]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(23)
+[2023.10.17-10.06.18:624][126]ArenaBattle: Warning: AABPlayerController::OnPossess(28)
+[2023.10.17-10.06.18:625][126]LogStreaming: Warning: Failed to read file '../../../../../../Users/Owner/Documents/GitHub/ArenaBattle/ArenaBattle/Saved/SaveGames/Player1.sav' error.
+[2023.10.17-10.06.18:625][126]ArenaBattle: Warning: AABSection::SetState(108) SetState : 2
+[2023.10.17-10.06.18:626][126]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.10.17-10.06.18:627][126]ArenaBattle: Warning: AABPlayerState::GetExpRatio(53) Ratio : 0.000000, Current : 0, Next : 30
+[2023.10.17-10.06.18:627][126]PIE: 서버가 로그인했습니다.
+[2023.10.17-10.06.18:628][126]PIE: 에디터에서 플레이 총 시작 시간 0.167초입니다.
+[2023.10.17-10.06.19:175][137]ArenaBattle: Warning: AABSection::OnGateTriggerBeginOverlap(175) OnGateTriggerBeginOverlap
+[2023.10.17-10.06.19:175][137]ArenaBattle: Warning: AABSection::OnGateTriggerBeginOverlap(202) Overlap Fail
+[2023.10.17-10.06.19:177][137]ArenaBattle: Warning: AABSection::SetState(108) SetState : 0
+[2023.10.17-10.06.19:177][137]ArenaBattle: Warning: AABSection::SetState(108) SetState : 0
+[2023.10.17-10.06.22:184][313]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.17-10.06.22:185][313]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Gameplay
+[2023.10.17-10.06.22:186][313]LogWorld: UWorld::CleanupWorld for Gameplay, bSessionEnded=true, bCleanupResources=true
+[2023.10.17-10.06.22:186][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.17-10.06.22:204][313]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.17-10.06.22:207][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.17-10.06.22:223][313]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.17-10.06.22:223][313]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.10.17-10.06.22:227][313]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.10.17-10.06.22:233][313]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.17-10.06.22:240][313]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.10.17-10.06.22:268][314]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2023.10.17-10.06.23:757][389]Candidate modules for hot reload:
+[2023.10.17-10.06.23:757][389]  ArenaBattle
+[2023.10.17-10.06.23:768][389]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe  -ModuleWithSuffix=ArenaBattle,7683 ArenaBattleEditor Win64 Development -Project="C:/Users/Owner/Documents/GitHub/ArenaBattle/ArenaBattle/ArenaBattle.uproject" "C:/Users/Owner/Documents/GitHub/ArenaBattle/ArenaBattle/ArenaBattle.uproject"  -IgnoreJunk]
+[2023.10.17-10.06.23:776][389]Warning: Starting HotReload took  0.1s.
+[2023.10.17-10.07.00:901][877]CompilerResultsLog: New page: 컴파일 - 2023. 10. 18. 오전 4:07:00
+[2023.10.17-10.07.00:901][877]CompilerResultsLog: Log file: C:\Users\Owner\AppData\Local\UnrealBuildTool\Log.txt
+[2023.10.17-10.07.00:901][877]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Owner\Documents\GitHub\ArenaBattle).
+[2023.10.17-10.07.00:901][877]CompilerResultsLog: Building ArenaBattleEditor...
+[2023.10.17-10.07.00:901][877]CompilerResultsLog: Using Visual Studio 2019 14.29.30152 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.10.17-10.07.00:902][877]CompilerResultsLog: Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+[2023.10.17-10.07.00:902][877]CompilerResultsLog:   Executing up to 8 processes, one per physical core
+[2023.10.17-10.07.00:902][877]CompilerResultsLog: Building 9 actions with 8 processes...
+[2023.10.17-10.07.00:902][877]CompilerResultsLog: [1/9] Compile ABPlayerState.gen.cpp
+[2023.10.17-10.07.00:902][877]CompilerResultsLog: [2/9] Compile ABGameMode.cpp
+[2023.10.17-10.07.00:902][877]CompilerResultsLog: [3/9] Compile ABPlayerState.cpp
+[2023.10.17-10.07.00:902][877]CompilerResultsLog: [4/9] Compile ABHUDWidget.cpp
+[2023.10.17-10.07.00:902][877]CompilerResultsLog: [5/9] Compile ABPlayerController.cpp
+[2023.10.17-10.07.00:902][877]CompilerResultsLog: [6/9] Compile ABCharacter.cpp
+[2023.10.17-10.07.00:902][877]CompilerResultsLog: [7/9] Link UnrealEditor-ArenaBattle-7683.lib
+[2023.10.17-10.07.00:902][877]CompilerResultsLog:    C:\Users\Owner\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-7683.lib ???̺귯?? ?? C:\Users\Owner\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-7683.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.10.17-10.07.00:902][877]CompilerResultsLog: [8/9] Link UnrealEditor-ArenaBattle-7683.dll
+[2023.10.17-10.07.00:902][877]CompilerResultsLog:    C:\Users\Owner\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-7683.suppressed.lib ???̺귯?? ?? C:\Users\Owner\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-7683.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.10.17-10.07.00:902][877]CompilerResultsLog: [9/9] WriteMetadata ArenaBattleEditor.target
+[2023.10.17-10.07.00:902][877]CompilerResultsLog: Total time in Parallel executor: 34.81 seconds
+[2023.10.17-10.07.00:902][877]CompilerResultsLog: Total execution time: 36.89 seconds
+[2023.10.17-10.07.00:902][877]LogMainFrame: MainFrame: Module compiling took 37.203 seconds
+[2023.10.17-10.07.01:010][877]Re-instancing ABCharacter after reload.
+[2023.10.17-10.07.01:192][877]Display: HotReload took 37.5s.
+[2023.10.17-10.07.01:192][877]Display: Reload/Re-instancing Complete: 1 package changed, 22 classes unchanged, 1 enum unchanged, 1 scriptstruct unchanged, 8 functions remapped, 1 scriptstruct remapped
+[2023.10.17-10.07.10:739][378]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2023.10.17-10.07.10:752][378]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.17-10.07.10:752][378]PIE: New page: PIE 세션: Gameplay (2023. 10. 18. 오전 4:07:10)
+[2023.10.17-10.07.10:752][378]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Gameplay
+[2023.10.17-10.07.10:767][378]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013365s)
+[2023.10.17-10.07.10:767][378]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Gameplay.Gameplay to /Game/Book/Maps/UEDPIE_0_Gameplay.Gameplay (0.013515s)
+[2023.10.17-10.07.10:767][378]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.10.17-10.07.10:767][378]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.17-10.07.10:768][378]LogAIModule: Creating AISystem for world Gameplay
+[2023.10.17-10.07.10:768][378]LogPlayLevel: PIE: World Init took: (0.001365s)
+[2023.10.17-10.07.10:789][378]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.10.17-10.07.10:789][378]ArenaBattle: Warning: UABGameInstance::Init(18) DropExp of Level 20 ABCharacter : 105
+[2023.10.17-10.07.10:790][378]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.10.17-10.07.10:790][378]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.17-10.07.10:790][378]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.17-10.07.10:790][378]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.17-10.07.10:790][378]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.17-10.07.10:790][378]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.17-10.07.10:790][378]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.17-10.07.10:790][378]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.17-10.07.10:790][378]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.17-10.07.10:791][378]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.17-10.07.10:791][378]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.17-10.07.10:791][378]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.17-10.07.10:794][378]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.17-10.07.10:833][378]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2023.10.17-10.07.10:834][378]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.17-10.07.10:834][378]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.17-10.07.10:834][378]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.17-10.07.10:835][378]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.10.17-10.07.10:835][378]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.10.17-10.07.10:838][378]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.10.17-10.07.10:838][378]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.10.17-10.07.10:838][378]LogInit: FAudioDevice initialized.
+[2023.10.17-10.07.10:838][378]LogAudio: Display: Audio Device (ID: 3) registered with world 'Gameplay'.
+[2023.10.17-10.07.10:860][378]LogLoad: Game class is 'ABGameMode'
+[2023.10.17-10.07.10:865][378]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Gameplay.Gameplay up for play (max tick rate 60) at 2023.10.17-19.07.10
+[2023.10.17-10.07.10:866][378]LogWorld: Bringing up level for play took: 0.005762
+[2023.10.17-10.07.10:872][378]LogOnline: OSS: Created online subsystem instance for: :Context_2
+[2023.10.17-10.07.10:872][378]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(23)
+[2023.10.17-10.07.10:874][378]ArenaBattle: Warning: AABPlayerController::OnPossess(28)
+[2023.10.17-10.07.10:875][378]LogStreaming: Warning: Failed to read file '../../../../../../Users/Owner/Documents/GitHub/ArenaBattle/ArenaBattle/Saved/SaveGames/Player1.sav' error.
+[2023.10.17-10.07.10:876][378]ArenaBattle: Warning: AABSection::SetState(108) SetState : 2
+[2023.10.17-10.07.10:877][378]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.10.17-10.07.10:878][378]ArenaBattle: Warning: AABPlayerState::GetExpRatio(68) Ratio : 0.000000, Current : 0, Next : 30
+[2023.10.17-10.07.10:878][378]PIE: 서버가 로그인했습니다.
+[2023.10.17-10.07.10:879][378]PIE: 에디터에서 플레이 총 시작 시간 0.127초입니다.
+[2023.10.17-10.07.13:561][527]ArenaBattle: Warning: AABSection::OnGateTriggerBeginOverlap(175) OnGateTriggerBeginOverlap
+[2023.10.17-10.07.13:561][527]ArenaBattle: Warning: AABSection::OnGateTriggerBeginOverlap(202) Overlap Fail
+[2023.10.17-10.07.13:562][527]ArenaBattle: Warning: AABSection::SetState(108) SetState : 0
+[2023.10.17-10.07.13:562][527]ArenaBattle: Warning: AABSection::SetState(108) SetState : 0
+[2023.10.17-10.07.14:294][571]ArenaBattle: Warning: AABSection::SetState(108) SetState : 1
+[2023.10.17-10.07.16:543][701]LogSkeletalMesh: Display: [AssetLog] C:\Users\Owner\Documents\GitHub\ArenaBattle\ArenaBattle\Content\InfinityBladeWarriors\Character\CompleteCharacters\SK_CharM_RaggedElite.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2023.10.17-10.07.17:828][778]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.10.17-10.07.17:844][779]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.10.17-10.07.18:060][792]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.10.17-10.07.18:060][792]ArenaBattle: Warning: AABCharacter::AttackCheck(672) Hit Actor Name : ABCharacter_1
+[2023.10.17-10.07.18:060][792]ArenaBattle: Warning: AABCharacter::TakeDamage(440) Actor : ABCharacter_1 took Damage : 10.000000
+[2023.10.17-10.07.18:094][794]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.10.17-10.07.18:094][794]ArenaBattle: Warning: AABCharacter::AttackCheck(672) Hit Actor Name : ABCharacter_0
+[2023.10.17-10.07.18:095][794]ArenaBattle: Warning: AABCharacter::TakeDamage(440) Actor : ABCharacter_0 took Damage : 10.000000
+[2023.10.17-10.07.18:196][800]ArenaBattle: Warning: AABCharacter::Attack(595) IsAttacking
+[2023.10.17-10.07.18:394][812]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.10.17-10.07.18:394][812]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_5b9664ca1a21bd0b66b9ba89305c7a4a>::operator ()(417) OnNextAttackCheck
+[2023.10.17-10.07.18:394][812]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack2
+[2023.10.17-10.07.18:427][814]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.10.17-10.07.18:427][814]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_5b9664ca1a21bd0b66b9ba89305c7a4a>::operator ()(417) OnNextAttackCheck
+[2023.10.17-10.07.18:662][828]ArenaBattle: Warning: AABCharacter::Attack(595) IsAttacking
+[2023.10.17-10.07.18:662][828]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.10.17-10.07.18:662][828]ArenaBattle: Warning: AABCharacter::AttackCheck(672) Hit Actor Name : ABCharacter_1
+[2023.10.17-10.07.18:662][828]ArenaBattle: Warning: AABCharacter::TakeDamage(440) Actor : ABCharacter_1 took Damage : 10.000000
+[2023.10.17-10.07.18:795][836]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.07.18:845][839]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.10.17-10.07.18:978][847]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.10.17-10.07.18:978][847]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_5b9664ca1a21bd0b66b9ba89305c7a4a>::operator ()(417) OnNextAttackCheck
+[2023.10.17-10.07.18:978][847]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack3
+[2023.10.17-10.07.18:995][848]ArenaBattle: Warning: AABCharacter::Attack(595) IsAttacking
+[2023.10.17-10.07.19:095][854]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.10.17-10.07.19:095][854]ArenaBattle: Warning: AABCharacter::AttackCheck(672) Hit Actor Name : ABCharacter_0
+[2023.10.17-10.07.19:095][854]ArenaBattle: Warning: AABCharacter::TakeDamage(440) Actor : ABCharacter_0 took Damage : 10.000000
+[2023.10.17-10.07.19:245][863]ArenaBattle: Warning: AABCharacter::Attack(595) IsAttacking
+[2023.10.17-10.07.19:261][864]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.10.17-10.07.19:261][864]ArenaBattle: Warning: AABCharacter::AttackCheck(672) Hit Actor Name : ABCharacter_1
+[2023.10.17-10.07.19:261][864]ArenaBattle: Warning: AABCharacter::TakeDamage(440) Actor : ABCharacter_1 took Damage : 10.000000
+[2023.10.17-10.07.19:427][874]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.10.17-10.07.19:427][874]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_5b9664ca1a21bd0b66b9ba89305c7a4a>::operator ()(417) OnNextAttackCheck
+[2023.10.17-10.07.19:577][883]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.10.17-10.07.19:577][883]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_5b9664ca1a21bd0b66b9ba89305c7a4a>::operator ()(417) OnNextAttackCheck
+[2023.10.17-10.07.19:577][883]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack4
+[2023.10.17-10.07.19:645][887]ArenaBattle: Warning: AABCharacter::Attack(595) IsAttacking
+[2023.10.17-10.07.19:794][896]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.07.19:794][896]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.07.19:844][899]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.10.17-10.07.19:844][899]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.10.17-10.07.20:093][914]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.10.17-10.07.20:427][934]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.10.17-10.07.20:427][934]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_5b9664ca1a21bd0b66b9ba89305c7a4a>::operator ()(417) OnNextAttackCheck
+[2023.10.17-10.07.20:794][956]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.07.20:794][956]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.07.20:794][956]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.07.22:228][ 42]ArenaBattle: Warning: AABItemBox::OnCharacterOverlap(68)
+[2023.10.17-10.07.23:528][120]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.10.17-10.07.23:679][129]ArenaBattle: Warning: AABCharacter::Attack(595) IsAttacking
+[2023.10.17-10.07.23:712][131]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.10.17-10.07.23:761][134]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.10.17-10.07.23:761][134]ArenaBattle: Warning: AABCharacter::AttackCheck(672) Hit Actor Name : ABCharacter_1
+[2023.10.17-10.07.23:761][134]ArenaBattle: Warning: AABCharacter::TakeDamage(440) Actor : ABCharacter_1 took Damage : 10.000000
+[2023.10.17-10.07.23:828][138]ArenaBattle: Warning: AABCharacter::Attack(595) IsAttacking
+[2023.10.17-10.07.23:961][146]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.10.17-10.07.23:961][146]ArenaBattle: Warning: AABCharacter::AttackCheck(672) Hit Actor Name : ABCharacter_0
+[2023.10.17-10.07.23:961][146]ArenaBattle: Warning: AABCharacter::TakeDamage(440) Actor : ABCharacter_0 took Damage : 10.000000
+[2023.10.17-10.07.24:098][154]ArenaBattle: Warning: AABCharacter::Attack(595) IsAttacking
+[2023.10.17-10.07.24:099][154]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.10.17-10.07.24:099][154]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_5b9664ca1a21bd0b66b9ba89305c7a4a>::operator ()(417) OnNextAttackCheck
+[2023.10.17-10.07.24:099][154]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack2
+[2023.10.17-10.07.24:261][164]ArenaBattle: Warning: AABCharacter::Attack(595) IsAttacking
+[2023.10.17-10.07.24:294][166]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.10.17-10.07.24:295][166]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_5b9664ca1a21bd0b66b9ba89305c7a4a>::operator ()(417) OnNextAttackCheck
+[2023.10.17-10.07.24:361][170]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.10.17-10.07.24:361][170]ArenaBattle: Warning: AABCharacter::AttackCheck(672) Hit Actor Name : ABCharacter_1
+[2023.10.17-10.07.24:361][170]ArenaBattle: Warning: AABCharacter::TakeDamage(440) Actor : ABCharacter_1 took Damage : 10.000000
+[2023.10.17-10.07.24:412][173]ArenaBattle: Warning: AABCharacter::Attack(595) IsAttacking
+[2023.10.17-10.07.24:561][182]ArenaBattle: Warning: AABCharacter::Attack(595) IsAttacking
+[2023.10.17-10.07.24:661][188]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.07.24:661][188]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.07.24:661][188]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.07.24:661][188]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.07.24:677][189]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.10.17-10.07.24:677][189]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_5b9664ca1a21bd0b66b9ba89305c7a4a>::operator ()(417) OnNextAttackCheck
+[2023.10.17-10.07.24:677][189]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack3
+[2023.10.17-10.07.24:711][191]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.10.17-10.07.24:728][192]ArenaBattle: Warning: AABCharacter::Attack(595) IsAttacking
+[2023.10.17-10.07.24:896][202]ArenaBattle: Warning: AABCharacter::Attack(595) IsAttacking
+[2023.10.17-10.07.24:961][206]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.10.17-10.07.24:961][206]ArenaBattle: Warning: AABCharacter::AttackCheck(672) Hit Actor Name : ABCharacter_1
+[2023.10.17-10.07.24:961][206]ArenaBattle: Warning: AABCharacter::TakeDamage(440) Actor : ABCharacter_1 took Damage : 10.000000
+[2023.10.17-10.07.24:961][206]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.10.17-10.07.24:961][206]ArenaBattle: Warning: AABCharacter::AttackCheck(672) Hit Actor Name : ABCharacter_0
+[2023.10.17-10.07.24:961][206]ArenaBattle: Warning: AABCharacter::TakeDamage(440) Actor : ABCharacter_0 took Damage : 10.000000
+[2023.10.17-10.07.25:045][211]ArenaBattle: Warning: AABCharacter::Attack(595) IsAttacking
+[2023.10.17-10.07.25:229][222]ArenaBattle: Warning: AABCharacter::Attack(595) IsAttacking
+[2023.10.17-10.07.25:278][225]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.10.17-10.07.25:278][225]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_5b9664ca1a21bd0b66b9ba89305c7a4a>::operator ()(417) OnNextAttackCheck
+[2023.10.17-10.07.25:278][225]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack4
+[2023.10.17-10.07.25:295][226]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.10.17-10.07.25:295][226]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_5b9664ca1a21bd0b66b9ba89305c7a4a>::operator ()(417) OnNextAttackCheck
+[2023.10.17-10.07.25:378][231]ArenaBattle: Warning: AABCharacter::Attack(595) IsAttacking
+[2023.10.17-10.07.25:544][241]ArenaBattle: Warning: AABCharacter::Attack(595) IsAttacking
+[2023.10.17-10.07.25:546][241]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.10.17-10.07.25:546][241]ArenaBattle: Warning: AABCharacter::AttackCheck(672) Hit Actor Name : ABCharacter_1
+[2023.10.17-10.07.25:546][241]ArenaBattle: Warning: AABCharacter::TakeDamage(440) Actor : ABCharacter_1 took Damage : 10.000000
+[2023.10.17-10.07.25:661][248]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.07.25:662][248]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.07.25:662][248]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.07.25:662][248]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.07.25:662][248]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.07.25:711][251]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.10.17-10.07.25:745][253]ArenaBattle: Warning: AABCharacter::Attack(595) IsAttacking
+[2023.10.17-10.07.25:961][266]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.10.17-10.07.25:961][266]ArenaBattle: Warning: AABCharacter::AttackCheck(672) Hit Actor Name : ABCharacter_0
+[2023.10.17-10.07.25:961][266]ArenaBattle: Warning: AABCharacter::TakeDamage(440) Actor : ABCharacter_0 took Damage : 10.000000
+[2023.10.17-10.07.26:228][282]ArenaBattle: Warning: AABCharacter::Attack(595) IsAttacking
+[2023.10.17-10.07.26:294][286]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.10.17-10.07.26:294][286]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_5b9664ca1a21bd0b66b9ba89305c7a4a>::operator ()(417) OnNextAttackCheck
+[2023.10.17-10.07.26:479][297]ArenaBattle: Warning: AABCharacter::Attack(595) IsAttacking
+[2023.10.17-10.07.26:661][308]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.07.26:661][308]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.07.26:661][308]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.07.26:661][308]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.07.26:661][308]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.07.26:661][308]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.07.26:678][309]ArenaBattle: Warning: AABCharacter::Attack(595) IsAttacking
+[2023.10.17-10.07.26:711][311]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.10.17-10.07.26:862][320]ArenaBattle: Warning: AABCharacter::Attack(595) IsAttacking
+[2023.10.17-10.07.26:961][326]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.10.17-10.07.26:961][326]ArenaBattle: Warning: AABCharacter::AttackCheck(672) Hit Actor Name : ABCharacter_0
+[2023.10.17-10.07.26:961][326]ArenaBattle: Warning: AABCharacter::TakeDamage(440) Actor : ABCharacter_0 took Damage : 10.000000
+[2023.10.17-10.07.27:028][330]ArenaBattle: Warning: AABCharacter::Attack(595) IsAttacking
+[2023.10.17-10.07.27:263][344]ArenaBattle: Warning: AABCharacter::Attack(595) IsAttacking
+[2023.10.17-10.07.27:295][346]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.10.17-10.07.27:295][346]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_5b9664ca1a21bd0b66b9ba89305c7a4a>::operator ()(417) OnNextAttackCheck
+[2023.10.17-10.07.27:462][356]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.10.17-10.07.27:661][368]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.07.27:661][368]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.07.27:661][368]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.07.27:661][368]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.07.27:661][368]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.07.27:661][368]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.07.27:661][368]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.07.27:694][370]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.10.17-10.07.27:694][370]ArenaBattle: Warning: AABCharacter::AttackCheck(672) Hit Actor Name : ABCharacter_1
+[2023.10.17-10.07.27:694][370]ArenaBattle: Warning: AABCharacter::TakeDamage(440) Actor : ABCharacter_1 took Damage : 10.000000
+[2023.10.17-10.07.27:711][371]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.10.17-10.07.27:728][372]ArenaBattle: Warning: AABCharacter::Attack(595) IsAttacking
+[2023.10.17-10.07.27:962][386]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.10.17-10.07.27:962][386]ArenaBattle: Warning: AABCharacter::AttackCheck(672) Hit Actor Name : ABCharacter_0
+[2023.10.17-10.07.27:962][386]ArenaBattle: Warning: AABCharacter::TakeDamage(440) Actor : ABCharacter_0 took Damage : 10.000000
+[2023.10.17-10.07.28:028][390]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.10.17-10.07.28:028][390]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_5b9664ca1a21bd0b66b9ba89305c7a4a>::operator ()(417) OnNextAttackCheck
+[2023.10.17-10.07.28:028][390]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack2
+[2023.10.17-10.07.28:145][397]ArenaBattle: Warning: AABCharacter::Attack(595) IsAttacking
+[2023.10.17-10.07.28:294][406]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.10.17-10.07.28:294][406]ArenaBattle: Warning: AABCharacter::AttackCheck(672) Hit Actor Name : ABCharacter_1
+[2023.10.17-10.07.28:294][406]ArenaBattle: Warning: AABCharacter::TakeDamage(440) Actor : ABCharacter_1 took Damage : 10.000000
+[2023.10.17-10.07.28:294][406]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.10.17-10.07.28:294][406]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_5b9664ca1a21bd0b66b9ba89305c7a4a>::operator ()(417) OnNextAttackCheck
+[2023.10.17-10.07.28:379][411]ArenaBattle: Warning: AABCharacter::Attack(595) IsAttacking
+[2023.10.17-10.07.28:611][425]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.10.17-10.07.28:611][425]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_5b9664ca1a21bd0b66b9ba89305c7a4a>::operator ()(417) OnNextAttackCheck
+[2023.10.17-10.07.28:611][425]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack3
+[2023.10.17-10.07.28:629][426]ArenaBattle: Warning: AABCharacter::Attack(595) IsAttacking
+[2023.10.17-10.07.28:662][428]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.07.28:662][428]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.07.28:662][428]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.07.28:662][428]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.07.28:662][428]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.07.28:662][428]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.07.28:662][428]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.07.28:662][428]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.07.28:712][431]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.10.17-10.07.28:845][439]ArenaBattle: Warning: AABCharacter::Attack(595) IsAttacking
+[2023.10.17-10.07.28:893][442]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.10.17-10.07.28:893][442]ArenaBattle: Warning: AABCharacter::AttackCheck(672) Hit Actor Name : ABCharacter_1
+[2023.10.17-10.07.28:895][442]ArenaBattle: Warning: AABCharacter::TakeDamage(440) Actor : ABCharacter_1 took Damage : 10.000000
+[2023.10.17-10.07.28:895][442]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_385030f5af75c9d9e52f1b38a2444a37>::operator ()(431) OnHPIsZero
+[2023.10.17-10.07.28:895][442]ArenaBattle: Warning: AABPlayerState::GetExpRatio(68) Ratio : 0.333333, Current : 10, Next : 30
+[2023.10.17-10.07.28:962][446]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.10.17-10.07.28:962][446]ArenaBattle: Warning: AABCharacter::AttackCheck(672) Hit Actor Name : ABCharacter_0
+[2023.10.17-10.07.28:962][446]ArenaBattle: Warning: AABCharacter::TakeDamage(440) Actor : ABCharacter_0 took Damage : 10.000000
+[2023.10.17-10.07.29:045][451]ArenaBattle: Warning: AABCharacter::Attack(595) IsAttacking
+[2023.10.17-10.07.29:211][461]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.10.17-10.07.29:212][461]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_5b9664ca1a21bd0b66b9ba89305c7a4a>::operator ()(417) OnNextAttackCheck
+[2023.10.17-10.07.29:212][461]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack4
+[2023.10.17-10.07.29:294][466]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.10.17-10.07.29:294][466]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_5b9664ca1a21bd0b66b9ba89305c7a4a>::operator ()(417) OnNextAttackCheck
+[2023.10.17-10.07.29:478][477]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.10.17-10.07.29:661][488]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.07.29:661][488]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.07.29:661][488]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.07.29:661][488]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.07.29:662][488]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.07.29:662][488]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.07.29:662][488]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.07.29:662][488]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.07.29:662][488]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.07.33:895][742]ArenaBattle: Warning: AABCharacter::SetCharacterState::<lambda_4a9021380375f67b1fb80664bf1ba41b>::operator ()(268) Enemy Dead
+[2023.10.17-10.07.33:896][742]ArenaBattle: Warning: AABPlayerState::GetExpRatio(68) Ratio : 0.333333, Current : 10, Next : 30
+[2023.10.17-10.07.33:897][742]ArenaBattle: Warning: AABSection::SetState(108) SetState : 2
+[2023.10.17-10.07.42:965][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.17-10.07.42:965][281]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Gameplay
+[2023.10.17-10.07.42:965][281]LogWorld: UWorld::CleanupWorld for Gameplay, bSessionEnded=true, bCleanupResources=true
+[2023.10.17-10.07.42:965][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.17-10.07.42:984][281]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.17-10.07.42:987][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.17-10.07.43:004][281]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.17-10.07.43:005][281]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.10.17-10.07.43:009][281]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.10.17-10.07.43:017][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.17-10.07.43:023][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.10.17-10.07.43:050][282]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2023.10.17-10.07.52:264][702]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2023.10.17-10.07.52:278][702]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.17-10.07.52:278][702]PIE: New page: PIE 세션: Gameplay (2023. 10. 18. 오전 4:07:52)
+[2023.10.17-10.07.52:278][702]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Gameplay
+[2023.10.17-10.07.52:291][702]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013264s)
+[2023.10.17-10.07.52:291][702]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Gameplay.Gameplay to /Game/Book/Maps/UEDPIE_0_Gameplay.Gameplay (0.013419s)
+[2023.10.17-10.07.52:292][702]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.10.17-10.07.52:292][702]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.17-10.07.52:292][702]LogAIModule: Creating AISystem for world Gameplay
+[2023.10.17-10.07.52:293][702]LogPlayLevel: PIE: World Init took: (0.001497s)
+[2023.10.17-10.07.52:312][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.10.17-10.07.52:312][702]ArenaBattle: Warning: UABGameInstance::Init(18) DropExp of Level 20 ABCharacter : 105
+[2023.10.17-10.07.52:312][702]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.10.17-10.07.52:312][702]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.17-10.07.52:312][702]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.17-10.07.52:313][702]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.17-10.07.52:313][702]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.17-10.07.52:313][702]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.17-10.07.52:313][702]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.17-10.07.52:313][702]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.17-10.07.52:313][702]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.17-10.07.52:314][702]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.17-10.07.52:314][702]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.17-10.07.52:314][702]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.17-10.07.52:317][702]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.17-10.07.52:356][702]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2023.10.17-10.07.52:357][702]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.17-10.07.52:357][702]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.17-10.07.52:357][702]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.17-10.07.52:358][702]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.10.17-10.07.52:358][702]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.10.17-10.07.52:361][702]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.10.17-10.07.52:361][702]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.10.17-10.07.52:361][702]LogInit: FAudioDevice initialized.
+[2023.10.17-10.07.52:361][702]LogAudio: Display: Audio Device (ID: 4) registered with world 'Gameplay'.
+[2023.10.17-10.07.52:380][702]LogLoad: Game class is 'ABGameMode'
+[2023.10.17-10.07.52:385][702]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Gameplay.Gameplay up for play (max tick rate 60) at 2023.10.17-19.07.52
+[2023.10.17-10.07.52:385][702]LogWorld: Bringing up level for play took: 0.005714
+[2023.10.17-10.07.52:391][702]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2023.10.17-10.07.52:391][702]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(23)
+[2023.10.17-10.07.52:394][702]ArenaBattle: Warning: AABPlayerController::OnPossess(28)
+[2023.10.17-10.07.52:395][702]ArenaBattle: Warning: AABSection::SetState(108) SetState : 2
+[2023.10.17-10.07.52:396][702]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.10.17-10.07.52:397][702]ArenaBattle: Warning: AABPlayerState::GetExpRatio(68) Ratio : 0.333333, Current : 10, Next : 30
+[2023.10.17-10.07.52:397][702]PIE: 서버가 로그인했습니다.
+[2023.10.17-10.07.52:398][702]PIE: 에디터에서 플레이 총 시작 시간 0.12초입니다.
+[2023.10.17-10.07.52:759][712]ArenaBattle: Warning: AABSection::OnGateTriggerBeginOverlap(175) OnGateTriggerBeginOverlap
+[2023.10.17-10.07.52:759][712]ArenaBattle: Warning: AABSection::OnGateTriggerBeginOverlap(202) Overlap Fail
+[2023.10.17-10.07.52:760][712]ArenaBattle: Warning: AABSection::SetState(108) SetState : 0
+[2023.10.17-10.07.52:761][712]ArenaBattle: Warning: AABSection::SetState(108) SetState : 0
+[2023.10.17-10.07.54:359][808]ArenaBattle: Warning: AABSection::SetState(108) SetState : 1
+[2023.10.17-10.07.58:125][ 32]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.10.17-10.07.58:242][ 39]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.10.17-10.07.58:359][ 46]ArenaBattle: Warning: AABCharacter::Attack(595) IsAttacking
+[2023.10.17-10.07.58:359][ 46]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.10.17-10.07.58:359][ 46]ArenaBattle: Warning: AABCharacter::AttackCheck(672) Hit Actor Name : ABCharacter_1
+[2023.10.17-10.07.58:360][ 46]ArenaBattle: Warning: AABCharacter::TakeDamage(440) Actor : ABCharacter_1 took Damage : 10.000000
+[2023.10.17-10.07.58:492][ 54]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.10.17-10.07.58:492][ 54]ArenaBattle: Warning: AABCharacter::AttackCheck(672) Hit Actor Name : ABCharacter_0
+[2023.10.17-10.07.58:492][ 54]ArenaBattle: Warning: AABCharacter::TakeDamage(440) Actor : ABCharacter_0 took Damage : 10.000000
+[2023.10.17-10.07.58:559][ 58]ArenaBattle: Warning: AABCharacter::Attack(595) IsAttacking
+[2023.10.17-10.07.58:693][ 66]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.10.17-10.07.58:693][ 66]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_5b9664ca1a21bd0b66b9ba89305c7a4a>::operator ()(417) OnNextAttackCheck
+[2023.10.17-10.07.58:693][ 66]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack2
+[2023.10.17-10.07.58:758][ 70]ArenaBattle: Warning: AABCharacter::Attack(595) IsAttacking
+[2023.10.17-10.07.58:824][ 74]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.10.17-10.07.58:824][ 74]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_5b9664ca1a21bd0b66b9ba89305c7a4a>::operator ()(417) OnNextAttackCheck
+[2023.10.17-10.07.58:958][ 82]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.10.17-10.07.58:958][ 82]ArenaBattle: Warning: AABCharacter::AttackCheck(672) Hit Actor Name : ABCharacter_1
+[2023.10.17-10.07.58:958][ 82]ArenaBattle: Warning: AABCharacter::TakeDamage(440) Actor : ABCharacter_1 took Damage : 10.000000
+[2023.10.17-10.07.58:977][ 83]ArenaBattle: Warning: AABCharacter::Attack(595) IsAttacking
+[2023.10.17-10.07.59:126][ 92]ArenaBattle: Warning: AABCharacter::Attack(595) IsAttacking
+[2023.10.17-10.07.59:191][ 96]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.07.59:242][ 99]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.10.17-10.07.59:275][101]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.10.17-10.07.59:275][101]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_5b9664ca1a21bd0b66b9ba89305c7a4a>::operator ()(417) OnNextAttackCheck
+[2023.10.17-10.07.59:275][101]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack3
+[2023.10.17-10.07.59:491][114]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.10.17-10.07.59:491][114]ArenaBattle: Warning: AABCharacter::AttackCheck(672) Hit Actor Name : ABCharacter_0
+[2023.10.17-10.07.59:492][114]ArenaBattle: Warning: AABCharacter::TakeDamage(440) Actor : ABCharacter_0 took Damage : 10.000000
+[2023.10.17-10.07.59:557][118]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.10.17-10.07.59:557][118]ArenaBattle: Warning: AABCharacter::AttackCheck(672) Hit Actor Name : ABCharacter_1
+[2023.10.17-10.07.59:557][118]ArenaBattle: Warning: AABCharacter::TakeDamage(440) Actor : ABCharacter_1 took Damage : 10.000000
+[2023.10.17-10.07.59:824][134]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.10.17-10.07.59:825][134]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_5b9664ca1a21bd0b66b9ba89305c7a4a>::operator ()(417) OnNextAttackCheck
+[2023.10.17-10.07.59:873][137]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.10.17-10.07.59:875][137]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_5b9664ca1a21bd0b66b9ba89305c7a4a>::operator ()(417) OnNextAttackCheck
+[2023.10.17-10.08.00:191][156]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.08.00:191][156]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.08.00:241][159]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.10.17-10.08.00:491][174]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.10.17-10.08.00:492][174]ArenaBattle: Warning: AABCharacter::AttackCheck(672) Hit Actor Name : ABCharacter_0
+[2023.10.17-10.08.00:492][174]ArenaBattle: Warning: AABCharacter::TakeDamage(440) Actor : ABCharacter_0 took Damage : 10.000000
+[2023.10.17-10.08.00:642][183]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.10.17-10.08.00:825][194]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.10.17-10.08.00:825][194]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_5b9664ca1a21bd0b66b9ba89305c7a4a>::operator ()(417) OnNextAttackCheck
+[2023.10.17-10.08.00:875][197]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.10.17-10.08.00:875][197]ArenaBattle: Warning: AABCharacter::AttackCheck(672) Hit Actor Name : ABCharacter_1
+[2023.10.17-10.08.00:875][197]ArenaBattle: Warning: AABCharacter::TakeDamage(440) Actor : ABCharacter_1 took Damage : 10.000000
+[2023.10.17-10.08.00:959][202]ArenaBattle: Warning: AABCharacter::Attack(595) IsAttacking
+[2023.10.17-10.08.01:191][216]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.08.01:191][216]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.08.01:191][216]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.08.01:208][217]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.10.17-10.08.01:208][217]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_5b9664ca1a21bd0b66b9ba89305c7a4a>::operator ()(417) OnNextAttackCheck
+[2023.10.17-10.08.01:208][217]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack2
+[2023.10.17-10.08.01:242][219]ArenaBattle: Warning: AABCharacter::Attack(595) IsAttacking
+[2023.10.17-10.08.01:243][219]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.10.17-10.08.01:474][233]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.10.17-10.08.01:475][233]ArenaBattle: Warning: AABCharacter::AttackCheck(672) Hit Actor Name : ABCharacter_1
+[2023.10.17-10.08.01:475][233]ArenaBattle: Warning: AABCharacter::TakeDamage(440) Actor : ABCharacter_1 took Damage : 10.000000
+[2023.10.17-10.08.01:493][234]ArenaBattle: Warning: AABCharacter::Attack(595) IsAttacking
+[2023.10.17-10.08.01:493][234]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.10.17-10.08.01:493][234]ArenaBattle: Warning: AABCharacter::AttackCheck(672) Hit Actor Name : ABCharacter_0
+[2023.10.17-10.08.01:493][234]ArenaBattle: Warning: AABCharacter::TakeDamage(440) Actor : ABCharacter_0 took Damage : 10.000000
+[2023.10.17-10.08.01:743][249]ArenaBattle: Warning: AABCharacter::Attack(595) IsAttacking
+[2023.10.17-10.08.01:791][252]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.10.17-10.08.01:791][252]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_5b9664ca1a21bd0b66b9ba89305c7a4a>::operator ()(417) OnNextAttackCheck
+[2023.10.17-10.08.01:791][252]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack3
+[2023.10.17-10.08.01:824][254]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.10.17-10.08.01:824][254]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_5b9664ca1a21bd0b66b9ba89305c7a4a>::operator ()(417) OnNextAttackCheck
+[2023.10.17-10.08.02:010][265]ArenaBattle: Warning: AABCharacter::Attack(595) IsAttacking
+[2023.10.17-10.08.02:075][269]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.10.17-10.08.02:075][269]ArenaBattle: Warning: AABCharacter::AttackCheck(672) Hit Actor Name : ABCharacter_1
+[2023.10.17-10.08.02:075][269]ArenaBattle: Warning: AABCharacter::TakeDamage(440) Actor : ABCharacter_1 took Damage : 10.000000
+[2023.10.17-10.08.02:191][276]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.08.02:191][276]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.08.02:191][276]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.08.02:191][276]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.08.02:242][279]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.10.17-10.08.02:258][280]ArenaBattle: Warning: AABCharacter::Attack(595) IsAttacking
+[2023.10.17-10.08.02:391][288]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.10.17-10.08.02:391][288]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_5b9664ca1a21bd0b66b9ba89305c7a4a>::operator ()(417) OnNextAttackCheck
+[2023.10.17-10.08.02:391][288]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack4
+[2023.10.17-10.08.02:492][294]ArenaBattle: Warning: AABCharacter::Attack(595) IsAttacking
+[2023.10.17-10.08.02:493][294]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.10.17-10.08.02:493][294]ArenaBattle: Warning: AABCharacter::AttackCheck(672) Hit Actor Name : ABCharacter_0
+[2023.10.17-10.08.02:493][294]ArenaBattle: Warning: AABCharacter::TakeDamage(440) Actor : ABCharacter_0 took Damage : 10.000000
+[2023.10.17-10.08.02:657][304]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.10.17-10.08.02:658][304]ArenaBattle: Warning: AABCharacter::AttackCheck(672) Hit Actor Name : ABCharacter_1
+[2023.10.17-10.08.02:658][304]ArenaBattle: Warning: AABCharacter::TakeDamage(440) Actor : ABCharacter_1 took Damage : 10.000000
+[2023.10.17-10.08.02:775][311]ArenaBattle: Warning: AABCharacter::Attack(595) IsAttacking
+[2023.10.17-10.08.02:824][314]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.10.17-10.08.02:824][314]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_5b9664ca1a21bd0b66b9ba89305c7a4a>::operator ()(417) OnNextAttackCheck
+[2023.10.17-10.08.03:158][334]ArenaBattle: Warning: AABCharacter::Attack(595) IsAttacking
+[2023.10.17-10.08.03:192][336]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.08.03:192][336]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.08.03:192][336]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.08.03:192][336]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.08.03:192][336]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.08.03:241][339]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.10.17-10.08.03:425][350]ArenaBattle: Warning: AABCharacter::Attack(595) IsAttacking
+[2023.10.17-10.08.03:491][354]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.10.17-10.08.03:492][354]ArenaBattle: Warning: AABCharacter::AttackCheck(672) Hit Actor Name : ABCharacter_0
+[2023.10.17-10.08.03:492][354]ArenaBattle: Warning: AABCharacter::TakeDamage(440) Actor : ABCharacter_0 took Damage : 10.000000
+[2023.10.17-10.08.03:726][368]ArenaBattle: Warning: AABCharacter::Attack(595) IsAttacking
+[2023.10.17-10.08.03:825][374]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.10.17-10.08.03:825][374]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_5b9664ca1a21bd0b66b9ba89305c7a4a>::operator ()(417) OnNextAttackCheck
+[2023.10.17-10.08.03:975][383]ArenaBattle: Warning: AABCharacter::Attack(595) IsAttacking
+[2023.10.17-10.08.04:192][396]ArenaBattle: Warning: AABCharacter::Attack(595) IsAttacking
+[2023.10.17-10.08.04:192][396]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.08.04:192][396]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.08.04:192][396]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.08.04:192][396]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.08.04:192][396]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.08.04:192][396]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.08.04:242][399]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.10.17-10.08.04:392][408]ArenaBattle: Warning: AABCharacter::Attack(595) IsAttacking
+[2023.10.17-10.08.04:492][414]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.10.17-10.08.04:492][414]ArenaBattle: Warning: AABCharacter::AttackCheck(672) Hit Actor Name : ABCharacter_0
+[2023.10.17-10.08.04:492][414]ArenaBattle: Warning: AABCharacter::TakeDamage(440) Actor : ABCharacter_0 took Damage : 10.000000
+[2023.10.17-10.08.04:626][422]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.10.17-10.08.04:792][432]ArenaBattle: Warning: AABCharacter::Attack(595) IsAttacking
+[2023.10.17-10.08.04:825][434]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.10.17-10.08.04:825][434]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_5b9664ca1a21bd0b66b9ba89305c7a4a>::operator ()(417) OnNextAttackCheck
+[2023.10.17-10.08.04:858][436]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.10.17-10.08.04:858][436]ArenaBattle: Warning: AABCharacter::AttackCheck(672) Hit Actor Name : ABCharacter_1
+[2023.10.17-10.08.04:858][436]ArenaBattle: Warning: AABCharacter::TakeDamage(440) Actor : ABCharacter_1 took Damage : 10.000000
+[2023.10.17-10.08.05:191][456]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.10.17-10.08.05:191][456]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_5b9664ca1a21bd0b66b9ba89305c7a4a>::operator ()(417) OnNextAttackCheck
+[2023.10.17-10.08.05:191][456]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack2
+[2023.10.17-10.08.05:191][456]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.08.05:192][456]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.08.05:192][456]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.08.05:192][456]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.08.05:192][456]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.08.05:192][456]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.08.05:192][456]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.08.05:242][459]ArenaBattle: Warning: AABCharacter::Attack(595) IsAttacking
+[2023.10.17-10.08.05:243][459]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.10.17-10.08.05:457][472]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.10.17-10.08.05:458][472]ArenaBattle: Warning: AABCharacter::AttackCheck(672) Hit Actor Name : ABCharacter_1
+[2023.10.17-10.08.05:458][472]ArenaBattle: Warning: AABCharacter::TakeDamage(440) Actor : ABCharacter_1 took Damage : 10.000000
+[2023.10.17-10.08.05:492][474]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.10.17-10.08.05:492][474]ArenaBattle: Warning: AABCharacter::AttackCheck(672) Hit Actor Name : ABCharacter_0
+[2023.10.17-10.08.05:492][474]ArenaBattle: Warning: AABCharacter::TakeDamage(440) Actor : ABCharacter_0 took Damage : 10.000000
+[2023.10.17-10.08.05:775][491]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.10.17-10.08.05:775][491]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_5b9664ca1a21bd0b66b9ba89305c7a4a>::operator ()(417) OnNextAttackCheck
+[2023.10.17-10.08.05:775][491]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack3
+[2023.10.17-10.08.05:825][494]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.10.17-10.08.05:825][494]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_5b9664ca1a21bd0b66b9ba89305c7a4a>::operator ()(417) OnNextAttackCheck
+[2023.10.17-10.08.06:058][508]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.10.17-10.08.06:058][508]ArenaBattle: Warning: AABCharacter::AttackCheck(672) Hit Actor Name : ABCharacter_1
+[2023.10.17-10.08.06:058][508]ArenaBattle: Warning: AABCharacter::TakeDamage(440) Actor : ABCharacter_1 took Damage : 10.000000
+[2023.10.17-10.08.06:059][508]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_385030f5af75c9d9e52f1b38a2444a37>::operator ()(431) OnHPIsZero
+[2023.10.17-10.08.06:059][508]ArenaBattle: Warning: AABPlayerState::GetExpRatio(68) Ratio : 0.666667, Current : 20, Next : 30
+[2023.10.17-10.08.06:192][516]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.08.06:192][516]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.08.06:192][516]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.08.06:192][516]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.08.06:192][516]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.08.06:192][516]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.08.06:192][516]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.08.06:192][516]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.08.06:225][518]ArenaBattle: Warning: AABCharacter::Attack(595) IsAttacking
+[2023.10.17-10.08.06:375][527]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.10.17-10.08.06:375][527]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_5b9664ca1a21bd0b66b9ba89305c7a4a>::operator ()(417) OnNextAttackCheck
+[2023.10.17-10.08.06:375][527]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack4
+[2023.10.17-10.08.06:642][543]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.10.17-10.08.11:058][808]ArenaBattle: Warning: AABCharacter::SetCharacterState::<lambda_4a9021380375f67b1fb80664bf1ba41b>::operator ()(268) Enemy Dead
+[2023.10.17-10.08.11:059][808]ArenaBattle: Warning: AABPlayerState::GetExpRatio(68) Ratio : 0.666667, Current : 20, Next : 30
+[2023.10.17-10.08.11:060][808]ArenaBattle: Warning: AABSection::SetState(108) SetState : 2
+[2023.10.17-10.08.16:308][123]ArenaBattle: Warning: AABItemBox::OnCharacterOverlap(68)
+[2023.10.17-10.08.19:755][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.17-10.08.19:755][314]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Gameplay
+[2023.10.17-10.08.19:755][314]LogWorld: UWorld::CleanupWorld for Gameplay, bSessionEnded=true, bCleanupResources=true
+[2023.10.17-10.08.19:755][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.17-10.08.19:775][314]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.17-10.08.19:778][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.17-10.08.19:795][314]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.17-10.08.19:796][314]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.10.17-10.08.19:798][314]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.10.17-10.08.19:806][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.17-10.08.19:812][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.10.17-10.08.20:041][315]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2023.10.17-10.08.25:836][578]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2023.10.17-10.08.25:850][578]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.17-10.08.25:850][578]PIE: New page: PIE 세션: Gameplay (2023. 10. 18. 오전 4:08:25)
+[2023.10.17-10.08.25:851][578]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Gameplay
+[2023.10.17-10.08.25:867][578]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015780s)
+[2023.10.17-10.08.25:867][578]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Gameplay.Gameplay to /Game/Book/Maps/UEDPIE_0_Gameplay.Gameplay (0.015928s)
+[2023.10.17-10.08.25:867][578]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.10.17-10.08.25:867][578]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.17-10.08.25:868][578]LogAIModule: Creating AISystem for world Gameplay
+[2023.10.17-10.08.25:868][578]LogPlayLevel: PIE: World Init took: (0.001401s)
+[2023.10.17-10.08.25:887][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.10.17-10.08.25:888][578]ArenaBattle: Warning: UABGameInstance::Init(18) DropExp of Level 20 ABCharacter : 105
+[2023.10.17-10.08.25:888][578]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.10.17-10.08.25:888][578]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.17-10.08.25:888][578]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.17-10.08.25:888][578]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.17-10.08.25:888][578]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.17-10.08.25:888][578]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.17-10.08.25:888][578]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.17-10.08.25:888][578]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.17-10.08.25:888][578]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.17-10.08.25:889][578]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.17-10.08.25:889][578]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.17-10.08.25:889][578]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.17-10.08.25:892][578]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.17-10.08.25:932][578]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2023.10.17-10.08.25:933][578]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.17-10.08.25:933][578]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.17-10.08.25:933][578]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.17-10.08.25:935][578]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.10.17-10.08.25:935][578]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.10.17-10.08.25:938][578]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.10.17-10.08.25:938][578]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.10.17-10.08.25:938][578]LogInit: FAudioDevice initialized.
+[2023.10.17-10.08.25:938][578]LogAudio: Display: Audio Device (ID: 5) registered with world 'Gameplay'.
+[2023.10.17-10.08.25:959][578]LogLoad: Game class is 'ABGameMode'
+[2023.10.17-10.08.25:965][578]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Gameplay.Gameplay up for play (max tick rate 60) at 2023.10.17-19.08.25
+[2023.10.17-10.08.25:965][578]LogWorld: Bringing up level for play took: 0.005750
+[2023.10.17-10.08.25:971][578]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2023.10.17-10.08.25:972][578]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(23)
+[2023.10.17-10.08.25:973][578]ArenaBattle: Warning: AABPlayerController::OnPossess(28)
+[2023.10.17-10.08.25:974][578]ArenaBattle: Warning: AABSection::SetState(108) SetState : 2
+[2023.10.17-10.08.25:975][578]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.10.17-10.08.25:976][578]ArenaBattle: Warning: AABPlayerState::GetExpRatio(68) Ratio : 0.666667, Current : 20, Next : 30
+[2023.10.17-10.08.25:976][578]PIE: 서버가 로그인했습니다.
+[2023.10.17-10.08.25:978][578]PIE: 에디터에서 플레이 총 시작 시간 0.128초입니다.
+[2023.10.17-10.08.26:641][606]ArenaBattle: Warning: AABSection::OnGateTriggerBeginOverlap(175) OnGateTriggerBeginOverlap
+[2023.10.17-10.08.26:641][606]ArenaBattle: Warning: AABSection::OnGateTriggerBeginOverlap(202) Overlap Fail
+[2023.10.17-10.08.26:642][606]ArenaBattle: Warning: AABSection::SetState(108) SetState : 0
+[2023.10.17-10.08.26:643][606]ArenaBattle: Warning: AABSection::SetState(108) SetState : 0
+[2023.10.17-10.08.40:085][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.17-10.08.40:086][411]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Gameplay
+[2023.10.17-10.08.40:086][411]LogWorld: UWorld::CleanupWorld for Gameplay, bSessionEnded=true, bCleanupResources=true
+[2023.10.17-10.08.40:086][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.17-10.08.40:107][411]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.17-10.08.40:111][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.17-10.08.40:128][411]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.17-10.08.40:128][411]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.10.17-10.08.40:131][411]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.10.17-10.08.40:138][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.17-10.08.40:144][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.10.17-10.08.40:383][412]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2023.10.17-10.08.41:666][457]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.10.17-10.08.41:676][457]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.007543 seconds
+[2023.10.17-10.08.41:695][457]LogSavePackage: Moving output files for package: /Game/Book/Maps/Gameplay
+[2023.10.17-10.08.41:697][457]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/ArenaBattle/ArenaBattle/Saved/GameplayE7A459FB497FA5708CD0519B982C04AF.tmp' to '../../../../../../Users/Owner/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Maps/Gameplay.umap'
+[2023.10.17-10.08.41:757][457]AssetCheck: New page: 에셋 저장:  Gameplay
+[2023.10.17-10.08.41:757][457]LogContentValidation: Display: World /Game/Book/Maps/Gameplay.Gameplay 유효성 검사 중
+[2023.10.17-10.08.53:785][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.10.17-10.08.53:806][ 41]LogSavePackage: Moving output files for package: /Game/Book/Maps/Gameplay
+[2023.10.17-10.08.53:808][ 41]LogSavePackage: Moving '../../../../../../Users/Owner/Documents/GitHub/ArenaBattle/ArenaBattle/Saved/Gameplay388D535348FE4C0196E171B8406372BE.tmp' to '../../../../../../Users/Owner/Documents/GitHub/ArenaBattle/ArenaBattle/Content/Book/Maps/Gameplay.umap'
+[2023.10.17-10.08.53:848][ 41]AssetCheck: New page: 에셋 저장:  Gameplay
+[2023.10.17-10.08.53:848][ 41]LogContentValidation: Display: World /Game/Book/Maps/Gameplay.Gameplay 유효성 검사 중
+[2023.10.17-10.20.22:758][966]LogViewport: Scene viewport resized to 1357x532, mode Windowed.
+[2023.10.17-10.20.22:881][966]LogViewport: Scene viewport resized to 1357x537, mode Windowed.
+[2023.10.17-10.37.20:522][ 33]Candidate modules for hot reload:
+[2023.10.17-10.37.20:522][ 33]  ArenaBattle
+[2023.10.17-10.37.20:534][ 33]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe  -ModuleWithSuffix=ArenaBattle,6984 ArenaBattleEditor Win64 Development -Project="C:/Users/Owner/Documents/GitHub/ArenaBattle/ArenaBattle/ArenaBattle.uproject" "C:/Users/Owner/Documents/GitHub/ArenaBattle/ArenaBattle/ArenaBattle.uproject"  -IgnoreJunk]
+[2023.10.17-10.37.20:539][ 33]Warning: Starting HotReload took  0.1s.
+[2023.10.17-10.38.08:170][728]CompilerResultsLog: New page: 컴파일 - 2023. 10. 18. 오전 4:38:08
+[2023.10.17-10.38.08:170][728]CompilerResultsLog: Log file: C:\Users\Owner\AppData\Local\UnrealBuildTool\Log.txt
+[2023.10.17-10.38.08:170][728]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Owner\Documents\GitHub\ArenaBattle).
+[2023.10.17-10.38.08:170][728]CompilerResultsLog: Invalidating makefile for ArenaBattleEditor (ABHUDWidget.cpp.obj.response modified)
+[2023.10.17-10.38.08:170][728]CompilerResultsLog: Building ArenaBattleEditor...
+[2023.10.17-10.38.08:170][728]CompilerResultsLog: Using Visual Studio 2019 14.29.30152 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.10.17-10.38.08:170][728]CompilerResultsLog: Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+[2023.10.17-10.38.08:170][728]CompilerResultsLog:   Executing up to 8 processes, one per physical core
+[2023.10.17-10.38.08:170][728]CompilerResultsLog: Building 17 actions with 8 processes...
+[2023.10.17-10.38.08:170][728]CompilerResultsLog: [1/17] Compile ArenaBattle.init.gen.cpp
+[2023.10.17-10.38.08:170][728]CompilerResultsLog: [2/17] Compile ABWeapon.cpp
+[2023.10.17-10.38.08:170][728]CompilerResultsLog: [3/17] Compile ABWeapon.gen.cpp
+[2023.10.17-10.38.08:170][728]CompilerResultsLog: [4/17] Compile BTTask_Attack.cpp
+[2023.10.17-10.38.08:170][728]CompilerResultsLog: [5/17] Compile BTDecorator_IsInAttackRange.cpp
+[2023.10.17-10.38.08:170][728]CompilerResultsLog: [6/17] Compile BTService_Detect.cpp
+[2023.10.17-10.38.08:170][728]CompilerResultsLog: [7/17] Compile ABCharacter.gen.cpp
+[2023.10.17-10.38.08:171][728]CompilerResultsLog: [8/17] Compile ABGameMode.cpp
+[2023.10.17-10.38.08:171][728]CompilerResultsLog: [9/17] Compile ABHUDWidget.cpp
+[2023.10.17-10.38.08:171][728]CompilerResultsLog: [10/17] Compile ABPlayerController.cpp
+[2023.10.17-10.38.08:171][728]CompilerResultsLog: [11/17] Compile ABItemBox.cpp
+[2023.10.17-10.38.08:171][728]CompilerResultsLog: [12/17] Compile ABSection.cpp
+[2023.10.17-10.38.08:171][728]CompilerResultsLog: [13/17] Compile ABCharacter.cpp
+[2023.10.17-10.38.08:171][728]CompilerResultsLog: [14/17] Compile BTTask_TurnToTarget.cpp
+[2023.10.17-10.38.08:171][728]CompilerResultsLog: [15/17] Link UnrealEditor-ArenaBattle-6984.lib
+[2023.10.17-10.38.08:171][728]CompilerResultsLog:    C:\Users\Owner\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-6984.lib ???̺귯?? ?? C:\Users\Owner\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-6984.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.10.17-10.38.08:171][728]CompilerResultsLog: [16/17] Link UnrealEditor-ArenaBattle-6984.dll
+[2023.10.17-10.38.08:171][728]CompilerResultsLog:    C:\Users\Owner\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-6984.suppressed.lib ???̺귯?? ?? C:\Users\Owner\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-6984.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.10.17-10.38.08:171][728]CompilerResultsLog: [17/17] WriteMetadata ArenaBattleEditor.target
+[2023.10.17-10.38.08:171][728]CompilerResultsLog: Total time in Parallel executor: 42.36 seconds
+[2023.10.17-10.38.08:171][728]CompilerResultsLog: Total execution time: 47.40 seconds
+[2023.10.17-10.38.08:171][728]LogMainFrame: MainFrame: Module compiling took 47.691 seconds
+[2023.10.17-10.38.08:258][728]LogClass: /Script/ArenaBattle Reload.
+[2023.10.17-10.38.08:258][728]LogClass: ABWeapon Reload.
+[2023.10.17-10.38.08:271][728]LogClass: Could not find existing class ABWeapon in package /Script/ArenaBattle for reload, assuming new or modified class
+[2023.10.17-10.38.08:287][728]Re-instancing ABCharacter after reload.
+[2023.10.17-10.38.08:309][728]Re-instancing ABItemBox after reload.
+[2023.10.17-10.38.08:345][728]Re-instancing ABWeapon after reload.
+[2023.10.17-10.38.08:465][728]Display: HotReload took 48.0s.
+[2023.10.17-10.38.08:465][728]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed, 21 classes unchanged, 1 enum unchanged, 1 scriptstruct unchanged, 8 functions remapped, 1 scriptstruct remapped
+[2023.10.17-10.45.03:885][366]Candidate modules for hot reload:
+[2023.10.17-10.45.03:885][366]  ArenaBattle
+[2023.10.17-10.45.03:897][366]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe  -ModuleWithSuffix=ArenaBattle,1406 ArenaBattleEditor Win64 Development -Project="C:/Users/Owner/Documents/GitHub/ArenaBattle/ArenaBattle/ArenaBattle.uproject" "C:/Users/Owner/Documents/GitHub/ArenaBattle/ArenaBattle/ArenaBattle.uproject"  -IgnoreJunk]
+[2023.10.17-10.45.03:903][366]Warning: Starting HotReload took  0.1s.
+[2023.10.17-10.45.51:982][174]CompilerResultsLog: New page: 컴파일 - 2023. 10. 18. 오전 4:45:51
+[2023.10.17-10.45.51:983][174]CompilerResultsLog: Log file: C:\Users\Owner\AppData\Local\UnrealBuildTool\Log.txt
+[2023.10.17-10.45.51:983][174]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Owner\Documents\GitHub\ArenaBattle).
+[2023.10.17-10.45.51:983][174]CompilerResultsLog: Building ArenaBattleEditor...
+[2023.10.17-10.45.51:983][174]CompilerResultsLog: Using Visual Studio 2019 14.29.30152 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.10.17-10.45.51:983][174]CompilerResultsLog: Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+[2023.10.17-10.45.51:983][174]CompilerResultsLog:   Executing up to 8 processes, one per physical core
+[2023.10.17-10.45.51:983][174]CompilerResultsLog: Building 14 actions with 8 processes...
+[2023.10.17-10.45.51:983][174]CompilerResultsLog: [1/14] Compile ABWeapon.cpp
+[2023.10.17-10.45.51:983][174]CompilerResultsLog: [2/14] Compile ABGameMode.cpp
+[2023.10.17-10.45.51:983][174]CompilerResultsLog: [3/14] Compile ABCharacter.gen.cpp
+[2023.10.17-10.45.51:983][174]CompilerResultsLog: [4/14] Compile ABItemBox.cpp
+[2023.10.17-10.45.51:983][174]CompilerResultsLog: [5/14] Compile ABSection.cpp
+[2023.10.17-10.45.51:983][174]CompilerResultsLog: [6/14] Compile BTDecorator_IsInAttackRange.cpp
+[2023.10.17-10.45.51:983][174]CompilerResultsLog: [7/14] Compile BTService_Detect.cpp
+[2023.10.17-10.45.51:983][174]CompilerResultsLog: [8/14] Compile BTTask_Attack.cpp
+[2023.10.17-10.45.51:983][174]CompilerResultsLog: [9/14] Compile BTTask_TurnToTarget.cpp
+[2023.10.17-10.45.51:983][174]CompilerResultsLog: [10/14] Compile ABCharacter.cpp
+[2023.10.17-10.45.51:983][174]CompilerResultsLog: [11/14] Compile ABPlayerController.cpp
+[2023.10.17-10.45.51:983][174]CompilerResultsLog: [12/14] Link UnrealEditor-ArenaBattle-1406.lib
+[2023.10.17-10.45.51:983][174]CompilerResultsLog:    C:\Users\Owner\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-1406.lib ???̺귯?? ?? C:\Users\Owner\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-1406.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.10.17-10.45.51:983][174]CompilerResultsLog: [13/14] Link UnrealEditor-ArenaBattle-1406.dll
+[2023.10.17-10.45.51:983][174]CompilerResultsLog:    C:\Users\Owner\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-1406.suppressed.lib ???̺귯?? ?? C:\Users\Owner\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle-1406.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.10.17-10.45.51:983][174]CompilerResultsLog: [14/14] WriteMetadata ArenaBattleEditor.target
+[2023.10.17-10.45.51:983][174]CompilerResultsLog: Total time in Parallel executor: 45.79 seconds
+[2023.10.17-10.45.51:983][174]CompilerResultsLog: Total execution time: 47.86 seconds
+[2023.10.17-10.45.51:983][174]LogMainFrame: MainFrame: Module compiling took 48.137 seconds
+[2023.10.17-10.45.52:109][174]Re-instancing ABWeapon after reload.
+[2023.10.17-10.45.52:232][174]Display: HotReload took 48.4s.
+[2023.10.17-10.45.52:232][174]Display: Reload/Re-instancing Complete: 1 package changed, 22 classes unchanged, 1 enum unchanged, 1 scriptstruct unchanged, 8 functions remapped, 1 scriptstruct remapped
+[2023.10.17-10.46.25:804][896]LogSlate: Took 0.003651 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.10.17-10.46.25:804][896]LogSlate: Last resort fallback font was requested. Font: '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf', Character: 'ϰ (U+03f0)'
+[2023.10.17-10.46.25:811][896]LogSlate: Took 0.003520 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2023.10.17-10.47.47:926][360]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2023.10.17-10.47.47:942][360]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.17-10.47.47:942][360]PIE: New page: PIE 세션: Gameplay (2023. 10. 18. 오전 4:47:47)
+[2023.10.17-10.47.47:942][360]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Gameplay
+[2023.10.17-10.47.47:964][360]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022064s)
+[2023.10.17-10.47.47:964][360]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Gameplay.Gameplay to /Game/Book/Maps/UEDPIE_0_Gameplay.Gameplay (0.022253s)
+[2023.10.17-10.47.47:965][360]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.10.17-10.47.47:965][360]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.17-10.47.47:966][360]LogAIModule: Creating AISystem for world Gameplay
+[2023.10.17-10.47.47:966][360]LogPlayLevel: PIE: World Init took: (0.001866s)
+[2023.10.17-10.47.47:986][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.10.17-10.47.47:986][360]ArenaBattle: Warning: UABGameInstance::Init(18) DropExp of Level 20 ABCharacter : 105
+[2023.10.17-10.47.47:986][360]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.10.17-10.47.47:986][360]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.17-10.47.47:986][360]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.17-10.47.47:986][360]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.17-10.47.47:986][360]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.17-10.47.47:986][360]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.17-10.47.47:986][360]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.17-10.47.47:986][360]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.17-10.47.47:986][360]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.17-10.47.47:988][360]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.17-10.47.47:988][360]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.17-10.47.47:988][360]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.17-10.47.47:992][360]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.17-10.47.48:034][360]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2023.10.17-10.47.48:034][360]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.17-10.47.48:035][360]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.17-10.47.48:035][360]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.17-10.47.48:037][360]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.10.17-10.47.48:037][360]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.10.17-10.47.48:040][360]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.10.17-10.47.48:040][360]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.10.17-10.47.48:040][360]LogInit: FAudioDevice initialized.
+[2023.10.17-10.47.48:040][360]LogAudio: Display: Audio Device (ID: 6) registered with world 'Gameplay'.
+[2023.10.17-10.47.48:063][360]LogLoad: Game class is 'ABGameMode'
+[2023.10.17-10.47.48:068][360]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Gameplay.Gameplay up for play (max tick rate 60) at 2023.10.17-19.47.48
+[2023.10.17-10.47.48:069][360]LogWorld: Bringing up level for play took: 0.005888
+[2023.10.17-10.47.48:074][360]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2023.10.17-10.47.48:076][360]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(23)
+[2023.10.17-10.47.48:078][360]ArenaBattle: Warning: AABPlayerController::OnPossess(28)
+[2023.10.17-10.47.48:079][360]ArenaBattle: Warning: AABSection::SetState(108) SetState : 2
+[2023.10.17-10.47.48:080][360]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.10.17-10.47.48:081][360]ArenaBattle: Warning: AABPlayerState::GetExpRatio(68) Ratio : 0.666667, Current : 20, Next : 30
+[2023.10.17-10.47.48:082][360]PIE: 서버가 로그인했습니다.
+[2023.10.17-10.47.48:083][360]PIE: 에디터에서 플레이 총 시작 시간 0.142초입니다.
+[2023.10.17-10.47.48:871][398]ArenaBattle: Warning: AABSection::OnGateTriggerBeginOverlap(175) OnGateTriggerBeginOverlap
+[2023.10.17-10.47.48:871][398]ArenaBattle: Warning: AABSection::OnGateTriggerBeginOverlap(202) Overlap Fail
+[2023.10.17-10.47.48:873][398]ArenaBattle: Warning: AABSection::SetState(108) SetState : 0
+[2023.10.17-10.47.48:873][398]ArenaBattle: Warning: AABSection::SetState(108) SetState : 0
+[2023.10.17-10.47.49:921][461]ArenaBattle: Warning: AABSection::SetState(108) SetState : 1
+[2023.10.17-10.47.56:754][869]ArenaBattle: Warning: AABItemBox::OnCharacterOverlap(68)
+[2023.10.17-10.47.56:754][869]ArenaBattle: Warning: AABWeapon::BeginPlay(53) Weapon Damage : 8.159734, Modifier : 1.015825
+[2023.10.17-10.47.58:904][998]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.10.17-10.47.58:938][  0]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.10.17-10.47.59:154][ 13]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.10.17-10.47.59:154][ 13]ArenaBattle: Warning: AABCharacter::AttackCheck(696) Hit Actor Name : ABCharacter_0
+[2023.10.17-10.47.59:154][ 13]ArenaBattle: Warning: AABCharacter::TakeDamage(453) Actor : ABCharacter_0 took Damage : 10.000000
+[2023.10.17-10.47.59:171][ 14]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.10.17-10.47.59:171][ 14]ArenaBattle: Warning: AABCharacter::AttackCheck(696) Hit Actor Name : ABCharacter_1
+[2023.10.17-10.47.59:171][ 14]ArenaBattle: Warning: AABCharacter::TakeDamage(453) Actor : ABCharacter_1 took Damage : 18.447117
+[2023.10.17-10.47.59:486][ 33]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.10.17-10.47.59:486][ 33]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_da00f087f3e6629bbc04c2da73789b3e>::operator ()(430) OnNextAttackCheck
+[2023.10.17-10.47.59:503][ 34]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.10.17-10.47.59:503][ 34]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_da00f087f3e6629bbc04c2da73789b3e>::operator ()(430) OnNextAttackCheck
+[2023.10.17-10.47.59:854][ 55]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.47.59:904][ 58]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.10.17-10.48.00:154][ 73]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.10.17-10.48.00:154][ 73]ArenaBattle: Warning: AABCharacter::AttackCheck(696) Hit Actor Name : ABCharacter_0
+[2023.10.17-10.48.00:154][ 73]ArenaBattle: Warning: AABCharacter::TakeDamage(453) Actor : ABCharacter_0 took Damage : 10.000000
+[2023.10.17-10.48.00:486][ 93]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.10.17-10.48.00:488][ 93]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_da00f087f3e6629bbc04c2da73789b3e>::operator ()(430) OnNextAttackCheck
+[2023.10.17-10.48.00:854][115]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.48.00:854][115]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.48.00:904][118]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.10.17-10.48.00:956][121]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.10.17-10.48.01:154][133]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.10.17-10.48.01:154][133]ArenaBattle: Warning: AABCharacter::AttackCheck(696) Hit Actor Name : ABCharacter_0
+[2023.10.17-10.48.01:154][133]ArenaBattle: Warning: AABCharacter::TakeDamage(453) Actor : ABCharacter_0 took Damage : 10.000000
+[2023.10.17-10.48.01:187][135]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.10.17-10.48.01:188][135]ArenaBattle: Warning: AABCharacter::AttackCheck(696) Hit Actor Name : ABCharacter_1
+[2023.10.17-10.48.01:188][135]ArenaBattle: Warning: AABCharacter::TakeDamage(453) Actor : ABCharacter_1 took Damage : 18.447117
+[2023.10.17-10.48.01:487][153]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.10.17-10.48.01:487][153]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_da00f087f3e6629bbc04c2da73789b3e>::operator ()(430) OnNextAttackCheck
+[2023.10.17-10.48.01:520][155]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.10.17-10.48.01:520][155]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_da00f087f3e6629bbc04c2da73789b3e>::operator ()(430) OnNextAttackCheck
+[2023.10.17-10.48.01:854][175]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.48.01:855][175]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.48.01:855][175]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.48.01:904][178]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.10.17-10.48.02:104][190]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.10.17-10.48.02:154][193]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.10.17-10.48.02:154][193]ArenaBattle: Warning: AABCharacter::AttackCheck(696) Hit Actor Name : ABCharacter_0
+[2023.10.17-10.48.02:154][193]ArenaBattle: Warning: AABCharacter::TakeDamage(453) Actor : ABCharacter_0 took Damage : 10.000000
+[2023.10.17-10.48.02:338][204]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.10.17-10.48.02:338][204]ArenaBattle: Warning: AABCharacter::AttackCheck(696) Hit Actor Name : ABCharacter_1
+[2023.10.17-10.48.02:338][204]ArenaBattle: Warning: AABCharacter::TakeDamage(453) Actor : ABCharacter_1 took Damage : 18.447117
+[2023.10.17-10.48.02:488][213]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.10.17-10.48.02:488][213]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_da00f087f3e6629bbc04c2da73789b3e>::operator ()(430) OnNextAttackCheck
+[2023.10.17-10.48.02:671][224]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.10.17-10.48.02:671][224]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_da00f087f3e6629bbc04c2da73789b3e>::operator ()(430) OnNextAttackCheck
+[2023.10.17-10.48.02:855][235]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.48.02:855][235]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.48.02:855][235]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.48.02:855][235]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.48.03:872][296]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.10.17-10.48.04:105][310]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.10.17-10.48.04:105][310]ArenaBattle: Warning: AABCharacter::AttackCheck(696) Hit Actor Name : ABCharacter_1
+[2023.10.17-10.48.04:105][310]ArenaBattle: Warning: AABCharacter::TakeDamage(453) Actor : ABCharacter_1 took Damage : 18.447117
+[2023.10.17-10.48.04:138][312]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.10.17-10.48.04:388][327]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.10.17-10.48.04:388][327]ArenaBattle: Warning: AABCharacter::AttackCheck(696) Hit Actor Name : ABCharacter_0
+[2023.10.17-10.48.04:388][327]ArenaBattle: Warning: AABCharacter::TakeDamage(453) Actor : ABCharacter_0 took Damage : 10.000000
+[2023.10.17-10.48.04:438][330]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.10.17-10.48.04:438][330]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_da00f087f3e6629bbc04c2da73789b3e>::operator ()(430) OnNextAttackCheck
+[2023.10.17-10.48.04:721][347]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.10.17-10.48.04:721][347]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_da00f087f3e6629bbc04c2da73789b3e>::operator ()(430) OnNextAttackCheck
+[2023.10.17-10.48.05:087][369]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.48.05:088][369]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.48.05:088][369]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.48.05:088][369]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.48.05:088][369]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.48.05:138][372]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.10.17-10.48.05:157][373]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.10.17-10.48.05:388][387]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.10.17-10.48.05:388][387]ArenaBattle: Warning: AABCharacter::AttackCheck(696) Hit Actor Name : ABCharacter_1
+[2023.10.17-10.48.05:388][387]ArenaBattle: Warning: AABCharacter::TakeDamage(453) Actor : ABCharacter_1 took Damage : 18.447117
+[2023.10.17-10.48.05:388][387]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.10.17-10.48.05:388][387]ArenaBattle: Warning: AABCharacter::AttackCheck(696) Hit Actor Name : ABCharacter_0
+[2023.10.17-10.48.05:388][387]ArenaBattle: Warning: AABCharacter::TakeDamage(453) Actor : ABCharacter_0 took Damage : 10.000000
+[2023.10.17-10.48.05:721][407]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.10.17-10.48.05:721][407]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_da00f087f3e6629bbc04c2da73789b3e>::operator ()(430) OnNextAttackCheck
+[2023.10.17-10.48.05:721][407]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.10.17-10.48.05:721][407]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_da00f087f3e6629bbc04c2da73789b3e>::operator ()(430) OnNextAttackCheck
+[2023.10.17-10.48.06:088][429]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.48.06:088][429]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.48.06:088][429]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.48.06:089][429]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.48.06:089][429]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.48.06:089][429]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.48.06:137][432]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.10.17-10.48.06:389][447]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.10.17-10.48.06:390][447]ArenaBattle: Warning: AABCharacter::AttackCheck(696) Hit Actor Name : ABCharacter_0
+[2023.10.17-10.48.06:390][447]ArenaBattle: Warning: AABCharacter::TakeDamage(453) Actor : ABCharacter_0 took Damage : 10.000000
+[2023.10.17-10.48.06:724][467]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.10.17-10.48.06:724][467]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_da00f087f3e6629bbc04c2da73789b3e>::operator ()(430) OnNextAttackCheck
+[2023.10.17-10.48.07:091][489]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.48.07:091][489]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.48.07:091][489]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.48.07:091][489]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.48.07:091][489]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.48.07:091][489]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.48.07:091][489]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.48.07:140][492]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.10.17-10.48.07:390][507]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.10.17-10.48.07:390][507]ArenaBattle: Warning: AABCharacter::AttackCheck(696) Hit Actor Name : ABCharacter_0
+[2023.10.17-10.48.07:390][507]ArenaBattle: Warning: AABCharacter::TakeDamage(453) Actor : ABCharacter_0 took Damage : 10.000000
+[2023.10.17-10.48.07:724][527]ArenaBattle: Warning: UABAnimInstance::AnimNotify_NextAttackCheck(61) Next Attack Check
+[2023.10.17-10.48.07:724][527]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_da00f087f3e6629bbc04c2da73789b3e>::operator ()(430) OnNextAttackCheck
+[2023.10.17-10.48.08:091][549]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.48.08:091][549]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.48.08:091][549]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.48.08:091][549]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.48.08:091][549]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.48.08:091][549]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.48.08:091][549]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.48.08:091][549]ArenaBattle: Warning: UBTTask_Attack::ExecuteTask::<lambda_9e320ebcf2284c8589421f2d26a0d663>::operator ()(25) Attack End
+[2023.10.17-10.48.08:141][552]ArenaBattle: Warning: UABAnimInstance::GetAttackMontageSectionName(68) Attack1
+[2023.10.17-10.48.08:394][567]ArenaBattle: Warning: UABAnimInstance::AnimNotify_AttackHitCheck(49) Attack Hit Check
+[2023.10.17-10.48.08:394][567]ArenaBattle: Warning: AABCharacter::AttackCheck(696) Hit Actor Name : ABCharacter_0
+[2023.10.17-10.48.08:394][567]ArenaBattle: Warning: AABCharacter::TakeDamage(453) Actor : ABCharacter_0 took Damage : 10.000000
+[2023.10.17-10.48.08:817][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.17-10.48.08:817][589]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Gameplay
+[2023.10.17-10.48.08:817][589]LogWorld: UWorld::CleanupWorld for Gameplay, bSessionEnded=true, bCleanupResources=true
+[2023.10.17-10.48.08:817][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.17-10.48.08:839][589]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.17-10.48.08:843][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.17-10.48.08:869][589]LogWindowsTextInputMethodSystem: Activated input method: 한국어(대한민국) - Microsoft 입력기 (TSF IME).
+[2023.10.17-10.48.10:901][589]LogSlate: Window '메시지' being destroyed
+[2023.10.17-10.48.10:948][589]Message dialog closed, result: Ok, title: 메시지, text: 앱 실행 도중 pure virtual 함수가 호출되고 있었습니다 (GIsRunning == 1).
+[2023.10.17-10.48.10:948][589]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.10.17-10.48.10:948][589]LogWindows: Windows GetLastError: 작업을 완료했습니다. (0)
