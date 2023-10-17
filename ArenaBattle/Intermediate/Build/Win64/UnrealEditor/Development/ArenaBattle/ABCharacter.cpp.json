@@ -395,7 +395,13 @@
             "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\streamablemanager.h",
             "c:\\users\\owner\\documents\\github\\arenabattle\\arenabattle\\intermediate\\build\\win64\\unrealeditor\\inc\\arenabattle\\abgameinstance.generated.h",
             "c:\\users\\owner\\documents\\github\\arenabattle\\arenabattle\\source\\arenabattle\\public\\abplayercontroller.h",
-            "c:\\users\\owner\\documents\\github\\arenabattle\\arenabattle\\intermediate\\build\\win64\\unrealeditor\\inc\\arenabattle\\abplayercontroller.generated.h"
+            "c:\\users\\owner\\documents\\github\\arenabattle\\arenabattle\\intermediate\\build\\win64\\unrealeditor\\inc\\arenabattle\\abplayercontroller.generated.h",
+            "c:\\users\\owner\\documents\\github\\arenabattle\\arenabattle\\source\\arenabattle\\public\\abplayerstate.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\playerstate.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\playerstate.generated.h",
+            "c:\\users\\owner\\documents\\github\\arenabattle\\arenabattle\\intermediate\\build\\win64\\unrealeditor\\inc\\arenabattle\\abplayerstate.generated.h",
+            "c:\\users\\owner\\documents\\github\\arenabattle\\arenabattle\\source\\arenabattle\\public\\abhudwidget.h",
+            "c:\\users\\owner\\documents\\github\\arenabattle\\arenabattle\\intermediate\\build\\win64\\unrealeditor\\inc\\arenabattle\\abhudwidget.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
