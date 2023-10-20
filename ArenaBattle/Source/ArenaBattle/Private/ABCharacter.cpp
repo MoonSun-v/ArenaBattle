@@ -273,7 +273,7 @@ void AABCharacter::SetCharacterState(ECharacterState NewState)
 				if (bIsPlayer)
 				{
 					ABLOG(Warning, TEXT("Player Dead"));
-					ABPlayerController->RestartLevel();
+					ABPlayerController->ShowResultUI();
 				}
 				else
 				{
