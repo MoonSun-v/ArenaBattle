@@ -109,9 +109,7 @@ AABCharacter::AABCharacter()
 
 	AssetIndex = 4;
 
-	// ?
-	Super::SetActorHiddenInGame(true);
-	//SetActorHiddenInGame(true);
+	SetActorHiddenInGame(true);
 
 	HPBarWidget->SetHiddenInGame(true);
 	SetCanBeDamaged(false);
@@ -219,8 +217,8 @@ void AABCharacter::SetCharacterState(ECharacterState NewState)
 		SetActorHiddenInGame(true);
 		HPBarWidget->SetHiddenInGame(true);
 		SetCanBeDamaged(false);
-		break;
 	}
+	break;
 	case ECharacterState::READY:
 	{
 		SetActorHiddenInGame(false);
@@ -248,9 +246,9 @@ void AABCharacter::SetCharacterState(ECharacterState NewState)
 			GetCharacterMovement()->MaxWalkSpeed = 400.0f;
 			ABAIController->RunAI();
 		}
-
-		break;
+		
 	}
+	break;
 	case ECharacterState::DEAD:
 	{
 		SetActorEnableCollision(false);
@@ -272,18 +270,19 @@ void AABCharacter::SetCharacterState(ECharacterState NewState)
 			{
 				if (bIsPlayer)
 				{
-					ABLOG(Warning, TEXT("Player Dead"));
+					// ABLOG(Warning, TEXT("Player Dead"));
 					ABPlayerController->ShowResultUI();
+					// ABPlayerController->RestartLevel();
 				}
 				else
 				{
-					ABLOG(Warning, TEXT("Enemy Dead"));
+					// ABLOG(Warning, TEXT("Enemy Dead"));
 					Destroy();
 				}
 			}), DeadTimer, false);
 
-		break;
 	}
+	break;
 	}
 }
 
@@ -477,10 +476,11 @@ float AABCharacter::TakeDamage(float DamageAmount, FDamageEvent const& DamageEve
 	return FinalDamage;
 }
 
+/*
 void AABCharacter::PossessedBy(AController* NewController)
 {
 	Super::PossessedBy(NewController);
-
+	
 	if (IsPlayerControlled())
 	{
 		SetControlMode(EControlMode::DIABLO);
@@ -491,8 +491,9 @@ void AABCharacter::PossessedBy(AController* NewController)
 		SetControlMode(EControlMode::NPC);
 		GetCharacterMovement()->MaxWalkSpeed = 300.0f;
 	}
+	
 }
-
+*/
 
 // Called to bind functionality to input
 void AABCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)

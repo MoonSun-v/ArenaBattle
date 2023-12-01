@@ -50,8 +50,8 @@ void AABPlayerController::BeginPlay()
 
 	ChangeInputMode(true);
 
-	FInputModeGameOnly InputMode;
-	SetInputMode(InputMode);
+	// FInputModeGameOnly InputMode;
+	// SetInputMode(InputMode);
 
 	HUDWidget = CreateWidget<UABHUDWidget>(this, HUDWidgetClass);
 	ABCHECK(nullptr != HUDWidget);

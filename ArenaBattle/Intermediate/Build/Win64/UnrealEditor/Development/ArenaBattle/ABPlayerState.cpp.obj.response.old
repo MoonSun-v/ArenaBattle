@@ -277,7 +277,10 @@ C:\Users\Owner\Documents\GitHub\ArenaBattle\ArenaBattle\Source\ArenaBattle\Priva
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-/FI"C:\Users\Owner\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\Definitions.h"
+/FI"C:\Users\Owner\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\ArenaBattleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/FI"C:\Users\Owner\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\Definitions.ArenaBattle.h"
+/Yu"C:\Users\Owner\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\ArenaBattleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\Owner\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\ArenaBattleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
 /Fo"C:\Users\Owner\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\ABPlayerState.cpp.obj"
 /sourceDependencies C:\Users\Owner\Documents\GitHub\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UnrealEditor\Development\ArenaBattle\ABPlayerState.cpp.json
 /Zc:inline

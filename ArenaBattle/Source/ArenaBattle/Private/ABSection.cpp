@@ -34,7 +34,7 @@ AABSection::AABSection()
 	Trigger->SetCollisionProfileName(TEXT("ABTrigger"));
 
 	// ?
-	// Trigger->OnComponentBeginOverlap.AddDynamic(this, &AABSection::OnTriggerBeginOverlap);
+	Trigger->OnComponentBeginOverlap.AddDynamic(this, &AABSection::OnTriggerBeginOverlap);
 
 	FString GateAssetPath = TEXT("/Game/Book/StaticMesh/SM_GATE.SM_GATE");
 	static ConstructorHelpers::FObjectFinder<UStaticMesh> SM_GATE(*GateAssetPath);
@@ -61,8 +61,8 @@ AABSection::AABSection()
 		GateTriggers.Add(NewGateTrigger);
 
 		// ?
-		// NewGateTrigger->OnComponentBeginOverlap.AddDynamic(this, &AABSection::OnGateTriggerBeginOverlap);
-		// NewGateTrigger->ComponentTags.Add(GateSocket);
+		NewGateTrigger->OnComponentBeginOverlap.AddDynamic(this, &AABSection::OnGateTriggerBeginOverlap);
+		NewGateTrigger->ComponentTags.Add(GateSocket);
 	}
 
 	bNoBattle = false;
@@ -81,6 +81,8 @@ void AABSection::OnConstruction(const FTransform& Transform)
 void AABSection::PostInitializeComponents()
 {
 	Super::PostInitializeComponents();
+
+	/*
 	Trigger->OnComponentBeginOverlap.AddDynamic(this, &AABSection::OnTriggerBeginOverlap);
 	
 	static FName GateSockets[] = { {TEXT("+XGate")}, {TEXT("-XGate")}, {TEXT("+YGate")}, {TEXT("-YGate")} };
@@ -92,7 +94,7 @@ void AABSection::PostInitializeComponents()
 		GateTrigger->ComponentTags.Add(GateSockets[idx]);
 		idx++;
 	}
-	
+	*/
 }
 
 // Called when the game starts or when spawned
@@ -172,7 +174,7 @@ void AABSection::OnTriggerBeginOverlap(UPrimitiveComponent* OverlappedComponent,
 
 void AABSection::OnGateTriggerBeginOverlap(UPrimitiveComponent* OverlappedComponent, AActor* OtherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex, bool bFromSweep, const FHitResult& SweepResult)
 {
-	ABLOG(Warning, TEXT("OnGateTriggerBeginOverlap"));
+	// ABLOG(Warning, TEXT("OnGateTriggerBeginOverlap"));
 	ABCHECK(OverlappedComponent->ComponentTags.Num() == 1);
 
 	FName ComponentTag = OverlappedComponent->ComponentTags[0];
@@ -218,6 +220,7 @@ void AABSection::Tick(float DeltaTime)
 void AABSection::OnNPCSpawn()
 {
 	auto KeyNPC = GetWorld()->SpawnActor<AABCharacter>(GetActorLocation() + FVector::UpVector * 88.0f, FRotator::ZeroRotator);
+	
 	if (nullptr != KeyNPC)
 	{
 		KeyNPC->OnDestroyed.AddDynamic(this, &AABSection::OnKeyNPCDestroyed);
